@@ -34,6 +34,6 @@ Data is current as of the commit in `SOURCE.md` (all DLCs up to then).
 
 ## Maintenance
 
-- Everything except `CLAUDE.md`, `builds/` and `build_kb.py` is generated; never edit it by hand. Fix `build_kb.py` instead.
+- Everything except `README.md`, `CLAUDE.md`, `builds/` and `build_kb.py` is generated; never edit it by hand. Fix `build_kb.py` instead.
 - Refresh after a game patch: `git -C ../aow4db pull`, then `python build_kb.py`.
 - `../aow4db/` is the raw source repo (about 1.6 GB, mostly images). Don't read its JSON unless a field is missing here; if so, extend `build_kb.py`.

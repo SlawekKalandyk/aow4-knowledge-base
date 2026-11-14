@@ -8,7 +8,7 @@
 - Source: Tome: Tome of Evocation
 - Damage resistances: Shock resistance 4
 
-A ? with offensive chain lightning magic.
+A Battle Mage with offensive chain lightning magic.
 
 ## Abilities
 

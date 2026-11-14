@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of Supremacy
 
-A flying ? that excels at increasing the ? of your units.
+A flying Shield Unit that excels at increasing the Morale of your units.
 
 ## Abilities
 

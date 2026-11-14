@@ -8,7 +8,7 @@
 - Source: Tome: Tome of Pyromancy
 - Damage resistances: Fire resistance 4
 
-A ? that spreads fire and inflicts ?.
+A Battle Mage that spreads fire and inflicts Burning.
 
 ## Abilities
 

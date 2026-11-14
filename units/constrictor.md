@@ -7,7 +7,7 @@
 - DLC: ELDRITCHREALMS
 - Source: Tome: Tome of the Tentacle
 
-A ? capable of pulling in and restraining opponents.
+A Polearm Unit capable of pulling in and restraining opponents.
 
 ## Abilities
 

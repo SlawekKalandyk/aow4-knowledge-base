@@ -7,7 +7,7 @@
 - DLC: Base
 - Damage resistances: Spirit resistance 2, Shock weakness 4
 
-Expandable ? that is immune to Status Effects.
+Expandable Fighter that is immune to Status Effects.
 
 ## Abilities
 

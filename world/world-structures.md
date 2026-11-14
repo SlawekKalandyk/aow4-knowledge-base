@@ -28,7 +28,7 @@
 
 (Bronze Ancient Wonder; DLC Base; node: research_post +20)
 
-- +2 ? per Quarry in City Domain.
+- +2 Knowledge per Quarry in City Domain.
 - Can be set as a Unit deploy location.
 - Adds the Brewer ogre and Butcher ogre units to the Rally of the Lieges.
 - Unit unlocks: [Brewer Ogre](../units/brewer-ogre.md), [Butcher Ogre](../units/butcher-ogre.md)
@@ -80,7 +80,7 @@
 
 (Gold Ancient Wonder; DLC GIANTKINGS; node: mine +30 Gold)
 
-- All owned Province adjacent to this Ancient Wonder gain +2 ? additional income.
+- All owned Province adjacent to this Ancient Wonder gain +2 Imperium additional income.
 - Adds the Rock giant and Storm giant to Rally of the Lieges.
 - Unit unlocks: [Rock Giant](../units/rock-giant.md), [Storm Giant](../units/storm-giant.md)
 
@@ -120,7 +120,7 @@
 
 (Gold Ancient Wonder; DLC EMPIRESANDASHES; node: research_post +30 Knowledge)
 
-- Unlocks Crack the Vault, a single-use action which trades 500 ? for 500 ?.
+- Unlocks Crack the Vault, a single-use action which trades 500 Research for 500 Mana.
 - Unlocks the Summon Vault Guardian combat spell.
 - Spell unlocks/rewards: [Summon Progenitor Golem](../spells/summon-progenitor-golem.md); [Forced Evolution](../spells/forced-evolution.md)
 
@@ -147,8 +147,8 @@
 
 Province adjacent to this Landmark gain:
 
-- +5 ?
-- The ? [Combat] Combat Enchantment
+- +5 Gold
+- The Ancient Draconic Instinct [Combat] Combat Enchantment
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -165,7 +165,7 @@ Province adjacent to this Landmark gain:
 - +2 Gold, +2 Production, and +1 Soul income if available.
 - A Quarry or Mine can be constructed in this province.
 - Every 10 Turn, a random water Pickup spawns in this province if able.
-- The ? [Combat] Combat Enchantment.
+- The Rampant Debris [Combat] Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
@@ -196,8 +196,8 @@ A City with 3 Province adjacent to this Landmark gains:
 
 Province adjacent to this Landmark gain:
 
-- +5 ?.
-- A Farm or Forester in this province grants +10 ?.
+- +5 City Stability.
+- A Farm or Forester in this province grants +10 Food.
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -226,14 +226,14 @@ A City with 3 Province adjacent to this Landmark gains:
 
 Province adjacent to this Landmark gain:
 
-- +5 ?.
-- A Farm in this province grants +5 ?.
-- The ? [Combat] Combat Enchantment.
+- +5 Food.
+- A Farm in this province grants +5 Mana.
+- The Celestial Rain [Combat] Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
-- Farms in the domain grant +2 ? and +2 ?.
-- The ? [Combat] Combat Enchantment in the domain.
+- Farms in the domain grant +2 Gold and +2 City Stability.
+- The Celestial Rain [Combat] Combat Enchantment in the domain.
 - Spell unlocks/rewards: Celestial Rain: Every 3 Turn: ; All units become Wet for 3 Turns; All Faithful, Zeal, and Celestial units have their negative status effects cleansed.
 
 ## Grand Statuary
@@ -242,8 +242,8 @@ A City with 3 Province adjacent to this Landmark gains:
 
 Province adjacent to this Landmark gain:
 
-- +10 ?.
-- A Research Post in this province grants +2 ?.
+- +10 City Stability.
+- A Research Post in this province grants +2 Imperium.
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -256,9 +256,9 @@ A City with 3 Province adjacent to this Landmark gain:
 
 Province adjacent to this Landmark gain:
 
-- +10 ?.
+- +10 Draft.
 - If Soul are obtainable, this province grants +2 >.
-- The ? [Combat] Combat Enchantment
+- The Undying Battlefield [Combat] Combat Enchantment
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -273,9 +273,9 @@ A City with 3 Province adjacent to this Landmark gain:
 
 Province adjacent to this Landmark gain:
 
-- +5 ?.
-- A Research Post in this province grants +10 ?.
-- The ? [Combat] Combat Enchantment
+- +5 Knowledge.
+- A Research Post in this province grants +10 Knowledge.
+- The Behemoths Dreadful Presence [Combat] Combat Enchantment
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -288,9 +288,9 @@ A City with 3 Province adjacent to this Landmark gain:
 
 Province adjacent to this Landmark gain:
 
-- +3 ? and +3 ?.
+- +3 Mana and +3 Knowledge.
 - Allows the construction of a Conduit.
-- The ? [Combat] Combat Enchantment.
+- The Elemental Attunement [Combat] Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
@@ -320,12 +320,12 @@ A City with 3 Province adjacent to this Landmark gains:
 
 Province adjacent to this Landmark gain:
 
-- A Quarry in this province grants +10 ?.
-- A Mine in this province grants +10 ?.
+- A Quarry in this province grants +10 Production.
+- A Mine in this province grants +10 Gold.
 
 A City with 3 Province adjacent to this Landmark gains:
 
-- Gain +20 ? Binding Fragments and +5 Fragments Fragments additional income.
+- Gain +20 Binding Essence Binding Fragments and +5 Fragments Fragments additional income.
 
 ## Tempestuous Vortex
 
@@ -335,7 +335,7 @@ Province adjacent to this Landmark gain:
 
 - Allows the construction of a Conduit in this province.
 - A Conduit in this province grants +5 Mana income.
-- The ? [Combat] Combat Enchantment.
+- The Vortex Storm [Combat] Combat Enchantment.
 - Unit starting their Turn in this Province gain Accelerated Movement for 3 Turn.
 
 A City with 3 Province adjacent to this Landmark gains:
@@ -351,9 +351,9 @@ A City with 3 Province adjacent to this Landmark gains:
 
 Province adjacent to this Landmark gain:
 
-- +5 ?.
-- +5 ?.
-- A Farm in this province grants +5 ? additional income.
+- +5 Food.
+- +5 Mana.
+- A Farm in this province grants +5 Knowledge additional income.
 
 A City with 3 Province adjacent to this Landmark gains:
 
@@ -362,7 +362,7 @@ A City with 3 Province adjacent to this Landmark gains:
 - Gains Sunless.
 - Loses Gloom.
 
-- The City's Empire gains the ? [Combat] Combat Enchantment when fighting in a province with Sunless.
+- The City's Empire gains the Parasiticinfection [Combat] Combat Enchantment when fighting in a province with Sunless.
 - Spell unlocks/rewards: Parasitic Contamination: Every Turn, all enemy units with Bleeding have a 60% chance of suffering Blood Parasite.
 
 ## Volcano
@@ -371,8 +371,8 @@ A City with 3 Province adjacent to this Landmark gains:
 
 Province adjacent to this Landmark gain:
 
-- +10 ?.
-- The ? [Combat] Combat Enchantment.
+- +10 Mana.
+- The Combatproperty Volcanic Eruption [Combat] Combat Enchantment.
 - > in the Province gain Volcanic heat unit property.
 
 A City with 3 Province adjacent to this Landmark gains:
@@ -402,7 +402,7 @@ A City with 3 Province adjacent to this Landmark gains:
 
 (Silver Ancient Wonder; DLC GIANTKINGS; node: research_post +20 Knowledge)
 
-- Gain +2 ? income per Hero in your Prison.
+- Gain +2 Whispering Stone Strength income per Hero in your Prison.
 - Increases the chance of capturing defeated Heroes into your Prison to 100%.
 - Unlocks Free the Primordial Prisoner, a single-use action which grants you a uniquely powerful Unit based on the adventure within.
 - Unit unlocks: [Primordial Basilisk](../units/primordial-basilisk.md), [Primordial Bloodback](../units/primordial-bloodback.md), [Primordial Pyremoth](../units/primordial-pyremoth.md)

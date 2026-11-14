@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of Subjugation
 
-A heavy ? that specializes in lowering ?.
+A heavy Shock Unit that specializes in lowering Morale.
 
 ## Abilities
 

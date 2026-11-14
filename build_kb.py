@@ -50,6 +50,20 @@ def icon_label(tag):
     return ""  # unit classes, unit types, province icons: surrounding text names them
 
 
+def ref_name(m):
+    """{GLOBAL.UnitMoraleConcept.Hyperlink} -> glossary name; {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} -> Condemned."""
+    concept = CONCEPT_NAMES.get(m.group(1))
+    if concept:
+        return concept
+    last = re.sub(r"(Lore)?Concept$", "", m.group(2))
+    if "_" in last or last.isupper():
+        return last.replace("_", " ").title()
+    return re.sub(r"(?<=[a-z])(?=[A-Z])", " ", last)
+
+
+CONCEPT_NAMES = {}  # filled after data load
+
+
 def clean(s):
     if not s:
         return ""
@@ -57,6 +71,8 @@ def clean(s):
     s = re.sub(r"<span[^>]*>|</span>", "", s)
     # Localization markup (all.json): [hyperlink,GLOBAL.X]Text[/hyperlink], [spellref,...]Text[/spellref]
     s = re.sub(r"\[(\w+),[^\]]*\](.*?)\[/\1\]", r"\2", s)
+    # Named references like {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} -> "Condemned"
+    s = re.sub(r"\{(GLOBAL\.[\w.]*?(\w+))\.Hyperlink\}", ref_name, s)
     # Unresolved runtime values such as {SUNDERED_RESISTANCE>ResolvedStrength} or {EventCity}
     s = re.sub(r"\{[^{}]*\}", "?", s)
     s = re.sub(r"\[/?\w+\]|\[\w+,[^\]]*\]", "", s)  # stray [/bulletlist], unclosed [spellref,...]
@@ -173,6 +189,7 @@ destinies = load("Destinies")
 forge_types = load("ItemForgeTypes")
 forge_upgrades = load("ItemForgeUpgrades")
 concepts = load("concept_tooltips")
+CONCEPT_NAMES.update({k: v["name"] for k, v in concepts.items() if v.get("name")})
 # Full English localization keyed by id; GEN/*.json records point into it via extraLookup/lookup.
 loc = {x["id"]: x for x in load("all")}
 

@@ -8,7 +8,7 @@
 - Source: Tome: Tome of Cryomancy
 - Damage resistances: Frost resistance 4
 
-Grants access to a ? that inflicts ? and ?.
+Grants access to a Battle Mage that inflicts Chilled and Frozen.
 
 ## Abilities
 

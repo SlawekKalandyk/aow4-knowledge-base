@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of Transmutation
 
-A ? that turns enemies to gold and can steal their armor and grant it to friendly units.
+A Battle Mage that turns enemies to gold and can steal their armor and grant it to friendly units.
 
 ## Abilities
 

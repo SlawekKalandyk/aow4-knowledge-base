@@ -7,7 +7,7 @@
 - DLC: Base
 - Damage resistances: Shock resistance 6, Spirit resistance 3, Frost weakness 6
 
-Summon a ?, a fast and disruptive ?
+Summon a Wind Rager Unit, a fast and disruptive Fighter
 
 ## Abilities
 

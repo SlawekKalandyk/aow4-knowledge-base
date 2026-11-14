@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of Beasts
 
-A ? that summons and empowers \\>.
+A Support Unit that summons and empowers \\>.
 
 ## Abilities
 

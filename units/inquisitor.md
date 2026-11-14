@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of the Inquisition
 
-Grants access to an aggressive ? that can inflict ? and ?.
+Grants access to an aggressive Skirmisher that can inflict Condemned and Stunned.
 
 ## Abilities
 

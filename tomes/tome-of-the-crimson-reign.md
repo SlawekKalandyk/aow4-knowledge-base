@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Chaos 1, Shadow 1
+- Affinity needed to unlock: 6 combined Chaos + Shadow (player-provided rule, not in the game data)
 - DLC: THRONESOFBLOOD
 
 Embrace a forgotten, corrupt magic that empowers your high tier units and spreads Blood Parasites onto your enemies through eldritch undeath.

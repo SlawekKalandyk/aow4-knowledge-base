@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: 3 Shadow (player-provided rule, not in the game data)
 - DLC: THRONESOFBLOOD
 
 Torment your enemies by turning their very actions against them and make your units empowered by pain.

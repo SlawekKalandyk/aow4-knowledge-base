@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Materium 1, Order 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: WAYSOFWAR
 
 Channel your inner strength to empower your attacks and cleanse your body.

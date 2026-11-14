@@ -2,6 +2,7 @@
 
 - Tier: 5
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: 8 Chaos (player-provided rule, not in the game data)
 - DLC: Base
 
 Unleash chaos forces upon the world. Specialize in offensive buffs.

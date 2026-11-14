@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Chaos 1, Shadow 1
+- Affinity needed to unlock: 6 combined Chaos + Shadow (player-provided rule, not in the game data)
 - DLC: WAYSOFWAR
 
 Bring calamity to the realm and burn your enemies in cold Ghostfire.

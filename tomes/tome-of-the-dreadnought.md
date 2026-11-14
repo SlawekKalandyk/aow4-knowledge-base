@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Materium 1, Chaos 1
+- Affinity needed to unlock: 3 combined Materium + Chaos (player-provided rule, not in the game data)
 - DLC: EMPIRESANDASHES
 
 Call upon the power of mighty machines and obliterate your enemies with powerful barrages.

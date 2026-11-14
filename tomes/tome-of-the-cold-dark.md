@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: 3 Shadow (player-provided rule, not in the game data)
 - DLC: Base
 
 Spread Arctic terrain throughout the world and envelop your units with its power, so they may be empowered by its presence.

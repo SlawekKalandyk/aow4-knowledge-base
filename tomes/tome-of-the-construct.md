@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Materium 1, Order 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: EMPIRESANDASHES
 
 Master legions of constructs, fighting in uncannily synchronized formations, commanding them perfectly and crushing your foes beneath the march of their boots.

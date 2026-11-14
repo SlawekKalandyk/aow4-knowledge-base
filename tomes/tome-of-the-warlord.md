@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: 3 Chaos (player-provided rule, not in the game data)
 - DLC: RISEFROMRUIN
 
 Conquer the world with powerful warriors and infernal allies.

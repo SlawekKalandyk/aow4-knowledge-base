@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Astral 2
+- Affinity needed to unlock: 6 Astral (player-provided rule, not in the game data)
 - DLC: Base
 
 Become stronger the more spells you cast and summon creatures from the Astral Sea.

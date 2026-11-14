@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Astral 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Call forth, control, and enhance Magic Origin units.

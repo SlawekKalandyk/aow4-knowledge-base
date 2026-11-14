@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Materium 2
+- Affinity needed to unlock: 3 Materium (player-provided rule, not in the game data)
 - DLC: Base
 
 Manipulate the earth at will. Specialize in dealing Physical Damage and hindering enemy Movement.

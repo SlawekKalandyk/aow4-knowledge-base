@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Materium 1, Nature 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: EMPIRESANDASHES
 
 Inflict your enemies with Negative Status Effects and mitigate them on your own units. Tinctures and a powerful ranged unit will help you manipulate the tides of battle.

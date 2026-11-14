@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: 6 Shadow (player-provided rule, not in the game data)
 - DLC: SILVERSEAS
 
 Embrace the power of frost and freeze your enemies while making your own units eternal.

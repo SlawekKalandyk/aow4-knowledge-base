@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Nature 1, Astral 1
+- Affinity needed to unlock: 6 combined Nature + Astral (player-provided rule, not in the game data)
 - DLC: PRIMALFURY
 
 Control the storms to do your bidding and turn your people into powerful Naga.

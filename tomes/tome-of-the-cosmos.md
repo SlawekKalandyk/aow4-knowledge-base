@@ -2,6 +2,7 @@
 
 - Tier: 5
 - Affinity granted: Astral 1, Shadow 1, Chaos 1, Nature 1, Materium 1, Order 1
+- Affinity needed to unlock: 8 combined Astral + Shadow + Chaos + Nature + Materium + Order (player-provided rule, not in the game data)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Use your mastery over the magic of the universe to empower your units and your economy, and summon a mighty Avatar of the Cosmos itself.

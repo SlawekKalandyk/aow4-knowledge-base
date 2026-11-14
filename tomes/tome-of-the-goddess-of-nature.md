@@ -2,6 +2,7 @@
 
 - Tier: 5
 - Affinity granted: Nature 2
+- Affinity needed to unlock: 8 Nature (player-provided rule, not in the game data)
 - DLC: Base
 
 Become the ultimate embodiment of nature. Excel at buffs and healing, especially for Plants and Animals.

@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Materium 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: GIANTKINGS
 
 Build a grand Dungeon Underground, fill it with structures that will enrich you, and protect it with eternal clay soldiers and traps.

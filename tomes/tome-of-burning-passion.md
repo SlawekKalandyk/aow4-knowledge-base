@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Strengthen your units with Demonic wrath, seduce your enemies with fiendish lust, and engulf both in infernal flames.

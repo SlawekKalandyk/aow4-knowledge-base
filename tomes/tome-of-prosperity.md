@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Order 1, Nature 1
+- Affinity needed to unlock: 6 combined Order + Nature (player-provided rule, not in the game data)
 - DLC: WAYSOFWAR
 
 Bring forth prosperity to your empire and grant your units healing Grace.

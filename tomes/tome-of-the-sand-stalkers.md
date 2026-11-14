@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Materium 1, Nature 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: RISEFROMRUIN
 
 Spread deserts, stalk and blind your enemies, and summon a Guardian of the Desert to protect you.

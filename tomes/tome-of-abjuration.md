@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Order 1, Astral 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Create wards and protections to preserve your units.

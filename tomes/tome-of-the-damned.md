@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Chaos 1, Shadow 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: SILVERSEAS
 
 Apply Ghostfire to your enemies and use it as a conduit to summon Accursed Wisps.

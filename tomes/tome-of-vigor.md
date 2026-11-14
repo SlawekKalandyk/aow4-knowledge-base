@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Nature 2
+- Affinity needed to unlock: 3 Nature (player-provided rule, not in the game data)
 - DLC: Base
 
 Strengthen your units and armies with the brute power of wild beasts. Specialize in buffing Animals and increasing HP Hit Points.

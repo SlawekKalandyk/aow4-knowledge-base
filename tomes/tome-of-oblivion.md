@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: 6 Shadow (player-provided rule, not in the game data)
 - DLC: Base
 
 Use powerful magic capable of sending your enemies to the nothingness of oblivion. Specialize in inflicting Insanity and making parts of the world and the battlefield inhospitable.

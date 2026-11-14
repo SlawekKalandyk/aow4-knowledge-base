@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Materium 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Smash your enemies with the force of stone. Specialize in increasing your defenses and dealing Physical Damage.

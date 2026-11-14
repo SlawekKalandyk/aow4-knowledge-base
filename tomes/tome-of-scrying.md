@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Astral 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Keep an eye on your enemies and let nothing pass you by. Specialize in gaining more vision and Truesight and inflicting Marked.

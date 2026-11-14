@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Materium 1, Shadow 1
+- Affinity needed to unlock: 6 combined Materium + Shadow (player-provided rule, not in the game data)
 - DLC: EMPIRESANDASHES
 
 Wield powerful nullification magic to sever the very essence of summoned creatures.

@@ -2,6 +2,7 @@
 
 - Tier: 5
 - Affinity granted: Astral 2
+- Affinity needed to unlock: 8 Astral (player-provided rule, not in the game data)
 - DLC: Base
 
 Reach the pinnacle of the arcane arts by bending space and time to your will.

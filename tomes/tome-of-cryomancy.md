@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Specialize in dealing Frost Damage and inflicting Chilled and Frozen.

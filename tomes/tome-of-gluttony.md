@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Gain control over the infernal domain of Gluttony, making your units harder to kill and stronger as they feed on mortal essences.

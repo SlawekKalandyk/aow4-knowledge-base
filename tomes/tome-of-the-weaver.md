@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Nature 1, Shadow 1
+- Affinity needed to unlock: 3 combined Nature + Shadow (player-provided rule, not in the game data)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Inflict and exploit the Immobilized status effect and strike fear into your enemies.

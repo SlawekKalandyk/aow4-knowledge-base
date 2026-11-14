@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Nature 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Thrive on the bountiful spoils of nature. Provide your empire with ample Food and heal your units in battle.

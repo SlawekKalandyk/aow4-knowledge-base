@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Materium 2
+- Affinity needed to unlock: 6 Materium (player-provided rule, not in the game data)
 - DLC: Base
 
 Bury your enemies in lava and shape the land using the destructive forces of both earth and fire.

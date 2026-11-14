@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Materium 2
+- Affinity needed to unlock: 3 Materium (player-provided rule, not in the game data)
 - DLC: Base
 
 Change physical substances using vast amounts of mana. Specialize in debuffing enemies, buffing allies, and changing your economy.

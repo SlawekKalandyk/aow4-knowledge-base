@@ -253,13 +253,35 @@ def ability_line(slug_):
 
 # ---------------------------------------------------------------- tomes
 
+# Player-provided (not in the game data): affinity a tome's own affinities must reach to unlock it.
+# A dual-affinity tome counts both of its affinities combined, in any split.
+TIER_AFFINITY_NEEDED = {3: 3, 4: 6, 5: 8}
+TIER_RULE_NOTE = ("Affinity needed (player-provided, not in the game data): tier 3 = 3, tier 4 = 6, tier 5 = 8 points "
+                  "in the tome's affinity; a dual-affinity tome counts both affinities combined, in any split. "
+                  "Tiers 1-2 need no affinity.")
+
+
+def affinity_needed(t):
+    if not t["tier"]:
+        return ""
+    need = TIER_AFFINITY_NEEDED.get(t["tier"])
+    if not need:
+        return "none"
+    kinds = re.findall(r"([A-Za-z]+) \d", tome_affinity(t.get("affinities")))
+    return f"{need} {kinds[0]}" if len(kinds) == 1 else f"{need} combined {' + '.join(kinds)}"
+
+
 def build_tomes():
     rows = []
     for t in sorted(tomes, key=lambda t: (t["tier"], tome_affinity(t.get("affinities")), t["name"])):
         aff = tome_affinity(t.get("affinities"))
-        rows.append([f"[{t['name']}]({slug(t['id'])}.md)", t["tier"], aff, dlc(t), one_line(t.get("gameplay_description"))])
+        need = affinity_needed(t)
+        rows.append([f"[{t['name']}]({slug(t['id'])}.md)", t["tier"], aff, need, dlc(t), one_line(t.get("gameplay_description"))])
         lines = [f"# {t['name']}", "",
-                 f"- Tier: {t['tier']}", f"- Affinity granted: {aff}", f"- DLC: {dlc(t)}", "",
+                 f"- Tier: {t['tier']}", f"- Affinity granted: {aff}"]
+        if need:
+            lines.append(f"- Affinity needed to unlock: {need} (player-provided rule, not in the game data)")
+        lines += [f"- DLC: {dlc(t)}", "",
                  one_line(t.get("gameplay_description")), "", "## Unlocks", ""]
         for sk in t.get("skills", []):
             kind = one_line(sk.get("type"))
@@ -284,11 +306,11 @@ def build_tomes():
         for h in filter(None, hs):
             lines.append(f"- {clean(h['name'])} (Hero Skill): {one_line(h.get('description'))}")
         write(KB / "tomes" / f"{slug(t['id'])}.md", "\n".join(lines))
-    headers = ["Tome", "Tier", "Affinity", "DLC", "Summary"]
+    headers = ["Tome", "Tier", "Affinity", "Needs", "DLC", "Summary"]
     rule = one_line(loc.get("TUTORIAL@TOMESELECTION@PAGE02", {}).get("description"))
     write(KB / "tomes" / "_index.md", "# Tomes\n\n"
-          f"Affinity = affinity points the tome grants. Unlock rule (in-game tutorial): {rule} "
-          "The exact affinity amounts per tier are not in the data.\n\n"
+          f"Affinity = affinity points the tome grants. Unlock rule (in-game tutorial): {rule}\n\n"
+          f"Needs = {TIER_RULE_NOTE}\n\n"
           "## Magic tomes (researchable, tiers 1-5)\n\n" + table(headers, [r for r in rows if r[1]])
           + "\n\n## Tier 0: culture/subculture tomes, pacts and other non-research tomes\n\n"
           "Culture tomes (named 'Culture - Subculture') hold what that culture/subculture unlocks.\n\n"

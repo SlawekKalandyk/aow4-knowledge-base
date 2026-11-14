@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Materium 1, Shadow 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: WAYSOFWAR
 
 Strike from the shadows, blind your foes and find their weak points to deliver the perfect, fatal blow.

@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Nature 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Discover the power of the natural world and specialize in immobilizing enemies and healing allies.

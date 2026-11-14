@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Chaos 1, Materium 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: RISEFROMRUIN
 
 Build strong martial armies and mentor your units through the ranks.

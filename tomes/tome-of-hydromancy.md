@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Nature 1, Materium 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: SILVERSEAS
 
 Rush your allies, manipulate your enemies, and inflict the Wet status effect.

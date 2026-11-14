@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Materium 1, Astral 1
+- Affinity needed to unlock: 3 combined Materium + Astral (player-provided rule, not in the game data)
 - DLC: GIANTKINGS
 
 Become attuned to the Ley energies beneath you and use them to change the damage and resistances of your armies based on where they stand.

@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Harvest Souls from your enemies and create Undead creatures. Specialize in expendable units and starting your Soul economy.

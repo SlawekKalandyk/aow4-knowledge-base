@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Nature 1, Astral 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: PRIMALFURY
 
 Conjure otherworldly mists to protect and strengthen your units.

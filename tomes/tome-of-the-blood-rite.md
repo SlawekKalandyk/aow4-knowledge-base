@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Chaos 1, Shadow 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: THRONESOFBLOOD
 
 Perform forbidden and dangerous rites on your units to bleed your enemies and strengthen your allies.

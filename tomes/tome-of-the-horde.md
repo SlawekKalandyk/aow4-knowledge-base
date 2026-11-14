@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Turn your cheapest units into large, deadly armies. Specialize in summoning and buffing low tier units.

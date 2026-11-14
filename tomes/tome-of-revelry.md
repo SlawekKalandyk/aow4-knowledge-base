@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Follow the path of debauchery that rewards those who take chances and specialize in gaining Morale and Experience.

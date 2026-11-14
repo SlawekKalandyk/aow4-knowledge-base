@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: 3 Chaos (player-provided rule, not in the game data)
 - DLC: Base
 
 Gain the means to take cities with overwhelming force. Specialize in Sieges and dealing damage.

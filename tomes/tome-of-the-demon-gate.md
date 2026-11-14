@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Chaos 2
+- Affinity needed to unlock: 6 Chaos (player-provided rule, not in the game data)
 - DLC: Base
 
 Open rifts to summon Fiends and burn the world in your wake.

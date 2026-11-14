@@ -2,6 +2,7 @@
 
 - Tier: 5
 - Affinity granted: Materium 2
+- Affinity needed to unlock: 8 Materium (player-provided rule, not in the game data)
 - DLC: Base
 
 Shape the world, summon slumbering titans, and become the master of the earth.

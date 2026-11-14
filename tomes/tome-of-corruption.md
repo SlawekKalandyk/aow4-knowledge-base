@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Shadow 1, Astral 1
+- Affinity needed to unlock: 3 combined Shadow + Astral (player-provided rule, not in the game data)
 - DLC: ELDRITCHREALMS
 
 Become closer to the umbral demons, and punish your enemies with their own strengths.

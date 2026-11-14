@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Nature 2
+- Affinity needed to unlock: 6 Nature (player-provided rule, not in the game data)
 - DLC: Base
 
 Grants powerful spells that unleash the uncontrollable power of nature.

@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Order 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Hunt down those who do not agree with your authority. Inflict Condemned on enemies and restrict their Movement.

@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Astral 1, Nature 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Use the powers of small Fey to support your units and befuddle your enemies.

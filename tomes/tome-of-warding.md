@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Astral 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Specialize in magic that protects your units from damage and retaliates against enemies that attack you.

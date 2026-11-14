@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Astral 2
+- Affinity needed to unlock: 3 Astral (player-provided rule, not in the game data)
 - DLC: Base
 
 Enhance your mages and your spellcasting with more advanced arcane magic.

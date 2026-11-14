@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Create advanced Undead creatures and gain ways to collect more Souls. Specialize in buffs and healing for Undead units.

@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Nature 1, Chaos 1
+- Affinity needed to unlock: 3 combined Nature + Chaos (player-provided rule, not in the game data)
 - DLC: DRAGONLORDS
 
 Revel in the power of Dragons and let their flames empower your people.

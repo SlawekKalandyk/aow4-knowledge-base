@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Astral 2
+- Affinity needed to unlock: 3 Astral (player-provided rule, not in the game data)
 - DLC: Base
 
 Exploit spatial magic to its full potential. Strategically reposition your units in battle in a mere instant.

@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Materium 1, Chaos 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: SILVERSEAS
 
 Dominate the seas with highly mobile skirmishers, use explosive Ember Dust, and plunder and pillage your enemies.

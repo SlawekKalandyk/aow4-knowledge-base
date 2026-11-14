@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Shadow 1, Astral 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: ELDRITCHREALMS
 
 Conjure tentacled mutations and creatures from the depths to restrain and constrict your enemies, keeping them right where you want them.

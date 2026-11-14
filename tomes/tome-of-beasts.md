@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Nature 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Walk beside the Animals of nature. Specialize in summoning and buffing Animals and become stronger when standing next to them.

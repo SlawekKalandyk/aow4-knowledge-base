@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Materium 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Improve your units with [World Map] Unit Enchantments and specialize in Physical Damage.

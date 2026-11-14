@@ -33,7 +33,7 @@ Data is current as of the commit in `SOURCE.md` (all DLCs up to then).
 - Affinity names: the data's `matter` = Materium and `arcana` = Astral (already translated in these files).
 - DLC values are internal codes (`EMPIRESANDASHES`, `THRONESOFBLOOD`, `DRAGONLORDS`, …). `Base` = no DLC.
 - `?` in a text = a value the game computes at runtime (e.g. "+?% bonus"); it isn't in the data, so don't guess it.
-- Tome tier unlocking: every two tomes picked unlock the next tier, and higher tiers also need some affinity (rule quoted in `tomes/_index.md`). The exact affinity amounts per tier are not in the data. Say so if a question needs them.
+- Tome tier unlocking: every two tomes picked unlock the next tier (in-game tutorial). Affinity needed (player-provided, not in the game data): tier 3 = 3, tier 4 = 6, tier 5 = 8 points in the tome's affinity; tiers 1-2 need none. A dual-affinity tome counts both affinities combined, in any split (e.g. Tome of Dragons, Nature + Chaos: 2 Nature + 1 Chaos works). Shown as "Needs" in `tomes/_index.md` and in each tome file. To change it, edit `TIER_AFFINITY_NEEDED` in `build_kb.py`.
 - Architect subcultures have starting affinity but no description in the data.
 - Units index "Source" blank = racial, summoned, wildlife or event unit.
 

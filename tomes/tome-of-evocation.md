@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Astral 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Grants excellent and cheap attack spells to any aspiring wizard.

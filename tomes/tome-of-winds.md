@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Materium 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Harness the powers of the wind to gain boosts of speed and disrupt enemies.

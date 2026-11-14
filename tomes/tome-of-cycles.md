@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Nature 2
+- Affinity needed to unlock: 3 Nature (player-provided rule, not in the game data)
 - DLC: Base
 
 Master the natural cycles of life and death and specialize in debuffing enemies and healing allies.

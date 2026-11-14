@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Torment your enemies with a Morale-reducing effect and by exploiting enemies with Low Morale.

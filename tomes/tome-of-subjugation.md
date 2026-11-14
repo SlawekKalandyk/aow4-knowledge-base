@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Order 2
+- Affinity needed to unlock: 3 Order (player-provided rule, not in the game data)
 - DLC: Base
 
 Expands and subjugates cities from other races. Specializes in lowering enemy Morale and conquering cities.

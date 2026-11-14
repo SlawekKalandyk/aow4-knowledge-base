@@ -2,6 +2,7 @@
 
 - Tier: 2
 - Affinity granted: Nature 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Create and protect forests. Specialize in healing and making use of forests.

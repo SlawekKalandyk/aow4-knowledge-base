@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Materium 2
+- Affinity needed to unlock: 6 Materium (player-provided rule, not in the game data)
 - DLC: Base
 
 Become a prosperous empire and gain large amounts of gold with new infrastructure and by turning your very enemies into gold.

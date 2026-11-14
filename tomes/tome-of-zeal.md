@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Order 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Rile up your fanatic population for a common goal. Use units with Zeal and inflict Condemned on enemies.

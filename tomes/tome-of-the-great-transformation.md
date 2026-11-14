@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: 3 Shadow (player-provided rule, not in the game data)
 - DLC: Base
 
 Turn your people into the Undead and transform your empire into a paradise for them to thrive in.

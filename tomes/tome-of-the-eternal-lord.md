@@ -2,6 +2,7 @@
 
 - Tier: 5
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: 8 Shadow (player-provided rule, not in the game data)
 - DLC: Base
 
 Become the leader of an eternal realm and command unending armies.

@@ -47,7 +47,7 @@ git diff --stat           # shows what the patch changed
 
 ## Not in the data
 
-- The exact affinity amounts needed for each tome tier. The general rule (every two tomes unlock the next tier, and higher tiers also need affinity) is quoted in [`tomes/_index.md`](tomes/_index.md).
+- The affinity needed for each tome tier. It's added by hand in `build_kb.py` (`TIER_AFFINITY_NEEDED`): tier 3 = 3, tier 4 = 6, tier 5 = 8, with dual-affinity tomes counting both affinities combined.
 - Values the game computes at runtime, shown as `?` in the text.
 - Descriptions for the Architect subcultures.
 

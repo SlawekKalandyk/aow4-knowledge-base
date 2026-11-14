@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Order 1, Chaos 1
+- Affinity needed to unlock: 3 combined Order + Chaos (player-provided rule, not in the game data)
 - DLC: ELDRITCHREALMS
 
 Utilize the zeal of your troops to bathe the battlefield in cleansing flame that punishes the condemned and blesses the faithful.

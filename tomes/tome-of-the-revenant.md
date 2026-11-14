@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Order 1, Shadow 1
+- Affinity needed to unlock: 6 combined Order + Shadow (player-provided rule, not in the game data)
 - DLC: ARCHONPROPHECY
 
 Raise an army of corrupted and undead Archons and use their knowledge to make your undead come back again and again, while protecting them from those who would use the powers of light and fire.

@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Order 2
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: Base
 
 Heal and support your units through the power of the Faithful.

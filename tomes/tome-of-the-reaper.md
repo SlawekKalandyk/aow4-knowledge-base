@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Shadow 2
+- Affinity needed to unlock: 6 Shadow (player-provided rule, not in the game data)
 - DLC: Base
 
 Extract Souls in brutal fashion and use them to bring Undead terrors into the world. Use instant kill effects and ultimate Undead synergy.

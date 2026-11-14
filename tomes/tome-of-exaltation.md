@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Order 2
+- Affinity needed to unlock: 6 Order (player-provided rule, not in the game data)
 - DLC: Base
 
 Convert your people to Celestials and use their faith to smite your enemies.

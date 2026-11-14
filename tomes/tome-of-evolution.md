@@ -2,6 +2,7 @@
 
 - Tier: 1
 - Affinity granted: Nature 1, Chaos 1
+- Affinity needed to unlock: none (player-provided rule, not in the game data)
 - DLC: DRAGONLORDS
 
 Take young primal forces and nurture them into formidable allies.

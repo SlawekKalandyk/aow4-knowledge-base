@@ -2,6 +2,7 @@
 
 - Tier: 3
 - Affinity granted: Order 1, Astral 1
+- Affinity needed to unlock: 3 combined Order + Astral (player-provided rule, not in the game data)
 - DLC: ARCHONPROPHECY
 
 Prevent enemy attacks and foresee the downfall of your enemies.

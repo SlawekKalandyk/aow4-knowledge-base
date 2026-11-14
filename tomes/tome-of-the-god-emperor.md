@@ -2,6 +2,7 @@
 
 - Tier: 5
 - Affinity granted: Order 2
+- Affinity needed to unlock: 8 Order (player-provided rule, not in the game data)
 - DLC: Base
 
 Become a god to be worshiped. Your mere presence inspires your troops and your cities. Specialize in buffing your units.

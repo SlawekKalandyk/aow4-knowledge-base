@@ -2,6 +2,7 @@
 
 - Tier: 4
 - Affinity granted: Astral 2
+- Affinity needed to unlock: 6 Astral (player-provided rule, not in the game data)
 - DLC: Base
 
 Create Astral Reflections of your units and leader and reflect damage back onto attackers.

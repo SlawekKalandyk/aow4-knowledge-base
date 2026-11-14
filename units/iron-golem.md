@@ -8,7 +8,7 @@
 - Source: Tome: Tome of Artificing
 - Damage resistances: Spirit resistance 2, Shock weakness 4
 
-Highly defensive {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} that is resistant to \\> and protects allies from them.
+Highly defensive ? that is resistant to \\> and protects allies from them.
 
 ## Abilities
 

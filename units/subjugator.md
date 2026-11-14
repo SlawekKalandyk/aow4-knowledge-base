@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of Subjugation
 
-A heavy {GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink} that specializes in lowering {GLOBAL.UnitMoraleConcept.Hyperlink}.
+A heavy ? that specializes in lowering ?.
 
 ## Abilities
 

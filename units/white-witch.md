@@ -8,7 +8,7 @@
 - Source: Tome: Tome of Cryomancy
 - Damage resistances: Frost resistance 4
 
-Grants access to a {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink} that inflicts {GLOBAL.PROPERTIES.CHILLED.Hyperlink} and {GLOBAL.PROPERTIES.FROZEN.Hyperlink}.
+Grants access to a ? that inflicts ? and ?.
 
 ## Abilities
 

@@ -7,7 +7,7 @@
 - DLC: ELDRITCHREALMS
 - Source: Tome: Tome of the Tentacle
 
-A {GLOBAL.PROPERTIES.POLEARM_UNIT.Hyperlink} capable of pulling in and restraining opponents.
+A ? capable of pulling in and restraining opponents.
 
 ## Abilities
 

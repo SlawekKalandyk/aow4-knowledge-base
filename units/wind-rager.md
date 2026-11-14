@@ -7,7 +7,7 @@
 - DLC: Base
 - Damage resistances: Shock resistance 6, Spirit resistance 3, Frost weakness 6
 
-Summon a {GLOBAL.UNITS.WIND_RAGER_UNIT.Hyperlink}, a fast and disruptive {GLOBAL.PROPERTIES.FIGHTER.Hyperlink}
+Summon a ?, a fast and disruptive ?
 
 ## Abilities
 

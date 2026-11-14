@@ -15,7 +15,9 @@ from pathlib import Path
 KB = Path(__file__).resolve().parent
 SRC_REPO = KB.parent / "aow4db"
 SRC = SRC_REPO / "Data" / "EN"
-GENERATED = ["tomes", "traits", "units", "spells", "cultures", "heroes", "empire", "glossary.md", "SOURCE.md"]
+GEN = SRC_REPO / "Data" / "GEN"
+GENERATED = ["tomes", "traits", "units", "spells", "cultures", "races.md", "rulers.md", "heroes", "empire", "world",
+             "glossary.md", "SOURCE.md"]
 
 # ---------------------------------------------------------------- markup cleanup
 
@@ -26,7 +28,7 @@ ICON_LABELS = {
     "souls": "Souls", "population": "Population", "thralls": "Thralls", "hp": "HP",
     "temphp": "Temporary HP", "defense": "Defense", "resistance": "Resistance",
     "statuseffectresistance": "Status Resistance", "crit": "Crit", "xp": "XP", "turn": "Turns",
-    "conduit": "Conduit", "optactical": "Combat Casting Points",
+    "conduit": "Conduit", "production": "Production", "optactical": "Combat Casting Points",
     "caststrategic": "[World Map]", "casttactical": "[Combat]",
     "singleuseaction": "single-use action", "repeatingaction": "repeating action",
     "fullaction": "full action", "freeaction": "free action", "leaveoneaction": "leave-one action",
@@ -53,7 +55,12 @@ def clean(s):
         return ""
     s = str(s).replace('\\"', '"').replace("\\n", "\n")
     s = re.sub(r"<span[^>]*>|</span>", "", s)
-    s = re.sub(r"</?hyperlink>|</?helpcolor>|</?\w+Col>", "", s)
+    # Localization markup (all.json): [hyperlink,GLOBAL.X]Text[/hyperlink], [spellref,...]Text[/spellref]
+    s = re.sub(r"\[(\w+),[^\]]*\](.*?)\[/\1\]", r"\2", s)
+    # Unresolved runtime values such as {SUNDERED_RESISTANCE>ResolvedStrength} or {EventCity}
+    s = re.sub(r"\{[^{}]*\}", "?", s)
+    s = re.sub(r"\[/?\w+\]|\[\w+,[^\]]*\]", "", s)  # stray [/bulletlist], unclosed [spellref,...]
+    s = re.sub(r"</?hyperlink>|</?helpcolor>|</?\w+Col(or)?>", "", s)
     s = re.sub(r"<br\s*/?>(</br>)?", "\n", s)
     s = s.replace("<bulletlist>", "\n").replace("</bulletlist>", "\n")
     s = s.replace("<bullet>", "\n- ").replace("</bullet>", "")
@@ -148,7 +155,7 @@ def dedupe(items):
 
 # ---------------------------------------------------------------- data + lookups
 
-tomes = load("Tomes")
+tomes = [t for t in load("Tomes") if t.get("name") or t.get("id")]  # skip one empty record
 for _t in tomes:  # tier 0 = culture/subculture tomes, pacts and other non-research tomes
     _t["tier"] = _t.get("tier") or 0
     _t["name"] = _t.get("name") or _t["id"].replace("_", " ").title()
@@ -166,6 +173,19 @@ destinies = load("Destinies")
 forge_types = load("ItemForgeTypes")
 forge_upgrades = load("ItemForgeUpgrades")
 concepts = load("concept_tooltips")
+# Full English localization keyed by id; GEN/*.json records point into it via extraLookup/lookup.
+loc = {x["id"]: x for x in load("all")}
+
+
+def load_gen(name):
+    return json.loads((GEN / f"{name}.json").read_text(encoding="utf-8"))
+
+
+faction = load_gen("FactionCreation")
+relics = load_gen("Relics")
+free_cities = load_gen("FreeCities")
+world_structures = load_gen("WorldStructures")
+cosmic = load_gen("CosmicHappenings")
 
 unit_groups = dedupe(units)
 spell_groups = dedupe(spells)
@@ -248,8 +268,10 @@ def build_tomes():
             lines.append(f"- {clean(h['name'])} (Hero Skill): {one_line(h.get('description'))}")
         write(KB / "tomes" / f"{slug(t['id'])}.md", "\n".join(lines))
     headers = ["Tome", "Tier", "Affinity", "DLC", "Summary"]
+    rule = one_line(loc.get("TUTORIAL@TOMESELECTION@PAGE02", {}).get("description"))
     write(KB / "tomes" / "_index.md", "# Tomes\n\n"
-          "Affinity = affinity points the tome grants. Tier N+1 unlocks after enough tomes of tier N.\n\n"
+          f"Affinity = affinity points the tome grants. Unlock rule (in-game tutorial): {rule} "
+          "The exact affinity amounts per tier are not in the data.\n\n"
           "## Magic tomes (researchable, tiers 1-5)\n\n" + table(headers, [r for r in rows if r[1]])
           + "\n\n## Tier 0: culture/subculture tomes, pacts and other non-research tomes\n\n"
           "Culture tomes (named 'Culture - Subculture') hold what that culture/subculture unlocks.\n\n"
@@ -340,19 +362,170 @@ def build_units():
         write(KB / "units" / f"{slug(uid)}.md", "\n".join(lines))
     write(KB / "units" / "_index.md", "# Units\n\nSource lists the tomes and cultures that unlock a unit; blank = racial, summoned, wildlife or event units.\n\n"
           + table(["Unit", "Tier", "HP", "Def", "Res", "Cost", "Source", "DLC"], rows))
+    return cultures
 
-    lines = ["# Cultures and subcultures", "",
-             "There are no dedicated culture records. Culture/subculture unlocks live in tier-0 tomes (below);",
-             "culture units are derived from units data. Starting affinity is not in the data.", "",
-             "## Culture, subculture and special tomes (tier 0)", ""]
-    lines += [f"- [{t['name']}](../tomes/{slug(t['id'])}.md)" for t in sorted(tomes, key=lambda t: t["name"]) if not t["tier"]]
-    lines += ["", "# Culture units by subculture", ""]
-    for c in sorted(cultures):
-        lines += [f"## {c}", ""]
-        for sc in sorted(cultures[c]):
-            lines.append(f"- {sc}: " + ", ".join(unit_link(uid, "../") for uid in cultures[c][sc]))
+
+# ---------------------------------------------------------------- cultures, races, rulers
+
+def affinity_tags(s):
+    """'<empireshadow></empireshadow>, <empireshadow></empireshadow>' -> {'Shadow': 2}"""
+    out = defaultdict(int)
+    for a in re.findall(r"<empire(\w+)>", s or ""):
+        out[AFFINITY_TAGS.get(a, a.capitalize())] += 1
+    return out
+
+
+def fmt_affinity(d):
+    return ", ".join(f"{k} {v}" for k, v in d.items())
+
+
+def loc_text(key, *fields):
+    rec = loc.get(key or "", {})
+    return [clean(rec[f]) for f in fields if rec.get(f)]
+
+
+def build_cultures(culture_units):
+    cultures = [x for x in faction if x["type"] == "Culture"]
+    subs = [x for x in faction if x["type"] == "SubCulture"]
+    culture_tomes = [t for t in tomes if not t["tier"]]
+    rows = []
+    for c in cultures:
+        cname = c["name"]
+        fname = f"{slug(cname)}.md"
+        c_aff = affinity_tags(c.get("affinity"))
+        lines = [f"# {cname} culture", "", f"- Culture affinity: {fmt_affinity(c_aff) or 'none (comes from subculture)'}",
+                 f"- DLC: {dlc(c)}", ""]
+        lines.append("\n\n".join(loc_text(c.get("extraLookup"), "bio", "description", "fpg_description", "lore")))
+        tome = [t for t in culture_tomes if t["name"] == cname]
+        if tome:
+            lines += ["", f"Culture tome: [{tome[0]['name']}](../tomes/{slug(tome[0]['id'])}.md)"]
+        units_all = culture_units.get(cname, {})
+        if units_all.get("(all subcultures)"):
+            lines += ["", "Culture units: " + ", ".join(unit_link(u, "../") for u in units_all["(all subcultures)"])]
+        my_subs = [s for s in subs if s.get("requirement") == cname]
+        if not my_subs:
+            rows.append([f"[{cname}]({fname})", "-", fmt_affinity(c_aff), dlc(c)])
+        for s in my_subs:
+            short = s["name"].split(" - ", 1)[-1]
+            total = defaultdict(int, c_aff)
+            for k, v in affinity_tags(s.get("affinity")).items():
+                total[k] += v
+            rows.append([f"[{cname}]({fname})", short, fmt_affinity(total), dlc(s)])
+            lines += ["", f"## Subculture: {short}", "",
+                      f"- Starting affinity (culture + subculture): {fmt_affinity(total)}", f"- DLC: {dlc(s)}"]
+            tome = [t for t in culture_tomes if t["name"].startswith(cname) and short.lower() in t["name"].lower()]
+            if tome:
+                lines.append(f"- Subculture tome: [{tome[0]['name']}](../tomes/{slug(tome[0]['id'])}.md)")
+            sub_units = [u for sc, us in units_all.items() if sc != "(all subcultures)"
+                         and (sc.lower() in short.lower() or short.lower() in sc.lower()) for u in us]
+            if sub_units:
+                lines.append("- Units: " + ", ".join(unit_link(u, "../") for u in sub_units))
+            desc = loc_text(s.get("extraLookup"), "description") or [clean(s.get("description"))]
+            lines += ["", *[d for d in desc if d]] if any(desc) else []
+        write(KB / "cultures" / fname, "\n".join(lines))
+    other = [t for t in culture_tomes if not any(t["name"].startswith(c["name"]) for c in cultures)]
+    write(KB / "cultures" / "_index.md", "# Cultures and subcultures\n\n"
+          "Starting affinity = culture affinity + subculture affinity. Each culture file has the description, "
+          "culture/subculture tomes (what they unlock) and culture units.\n\n"
+          + table(["Culture", "Subculture", "Starting affinity", "DLC"], rows)
+          + "\n\n## Other tier-0 tomes (pacts, special research)\n\n"
+          + "\n".join(f"- [{t['name']}](../tomes/{slug(t['id'])}.md)" for t in sorted(other, key=lambda t: t["name"])))
+
+
+def build_races():
+    skins = [x for x in faction if x["type"] == "Skin"]
+    lines = ["# Races (appearances)", "",
+             "In AoW4 a race is an appearance plus form traits. Appearances are cosmetic; the gameplay comes from "
+             "form traits (see [traits/form](traits/form/_index.md)).", ""]
+    lines += [f"- **{s['name']}** ({dlc(s)}): {' '.join(loc_text(s.get('extraLookup'), 'bio'))}" for s in skins]
+    write(KB / "races.md", "\n".join(lines))
+
+
+def build_rulers():
+    lines = ["# Rulers", "", "## Ruler origins", ""]
+    for r in (x for x in faction if x["type"] == "Ruler Origin"):
+        lines += [f"### {r['name']}", "", f"DLC: {dlc(r)}", ""]
+        lines += ["\n\n".join(loc_text(r.get("extraLookup"), "description_short", "description")), ""]
+    lines += ["## Ruler subtypes", ""]
+    for s in (x for x in faction if x["type"] == "SubType"):
+        aff = fmt_affinity(affinity_tags(s.get("affinity")))
+        lines.append(f"- **{s['name']}** ({s.get('requirement', '')}{', ' + aff if aff else ''}, DLC {dlc(s)}): "
+                     + one_line(" ".join(loc_text(s.get("extraLookup"), "description"))))
+    lines += ["", "## Archon Prophecy visions (sub-societies)", ""]
+    for s in (x for x in faction if x["type"] == "SubSociety"):
+        aff = fmt_affinity(affinity_tags(s.get("affinity")))
+        objective = loc.get(s.get("objective", ""), {}).get("objective_1", "")
+        rewards = [one_line(v) for r in s.get("rewards", []) for k, v in loc.get(r, {}).items() if k not in ("id", "DLC")]
+        lines.append(f"- **{clean(s['name'])}** ({s.get('requirement', '')}{', ' + aff if aff else ''}, DLC {dlc(s)}): "
+                     f"objective: {one_line(objective) or '?'}" + (f"; rewards: {' '.join(rewards)}" if rewards else ""))
+    write(KB / "rulers.md", "\n".join(lines))
+
+
+# ---------------------------------------------------------------- world: relics, free cities, wonders, happenings
+
+def slug_list(val):
+    return [v.strip() for v in str(val).split(",") if v.strip()]
+
+
+def build_world():
+    lines = ["# Relics", ""]
+    for r in sorted(relics, key=lambda r: r["name"]):
+        sp = [spell_link(s["id"], "../") for s in r.get("spell", [])]
+        un = [unit_link(x["id"], "../") for x in r.get("unit_unlock", []) if isinstance(x, dict) and x.get("id")]
+        lines += [f"## {r['name']}", "", f"DLC: {dlc(r)}" + (f" | Spells: {', '.join(sp)}" if sp else "")
+                  + (f" | Units: {', '.join(un)}" if un else ""), ""]
+        lines += loc_text(r.get("extraLookup"), "description") + loc_text(r.get("unlock"), "name", "description") + [""]
+    write(KB / "world" / "relics.md", "\n".join(lines))
+
+    lines = ["# Free city factions (minor factions)", "",
+             "What a free city of this faction offers when you absorb/vassalize it.", ""]
+    for f in sorted(free_cities, key=lambda f: loc.get(f["lookup"], {}).get("name", f["id"])):
+        rec = loc.get(f["lookup"], {})
+        lines += [f"## {clean(rec.get('name')) or f['id']}", "", f"DLC: {dlc(f)}", "", clean(rec.get("description")), ""]
+        for label, key in [("Always", "mandatory"), ("Possible upgrades", "upgrades")]:
+            for entry in f.get(key, []):
+                for kind, val in entry.items():
+                    if kind == "units":
+                        items = [unit_link(u, "../") for u in slug_list(val)]
+                    elif kind == "spells":
+                        items = [spell_link(s, "../") for s in slug_list(val)]
+                    else:
+                        items = [v.replace("_", " ") for v in slug_list(val)]
+                    lines.append(f"- {label} – {kind}: {', '.join(items)}")
         lines.append("")
-    write(KB / "cultures" / "_index.md", "\n".join(lines))
+    write(KB / "world" / "free-cities.md", "\n".join(lines))
+
+    lines = ["# World structures (ancient wonders, landmarks, magic materials, spawners)", ""]
+    for w in sorted(world_structures, key=lambda w: (one_line(w.get("type")), w["name"])):
+        meta = [one_line(w.get("type")), f"DLC {dlc(w) if (w.get('DLC') or w.get('dlc')) else 'Base'}"]
+        if w.get("nodeType"):
+            meta.append("node: " + one_line(w["nodeType"].replace("&", " ")))
+        lines += [f"## {clean(w['name'])}", "", f"({'; '.join(m for m in meta if m)})", ""]
+        lines += loc_text(w.get("extraLookup"), "description")
+        un = [unit_link(u["slug"], "../") for u in w.get("unit_unlocks", []) if isinstance(u, dict)]
+        if un:
+            lines.append(f"- Unit unlocks: {', '.join(un)}")
+        sp = []
+        for key in ("spell_unlocks", "spell_rewards"):
+            val = w.get(key)
+            if isinstance(val, list):
+                sp += [spell_link(s["id"], "../") for s in val if isinstance(s, dict) and s.get("id")]
+            elif isinstance(val, str):  # a combat property, described in the localization
+                rec = loc.get(val, {})
+                sp.append(f"{clean(rec.get('name')) or val}: {one_line(rec.get('description'))}")
+        if sp:
+            lines.append(f"- Spell unlocks/rewards: {'; '.join(sp)}")
+        lines.append("")
+    write(KB / "world" / "world-structures.md", "\n".join(lines))
+
+    lines = ["# Cosmic happenings", ""]
+    for c in sorted(cosmic, key=lambda c: (c.get("type", ""), c["name"])):
+        lines += [f"## {c['name']}", "", f"({c.get('type')} {c.get('category')}, {c.get('duration')} turns)", "",
+                  clean(c.get("description")), ""]
+    write(KB / "world" / "cosmic-happenings.md", "\n".join(lines))
+    write(KB / "world" / "_index.md", "# World\n\n- [Relics](relics.md)\n- [Free city factions](free-cities.md)\n"
+          "- [World structures: ancient wonders, landmarks, magic materials](world-structures.md)\n"
+          "- [Cosmic happenings](cosmic-happenings.md)")
 
 
 # ---------------------------------------------------------------- spells
@@ -516,7 +689,11 @@ if __name__ == "__main__":
             p.unlink()
     build_tomes()
     build_traits()
-    build_units()
+    culture_units = build_units()
+    build_cultures(culture_units)
+    build_races()
+    build_rulers()
+    build_world()
     build_spells()
     build_heroes()
     build_empire()

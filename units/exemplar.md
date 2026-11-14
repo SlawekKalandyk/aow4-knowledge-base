@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of Supremacy
 
-A flying {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} that excels at increasing the {GLOBAL.UnitMoraleConcept.Hyperlink} of your units.
+A flying ? that excels at increasing the ? of your units.
 
 ## Abilities
 

@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of the Inquisition
 
-Grants access to an aggressive {GLOBAL.PROPERTIES.SKIRMISHER.Hyperlink} that can inflict {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} and {GLOBAL.PROPERTIES.STUNNED.Hyperlink}.
+Grants access to an aggressive ? that can inflict ? and ?.
 
 ## Abilities
 

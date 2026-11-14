@@ -1,109 +1,45 @@
 # Cultures and subcultures
 
-There are no dedicated culture records. Culture/subculture unlocks live in tier-0 tomes (below);
-culture units are derived from units data. Starting affinity is not in the data.
+Starting affinity = culture affinity + subculture affinity. Each culture file has the description, culture/subculture tomes (what they unlock) and culture units.
 
-## Culture, subculture and special tomes (tier 0)
+| Culture | Subculture | Starting affinity | DLC |
+|---|---|---|---|
+| [Feudal](feudal.md) | Monarchy | Order 1, Materium 1 | Base |
+| [Feudal](feudal.md) | Aristocracy | Order 1, Nature 1 | Base |
+| [Mercantile](mercantile.md) | Cartel | Shadow 1, Chaos 1 | SILVERSEAS |
+| [Mercantile](mercantile.md) | Barony | Shadow 1, Materium 1 | SILVERSEAS |
+| [Barbarian](barbarian.md) | - | Chaos 1, Nature 1 | Base |
+| [Architect](architect.md) | Architects of Shadow | Shadow 2 | ARCHONPROPHECY |
+| [Architect](architect.md) | Architects of Order | Order 2 | ARCHONPROPHECY |
+| [Architect](architect.md) | Architects of Chaos | Chaos 2 | ARCHONPROPHECY |
+| [Architect](architect.md) | Architects of Nature | Nature 2 | ARCHONPROPHECY |
+| [Architect](architect.md) | Architects of Materium | Materium 2 | ARCHONPROPHECY |
+| [Architect](architect.md) | Architects of Astral | Astral 2 | ARCHONPROPHECY |
+| [Industrious](industrious.md) | - | Materium 2 | Base |
+| [High](high.md) | - | Order 2 | Base |
+| [Dark](dark.md) | Cult of Death | Shadow 1, Nature 1 | Base |
+| [Dark](dark.md) | Cult of Tyranny | Shadow 2 | Base |
+| [Nomad](nomad.md) | Conquerors | Chaos 2 | RISEFROMRUIN |
+| [Nomad](nomad.md) | Scavengers | Chaos 1, Materium 1 | RISEFROMRUIN |
+| [Mystic](mystic.md) | School of Attunement | Astral 2 | Base |
+| [Mystic](mystic.md) | School of Potential | Astral 1, Shadow 1 | Base |
+| [Mystic](mystic.md) | School of Summoning | Astral 2 | Base |
+| [Oathsworn](oathsworn.md) | Oath of Strife | Order 1, Chaos 1 | WAYSOFWAR |
+| [Oathsworn](oathsworn.md) | Oath of Righteousness | Order 2 | WAYSOFWAR |
+| [Oathsworn](oathsworn.md) | Oath of Harmony | Order 1, Nature 1 | WAYSOFWAR |
+| [Reaver](reaver.md) | Federated | Materium 1, Order 1 | EMPIRESANDASHES |
+| [Reaver](reaver.md) | Imperial | Materium 1, Chaos 1 | EMPIRESANDASHES |
+| [Primal](primal.md) | Mire Crocodile | Nature 2 | PRIMALFURY |
+| [Primal](primal.md) | Storm Crow | Nature 1, Astral 1 | PRIMALFURY |
+| [Primal](primal.md) | Glacial Mammoth | Nature 1, Shadow 1 | PRIMALFURY |
+| [Primal](primal.md) | Dune Serpent | Nature 1, Materium 1 | PRIMALFURY |
+| [Primal](primal.md) | Ash Sabertooth | Nature 1, Chaos 1 | PRIMALFURY |
+| [Primal](primal.md) | Tunneling Spider | Nature 2 | PRIMALFURY |
+| [Primal](primal.md) | Sylvan Wolf | Nature 1, Order 1 | PRIMALFURY |
 
-- [](../tomes/unnamed.md)
-- [Architect](../tomes/architect.md)
-- [Barbarian](../tomes/barbarian.md)
+## Other tier-0 tomes (pacts, special research)
+
 - [Crystal Pact](../tomes/crystal-pact.md)
-- [Dark - Cult of Death](../tomes/dark-cult-of-death.md)
-- [Dark - Cult of Tyranny](../tomes/dark-cult-of-tyranny.md)
 - [Eldritch Pact](../tomes/eldritch-pact.md)
-- [Feudal - Aristocracy](../tomes/feudal-aristocracy.md)
-- [Feudal - Monarchy](../tomes/feudal-monarchy.md)
 - [General Research](../tomes/general-research.md)
-- [High](../tomes/high.md)
-- [Industrious](../tomes/industrious.md)
-- [Mercantile - Barony](../tomes/mercantile-barony.md)
-- [Mercantile - Cartel](../tomes/mercantile-cartel.md)
-- [Mystic - School of Attunement](../tomes/mystic-school-of-attunement.md)
-- [Mystic - School of Potential](../tomes/mystic-school-of-potential.md)
-- [Mystic - School of Summoning](../tomes/mystic-school-of-summoning.md)
-- [Nomad - Conquerors](../tomes/nomad-conquerors.md)
-- [Nomad - Scavengers](../tomes/nomad-scavengers.md)
-- [Oathsworn - Harmony](../tomes/oathsworn-harmony.md)
-- [Oathsworn - Righteousness](../tomes/oathsworn-righteousness.md)
-- [Oathsworn - Strife](../tomes/oathsworn-strife.md)
 - [Pirate Bond](../tomes/pirate-bond.md)
-- [Primal - Ash Sabertooth](../tomes/primal-ash-sabertooth.md)
-- [Primal - Dune Serpent](../tomes/primal-dune-serpent.md)
-- [Primal - Glacial Mammoth](../tomes/primal-glacial-mammoth.md)
-- [Primal - Mire Crocodile](../tomes/primal-mire-crocodile.md)
-- [Primal - Storm Crow](../tomes/primal-storm-crow.md)
-- [Primal - Sylvan Wolf](../tomes/primal-sylvan-wolf.md)
-- [Primal - Tunneling Spider](../tomes/primal-tunneling-spider.md)
-- [Reaver - Federated](../tomes/reaver-federated.md)
-- [Reaver - Imperial](../tomes/reaver-imperial.md)
-
-# Culture units by subculture
-
-## Architect
-
-- Architects of Astral: [Cultivator](../units/cultivator.md), [Earthbreaker](../units/earthbreaker.md), [Surveyor](../units/surveyor.md), [Guardian](../units/guardian.md), [Shademaker](../units/shademaker.md), [Architect](../units/architect.md)
-- Architects of Chaos: [Cultivator](../units/cultivator.md), [Earthbreaker](../units/earthbreaker.md), [Surveyor](../units/surveyor.md), [Guardian](../units/guardian.md), [Shademaker](../units/shademaker.md), [Architect](../units/architect.md)
-- Architects of Materium: [Cultivator](../units/cultivator.md), [Earthbreaker](../units/earthbreaker.md), [Surveyor](../units/surveyor.md), [Guardian](../units/guardian.md), [Shademaker](../units/shademaker.md), [Architect](../units/architect.md)
-- Architects of Nature: [Cultivator](../units/cultivator.md), [Earthbreaker](../units/earthbreaker.md), [Surveyor](../units/surveyor.md), [Guardian](../units/guardian.md), [Shademaker](../units/shademaker.md), [Architect](../units/architect.md)
-- Architects of Order: [Cultivator](../units/cultivator.md), [Earthbreaker](../units/earthbreaker.md), [Surveyor](../units/surveyor.md), [Guardian](../units/guardian.md), [Shademaker](../units/shademaker.md), [Architect](../units/architect.md)
-- Architects of Shadow: [Cultivator](../units/cultivator.md), [Earthbreaker](../units/earthbreaker.md), [Surveyor](../units/surveyor.md), [Guardian](../units/guardian.md), [Shademaker](../units/shademaker.md), [Architect](../units/architect.md)
-
-## Barbarian
-
-- (all subcultures): [](../units/unnamed.md), [Pathfinder](../units/pathfinder.md), [Sunderer](../units/sunderer.md), [Warrior](../units/warrior.md), [Fury](../units/fury.md), [War Shaman](../units/war-shaman.md), [Berserker](../units/berserker.md)
-
-## Dark
-
-- Cult of Death: [Immortal](../units/immortal.md), [Outrider](../units/outrider.md), [Pursuer](../units/pursuer.md), [Death Guard](../units/death-guard.md), [Mortalist](../units/mortalist.md), [Death Stalker](../units/death-stalker.md)
-- Cult of Tyranny: [Immortal](../units/immortal.md), [Outrider](../units/outrider.md), [Pursuer](../units/pursuer.md), [Tyrant Guard](../units/tyrant-guard.md), [Warlock](../units/warlock.md), [Tyrant Knight](../units/tyrant-knight.md)
-
-## Feudal
-
-- Aristocracy: [Archer](../units/archer.md), [Defender](../units/defender.md), [Militia](../units/militia.md), [Scout](../units/scout.md), [Aspirant Knight](../units/aspirant-knight.md), [Bannerman](../units/bannerman.md), [Liege Guard](../units/liege-guard.md), [Knight](../units/knight.md)
-- Monarchy: [Archer](../units/archer.md), [Defender](../units/defender.md), [Militia](../units/militia.md), [Scout](../units/scout.md), [Aspirant Knight](../units/aspirant-knight.md), [Bannerman](../units/bannerman.md), [Longbow](../units/longbow.md), [Knight](../units/knight.md)
-
-## High
-
-- (all subcultures): [Dawn Defender](../units/dawn-defender.md), [Dusk Hunter](../units/dusk-hunter.md), [Lightseeker](../units/lightseeker.md), [Daylight Spear](../units/daylight-spear.md), [Sun Priest](../units/sun-priest.md), [Awakener](../units/awakener.md)
-
-## Industrious
-
-- (all subcultures): [Anvil Guard](../units/anvil-guard.md), [Arbalest](../units/arbalest.md), [Pioneer](../units/pioneer.md), [Halberdier](../units/halberdier.md), [Steelshaper](../units/steelshaper.md), [Bastion](../units/bastion.md)
-
-## Mercantile
-
-- Barony: [Envoy](../units/envoy.md), [Hireling](../units/hireling.md), [Marine](../units/marine.md), [Bravo](../units/bravo.md), [Magewright](../units/magewright.md), [Silvershot](../units/silvershot.md)
-- Cartel: [Goon](../units/goon.md), [Hireling](../units/hireling.md), [Informant](../units/informant.md), [Bravo](../units/bravo.md), [Curse Peddler](../units/curse-peddler.md), [Mageslayer](../units/mageslayer.md)
-
-## Mystic
-
-- Attunement: [Arcane Guard](../units/arcane-guard.md), [Arcanist](../units/arcanist.md), [Mystic Projection](../units/mystic-projection.md), [Soother](../units/soother.md), [Spellshield](../units/spellshield.md), [Spellbreaker](../units/spellbreaker.md)
-- Potential: [Arcane Guard](../units/arcane-guard.md), [Arcanist](../units/arcanist.md), [Mystic Projection](../units/mystic-projection.md), [Soother](../units/soother.md), [Spellshield](../units/spellshield.md), [Spellweaver](../units/spellweaver.md)
-- Summoning: [Arcane Guard](../units/arcane-guard.md), [Arcanist](../units/arcanist.md), [Mystic Projection](../units/mystic-projection.md), [Soother](../units/soother.md), [Spellshield](../units/spellshield.md), [Summoner](../units/summoner.md)
-
-## Nomad
-
-- Conquerors: [Dunerider](../units/dunerider.md), [Raider](../units/raider.md), [Wind Warrior](../units/wind-warrior.md), [Dustweaver](../units/dustweaver.md), [Strider](../units/strider.md), [Champion](../units/champion.md)
-- Scavengers: [Dunerider](../units/dunerider.md), [Looter](../units/looter.md), [Wind Warrior](../units/wind-warrior.md), [Dustweaver](../units/dustweaver.md), [Strider](../units/strider.md), [Collector](../units/collector.md)
-
-## Oathsworn
-
-- Harmony: [Honor Blade](../units/honor-blade.md), [Sworn Guard](../units/sworn-guard.md), [Wayfarer](../units/wayfarer.md), [Sealbearer](../units/sealbearer.md), [Vowkeeper](../units/vowkeeper.md), [Peacebringer](../units/peacebringer.md)
-- Righteousness: [Honor Blade](../units/honor-blade.md), [Sworn Guard](../units/sworn-guard.md), [Wayfarer](../units/wayfarer.md), [Sealbearer](../units/sealbearer.md), [Vowkeeper](../units/vowkeeper.md), [Avenger](../units/avenger.md)
-- Strife: [Honor Blade](../units/honor-blade.md), [Sworn Guard](../units/sworn-guard.md), [Wayfarer](../units/wayfarer.md), [Sealbearer](../units/sealbearer.md), [Vowkeeper](../units/vowkeeper.md), [Warbound](../units/warbound.md)
-
-## Primal
-
-- Ash Sabertooth: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
-- Dune Serpent: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
-- Glacial Mammoth: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
-- Mire Crocodile: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
-- Storm Crow: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
-- Sylvan Wolf: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
-- Tunneling Spider: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
-
-## Reaver
-
-- Federate: [Mercenary](../units/mercenary.md), [Observer](../units/observer.md), [Pistoleer](../units/pistoleer.md), [Magelock](../units/magelock.md), [Sapper](../units/sapper.md), [Breacher](../units/breacher.md), [Magelock Cannon](../units/magelock-cannon.md)
-- Imperial: [Harrier](../units/harrier.md), [Mercenary](../units/mercenary.md), [Observer](../units/observer.md), [Magelock](../units/magelock.md), [Overseer](../units/overseer.md), [Dragoon](../units/dragoon.md), [Magelock Cannon](../units/magelock-cannon.md)

@@ -6,7 +6,7 @@
 - Cost: 400 Draft 300 Gold | Upkeep: 60 Gold 7 Imperium
 - DLC: RISEFROMRUIN
 
-A {GLOBAL.FractureLoreConcept.Hyperlink}, byproduct of the experiments of the {GLOBAL.UnmakersLoreConcept.Hyperlink}.
+A ?, byproduct of the experiments of the ?.
 
 ## Abilities
 

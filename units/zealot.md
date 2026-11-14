@@ -6,7 +6,7 @@
 - Cost: 80 Draft 60 Gold | Upkeep: 8 Gold
 - DLC: Base
 
-Cheap fanatical Fighter unit that is advantageous against {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} units.
+Cheap fanatical Fighter unit that is advantageous against ? units.
 
 ## Abilities
 

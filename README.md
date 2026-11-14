@@ -12,7 +12,10 @@ It is generated from [aow4db](https://github.com/MinionsArt/aow4db), a community
 | [`traits/`](traits/) | Faction traits: 55 society, 79 form and 9 destiny traits, with cost, affinity, effects and starting bonus |
 | [`units/`](units/_index.md) | 413 units: stats, cost, abilities, passives, rank-up rewards and where they come from |
 | [`spells/`](spells/_index.md) | 579 spells: type, cost, upkeep, unlocking tome and full text |
-| [`cultures/`](cultures/_index.md) | Culture tomes and culture units by subculture |
+| [`cultures/`](cultures/_index.md) | 12 cultures and 29 subcultures: description, starting affinity, culture tomes and units |
+| [`races.md`](races.md) | The 24 race appearances |
+| [`rulers.md`](rulers.md) | Ruler origins, dragon/giant/vampire subtypes, Archon Prophecy visions |
+| [`world/`](world/_index.md) | Relics, free city factions, ancient wonders and landmarks, cosmic happenings |
 | [`heroes/`](heroes/_index.md) | Hero skill trees, hero items by slot, destinies |
 | [`empire/`](empire/_index.md) | Empire skills, governors, city structures, siege projects, item forge |
 | [`glossary.md`](glossary.md) | In-game concept tooltips |
@@ -44,7 +47,9 @@ git diff --stat           # shows what the patch changed
 
 ## Not in the data
 
-The race list, culture descriptions and starting affinities, and the exact tome tier-unlock rules.
+- The exact affinity amounts needed for each tome tier. The general rule (every two tomes unlock the next tier, and higher tiers also need affinity) is quoted in [`tomes/_index.md`](tomes/_index.md).
+- Values the game computes at runtime, shown as `?` in the text.
+- Descriptions for the Architect subcultures.
 
 ## Credits
 

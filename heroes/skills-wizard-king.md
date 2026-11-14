@@ -5,14 +5,14 @@
 (type normal; requires ; DLC Base)
 
 
-- **Amplified Evocation**: [Combat] Damage Spells cast in combat where this unit is present deal +20% damage.
+- **Amplified Evocation**: Damage Spells cast in combat where this unit is present deal +20% damage.
 
 ## Amplified Healing
 
 (type normal; requires ; DLC Base)
 
 
-- **Amplified Healing**: - [Combat] Healing Spells cast in combat where the Wizard King is present heal +50% more.; Unlock the Arcane Renewal spell.
+- **Amplified Healing**: - Healing Spells cast in combat where the Wizard King is present heal +50% more.; Unlock the Arcane Renewal spell.
 
 ## Attuned Godir
 
@@ -47,14 +47,14 @@
 (type normal; requires ; DLC Base)
 
 
-- **Enchanter's Ritual**: Adds an effect to Channeling Ritual: ; [Combat] Healing Spells and [Combat] Buff Spells become Overcharged for 1.
+- **Enchanter's Ritual**: Adds an effect to Channeling Ritual: ; Healing Spells and Buff Spells become Overcharged for 1.
 
 ## Evoker's Ritual
 
 (type normal; requires ; DLC Base)
 
 
-- **Evoker's Ritual**: Adds an effect to Channeling Ritual: ; [Combat] Damage Spells and [Combat] Debuff Spells become Overcharged for 1 Turn.
+- **Evoker's Ritual**: Adds an effect to Channeling Ritual: ; Damage Spells and Debuff Spells become Overcharged for 1 Turn.
 
 ## Quickened Ritual
 

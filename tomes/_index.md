@@ -1,6 +1,6 @@
 # Tomes
 
-Affinity = affinity points the tome grants. Tier N+1 unlocks after enough tomes of tier N.
+Affinity = affinity points the tome grants. Unlock rule (in-game tutorial): For every two tomes you pick, you will unlock the next tier of tomes. Higher tier tomes also require a certain amount Affinity to be unlocked. The exact affinity amounts per tier are not in the data.
 
 ## Magic tomes (researchable, tiers 1-5)
 
@@ -104,7 +104,6 @@ Culture tomes (named 'Culture - Subculture') hold what that culture/subculture u
 
 | Tome | Tier | Affinity | DLC | Summary |
 |---|---|---|---|---|
-| [](unnamed.md) | 0 |  | Base |  |
 | [Architect](architect.md) | 0 |  | ARCHONPROPHECY | This research is available to Rulers with the Architect culture. They empower and adapt to their Affinity. |
 | [Barbarian](barbarian.md) | 0 |  | Base | This research is available to rulers with the Barbarian culture. They specialize in speed and aggression. |
 | [Crystal Pact](crystal-pact.md) | 0 |  | GIANTKINGS | These boons can be purchased from a Crystal Dwelling by reaching a Crystal or Eternal pact with them. They will give you access to Lithorine units and the power of the Eternals. |

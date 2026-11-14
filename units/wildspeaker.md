@@ -7,7 +7,7 @@
 - DLC: Base
 - Source: Tome: Tome of Beasts
 
-A {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink} that summons and empowers \\>.
+A ? that summons and empowers \\>.
 
 ## Abilities
 

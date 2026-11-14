@@ -1,0 +1,35 @@
+# Abjurer Pylon
+
+- Tier: 2
+- HP 70 | Defense 2 | Resistance 2 | Status resistance 0
+- Movement 40 | Combat speed 3
+- Cost: 120 Draft 100 Gold | Upkeep: 12 Gold
+- DLC: SECRETSOFTHEARCHMAGES
+
+## Abilities
+
+- **Magic Shield** (accuracy Always Hits, range 4, single-use action): Target friendly unit gains: ; 2 Grace; 2 Status Protection for 3 Turns. Requires: Support
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+
+## Passives
+
+- **All-round Awareness**: Immune to Flanking
+- **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
+- **Immobilized**: This unit cannot move or use Movement abilities.
+- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
+- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
+- **Status Effect Immunity: Morale**: This unit is Immune to Morale-type status effects.
+- **Status Effect Immunity: Soulbound**: Unit is immune to Soulbound and cannot be transformed into a Decaying Zombie by necromancy spells and abilities.
+
+## Unit type traits
+
+- **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
+- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+
+## Rank-up rewards
+
+- Rank 2: +10 HP
+- Rank 3: +10 HP
+- Rank 4: +10 HP, +1 Defense, +1 Resistance
+- Rank 5: +10 HP
+- Rank 6: +10 HP, +10% damage, +1 Defense, +1 Resistance

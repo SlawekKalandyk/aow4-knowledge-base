@@ -1,0 +1,9 @@
+# Summon Ice Runestele
+
+- Type: [World Map] Terraforming Spell
+- Casting cost: 80 Mana
+- Upkeep: 5 Mana
+- Casting points: 80
+- DLC: GIANTKINGS
+
+Summon an Ice Runestele on target Province, which will appear on an empty hex and terraform surrounding provinces every Turn.

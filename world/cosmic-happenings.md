@@ -14,7 +14,7 @@ Global Effects:
 (Major Major, 12 turns)
 
 Global Effects:
-- Magic Origin units gain Magic Origin Potential, granting: Attacks inflict Sundered Resistance and gain +5 [Combat] Combat Casting Points at the start of combat.
+- Magic Origin units gain Magic Origin Potential, granting: Attacks inflict Sundered Resistance and gain +5 Combat Casting Points at the start of combat.
 - Combat spells are always Overcharged the first time they are cast each combat.
 - For the rest of the game, all units have -2 Lightning Resistance.
 
@@ -39,7 +39,7 @@ Mysterious Fey folk appear from the mists to attack the cities of the unwary.
 
 Global Effects:
 - Mana income is reduced by -30%.
-- World Map Spells cost +50% [World Map] World Map Casting Points.
+- World Map Spells cost +50% World Map Casting Points.
 
 ## Blightfall Conjunction
 
@@ -72,14 +72,14 @@ Global Effects:
 Global Effects:
 - A World Tree seedling causes forests to spread into adjacent provinces.
 - Grasping Vines is active in combat: Every 2 turns in combat, all units have a 50% chance of becoming Immobilized for 1 Turn.
-- Units on Forest provinces suffer from -5 HP Hit Point regeneration per Turn and -2 Vision Range.
+- Units on Forest provinces suffer from -5 Hit Point regeneration per Turn and -2 Vision Range.
 
 ## Melenis's Kiss
 
 (Minor Entity, 8 turns)
 
 Global Effects:
-- All units have a 30% chance of turning slain non-Undead units into Zombies under your control which stay after combat. These Zombies cannot regenerate HP Hit Points.
+- All units have a 30% chance of turning slain non-Undead units into Zombies under your control which stay after combat. These Zombies cannot regenerate Hit Points.
 
 ## Phase-shift Nixing
 
@@ -112,7 +112,7 @@ Global Effects:
 Global Effects:
 - Provinces turn into Arctic around the world.
 - Arctic Blizzards is active in combat: Every turn in combat, all units take 8 Frost Damage damage and all Wet units have a 90% chance of becoming Frozen.
-- Units on Arctic provinces suffer from -5 HP Hit Point regeneration per Turn and -2 Vision Range.
+- Units on Arctic provinces suffer from -5 Hit Point regeneration per Turn and -2 Vision Range.
 
 ## Sign Of The Huntress
 

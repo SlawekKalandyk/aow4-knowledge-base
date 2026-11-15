@@ -8,7 +8,7 @@
 
 Carve profane sigils onto the flesh of your race, granting them:
 
-- +5 HP Hit Point regeneration on the World Map.
+- +5 Hit Point regeneration on the World Map.
 - Attack and Debuff abilities:
 
 - Ignore 1 Status Resistance per stack of Bleeding on the target.

@@ -17,7 +17,7 @@ This amalgamation of reanimated corpses has the sole purpose of killing your foe
 
 ## Passives
 
-- **Corpse Cage**: The first time this unit's total HP Hit Points reach 50% or lower, it summons a Decaying Zombie.
+- **Corpse Cage**: The first time this unit's total Hit Points reach 50% or lower, it summons a Decaying Zombie.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Heartless**: The unit has a -50% modifier to Morale changes
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%

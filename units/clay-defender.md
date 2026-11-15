@@ -20,7 +20,7 @@
 - **Reinforced**: Unit has +3 Defense against Missile attacks.
 - **Shield Defense**: This unit has +3 Defense against non- Flanking attacks.
 - **Spiked Shield**: Melee range attackers sustain 2 Physical Damage when attacking this unit.
-- **Undying**: When killed, this unit will revive with 50% of its total HP Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Undying**: When killed, this unit will revive with 50% of its total Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
 
 ## Unit type traits
 

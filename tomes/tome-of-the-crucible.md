@@ -24,7 +24,7 @@ Bury your enemies in lava and shape the land using the destructive forces of bot
   - Vantage Point
   
   - The City ignores negative City Stability penalties from annexing provinces with Chasm or Lava.
-- [Meteor Shower](../spells/meteor-shower.md) ([Combat] Combat Enchantment): Up to 2 random enemy units and enemies adjacent to those:
+- [Meteor Shower](../spells/meteor-shower.md) (Combat Enchantment): Up to 2 random enemy units and enemies adjacent to those:
   
   - Sustain 10 Fire Damage and 10 Physical Damage.
   

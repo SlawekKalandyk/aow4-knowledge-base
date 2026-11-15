@@ -62,12 +62,44 @@ def ref_name(m):
 
 
 CONCEPT_NAMES = {}  # filled after data load
+NAMES_BY_KEY = {}  # "WARRIORSSOUL" -> "Warrior's Soul"; filled after data load
+
+# Icon labels whose following word names them differently ("<hp></hp> Hit Points").
+ICON_ALIASES = {"HP": "hit", "XP": "experience"}
+
+
+_SPACED_CHAR = r"[A-Z0-9](?:_[0-9]?)*\.?"  # one letter, plus any '_' / '_2_' / '.' glued to it
+SPACED_KEY = rf"{_SPACED_CHAR}(?: {_SPACED_CHAR}){{3,}}"  # 'P R O P E R T I E S. W A R R I O R S_ S O U L'
+
+
+# Keys written without underscores, so they can't be split into words automatically.
+SPACED_KEY_WORDS = {"HEAVYMELEESTRIKE": "Heavy Melee Strike", "CHANNELINGCHAMBER": "Channeling Chamber",
+                    "BEACONOFUNITY": "Beacon of Unity", "COSMICFLUX_ELIXIR": "Cosmic Flux Elixir"}
+
+
+def spaced_key_name(m):
+    """Unresolved localization key spelled out letter by letter in raw text -> display name.
+    'P R O P E R T I E S. W A R R I O R S_ S O U L' -> "Warrior's Soul"; unknown keys are title-cased."""
+    raw = m.group(1).replace(" ", "")
+    end = "." if raw.endswith(".") else ""  # the sentence's full stop, glued to the last letter
+    *namespace, key = raw.rstrip(".").split(".")
+    if namespace == ["MISC"]:
+        return "?" + end  # MISC.* are runtime numbers (RACE_POPULATION_THRESHOLD)
+    key = re.sub(r"^(HEROTRAIT_GOVERNANCE_|COMBATPROPERTY_)|_(UNIT_|TOOLTIP_)?(PROPERTY|ABILITY)$", "", key)
+    key = re.sub(r"^GIANT_GOVERNOR_(\w+)$", r"\1_GIANT_GOVERNOR", key)  # GIANT_GOVERNOR_FIRE -> Fire Giant Governor
+    name = SPACED_KEY_WORDS.get(key) or NAMES_BY_KEY.get(key.replace("_", ""))
+    if not name:
+        name = key.replace("_", " ").strip().title()
+        name = re.sub(r"(?<= )(Of|The|To|And|In)\b", lambda w: w.group().lower(), name)
+    return name + end
 
 
 def clean(s):
     if not s:
         return ""
     s = str(s).replace('\\"', '"').replace("\\n", "\n")
+    s = re.sub(rf"(?<=>)({SPACED_KEY})(?=</span>)", spaced_key_name, s)  # usually wrapped in <span>
+    s = re.sub(rf"(?<![\w.])({SPACED_KEY}(?: {_SPACED_CHAR}){{4,}})(?![\w])", spaced_key_name, s)  # unwrapped, 8+ letters
     s = re.sub(r"<span[^>]*>|</span>", "", s)
     # Localization markup (all.json): [hyperlink,GLOBAL.X]Text[/hyperlink], [spellref,...]Text[/spellref]
     s = re.sub(r"\[(\w+),[^\]]*\](.*?)\[/\1\]", r"\2", s)
@@ -84,7 +116,7 @@ def clean(s):
     def icon(m):
         num, tag, nxt = m.group(1), m.group(2), m.group(3).lower()
         label = icon_label(tag)
-        if nxt and nxt.startswith(label.lower()[:4]):
+        if nxt and (nxt.startswith(label.strip("[]").lower()[:4]) or nxt.startswith(ICON_ALIASES.get(label, "\0"))):
             label = ""  # following text already names it ("3 <turn></turn> Turns")
         if num:
             return f"{num} {label} "
@@ -204,6 +236,22 @@ forge_types = load("ItemForgeTypes")
 forge_upgrades = load("ItemForgeUpgrades")
 concepts = load("concept_tooltips")
 CONCEPT_NAMES.update({k: v["name"] for k, v in concepts.items() if v.get("name")})
+
+
+def _collect_names(x):
+    if isinstance(x, dict):
+        n = x.get("name")
+        if isinstance(n, str) and n and "<" not in n:
+            NAMES_BY_KEY.setdefault(re.sub(r"[^A-Z0-9]", "", n.upper()), n)
+        for v in x.values():
+            _collect_names(v)
+    elif isinstance(x, list):
+        for v in x:
+            _collect_names(v)
+
+
+_collect_names([load("StatusEffects"), list(concepts.values()), units, list(abilities.values()), hero_skills,
+                hero_items, structures, spells, tomes])
 # Full English localization keyed by id; GEN/*.json records point into it via extraLookup/lookup.
 loc = {x["id"]: x for x in load("all")}
 

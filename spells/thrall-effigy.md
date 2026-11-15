@@ -1,6 +1,6 @@
 # Thrall Effigy
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 30 Souls
 - Casting points: 80
 - DLC: Base

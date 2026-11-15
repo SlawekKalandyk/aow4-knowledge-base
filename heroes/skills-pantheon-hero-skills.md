@@ -134,7 +134,7 @@
 (type normal; granted by [Tome of Abjuration](../tomes/tome-of-abjuration.md) (tier 1); DLC SECRETSOFTHEARCHMAGES)
 
 
-- **Field Abjurer**: Non-hero units in your army have: ; When this unit's total HP Hit Points reach 60% or lower, gain 3 Grace.
+- **Field Abjurer**: Non-hero units in your army have: ; When this unit's total Hit Points reach 60% or lower, gain 3 Grace.
 
 ## Ascension: Fiery Seductor
 
@@ -190,14 +190,14 @@
 (type normal; granted by [Tome of the Weaver](../tomes/tome-of-the-weaver.md) (tier 3); DLC SECRETSOFTHEARCHMAGES)
 
 
-- **Living Spider Nest**: - When this unit's total HP Hit Points reach 60% or lower, conjure a Tier II Spider.; When this unit's total HP Hit Points reach 30% or lower, conjure a Tier II Spider.  This summon lasts for 3 Turns.  Additionally allows for the drafting of Tier I and Tier II Spiders in cities.
+- **Living Spider Nest**: - When this unit's total Hit Points reach 60% or lower, conjure a Tier II Spider.; When this unit's total Hit Points reach 30% or lower, conjure a Tier II Spider.  This summon lasts for 3 Turns.  Additionally allows for the drafting of Tier I and Tier II Spiders in cities.
 
 ## Ascension: Martyr
 
 (type normal; granted by [Tome of the God Emperor](../tomes/tome-of-the-god-emperor.md) (tier 5); DLC Base)
 
 
-- **Ascended Martyrdom**: 1 Turn after this unit dies, it: ; Comes back to life with 40% of its total HP Hit Points.; Grants 10 Morale and 15 HP Hit Points to all friendly units.  Works once per battle.
+- **Ascended Martyrdom**: 1 Turn after this unit dies, it: ; Comes back to life with 40% of its total Hit Points.; Grants 10 Morale and 15 Hit Points to all friendly units.  Works once per battle.
 
 ## Ascension: Master
 
@@ -253,7 +253,7 @@
 (type normal; granted by [Tome of the Cleansing Flame](../tomes/tome-of-the-cleansing-flame.md) (tier 3); DLC ELDRITCHREALMS)
 
 
-- **Ascended Pyrebearer**: This unit has Resurgence and -20 HP Hit Points When this unit dies: ; Enemy units in a 2 hex radius suffer 20 Fire Damage. Condemned and Weakened.; Create Cleansing Flames on the affected hexes.; All Friendly units gain Zeal until the end of battle.
+- **Ascended Pyrebearer**: This unit has Resurgence and -20 Hit Points When this unit dies: ; Enemy units in a 2 hex radius suffer 20 Fire Damage. Condemned and Weakened.; Create Cleansing Flames on the affected hexes.; All Friendly units gain Zeal until the end of battle.
 
 ## Ascension: Pyromancer
 
@@ -309,7 +309,7 @@
 (type normal; granted by [Tome of Evolution](../tomes/tome-of-evolution.md) (tier 1); DLC DRAGONLORDS)
 
 
-- **Ascended Shaper**: Non-Hero units in this hero's army gain +50% XP Experience.
+- **Ascended Shaper**: Non-Hero units in this hero's army gain +50% Experience.
 
 ## Ascension: Sorcerer
 
@@ -352,7 +352,7 @@
 
 
 - **Summon Phantasm Warrior** (accuracy Always Hits, range 2, single-use action): Summon a Phantasm Warrior onto the target hex for 3 Turns. Can only be used once per battle. Requires: Summoning
-- **Ascended Summoner**: In Combat, friendly Magic Origins units gain +10 HP Hit Points and deal 10% more damage.
+- **Ascended Summoner**: In Combat, friendly Magic Origins units gain +10 Hit Points and deal 10% more damage.
 
 ## Ascension: Tide Summoner
 
@@ -386,7 +386,7 @@
 
 (type normal; DLC Base)
 
-When this unit's total HP Hit Points reach % or lower, it gains for Turns:
+When this unit's total Hit Points reach % or lower, it gains for Turns:
 
 - Berserk
 - Steadfast
@@ -467,7 +467,7 @@ Enemy units in a -hex radius sustain damage. Enter Defense Mode.
 
 Target:
 
-- Friendly Undead corpse is revived with % of its total HP Hit Points.
+- Friendly Undead corpse is revived with % of its total Hit Points.
 - Non-Undead corpse is raised as a Zombie.
 
 ## Sap Strength

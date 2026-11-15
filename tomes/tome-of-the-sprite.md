@@ -9,7 +9,7 @@ Use the powers of small Fey to support your units and befuddle your enemies.
 
 ## Unlocks
 
-- [Catnap](../spells/catnap.md) ([World Map] Friendly Army Spell): Target friendly army loses all their movement points then heals by 1 HP Hit Point per movement point lost.
+- [Catnap](../spells/catnap.md) ([World Map] Friendly Army Spell): Target friendly army loses all their movement points then heals by 1 Hit Point per movement point lost.
 - [Captivating Lights](../spells/captivating-lights.md) ([Combat] Debuff Spell): Target enemy unit:
   
   - Becomes Distracted for 1 Turn.

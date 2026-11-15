@@ -10,5 +10,5 @@
 Grants enchanted units:
 
 - Natural Regeneration
-- +10 HP Hit Points
+- +10 Hit Points
 - +2 Lightning Protection

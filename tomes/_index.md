@@ -63,7 +63,7 @@ Needs = Affinity needed (player-provided, not in the game data): tier 3 = 3, tie
 | [Tome of Dragons](tome-of-dragons.md) | 3 | Nature 1, Chaos 1 | 3 combined Nature + Chaos | DRAGONLORDS | Revel in the power of Dragons and let their flames empower your people. |
 | [Tome of the Weaver](tome-of-the-weaver.md) | 3 | Nature 1, Shadow 1 | 3 combined Nature + Shadow | SECRETSOFTHEARCHMAGES | Inflict and exploit the Immobilized status effect and strike fear into your enemies. |
 | [Tome of Cycles](tome-of-cycles.md) | 3 | Nature 2 | 3 Nature | Base | Master the natural cycles of life and death and specialize in debuffing enemies and healing allies. |
-| [Tome of Vigor](tome-of-vigor.md) | 3 | Nature 2 | 3 Nature | Base | Strengthen your units and armies with the brute power of wild beasts. Specialize in buffing Animals and increasing HP Hit Points. |
+| [Tome of Vigor](tome-of-vigor.md) | 3 | Nature 2 | 3 Nature | Base | Strengthen your units and armies with the brute power of wild beasts. Specialize in buffing Animals and increasing Hit Points. |
 | [Tome of Prophecies](tome-of-prophecies.md) | 3 | Order 1, Astral 1 | 3 combined Order + Astral | ARCHONPROPHECY | Prevent enemy attacks and foresee the downfall of your enemies. |
 | [Tome of the Cleansing Flame](tome-of-the-cleansing-flame.md) | 3 | Order 1, Chaos 1 | 3 combined Order + Chaos | ELDRITCHREALMS | Utilize the zeal of your troops to bathe the battlefield in cleansing flame that punishes the condemned and blesses the faithful. |
 | [Tome of Sanctuary](tome-of-sanctuary.md) | 3 | Order 2 | 3 Order | Base | Create a safe haven for all believers. Specialize in healing and buffing defenses. |

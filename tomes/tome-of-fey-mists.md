@@ -16,7 +16,7 @@ Conjure otherworldly mists to protect and strengthen your units.
   
   - Vision penalties from Misty.
   - Accuracy penalties from Clinging Mist.
-- [Lingering Mists](../spells/lingering-mists.md) ([World Map] World Spell): Target province becomes Misty for 3 Turns.
+- [Lingering Mists](../spells/lingering-mists.md) (World Spell): Target province becomes Misty for 3 Turns.
 - [Fey Embrace](../spells/fey-embrace.md) ([Combat] Buff Spell): In a 1-hex radius:
   
   - Place Mist clouds.

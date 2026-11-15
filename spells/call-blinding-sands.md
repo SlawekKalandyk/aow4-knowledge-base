@@ -1,6 +1,6 @@
 # Call Blinding Sands
 
-- Type: [Combat] Combat Enchantment
+- Type: Combat Enchantment
 - Casting cost: 80 Mana
 - Casting points: 35
 - DLC: ELDRITCHREALMS

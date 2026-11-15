@@ -1,6 +1,6 @@
 # Monarch's Decree
 
-- Type: [Combat] Combat Enchantment
+- Type: Combat Enchantment
 - Casting cost: 30 Mana
 - Casting points: 25
 - Tome: Feudal - Monarchy

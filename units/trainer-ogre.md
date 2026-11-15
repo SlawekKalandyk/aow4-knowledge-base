@@ -19,7 +19,7 @@
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Defensive Masters**: Unit always enters Defense Mode at the end of its Turn.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Expert Trainer**: Other units in the army gain 50% extra XP Experience from combat.
+- **Expert Trainer**: Other units in the army gain 50% extra Experience from combat.
 
 ## Unit type traits
 

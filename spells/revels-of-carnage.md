@@ -6,4 +6,4 @@
 - Tome: Tome of Revelry
 - DLC: Base
 
-Non-hero units in target friendly army gain +100% XP Experience from combat for 3 Turns.
+Non-hero units in target friendly army gain +100% Experience from combat for 3 Turns.

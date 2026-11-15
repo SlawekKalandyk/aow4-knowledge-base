@@ -277,7 +277,7 @@ Hurl Ice Boulder:
 
 Conjured Weapon now lasts until the end of combat and gains:
 
-- +10 HP Hit Points
+- +10 Hit Points
 - +2 Status Resistance
 - +1 Defense
 - +1 Resistance
@@ -288,7 +288,7 @@ Conjured Weapon now lasts until the end of combat and gains:
 
 Conjured Weapon now lasts until the end of combat and gains:
 
-- +10 HP Hit Points
+- +10 Hit Points
 - +2 Status Resistance
 - +1 Defense
 - +1 Resistance
@@ -299,7 +299,7 @@ Conjured Weapon now lasts until the end of combat and gains:
 
 Conjured Weapon now lasts until the end of combat and gains:
 
-- +10 HP Hit Points
+- +10 Hit Points
 - +2 Status Resistance
 - +1 Defense
 - +1 Resistance
@@ -310,7 +310,7 @@ Conjured Weapon now lasts until the end of combat and gains:
 
 Conjured Weapon now lasts until the end of combat and gains:
 
-- +10 HP Hit Points
+- +10 Hit Points
 - +2 Status Resistance
 - +1 Defense
 - +1 Resistance
@@ -347,28 +347,28 @@ Conjured Weapon now lasts until the end of combat and gains:
 
 (type normal; requires any of Rune of Power: Fire, Rune of Protection: Fire; DLC GIANTKINGS)
 
-- Gain +20 HP Hit Point.
+- Gain +20 Hit Point.
 - Gain access to the Rune of Creation: Fire infusion in the Item Forge. Applies to Wands.
 
 ## Rune of Creation: Frost
 
 (type normal; requires any of Rune of Power: Frost, Rune of Protection: Frost; DLC GIANTKINGS)
 
-- Gain +20 HP Hit Point.
+- Gain +20 Hit Point.
 - Gain access to the Rune of Creation: Frost infusion in the Item Forge. Applies to Wands.
 
 ## Rune of Creation: Rock
 
 (type normal; requires any of Rune of Power: Rock, Rune of Protection: Rock; DLC GIANTKINGS)
 
-- Gain +20 HP Hit Point.
+- Gain +20 Hit Point.
 - Gain access to the Rune of Creation: Rock infusion in the Item Forge. Applies to Wands.
 
 ## Rune of Creation: Storm
 
 (type normal; requires any of Rune of Power: Storm, Rune of Protection: Storm; DLC GIANTKINGS)
 
-- Gain +20 HP Hit Point.
+- Gain +20 Hit Point.
 - Gain access to the Rune of Creation: Storm infusion in the Item Forge. Applies to Wands.
 
 ## Rune of Power: Fire

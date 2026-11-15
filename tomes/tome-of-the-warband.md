@@ -15,11 +15,11 @@ Build strong martial armies and mentor your units through the ranks.
   - Gain 15 Morale
 - [Bred for War](../spells/bred-for-war.md) ([World Map] Minor Race Transformation): Transformed units become stronger and more battle ready gaining:
   
-  - +10 HP Hit Points.
+  - +10 Hit Points.
   - +10% Morale resistance to morale loss, plus +10% for each adjacent friendly unit.
 - Mentorship (Empire Bonus): All heroes under your control gain:
   
-  - While army leader, the non-Hero unit with the least XP Experience in the army gains +40 XP Experience per World Map Turn.
+  - While army leader, the non-Hero unit with the least Experience in the army gains +40 Experience per World Map Turn.
 - [Training Regimen](../spells/training-regimen.md) ([World Map] City Spell): Target owned city:
   
   - Gains 40 Draft.

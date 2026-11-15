@@ -20,7 +20,7 @@
 - **Accursed Body**: When a melee range attack hits, the attacker has a 30% chance of being inflicted with Ghostfire for 3 Turns.
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **Status Effect Immunity: Burning**: Unit is immune to Burning.
 
 ## Unit type traits

@@ -18,7 +18,7 @@
 
 - **Accursed Body**: When a melee range attack hits, the attacker has a 30% chance of being inflicted with Ghostfire for 3 Turns.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Duplicity**: When this unit's total HP Hit Points drop to 50% or lower, it creates a clone on a nearby hex. This clone does 30% less damage and has Astral Reflection.
+- **Duplicity**: When this unit's total Hit Points drop to 50% or lower, it creates a clone on a nearby hex. This clone does 30% less damage and has Astral Reflection.
 - **Status Effect Immunity: Burning**: Unit is immune to Burning.
 
 ## Unit type traits

@@ -18,7 +18,7 @@
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **Heartless**: The unit has a -50% modifier to Morale changes
 - **High Maintenance**: Base Unit Upkeep increased by 50%
 - **Juggernaut**: This unit may crush non-Fortified obstacles.

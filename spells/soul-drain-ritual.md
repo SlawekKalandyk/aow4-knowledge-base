@@ -1,6 +1,6 @@
 # Soul Drain Ritual
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 3 Thralls
 - Casting points: 45
 - DLC: Base

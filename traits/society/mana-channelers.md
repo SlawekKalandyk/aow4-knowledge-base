@@ -8,7 +8,7 @@
 ## Effects
 
 - Summoning Spells cost -50% Mana to cast.
-- Magic Origin gain +30% more XP Experience from combat.
+- Magic Origin gain +30% more Experience from combat.
 
 ## Starting bonus
 

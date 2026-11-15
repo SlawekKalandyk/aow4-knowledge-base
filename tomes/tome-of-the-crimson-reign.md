@@ -16,8 +16,8 @@ Embrace a forgotten, corrupt magic that empowers your high tier units and spread
   - Base attacks have a base 60% chance of inflicting Blood Parasite for 3 Turns. This effect is increased for Single Shot attacks.
 - Crimson Court (City Structure): - Tier III, IV, and V units you own gain:
   
-  - +5 HP Hit Point regeneration on the world map.
-  - Gain 10 XP Experience per turn on the world map.
+  - +5 Hit Point regeneration on the world map.
+  - Gain 10 Experience per turn on the world map.
   
   - Gain Crimson Court Magistrate, letting you gain mana from Vassal and when Migrating, Razing, or Pillaging.
 - [Mantle of the Blood Noble](../spells/mantle-of-the-blood-noble.md) ([World Map] Unit Enchantment): Grants enchanted units:
@@ -25,9 +25,9 @@ Embrace a forgotten, corrupt magic that empowers your high tier units and spread
   - Coagulate
   - At the start of combat, for each friendly non-summon Tier I and Tier II unit:
   
-  - +5 HP Hit Points
+  - +5 Hit Points
   - +5% healing received in combat.
-- [Tears of the Crimson Sovereign](../spells/tears-of-the-crimson-sovereign.md) ([Combat] Combat Enchantment): When cast and for the next 2 Turns:
+- [Tears of the Crimson Sovereign](../spells/tears-of-the-crimson-sovereign.md) (Combat Enchantment): When cast and for the next 2 Turns:
   
   - Up to 3 enemy units:
   

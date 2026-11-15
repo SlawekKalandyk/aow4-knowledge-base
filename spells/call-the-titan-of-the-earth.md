@@ -1,6 +1,6 @@
 # Call the Titan of the Earth
 
-- Type: [Combat] Combat Summon Spell
+- Type: Combat Summon Spell
 - Casting cost: 200 Mana
 - Casting points: 65
 - Tome: Tome of the Creator

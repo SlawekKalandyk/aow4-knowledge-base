@@ -6,4 +6,4 @@
 - Tome: Tome of the Sprite
 - DLC: SECRETSOFTHEARCHMAGES
 
-Target friendly army loses all their movement points then heals by 1 HP Hit Point per movement point lost.
+Target friendly army loses all their movement points then heals by 1 Hit Point per movement point lost.

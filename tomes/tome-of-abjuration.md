@@ -20,15 +20,15 @@ Create wards and protections to preserve your units.
   - +2 Status Resistance
 - [Abjurer Glyphs](../spells/abjurer-glyphs.md) ([World Map] Unit Enchantment): Enchanted units gain:
   
-  - Battle Shields, gaining Precognition when its total HP Hit Points reach 60% and 30%.
+  - Battle Shields, gaining Precognition when its total Hit Points reach 60% and 30%.
 - [Abjure Violence](../spells/abjure-violence.md) ([Combat] Debuff Spell): Target enemy unit:
   
   - Has a base 120% chance of becoming Pacified for 1 Turn.
-  - Chance decreases based on target's lost HP Hit Points.
+  - Chance decreases based on target's lost Hit Points.
 - [Curse Reversal](../spells/curse-reversal.md) ([Combat] Buff Spell): Target friendly unit:
   
   - Has its negative status effects removed.
   - If the removed status effects have positive counters, the unit gains a stack of it.
-- [Conjure Abjurer Pylon](../spells/conjure-abjurer-pylon.md) ([Combat] Combat Summon Spell): Conjure an Abjurer Pylon on target hex that casts Magic Shield on friendly units.
+- [Conjure Abjurer Pylon](../spells/conjure-abjurer-pylon.md) (Combat Summon Spell): Conjure an Abjurer Pylon on target hex that casts Magic Shield on friendly units.
   This summon lasts for 3 Turns.
 - Glyph Tower (Initial City Upgrade): - +10 City Stability; +10 Draft; Per adjacent Conduit or Research Post: ; +3 City Stability; +1 Fortification Health ; Counts as a Conduit

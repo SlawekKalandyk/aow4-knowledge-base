@@ -12,7 +12,7 @@ Create and protect forests. Specialize in healing and making use of forests.
 - [Aspect of the Root](../spells/aspect-of-the-root.md) ([World Map] Unit Enchantment): Grants enchanted units:
   
   - The Aspect of the Root ability, which allows units to heal themselves in battle.
-- [Animate Flora](../spells/animate-flora.md) ([Combat] Combat Summon Spell): Target Flora Obstacle transforms into a Floral Stinger unit under your control.
+- [Animate Flora](../spells/animate-flora.md) (Combat Summon Spell): Target Flora Obstacle transforms into a Floral Stinger unit under your control.
   This summon lasts for 3 Turns.
 - [Summon Entwined Protector](../spells/summon-entwined-protector.md) ([World Map] Summon Spell): Summons an Entwined Protector, a Shield Unit with healing abilities.
 - [Leafskin](../spells/leafskin.md) ([World Map] Minor Race Transformation): Makes the target race one with the forest, granting them:

@@ -1,6 +1,6 @@
 # Watchful Eye
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 45 Mana
 - Casting points: 45
 - Tome: Nomad - Conquerors

@@ -11,7 +11,7 @@
 
 - **Heavy Charge Strike** (damage 9 Physical 9 Fire 9 Spirit, accuracy 100%, range 1, single-use action): A Heavy Charge attack: ; Gains 30% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base, Single Shot
 - **Sunburst** (damage 17 Fire 17 Spirit, accuracy Always Hits, range 4, full action): Enemy units in a 1-hex radius: ; Sustain Damage.; Gain 2 Burning for 3 Turns.; Have a base 90% chance of becoming Blind for 1 Turn. Cooldown: 2 Turns Requires: Magic
-- **Mend the Weak** (accuracy Always Hits, range 3, free action): Target friendly unit heals +10 Temporary Hit Points.  Double the heal if the target is below 60% or less of its maximum HP Hit Points. Cooldown: 2 Turns Requires: Support
+- **Mend the Weak** (accuracy Always Hits, range 3, free action): Target friendly unit heals +10 Temporary Hit Points.  Double the heal if the target is below 60% or less of its maximum Hit Points. Cooldown: 2 Turns Requires: Support
 - **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
 
 ## Passives

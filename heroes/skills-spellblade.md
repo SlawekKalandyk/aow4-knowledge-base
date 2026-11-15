@@ -251,13 +251,13 @@ Modify and enhance Lightning Evocation:
 
 (type normal; requires Knockback Retaliations; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Vigor
 
 (type normal; requires Frontline Fighter; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Weaver
 

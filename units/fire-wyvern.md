@@ -16,7 +16,7 @@
 ## Passives
 
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
 - **Melee Mage**: Unit can use Magic and Support abilities while Engaged in Melee.
 

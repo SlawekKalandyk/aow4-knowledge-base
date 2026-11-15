@@ -16,7 +16,7 @@
 
 - **Empowering Momentum**: After moving at least 3 hexes, gain Momentum until the end of the Turn.
 - **Fiery Momentum**: While this unit has Momentum: ; Attacks inflict guaranteed Burning.; Gain Demolisher.
-- **Slip Away**: When this unit's HP Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
 
 ## Unit type traits
 

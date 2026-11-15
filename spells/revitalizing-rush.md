@@ -8,5 +8,5 @@
 
 Units in target friendly army:
 
-- Heal 10 HP Hit Points.
+- Heal 10 Hit Points.
 - At the start of the next combat, units are Hastened for 3 Turns.

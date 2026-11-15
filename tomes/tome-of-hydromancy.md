@@ -11,7 +11,7 @@ Rush your allies, manipulate your enemies, and inflict the Wet status effect.
 
 - [Revitalizing Rush](../spells/revitalizing-rush.md) ([World Map] Friendly Army Spell): Units in target friendly army:
   
-  - Heal 10 HP Hit Points.
+  - Heal 10 Hit Points.
   - At the start of the next combat, units are Hastened for 3 Turns.
 - [Riptide](../spells/riptide.md) ([Combat] Damage/Debuff Spell): Units in a 1-hex radius:
   

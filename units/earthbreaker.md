@@ -15,7 +15,7 @@
 ## Passives
 
 - **Affinity Incarnate**: For each stack of Affinity Incarnate this unit gains damage based on their Empire's dominant Affinity: ; Order Affinity: +1 Spirit Damage; Chaos Affinity: +1 Fire Damage; Astral Affinity: +1 Lightning Damage; Materium Affinity: +1 Physical Damage; Nature Affinity: +1 Blight Damage; Shadow Affinity: +1 Frost Damage  Effects are increased for Single Shot attacks.
-- **Incarnate Fortitude**: This unit gains +5 HP Hit Points per stack of Affinity Incarnate.
+- **Incarnate Fortitude**: This unit gains +5 Hit Points per stack of Affinity Incarnate.
 
 ## Unit type traits
 

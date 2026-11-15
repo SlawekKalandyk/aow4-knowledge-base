@@ -7,7 +7,7 @@
 
 ## Effects
 
-- Non-hero units gain +30% XP Experience from combat.
+- Non-hero units gain +30% Experience from combat.
 
 ## Description
 

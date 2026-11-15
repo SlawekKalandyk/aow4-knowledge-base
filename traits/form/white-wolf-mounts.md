@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Gains the Pack Hunter passive ability.
 - Grants the Enfeebling Howl ability.
 - Additional units become Cavalry

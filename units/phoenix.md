@@ -16,7 +16,7 @@
 ## Passives
 
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Fiery Rebirth**: When killed, this unit will revive with 40% of its total HP Hit Points: ; After 2 Combat Turn and then deal 15 Fire Damage to adjacent enemy units.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Fiery Rebirth**: When killed, this unit will revive with 40% of its total Hit Points: ; After 2 Combat Turn and then deal 15 Fire Damage to adjacent enemy units.; If side is victorious in battle.  Can only be triggered once per battle.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
 - **Melee Mage**: Unit can use Magic and Support abilities while Engaged in Melee.
 - **Status Effect Immunity: Burning**: Unit is immune to Burning.

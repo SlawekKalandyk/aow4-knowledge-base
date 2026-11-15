@@ -1,6 +1,6 @@
 # Move Portal
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 100 Mana
 - DLC: SECRETSOFTHEARCHMAGES
 

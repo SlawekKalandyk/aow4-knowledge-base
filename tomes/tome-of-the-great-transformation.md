@@ -10,7 +10,7 @@ Turn your people into the Undead and transform your empire into a paradise for t
 ## Unlocks
 
 - Bone Dragon Reanimation (Empire Bonus): When killing non-racial Tier IV or Tier V units, gain the option to spend Souls to create a Bone Dragon after combat.
-- [Desecrate Structure](../spells/desecrate-structure.md) ([World Map] World Spell): Targets a resource node in your domain:
+- [Desecrate Structure](../spells/desecrate-structure.md) (World Spell): Targets a resource node in your domain:
   
   - Node provides +5 Soul income.
   - If you lose the province, the effect stops.
@@ -22,10 +22,10 @@ Turn your people into the Undead and transform your empire into a paradise for t
 - Necrotic Spires (City Structure): Tower Structure
   
   - Adds 4 Necrotic Spires in Combat during a Siege.
-  - Friendly Undead units in the domain heal +12 HP Hit Points per turn.
+  - Friendly Undead units in the domain heal +12 Hit Points per turn.
 - [Fetid Legion](../spells/fetid-legion.md) ([World Map] Unit Enchantment): Grants enchanted units:
   
-  - +10 HP Hit Points.
+  - +10 Hit Points.
   - Weakening Aura, which inflicts Weakened to adjacent enemies at the end of the turn.
 - [Wightborn](../spells/wightborn.md) ([World Map] Major Race Transformation): Gives the target race immortality beyond life, granting them:
   

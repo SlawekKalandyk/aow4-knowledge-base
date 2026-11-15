@@ -20,12 +20,12 @@ Create advanced Undead creatures and gain ways to collect more Souls. Specialize
 - [Soul Overflow](../spells/soul-overflow.md) ([Combat] Buff Spell): Friendly units in a 1-hex radius:
   
   - Gain 1 Strengthened.
-  - Gain +20 maximum HP Hit Points until the end of battle.
+  - Gain +20 maximum Hit Points until the end of battle.
   - Have 2 Negative Status Effects removed.
 - [Feast of Souls](../spells/feast-of-souls.md) ([World Map] Friendly Army Spell): Target friendly army:
   
-  - Heal non-Undead units for 20 HP Hit Points.
-  - Heal Undead units for 40 HP Hit Points.
+  - Heal non-Undead units for 20 Hit Points.
+  - Heal Undead units for 40 Hit Points.
 - [Summon Banshee](../spells/summon-banshee.md) ([World Map] Summon Spell): Summons a Banshee, a vengeful spirit that lowers morale and weakens enemies with its piercing wails.
 - Soul Harvest (Tome Passive): Gain Souls when enemies die in battle.
   

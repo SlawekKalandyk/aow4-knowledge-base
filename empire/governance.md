@@ -156,11 +156,11 @@ Each Population grants +2 Knowledge.
 - Renown level 4
 +10% more Mana income.
 
-In addition each renown level grants +5 Combat Casting Points and +5 [World Map] World Map Casting Points.
-- Level 1: Each Special Province Improvement grants +5 Mana +5 Combat Casting Points +5 [World Map] World Map Casting Points
-- Level 2: Each Conduit or Research Post grants +5 City Stability +5 Combat Casting Points +5 [World Map] World Map Casting Points
-- Level 3: Each Population grants +2 Knowledge +5 Combat Casting Points +5 [World Map] World Map Casting Points
-- Level 4: +10% more Mana income +5 Combat Casting Points +5 [World Map] World Map Casting Points
+In addition each renown level grants +5 Combat Casting Points and +5 World Map Casting Points.
+- Level 1: Each Special Province Improvement grants +5 Mana +5 Combat Casting Points +5 World Map Casting Points
+- Level 2: Each Conduit or Research Post grants +5 City Stability +5 Combat Casting Points +5 World Map Casting Points
+- Level 3: Each Population grants +2 Knowledge +5 Combat Casting Points +5 World Map Casting Points
+- Level 4: +10% more Mana income +5 Combat Casting Points +5 World Map Casting Points
 
 ## Champion Governor
 

@@ -22,7 +22,7 @@ Enhance your mages and your spellcasting with more advanced arcane magic.
   - Is inflicted with 2 Electrified.
   - This effect passes on to another enemy within 3 hexes.
   - Passes on up to 2 times.
-- [Conjure Amplification Pylon](../spells/conjure-amplification-pylon.md) ([Combat] Combat Summon Spell): Conjures an Amplification Pylon, a stationary structure that deals damage and increases the damage of your spells by +50%.
+- [Conjure Amplification Pylon](../spells/conjure-amplification-pylon.md) (Combat Summon Spell): Conjures an Amplification Pylon, a stationary structure that deals damage and increases the damage of your spells by +50%.
   This summon lasts for 3 Turns.
 - [Amplifying Imbuement](../spells/amplifying-imbuement.md) ([World Map] Unit Enchantment): Makes base attacks of enchanted units:
   
@@ -31,4 +31,4 @@ Enhance your mages and your spellcasting with more advanced arcane magic.
   - Have a base 30% chance of inflicting Sundered Resistance on each target hit for 3 Turns.
   
   Effects are increased for Single Shot attacks.
-- Resonance Fields (Initial City Upgrade): - +5 Mana.; +5 [World Map] World Map Casting Points.; +5 Combat Casting Points.; Counts as a Conduit.
+- Resonance Fields (Initial City Upgrade): - +5 Mana.; +5 World Map Casting Points.; +5 Combat Casting Points.; Counts as a Conduit.

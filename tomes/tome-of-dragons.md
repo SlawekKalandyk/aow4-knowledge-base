@@ -9,11 +9,11 @@ Revel in the power of Dragons and let their flames empower your people.
 
 ## Unlocks
 
-- Dragon Infusion (Empire Bonus): Non-Racial Dragon units can be ranked up rapidly by exchanging Gold to gain XP Experience.
+- Dragon Infusion (Empire Bonus): Non-Racial Dragon units can be ranked up rapidly by exchanging Gold to gain Experience.
 - [Draconian Transformation](../spells/draconian-transformation.md) ([World Map] Major Race Transformation): Turn target race into Draconians, which grants them:
   
   - Dragon unit type.
-  - +10 HP Hit Points.
+  - +10 Hit Points.
   - Natural Regeneration, which makes the unit regain health faster.
 - Dragon Attack (Siege Project): - At the start of combat:
   

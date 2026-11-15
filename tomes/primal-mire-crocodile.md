@@ -13,7 +13,7 @@ This research is available to rulers with the Primal culture. They specialize in
   - Mire Crocodile's Boon
   - Swamp Walk
   - Status Effect Immunity: Diseased
-- [Conjure Primal Crocodile](../spells/conjure-primal-crocodile.md) ([Combat] Combat Summon Spell): Summon a Tier 2 Primal Crocodile.
+- [Conjure Primal Crocodile](../spells/conjure-primal-crocodile.md) (Combat Summon Spell): Summon a Tier 2 Primal Crocodile.
   This summon lasts for 3 Turns.
 - [Ancestral Harmony](../spells/ancestral-harmony.md) ([Combat] Healing Spell): Target friendly unit:
   

@@ -566,8 +566,8 @@ For each City Stability level above Unstable the city gains:
 
 - Tier III, IV, and V units you own gain:
 
-- +5 HP Hit Point regeneration on the world map.
-- Gain 10 XP Experience per turn on the world map.
+- +5 Hit Point regeneration on the world map.
+- Gain 10 Experience per turn on the world map.
 
 - Gain Crimson Court Magistrate, letting you gain mana from Vassal and when Migrating, Razing, or Pillaging.
 
@@ -714,7 +714,7 @@ Cannot suffer additional breaches through Siege Project
 
 - +5 Production.
 - +5 Mana.
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - +4 Mana per adjacent Quarry.
 - Counts as a Conduit.
 
@@ -829,7 +829,7 @@ For each Trade Route connecting to or from this city, the city gains:
 - Boost requirements: Build 3 Quarry
 - Culture building (aow4db site's hand-made culture map, not game data): [Mercantile](../cultures/mercantile.md), replaces Palisade Walls
 
-- Units stationed in the city gain 15 XP Experience each Turn.
+- Units stationed in the city gain 15 Experience each Turn.
 - A Wall Structure in a City forces enemies to enter a siege when attacking the city.
 - +30 Fortification Health
 
@@ -1005,7 +1005,7 @@ City gains different resources based on the terrain features of the city core's 
 Tower Structure
 
 - Adds 4 Healing Spires in Combat during a Siege.
-- Friendly units in the domain heal +12 HP Hit Points per Turn.
+- Friendly units in the domain heal +12 Hit Points per Turn.
 - +10 City Stability
 
 ## Heart of Astral
@@ -1074,7 +1074,7 @@ Tower Structure
 - +2 Food.
 - +2 Mana.
 
-- Friendly Armies in this City's Domain regenerate an additional +5 HP Hit Points per Turn.
+- Friendly Armies in this City's Domain regenerate an additional +5 Hit Points per Turn.
 - Counts as a Conduit.
 
 ## Hero's Forum
@@ -1151,7 +1151,7 @@ The city loses 10% of its Gold income, and gains double that amount as Food and 
 (cost 170 Gold 450 Production; DLC EMPIRESANDASHES)
 - Culture building (aow4db site's hand-made culture map, not game data): [Reaver - Imperial](../cultures/reaver.md), unique building
 
-- Units stationed in the city gain 15 XP Experience each Turn.
+- Units stationed in the city gain 15 Experience each Turn.
 - +20 Knowledge income
 
 ## Imperial Warfactory
@@ -1783,7 +1783,7 @@ Nature Spells are 10% cheaper.
 Tower Structure
 
 - Adds 4 Necrotic Spires in Combat during a Siege.
-- Friendly Undead units in the domain heal +12 HP Hit Points per turn.
+- Friendly Undead units in the domain heal +12 Hit Points per turn.
 
 ## Obsidian Weaponsmith
 
@@ -1912,7 +1912,7 @@ Trade Routes in this city going over Ocean provinces grant +3 Gold for each Ocea
 - Unlocked by: [Tome of the Cosmos](../tomes/tome-of-the-cosmos.md) (tier 5)
 
 - Reveal the Map.
-- +25 [World Map] World Map Casting Point.
+- +25 World Map Casting Point.
 - +25 Combat Casting Point.
 - For each Affinity at or above 5 the city gains +50 of the resource based on that affinity.
 
@@ -1983,7 +1983,7 @@ While this city shares a border with another Empire or Free City:
 - Unlocked by: [Tome of Amplification](../tomes/tome-of-amplification.md) (tier 3)
 
 - +5 Mana.
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - +5 Combat Casting Points.
 - Counts as a Conduit.
 
@@ -2535,7 +2535,7 @@ Requires an Ocean Province Improvement in order to build.
 
 - +10 Mana.
 - +2 Mana and +2 Knowledge per adjacent Conduit or Research Post.
-- [Combat] Combat Summon Spells in the domain cost -50% less mana.
+- Combat Summon Spells in the domain cost -50% less mana.
 - Counts as a Conduit.
 
 ## Sunshrine
@@ -2648,7 +2648,7 @@ Support Structure
 - Unlocked by: [Tome of Corruption](../tomes/tome-of-corruption.md) (tier 3)
 
 - +15 Mana income
-- 15 [World Map] World Map Casting Points
+- 15 World Map Casting Points
 - 15 Combat Casting Points
 
 At the start of combat in this city's domain:
@@ -2663,7 +2663,7 @@ Can only be built in the Throne City.
 - Unlocked by: [Tome of the Astral Mirror](../tomes/tome-of-the-astral-mirror.md) (tier 4)
 
 - When a fight occurs in the city's domain, the player gains an Astral Reflection of their Ruler if they are not present themselves.
-- Your Ruler gains 10 XP Experience per Turn per owned City with this city structure built.
+- Your Ruler gains 10 Experience per Turn per owned City with this city structure built.
 
 ## Tithe Collector
 
@@ -3040,7 +3040,7 @@ Production Conversions convert an additional 10%.
 - Boost requirements: Have 15 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Mystic](../cultures/mystic.md), replaces Town Hall IV
 
-10 [World Map] World Map Casting Points and Combat Casting Points.
+10 World Map Casting Points and Combat Casting Points.
 
 ## Trade Bazaar
 
@@ -3161,7 +3161,7 @@ Annexed Provinces with a Tunneling Spider Den and Underground Provinces within a
 - Built after: Vampire Castle: Foundation
 
 - Heroes in the Prison can be converted.
-- Heroes in the Prison can be consumed to grant XP Experience to your heroes.
+- Heroes in the Prison can be consumed to grant Experience to your heroes.
 
 ## Vampire Castle: Chambers
 
@@ -3179,7 +3179,7 @@ Annexed Provinces with a Tunneling Spider Den and Underground Provinces within a
 - Built after: Vampire Castle: Foundation
 
 - Heroes in the Crypt can be resurrected.
-- In this domain, Vampires gain +10 HP Hit Point regeneration per World Map Turn.
+- In this domain, Vampires gain +10 Hit Point regeneration per World Map Turn.
 
 ## Vampire Castle: Foundation
 
@@ -3321,7 +3321,7 @@ This structure can be built multiple times, its cost increasing each time.
 
 - +15 Draft.
 - Pillaging adjacent provinces takes -1 Turn.
-- Friendly units in this and adjacent provinces gain +15 HP Hit Point regeneration per World Map Turn.
+- Friendly units in this and adjacent provinces gain +15 Hit Point regeneration per World Map Turn.
 - Counts as a Forester.
 
 ## Warehouse
@@ -3383,7 +3383,7 @@ Builds a Watch Tower in this outpost, granting the outpost +4 Vision Range and +
 
 - +1 Spell Slot
 - +10 Combat Casting Point
-- +10 [World Map] World Map Casting Point
+- +10 World Map Casting Point
 
 ## Wizard Tower: Crypts
 

@@ -13,7 +13,7 @@ Utilize the zeal of your troops to bathe the battlefield in cleansing flame that
   
   - Ignore income and stability penalties from being under Siege.
   - At the start of combat in this city's Domain, enemy units suffer Condemned.
-- [Consecrating Firestorm](../spells/consecrating-firestorm.md) ([World Map] World Spell): In target Province:
+- [Consecrating Firestorm](../spells/consecrating-firestorm.md) (World Spell): In target Province:
   
   - Enemy units sustain 20 Spirit Damage.
   - The province gains Consecrating Firestorm for 3 Turns

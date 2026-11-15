@@ -1,6 +1,6 @@
 # Construct Pirate Cove
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 150 Gold
 - Casting points: 150
 - Tome: Pirate Bond

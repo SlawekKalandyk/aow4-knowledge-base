@@ -4,14 +4,14 @@
 
 (type normal; requires Astral Wisp Ritual; DLC ELDRITCHREALMS)
 
-- Gain +5 HP Hit Points
+- Gain +5 Hit Points
 - Gain +1 Resistance
 
 ## Astral Wisp Ritual
 
 (type normal; DLC ELDRITCHREALMS)
 
-- Gain +5 HP Hit Points
+- Gain +5 Hit Points
 - Gain +1 Resistance
 
 ## Delirium
@@ -34,7 +34,7 @@
 
 Gain:
 
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - Abilities ignore up to 1 Status Resistance.
 
 ## Eldritch Caster II
@@ -43,7 +43,7 @@ Gain:
 
 Gain:
 
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - Abilities ignore up to 1 Status Resistance.
 
 ## Eldritch Phase I
@@ -64,7 +64,7 @@ Gain:
 
 (type normal; DLC ELDRITCHREALMS)
 
-- Gain +10 HP Hit Points.
+- Gain +10 Hit Points.
 
 ## Enthralling Presence
 
@@ -84,7 +84,7 @@ Gain:
 
 (type normal; requires Astral Siphoner Ritual; DLC ELDRITCHREALMS)
 
-- Gain +5 HP Hit Points
+- Gain +5 Hit Points
 - Gain +1 Resistance
 
 ## Mass Phantasmal Ritual
@@ -110,4 +110,4 @@ Gain:
 (type normal; requires Eldritch Caster II; DLC ELDRITCHREALMS)
 
 
-- **Tentacled Escape**: When the unit dies in combat, it escapes to the void instead and returns at the end of combat if its side is victorious.  Unit is brought back with 50% of their maximum HP Hit Points.
+- **Tentacled Escape**: When the unit dies in combat, it escapes to the void instead and returns at the end of combat if its side is victorious.  Unit is brought back with 50% of their maximum Hit Points.

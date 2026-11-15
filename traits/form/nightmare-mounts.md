@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Gains the Intimidating Aura ability.
 - Gains the Vicious Killer ability.
 - Gains the Lava Walk ability.

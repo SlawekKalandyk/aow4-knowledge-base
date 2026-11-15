@@ -129,7 +129,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Draining Magic, Fate Magic; DLC Base)
 
 
-- **Feed on Despair**: Gain: ; Cruel; When any enemy unit Fumbles, this unit gains +5 Max HP Hit Point until the end of combat.
+- **Feed on Despair**: Gain: ; Cruel; When any enemy unit Fumbles, this unit gains +5 Max Hit Point until the end of combat.
 
 ## Graceful Servants
 
@@ -194,7 +194,7 @@ Blood Pact gains:
 (type normal; requires any of Bone Wyvern Keeper, Undead Retinue; can't be taken with Dark Ritual; DLC Base)
 
 
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total HP Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support, Summoning
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support, Summoning
 
 ## Reclaiming Attacks
 

@@ -22,7 +22,7 @@ Only obeying the command of the absolute masters of the earth, the Earth Titan i
 - **Fearless**: Unit cannot rout due to low morale.
 - **Juggernaut**: This unit may crush non-Fortified obstacles.
 - **Status Effect Immunity**: This unit is immune to Negative Status Effects.
-- **Undying**: When killed, this unit will revive with 50% of its total HP Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Undying**: When killed, this unit will revive with 50% of its total Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
 
 ## Unit type traits
 

@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Additional units become Cavalry
 
 ## Description

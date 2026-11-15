@@ -16,7 +16,7 @@
 
 ## Passives
 
-- **Harmonize**: When this unit drops below 60% of their maximum HP Hit Points, gain an effect based on the culture's Devotion: ; Paragon: Heal 30 Temporary Hit Points; Devotee: Heal 20 Temporary Hit Points; Adherent: Heal 10 Temporary Hit Points; Neutral: Heal 5 Temporary Hit Points; Oathbreaker: 3 Weakened for 3 Turns
+- **Harmonize**: When this unit drops below 60% of their maximum Hit Points, gain an effect based on the culture's Devotion: ; Paragon: Heal 30 Temporary Hit Points; Devotee: Heal 20 Temporary Hit Points; Adherent: Heal 10 Temporary Hit Points; Neutral: Heal 5 Temporary Hit Points; Oathbreaker: 3 Weakened for 3 Turns
 - **Paragon of Harmony**: At Paragon level Devotion, gain the Arrow of Harmony ability.
 
 ## Unit type traits

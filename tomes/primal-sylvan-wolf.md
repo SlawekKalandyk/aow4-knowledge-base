@@ -16,7 +16,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Sylvan Wolf's Boon
   - Forest Walk
-- [Conjure Primal Wolf](../spells/conjure-primal-wolf.md) ([Combat] Combat Summon Spell): Summon a Tier 2 Primal Wolf.
+- [Conjure Primal Wolf](../spells/conjure-primal-wolf.md) (Combat Summon Spell): Summon a Tier 2 Primal Wolf.
   This summon lasts for 3 Turns.
 - Sylvan Wolf Den (): Can see Sylvan Wolf Den nodes which when annexed to a city:
   

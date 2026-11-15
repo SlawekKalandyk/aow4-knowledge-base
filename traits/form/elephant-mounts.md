@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +15 HP Hit Points.
+- +15 Hit Points.
 - Gain the Juggernaut ability.
 - Gains Large Target.
 - Additional units become Cavalry

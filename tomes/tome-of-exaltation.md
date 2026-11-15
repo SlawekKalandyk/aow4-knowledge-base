@@ -9,7 +9,7 @@ Convert your people to Celestials and use their faith to smite your enemies.
 
 ## Unlocks
 
-- [Resurrect Unit](../spells/resurrect-unit.md) ([Combat] Combat Summon Spell): Returns target dead friendly unit to full Temporary Hit Points.
+- [Resurrect Unit](../spells/resurrect-unit.md) (Combat Summon Spell): Returns target dead friendly unit to full Temporary Hit Points.
 - Temple of the Exalted (City Structure): City gains:
   
   - +30 City Stability

@@ -1,6 +1,6 @@
 # Frikka's Revelation
 
-- Type: [Combat] Combat Summon Spell
+- Type: Combat Summon Spell
 - Casting cost: 200 Mana
 - Casting points: 65
 - DLC: SECRETSOFTHEARCHMAGES

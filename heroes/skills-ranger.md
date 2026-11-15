@@ -240,7 +240,7 @@ The hero gains:
 (type normal; requires Ranger 2; DLC Base)
 
 
-- **Slip Away**: When this unit's HP Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
 
 ## Snapshot
 

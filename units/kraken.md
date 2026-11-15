@@ -10,7 +10,7 @@
 
 - **Melee Strike** (damage 22 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Immobilized: Base 30% chance of inflicting Immobilized for 1 Turn. Naval Wrecker: +20% damage against Embarked Units. Requires: Melee, Base
 - **Tentacle Vortex** (damage 29 Physical, accuracy Always Hits, range 0, single-use action): Deals damage to adjacent enemies. Enemies that are 2 hexes away sustain half of the damage and are pulled toward this unit. Cooldown: 2 Turns Requires: Melee
-- **Pull of the Deep** (accuracy Always Hits, range 4, full action): Attempts to submerge an Embarked Unit to kill it. The lower the target's HP Hit Points, the greater the chance. If the attempt fails, the target sustains 40 Physical Damage. Cooldown: 3 Turns
+- **Pull of the Deep** (accuracy Always Hits, range 4, full action): Attempts to submerge an Embarked Unit to kill it. The lower the target's Hit Points, the greater the chance. If the attempt fails, the target sustains 40 Physical Damage. Cooldown: 3 Turns
 - **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
 
 ## Passives

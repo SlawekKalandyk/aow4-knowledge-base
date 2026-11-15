@@ -9,7 +9,7 @@ Heal and support your units through the power of the Faithful.
 
 ## Unlocks
 
-- [Army Heal](../spells/army-heal.md) ([World Map] Friendly Army Spell): Units in target army heal 25 HP Hit Points.
+- [Army Heal](../spells/army-heal.md) ([World Map] Friendly Army Spell): Units in target army heal 25 Hit Points.
 - [Faithful Whispers](../spells/faithful-whispers.md) ([World Map] Sustained City Spell): Allegiance with target Free City increases 30% faster.
 - Convent (City Structure): For each City Stability level above Unstable the city gains:
   

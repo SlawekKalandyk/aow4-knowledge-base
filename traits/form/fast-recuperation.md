@@ -8,7 +8,7 @@
 
 ## Effects
 
-- Regenerate an additional +10 HP Hit Points per World Map Turn.
+- Regenerate an additional +10 Hit Points per World Map Turn.
 
 ## Description
 

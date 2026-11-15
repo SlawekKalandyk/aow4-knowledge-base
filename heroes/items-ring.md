@@ -167,7 +167,7 @@ Grants a +5% Critical Hit Chance.
 (Tier I; DLC Base)
 
 
-- **Slip Away**: When this unit's HP Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
 
 ## Ring of Flanking
 
@@ -261,7 +261,7 @@ Grants Life Steal
 (Tier III; DLC Base)
 
 
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 
 ## Wind Barrier Ring
 

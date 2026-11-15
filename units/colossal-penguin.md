@@ -17,7 +17,7 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
 - **Parasitic Coral**: At the end of the turn, enemy units adjacent to this one suffer 10 Frost Damage. Then heal 10 Temporary Hit Points for each enemy hit.
-- **Penguin Commander**: Tier 4 or lower Penguin units in the army gain: ; +20% damage.; +20 HP Hit Points.; +2 Defense.; +2 Resistance  Cannot stack.
+- **Penguin Commander**: Tier 4 or lower Penguin units in the army gain: ; +20% damage.; +20 Hit Points.; +2 Defense.; +2 Resistance  Cannot stack.
 
 ## Unit type traits
 

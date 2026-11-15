@@ -12,5 +12,5 @@ Grants enchanted units:
 - Coagulate
 - At the start of combat, for each friendly non-summon Tier I and Tier II unit:
 
-- +5 HP Hit Points
+- +5 Hit Points
 - +5% healing received in combat.

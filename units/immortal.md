@@ -16,7 +16,7 @@
 
 - **Aura of Tyranny**: Adjacent enemies have -1 Status Resistance.
 - **Expendable**: This unit's death does not affect their allies' Morale.
-- **Lesser Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 10% of their maximum HP Hit Points and no Move Points.
+- **Lesser Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 10% of their maximum Hit Points and no Move Points.
 
 ## Unit type traits
 

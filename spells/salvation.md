@@ -8,6 +8,6 @@
 
 Target friendly unit:
 
-- Heals all of its HP Hit Points as Temporary Hit Points.
+- Heals all of its Hit Points as Temporary Hit Points.
 - Dispels its Negative Status Effects.
 - Gains 3 Bolstered Resistance.

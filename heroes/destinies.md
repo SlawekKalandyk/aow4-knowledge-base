@@ -21,7 +21,7 @@ This Hero seeks to dominate others to bolster their own ranks.
 Available to: heroes only (not rulers)
 
 This Hero desires to become the wealthiest in the realm.
-- major ambition: Governed City has a gold income of 200+ -> Artisan Equipment: While army leader, all other units have: ; +10 HP Hit Points; +1 Defense; +1 Resistance; +10% damage  This hero costs +50 Gold Unit Upkeep.; +100 Renown
+- major ambition: Governed City has a gold income of 200+ -> Artisan Equipment: While army leader, all other units have: ; +10 Hit Points; +1 Defense; +1 Resistance; +10% damage  This hero costs +50 Gold Unit Upkeep.; +100 Renown
 - minor ambition, repeatable: Clear a resource node -> +25 Renown
 
 ## Defender
@@ -45,7 +45,7 @@ This Hero aims to prove their superiority to others.
 Available to: rulers and heroes
 
 This Hero thrives on the raiding of enemy territory.
-- major ambition: Win a combat in enemy territory -> Resourceful: While army leader, units in army have: ; +10 HP Hit Point regeneration in the World Map.; +100 Renown
+- major ambition: Win a combat in enemy territory -> Resourceful: While army leader, units in army have: ; +10 Hit Point regeneration in the World Map.; +100 Renown
 - minor ambition, repeatable: Pillage a province -> +25 Renown
 
 ## Necromancer
@@ -61,7 +61,7 @@ WIP TEXT: Spooky Scary Skeletons
 Available to: rulers and heroes
 
 This Hero aims to lead the most experienced force in the world.
-- major ambition: Hero leads a full army of Legendary rank units -> Trainer: While army leader, all non-Hero units in army gain: ; +25% XP Experience.; +200 Renown
+- major ambition: Hero leads a full army of Legendary rank units -> Trainer: While army leader, all non-Hero units in army gain: ; +25% Experience.; +200 Renown
 - minor ambition, repeatable: Rank up units in this Hero's army -> +5 Renown
 
 ## Martyr
@@ -93,7 +93,7 @@ This Hero aspires to become an unrivaled duelist.
 Available to: rulers and heroes
 
 This Hero strives to nurture the next generation and lead them onward.
-- major ambition: Win a combat with only animal, plants, Fey, and elementals units on your side -> Druid: While army leader, Animal, Plant, Fey, and Elemental units in army have: ; +20 HP Hit Points; -20% base Unit Upkeep; +100 Renown
+- major ambition: Win a combat with only animal, plants, Fey, and elementals units on your side -> Druid: While army leader, Animal, Plant, Fey, and Elemental units in army have: ; +20 Hit Points; -20% base Unit Upkeep; +100 Renown
 - minor ambition, repeatable: Evolve or Promote a unit in this hero's army -> +50 Renown
 
 ## Privateer
@@ -149,7 +149,7 @@ This Hero aims to bring law and order to the unruly wilds.
 Available to: rulers and heroes
 
 This Hero desires to own a full collection of powerful artifacts.
-- major ambition: Fully equip with Tier 2+ items -> Equipment Mastery: Gain +1 HP Hit Point per item tier equipped.; +200 Renown
+- major ambition: Fully equip with Tier 2+ items -> Equipment Mastery: Gain +1 Hit Point per item tier equipped.; +200 Renown
 - minor ambition, repeatable: Have an item equipped for 3 turns -> +3 Renown
 
 ## Explorer

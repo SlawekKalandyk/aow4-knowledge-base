@@ -11,5 +11,5 @@ Target race becomes fractured:
 - Gains Mana Starved.
 - Has all its other enchantments and transformations disabled. For each disabled gain:
 
-- 5 HP Hit Points
+- 5 Hit Points
 - +5% damage

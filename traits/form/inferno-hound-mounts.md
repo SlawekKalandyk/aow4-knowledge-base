@@ -8,7 +8,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - +4 Fire Protection.
 - Gains the Pack Hunter passive ability.
 - Additional units become Cavalry

@@ -17,7 +17,7 @@
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **Inner Grace**: At the start of its turn, the unit gains Grace if it doesn't already have it.
 - **Inspiring Killer**: This unit grants double the morale bonus to itself and its allies when killing an enemy.
 

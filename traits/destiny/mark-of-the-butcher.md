@@ -9,7 +9,7 @@
 ## Effects
 
 - -10 Alignment
-- Units of this race earn +50% XP Experience in combat.
+- Units of this race earn +50% Experience in combat.
 - Cities of this race lose -2 City Stability for each Population.
 
 ## Description

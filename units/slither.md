@@ -14,9 +14,9 @@
 
 ## Passives
 
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
-- **Slip Away**: When this unit's HP Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
 - **Slippery**: This unit does not trigger Opportunity Attack.
 - **Swift**: This unit ignores the effects of Slowing terrain in combat.
 

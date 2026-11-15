@@ -14,7 +14,7 @@
 
 ## Passives
 
-- **Berserker's Rage**: When this unit's total HP Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
 - **Frenzy**: When this unit lands an attack, it gains a stack of Strengthened. Effects are increased for Single Shot attacks.
 - **Savage Strike**: When an attack triggers a critical hit, it deals: ; +4 Blight Damage.; +8 Blight Damage for Single Shot attacks.
 

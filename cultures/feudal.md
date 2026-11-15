@@ -37,5 +37,5 @@ Your people are loyal to the absolute rule of their Monarch, gaining power from 
 Your cities form powerful Houses, able to field efficient armies when led by their Liege Lords:
 
 - Each city has a Feudal House led by its governor, who becomes the House's Liege lord.
-- Units produced in Feudal cities become part of that city's Feudal House, gaining XP Experience as their Liege Lord gains Renown.
+- Units produced in Feudal cities become part of that city's Feudal House, gaining Experience as their Liege Lord gains Renown.
 - Certain units can promote into higher Tier units on attaining Legendary Rank.

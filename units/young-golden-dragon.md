@@ -17,10 +17,10 @@
 ## Passives
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **High Maintenance**: Base Unit Upkeep increased by 50%
 - **Intimidating Aura**: At the end of this unit's turn, adjacent enemy units have a base 90% chance of losing -5 Morale.  Doesn't work on units with this ability or Terrifying Aura.
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Truesight**: Unit can see invisible or camouflaged units within its vision range.
 
 ## Unit type traits

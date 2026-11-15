@@ -7,5 +7,5 @@
 
 In target friendly army:
 
-- Heal Vampires for 50% of their maximum HP Hit Points.
-- Heal non-Vampires for 20% of their maximum HP Hit Points.
+- Heal Vampires for 50% of their maximum Hit Points.
+- Heal non-Vampires for 20% of their maximum Hit Points.

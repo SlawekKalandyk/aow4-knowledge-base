@@ -16,7 +16,7 @@ Compatible weapons:
 (type normal; requires any of Reckless Rage, Execute; can't be taken with Grim Executioner; DLC Base)
 
 
-- **Berserker's Rage**: When this unit's total HP Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
 
 ## Bone Wyvern Keeper
 
@@ -51,7 +51,7 @@ Compatible weapons:
 (type normal; requires any of Sundering Strikes, Keen Edge; can't be taken with Reckless Rage, Critical Momentum; DLC Base)
 
 
-- **Execute** (accuracy Always Hits, range 1, free action): Slight chance of instantly killing an injured target. This chance increases the lower the target's HP Hit Points are. Cooldown: 2 Turns
+- **Execute** (accuracy Always Hits, range 1, free action): Slight chance of instantly killing an injured target. This chance increases the lower the target's Hit Points are. Cooldown: 2 Turns
 
 ## Fighting
 
@@ -139,7 +139,7 @@ The hero gains immunity to Diseased.
 (type normal; DLC Base)
 
 - +1 Defense
-- +10 maximum HP Hit Points
+- +10 maximum Hit Points
 
 ## Mass Curse
 
@@ -169,7 +169,7 @@ Attacks and Debuff abilities:
 (type normal; DLC Base)
 
 
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total HP Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support, Summoning
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support, Summoning
 
 ## Reckless Rage
 
@@ -215,7 +215,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Grim Executioner, Berserker's Rage; DLC Base)
 
 
-- **Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 50% of their maximum HP Hit Points.
+- **Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 50% of their maximum Hit Points.
 
 ## Unyielding
 
@@ -228,13 +228,13 @@ Effects are increased for Single Shot attacks.
 
 (type normal; requires Vigor; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Vigor
 
 (type normal; requires Second Wind; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Warseeker
 

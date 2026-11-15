@@ -49,7 +49,7 @@ Reduce the cooldown of your Blood Drain ability by 1 Turn.
 (type normal; requires any of Sanguine Extraction, Deep Hunger; DLC THRONESOFBLOOD)
 
 
-- **Mist Away**: When this unit's HP Hit Points are reduced to zero, it is displaced by 3 hexes and heals +20 Temporary Hit Points. Works once per battle.
+- **Mist Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +20 Temporary Hit Points. Works once per battle.
 
 ## Profane Strength
 

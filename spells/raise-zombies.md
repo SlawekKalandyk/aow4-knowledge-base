@@ -1,6 +1,6 @@
 # Raise Zombies
 
-- Type: [Combat] Combat Summon Spell
+- Type: Combat Summon Spell
 - Casting cost: 10 Souls
 - Casting points: 15
 - DLC: Base

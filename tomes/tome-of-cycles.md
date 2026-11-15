@@ -21,7 +21,7 @@ Master the natural cycles of life and death and specialize in debuffing enemies 
   - Spring: All friendly units become 1 Strengthened.
   - Summer: All friendly units heal +10 Temporary Hit Points.
   - Autumn: All enemies become 1 Weakened.
-- [Parting Gifts](../spells/parting-gifts.md) ([Combat] Combat Enchantment): Until the end of battle, whenever a friendly unit dies, all other friendly units within 2 hexes heal +15 Temporary Hit Points.
+- [Parting Gifts](../spells/parting-gifts.md) (Combat Enchantment): Until the end of battle, whenever a friendly unit dies, all other friendly units within 2 hexes heal +15 Temporary Hit Points.
 - [Diffuse Health](../spells/diffuse-health.md) ([Combat] Damage/Healing Spell): Target enemy unit:
   
   - Sustains 30 Blight Damage.

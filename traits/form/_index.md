@@ -27,7 +27,7 @@
 | [Tenacious](tenacious.md) | 2 | Defense |  | Base | Damage penalties from Casualties are halved. |
 | [Tough](tough.md) | 2 | Defense |  | Base | +1 Defense. |
 | [Elusive](elusive.md) | 1 | Defense |  | Base | Gains +5 Defense and Resistance against Retaliation Attacks and Opportunity Attacks. |
-| [Hardy](hardy.md) | 1 | Defense |  | Base | 10 HP Hit Points. |
+| [Hardy](hardy.md) | 1 | Defense |  | Base | 10 Hit Points. |
 | [Careless](careless.md) | -1 | Flaws |  | Base | Defense Mode gives -1 Defense and -1 Resistance. |
 | [Coward](coward.md) | -1 | Flaws |  | Base | Morale loss is increased by 25%, and morale gain is reduced by 25%. |
 | [Uncooperative](uncooperative.md) | -1 | Flaws |  | Base | 10% Fumble chance when adjacent to another friendly unit. |
@@ -47,23 +47,23 @@
 | [Hoarfrost Manta Mounts](hoarfrost-manta-mounts.md) | 3 | Mounts |  | SILVERSEAS | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Hoarfrost Manta mount. |
 | [Pegasus Mounts](pegasus-mounts.md) | 3 | Mounts |  | HERALDOFGLORY | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Pegasus mount |
 | [Shrieking Bat Mounts](shrieking-bat-mounts.md) | 3 | Mounts |  | THRONESOFBLOOD | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Shrieking Bat mount. |
-| [Chariot Mounts](chariot-mounts.md) | 2 | Mounts |  | ARCHONPROPHECY | +5 HP Hit Points.; Reduces members in the unit to one, granting immunity to Casualties.; Additional units become Cavalry; Ruler starts with a Chariot mount. |
-| [Death Beetle Mounts](death-beetle-mounts.md) | 2 | Mounts |  | ELDRITCHREALMS | +5 HP Hit Points.; Gain the Pestilent Escape ability.; Additional units become Cavalry; Ruler starts with a Death Beetle mount. |
-| [Dire Bear Mount](dire-bear-mount.md) | 2 | Mounts |  | EMPIRESANDASHES | +10 HP Hit Points.; Gains the Overwhelm passive.; Additional units become Cavalry; Ruler starts with a Dire Bear mount |
-| [Dread Spider Mounts](dread-spider-mounts.md) | 2 | Mounts |  | Base | +5 HP Hit Points.; Gains the Web ability.; Gains Swift.; Additional units become Cavalry; Ruler starts with a Spider mount. |
-| [Elephant Mounts](elephant-mounts.md) | 2 | Mounts |  | PRIMALFURY | +15 HP Hit Points.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with an Elephant Mount. |
-| [Graceful Judge Mounts](graceful-judge-mounts.md) | 2 | Mounts |  | WAYSOFWAR | +5 HP Hit Points.; Gain the Touch of Grace ability.; Additional units become Cavalry; Ruler starts with a Graceful Judge mount. |
-| [Infernal Juggernaut Mounts](infernal-juggernaut-mounts.md) | 2 | Mounts |  | PRIMALFURY | +10 HP Hit Points.; +4 Fire Protection.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with an Infernal Juggernaut mount. |
-| [Inferno Hound Mounts](inferno-hound-mounts.md) | 2 | Mounts |  | Base | +5 HP Hit Points.; +4 Fire Protection.; Gains the Pack Hunter passive ability.; Additional units become Cavalry; Ruler starts with an Inferno Hound mount |
-| [Mammoth Mounts](mammoth-mounts.md) | 2 | Mounts |  | PRIMALFURY | +10 HP Hit Points.; +4 Frost Protection.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with a Mammoth mount. |
-| [Nightmare Mounts](nightmare-mounts.md) | 2 | Mounts |  | Base | +5 HP Hit Points.; Gains the Intimidating Aura ability.; Gains the Vicious Killer ability.; Gains the Lava Walk ability.; Additional units become Cavalry; Ruler starts with a Nightmare mount |
+| [Chariot Mounts](chariot-mounts.md) | 2 | Mounts |  | ARCHONPROPHECY | +5 Hit Points.; Reduces members in the unit to one, granting immunity to Casualties.; Additional units become Cavalry; Ruler starts with a Chariot mount. |
+| [Death Beetle Mounts](death-beetle-mounts.md) | 2 | Mounts |  | ELDRITCHREALMS | +5 Hit Points.; Gain the Pestilent Escape ability.; Additional units become Cavalry; Ruler starts with a Death Beetle mount. |
+| [Dire Bear Mount](dire-bear-mount.md) | 2 | Mounts |  | EMPIRESANDASHES | +10 Hit Points.; Gains the Overwhelm passive.; Additional units become Cavalry; Ruler starts with a Dire Bear mount |
+| [Dread Spider Mounts](dread-spider-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; Gains the Web ability.; Gains Swift.; Additional units become Cavalry; Ruler starts with a Spider mount. |
+| [Elephant Mounts](elephant-mounts.md) | 2 | Mounts |  | PRIMALFURY | +15 Hit Points.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with an Elephant Mount. |
+| [Graceful Judge Mounts](graceful-judge-mounts.md) | 2 | Mounts |  | WAYSOFWAR | +5 Hit Points.; Gain the Touch of Grace ability.; Additional units become Cavalry; Ruler starts with a Graceful Judge mount. |
+| [Infernal Juggernaut Mounts](infernal-juggernaut-mounts.md) | 2 | Mounts |  | PRIMALFURY | +10 Hit Points.; +4 Fire Protection.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with an Infernal Juggernaut mount. |
+| [Inferno Hound Mounts](inferno-hound-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; +4 Fire Protection.; Gains the Pack Hunter passive ability.; Additional units become Cavalry; Ruler starts with an Inferno Hound mount |
+| [Mammoth Mounts](mammoth-mounts.md) | 2 | Mounts |  | PRIMALFURY | +10 Hit Points.; +4 Frost Protection.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with a Mammoth mount. |
+| [Nightmare Mounts](nightmare-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; Gains the Intimidating Aura ability.; Gains the Vicious Killer ability.; Gains the Lava Walk ability.; Additional units become Cavalry; Ruler starts with a Nightmare mount |
 | [Seamare Mounts](seamare-mounts.md) | 2 | Mounts |  | SILVERSEAS | Gain Amphibious movement.; Grants the Slippery passive ability.; +2 Lightning Protection.; +2 Blight Protection.; Additional units become Cavalry; Ruler starts with a Seamare Mount. |
 | [Storm Seamare Mounts](storm-seamare-mounts.md) | 2 | Mounts |  | WITCHOFTHEWAVES | Gain Amphibious movement.; Grants the Slippery passive ability.; +2 Lightning Protection.; +2 Frost Protection.; Additional units become Cavalry; Ruler starts with a Storm Seamare Mount. |
-| [Swiftfoot Raptor Mounts](swiftfoot-raptor-mounts.md) | 2 | Mounts |  | Base | +5 HP Hit Points.; Grants the Slippery passive ability.; Units have Very Fast Movement.; Additional units become Cavalry; Ruler starts with a Raptor mount. |
-| [Unicorn Mounts](unicorn-mounts.md) | 2 | Mounts |  | Base | +5 HP Hit Points.; Gains the Phase ability.; Additional units become Cavalry; Ruler starts with a Unicorn mount. |
-| [Weaver Spider Mounts](weaver-spider-mounts.md) | 2 | Mounts |  | SECRETSOFTHEARCHMAGES | +5 HP Hit Points.; Gains the Web ability.; Gains Swift.; Additional units become Cavalry; Ruler starts with a Weaver Spider mount |
-| [White Wolf Mounts](white-wolf-mounts.md) | 2 | Mounts |  | Base | +5 HP Hit Points.; Gains the Pack Hunter passive ability.; Grants the Enfeebling Howl ability.; Additional units become Cavalry; Ruler starts with a White Wolf mount |
-| [Mount Masters](mount-masters.md) | 1 | Mounts |  | Base | +5 HP Hit Points.; Additional units become Cavalry |
+| [Swiftfoot Raptor Mounts](swiftfoot-raptor-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; Grants the Slippery passive ability.; Units have Very Fast Movement.; Additional units become Cavalry; Ruler starts with a Raptor mount. |
+| [Unicorn Mounts](unicorn-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; Gains the Phase ability.; Additional units become Cavalry; Ruler starts with a Unicorn mount. |
+| [Weaver Spider Mounts](weaver-spider-mounts.md) | 2 | Mounts |  | SECRETSOFTHEARCHMAGES | +5 Hit Points.; Gains the Web ability.; Gains Swift.; Additional units become Cavalry; Ruler starts with a Weaver Spider mount |
+| [White Wolf Mounts](white-wolf-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; Gains the Pack Hunter passive ability.; Grants the Enfeebling Howl ability.; Additional units become Cavalry; Ruler starts with a White Wolf mount |
+| [Mount Masters](mount-masters.md) | 1 | Mounts |  | Base | +5 Hit Points.; Additional units become Cavalry |
 | [Hideous Stench](hideous-stench.md) | 3 | Offense |  | Base | Adjacent enemies without this trait suffer: ; -2 Resistance; -2 Status Resistance |
 | [Overwhelm Tactics](overwhelm-tactics.md) | 2 | Offense |  | Base | +20% Critical Hit Chance when standing next to a friendly unit with Overwhelm Tactics. This does not stack. |
 | [Pack Tactics](pack-tactics.md) | 2 | Offense |  | Base | Gain the Pack Hunter passive ability. |
@@ -74,9 +74,9 @@
 | [Keen-Sighted](keen-sighted.md) | 2 | Offense |  | Base | +20% Accuracy on Missile and Magic attacks. |
 | [Sneaky](sneaky.md) | 2 | Offense |  | Base | +25% damage on Flanking attacks. |
 | [Strong](strong.md) | 2 | Offense |  | Base | Melee and Missile attacks deal +2 Physical Damage.; Single Shot Melee and Missile attacks deal +4 Physical Damage. |
-| [Fast Recuperation](fast-recuperation.md) | 2 | Utility |  | Base | Regenerate an additional +10 HP Hit Points per World Map Turn. |
+| [Fast Recuperation](fast-recuperation.md) | 2 | Utility |  | Base | Regenerate an additional +10 Hit Points per World Map Turn. |
 | [Light Footed](light-footed.md) | 2 | Utility |  | Base | Friendly units do not block movement. |
-| [Adaptable](adaptable.md) | 1 | Utility |  | Base | Non-hero units gain +30% XP Experience from combat. |
+| [Adaptable](adaptable.md) | 1 | Utility |  | Base | Non-hero units gain +30% Experience from combat. |
 | [Athletics](athletics.md) | 1 | Utility |  | Base | Grants 5 Combat Speed. |
 | [Cheerful](cheerful.md) | 1 | Utility |  | Base | Morale gain is increased by 50% |
 | [Cold Blooded](cold-blooded.md) | 1 | Utility |  | Base | Morale loss is reduced by 50% |

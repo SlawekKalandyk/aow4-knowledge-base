@@ -1,6 +1,6 @@
 # Curse of the Damned
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 60 Mana
 - Casting points: 60
 - Tome: Tome of the Damned

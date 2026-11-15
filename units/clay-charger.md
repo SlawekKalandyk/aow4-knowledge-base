@@ -18,7 +18,7 @@
 - **Heartless**: The unit has a -50% modifier to Morale changes
 - **Legion**: For each other friendly unit with Legion in combat, this unit gains: ; +1 Defense; +1 Resistance; +1 Physical Damage on attacks.  This stacks up to 4 times. Effects are increased for Single Shot attacks.
 - **Reinforced**: Unit has +3 Defense against Missile attacks.
-- **Undying**: When killed, this unit will revive with 50% of its total HP Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Undying**: When killed, this unit will revive with 50% of its total Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
 
 ## Unit type traits
 

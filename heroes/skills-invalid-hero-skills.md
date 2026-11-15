@@ -99,19 +99,19 @@ This unit's attacks inflict Dissonance.
 
 (type normal; DLC DRAGONLORDS)
 
-- +15 maximum HP Hit Points.
+- +15 maximum Hit Points.
 
 ## Draconic Health II
 
 (type normal; requires Draconic Health I; DLC DRAGONLORDS)
 
-- +15 maximum HP Hit Points.
+- +15 maximum Hit Points.
 
 ## Draconic Health III
 
 (type normal; requires Draconic Health II; DLC DRAGONLORDS)
 
-- +30 maximum HP Hit Points.
+- +30 maximum Hit Points.
 
 ## Dragon Scales I
 
@@ -202,7 +202,7 @@ This unit's attacks inflict Dissonance.
 (type normal; DLC ELDRITCHREALMS)
 
 - Gain +4 Imperium income per Turn.
-- Gain +10 [World Map] World Map Casting Points
+- Gain +10 World Map Casting Points
 - Gain +10 Combat Casting Points
 
 ## Eldritch Influence II
@@ -210,7 +210,7 @@ This unit's attacks inflict Dissonance.
 (type normal; requires Eldritch Influence I; DLC ELDRITCHREALMS)
 
 - Gain +6 Imperium income per Turn.
-- Gain +10 [World Map] World Map Casting Points
+- Gain +10 World Map Casting Points
 - Gain +10 Combat Casting Points
 
 ## Eldritch Rituals
@@ -231,7 +231,7 @@ Gain the Eldritch Rituals spell.
 (type normal; DLC WAYSOFWAR)
 
 
-- **Harmonize**: When this unit drops below 60% of their maximum HP Hit Points, gain an effect based on the culture's Devotion: ; Paragon: Heal 30 Temporary Hit Points; Devotee: Heal 20 Temporary Hit Points; Adherent: Heal 10 Temporary Hit Points; Neutral: Heal 5 Temporary Hit Points; Oathbreaker: 3 Weakened for 3 Turns
+- **Harmonize**: When this unit drops below 60% of their maximum Hit Points, gain an effect based on the culture's Devotion: ; Paragon: Heal 30 Temporary Hit Points; Devotee: Heal 20 Temporary Hit Points; Adherent: Heal 10 Temporary Hit Points; Neutral: Heal 5 Temporary Hit Points; Oathbreaker: 3 Weakened for 3 Turns
 
 ## Heightened Senses I
 

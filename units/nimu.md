@@ -15,7 +15,7 @@
 ## Passives
 
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Shield Defense**: This unit has +3 Defense against non- Flanking attacks.
 - **Status Effect Immunity: Burning**: Unit is immune to Burning.
 

@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Reduces members in the unit to one, granting immunity to Casualties.
 - Additional units become Cavalry
 - Ruler starts with a Chariot mount.

@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +10 HP Hit Points.
+- +10 Hit Points.
 - Gains the Overwhelm passive.
 - Additional units become Cavalry
 - Ruler starts with a Dire Bear mount

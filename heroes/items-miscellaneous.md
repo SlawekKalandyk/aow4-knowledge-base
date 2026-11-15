@@ -244,7 +244,7 @@
 
 (Tier I; DLC Base)
 
-Grants +10 maximum HP Hit Points.
+Grants +10 maximum Hit Points.
 
 ## Cloud in a Bottle
 
@@ -257,7 +257,7 @@ Grants +10 maximum HP Hit Points.
 
 (Tier I; DLC Base)
 
-All units in the army heal 5 HP Hit Points every World Map Turn.
+All units in the army heal 5 Hit Points every World Map Turn.
 
 ## Magic Missile Wand
 
@@ -305,7 +305,7 @@ Grants +3 Vision Range and Sensing Range.
 (Tier I; DLC Base)
 
 
-- **Raise Undead** (accuracy Always Hits, range 4, full action): Target: ; Friendly Undead corpse is revived with 60% of its total HP Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
+- **Raise Undead** (accuracy Always Hits, range 4, full action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
 
 ## Assassin's Dagger
 
@@ -434,7 +434,7 @@ Units in the army led by a hero with this item equipped gain Umbral Malady Immun
 (Tier IV; DLC Base)
 
 
-- **Fiery Rebirth**: When killed, this unit will revive with 40% of its total HP Hit Points: ; After 1 Combat Turn and then deal 15 Fire Damage to adjacent enemy units.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Fiery Rebirth**: When killed, this unit will revive with 40% of its total Hit Points: ; After 1 Combat Turn and then deal 15 Fire Damage to adjacent enemy units.; If side is victorious in battle.  Can only be triggered once per battle.
 
 ## Astral Heart
 
@@ -507,4 +507,4 @@ Grants a +15% Critical Hit Chance.
 (Tier IV; DLC Base)
 
 
-- **Resurrection** (accuracy Always Hits, range 4, single-use action): Brings target allied unit back to life with 75% of its total HP Hit Points. Can only be used once per battle. Requires: Support
+- **Resurrection** (accuracy Always Hits, range 4, single-use action): Brings target allied unit back to life with 75% of its total Hit Points. Can only be used once per battle. Requires: Support

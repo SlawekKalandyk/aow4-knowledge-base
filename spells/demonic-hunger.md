@@ -13,4 +13,4 @@ Target race is charged with infernal forces of gluttony, gaining:
 - At 10 stacks turns into a permanent stack of Demonic Satiation.
 - Cannot be gained when Demonic Satiation is at 10 stacks.
 
-- When pillaging a province, heal for 25% of their maximum HP Hit Points.
+- When pillaging a province, heal for 25% of their maximum Hit Points.

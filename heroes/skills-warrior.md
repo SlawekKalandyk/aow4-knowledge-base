@@ -16,14 +16,14 @@ Compatible weapons:
 (type normal; can't be taken with Knight; DLC Base)
 
 - Melee attacks gain +10% damage.
-- +10 maximum HP Hit Points.
+- +10 maximum Hit Points.
 
 ## Berserker's Rage
 
 (type normal; requires any of Reckless Rage, Execute; can't be taken with Grim Executioner; DLC Base)
 
 
-- **Berserker's Rage**: When this unit's total HP Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
 
 ## Brutal Charge
 
@@ -79,7 +79,7 @@ If the hero uses a Charge attack after moving, they now inflict Distracted.
 (type normal; requires any of Sundering Strikes, Keen Edge; can't be taken with Reckless Rage, Critical Momentum; DLC Base)
 
 
-- **Execute** (accuracy Always Hits, range 1, free action): Slight chance of instantly killing an injured target. This chance increases the lower the target's HP Hit Points are. Cooldown: 2 Turns
+- **Execute** (accuracy Always Hits, range 1, free action): Slight chance of instantly killing an injured target. This chance increases the lower the target's Hit Points are. Cooldown: 2 Turns
 
 ## Fighting
 
@@ -136,7 +136,7 @@ If the hero uses a Charge attack after moving, they enter Defense Mode.
 (type normal; can't be taken with Berserker; DLC Base)
 
 - +1 Defense
-- +10 maximum HP Hit Points
+- +10 maximum Hit Points
 
 ## Prepared Charge
 
@@ -192,7 +192,7 @@ If the hero uses a Charge attack after moving, they now have a base 90% chance o
 (type normal; requires any of Berserker's Rage, Grim Executioner; DLC Base)
 
 
-- **Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 50% of their maximum HP Hit Points.
+- **Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 50% of their maximum Hit Points.
 
 ## Unyielding
 
@@ -205,19 +205,19 @@ If the hero uses a Charge attack after moving, they now have a base 90% chance o
 
 (type normal; requires any of Fighting, Berserker's Rage; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Vigor
 
 (type normal; requires any of Relentless Charge, Cleaving Sweep; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Vigor
 
 (type normal; requires any of Second Wind, Frenzy; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Warseeker
 

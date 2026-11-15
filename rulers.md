@@ -9,7 +9,7 @@ DLC: Base
 A Ruler risen from the ranks of their people.
 
 - Mortal Champions have access to unique army leadership hero skills.
-- Mortal Champion Rulers gain +20% XP Experience.
+- Mortal Champion Rulers gain +20% Experience.
 - Start with +100 Relation with Free Cities.
 - Mortal Champion Rulers start with the Spur to Action ability in Combat.
 - Mortal Champions are Herotrait governance champion governor.
@@ -24,7 +24,7 @@ A powerful Wizard seeking dominion over a new realm.
 
 - Wizard Kings have access to unique Combat Spell enhancing hero skills.
 - All Conduit grant +2 Mana.
-- Start with +10 Combat Casting Point and +10 [World Map] World Map Casting Point.
+- Start with +10 Combat Casting Point and +10 World Map Casting Point.
 - Wizard Kings start with the Overchannel ability ability in Combat.
 - Wizard Kings are Herotrait governance wizard governor.
 
@@ -50,7 +50,7 @@ A deathless Vampire who drains the life from enemies under cover of night.
 
 - An Undead unit with an aversion to light.
 - Has access to Lord castle foundation which replaces the Wizard tower foundation and grants the use of Thrall to cast powerful ritual Spell.
-- Drains 20% of the combat XP Experience earned by Turned Vampire heroes.
+- Drains 20% of the combat Experience earned by Turned Vampire heroes.
 - Faction is immune to Sunless terrain's penalties to City Stability and Morale.
 - Elder Vampires are Herotrait governance vampire governor.
 - Elder Vampires have a 5 Gold Unit Upkeep

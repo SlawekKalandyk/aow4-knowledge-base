@@ -11,7 +11,7 @@ Perform forbidden and dangerous rites on your units to bleed your enemies and st
 
 - [Flesh Carved Runes](../spells/flesh-carved-runes.md) ([World Map] Minor Race Transformation): Carve profane sigils onto the flesh of your race, granting them:
   
-  - +5 HP Hit Point regeneration on the World Map.
+  - +5 Hit Point regeneration on the World Map.
   - Attack and Debuff abilities:
   
   - Ignore 1 Status Resistance per stack of Bleeding on the target.

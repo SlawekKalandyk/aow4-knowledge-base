@@ -20,7 +20,7 @@ Create a virtuous army and make them fight strong until the end.
 - [Virtuous Spirit](../spells/virtuous-spirit.md) ([World Map] Minor Race Transformation): Gives target race strength in moments of weakness, giving them:
   
   - +2 Spirit Protection
-  - When this unit drops below 60% of their maximum HP Hit Points:
+  - When this unit drops below 60% of their maximum Hit Points:
   
   - Ignores 50% of its Casualties.
   - Gains +1 Defense.

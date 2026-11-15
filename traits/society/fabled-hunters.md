@@ -9,7 +9,7 @@
 ## Effects
 
 - Gain +75% resources from clearing an Infestation, Ancient Wonder, or Resource Node.
-- Units regenerate an additional +5 HP Hit Points per Turn.
+- Units regenerate an additional +5 Hit Points per Turn.
 
 ## Starting bonus
 

@@ -7,7 +7,7 @@
 
 ## Effects
 
-- 10 HP Hit Points.
+- 10 Hit Points.
 
 ## Description
 

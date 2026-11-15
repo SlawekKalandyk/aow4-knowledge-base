@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Grants the Slippery passive ability.
 - Units have Very Fast Movement.
 - Additional units become Cavalry

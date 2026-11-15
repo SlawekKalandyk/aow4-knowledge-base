@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Gains the Phase ability.
 - Additional units become Cavalry
 - Ruler starts with a Unicorn mount.

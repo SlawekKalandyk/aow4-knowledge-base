@@ -1,6 +1,6 @@
 # Call to Glory
 
-- Type: [Combat] Combat Enchantment
+- Type: Combat Enchantment
 - Casting cost: 20 Mana
 - Casting points: 25
 - Tome: Feudal - Aristocracy, Feudal - Monarchy

@@ -1,6 +1,6 @@
 # Rite of Swift Shadows
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 200 Mana
 - Casting points: 200
 - DLC: Base

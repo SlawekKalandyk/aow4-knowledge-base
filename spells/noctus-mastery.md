@@ -1,6 +1,6 @@
 # Noctus' Mastery
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 45 Mana
 - Casting points: 45
 - DLC: SECRETSOFTHEARCHMAGES

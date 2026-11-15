@@ -41,7 +41,7 @@
 
 - +2 Mana per Research Post in City Domain.
 - Adds the Shrieking Bat unit to the Rally of the Lieges.
-- If Thrall are available, the Thrall Sacrifice action on this structure becomes available to permanently gain +10 [World Map] World Map Casting Point and +10 Combat Casting Point from this structure.
+- If Thrall are available, the Thrall Sacrifice action on this structure becomes available to permanently gain +10 World Map Casting Point and +10 Combat Casting Point from this structure.
 - Unit unlocks: [Shrieking Bat](../units/shrieking-bat.md)
 
 ## Crystal Forest
@@ -154,7 +154,7 @@
 Province adjacent to this Landmark gain:
 
 - +5 Gold
-- The Ancient Draconic Instinct [Combat] Combat Enchantment
+- The Ancient Draconic Instinct Combat Enchantment
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -171,7 +171,7 @@ Province adjacent to this Landmark gain:
 - +2 Gold, +2 Production, and +1 Soul income if available.
 - A Quarry or Mine can be constructed in this province.
 - Every 10 Turn, a random water Pickup spawns in this province if able.
-- The Rampant Debris [Combat] Combat Enchantment.
+- The Rampant Debris Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
@@ -187,12 +187,12 @@ Province adjacent to this Landmark gain:
 
 - +5 Knowledge.
 - A Research Post in the Province gains +10 Mana income.
-- The Elemental Defenses [Combat] Combat Enchantment.
+- The Elemental Defenses Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
 - Enemy Spell have 33% chance of Backfiring within the domain.
-- The City's owner gains 15 [World Map] World Map Casting Point and Combat Casting Point.
+- The City's owner gains 15 World Map Casting Point and Combat Casting Point.
 - Unlocks the Broken wizard tower spell [World Map] City Spell.
 - Spell unlocks/rewards: [Cosmic Inspiration](../spells/cosmic-inspiration.md)
 
@@ -218,7 +218,7 @@ A City with 3 Province adjacent to this Landmark gain:
 Province adjacent to this Landmark gain:
 
 - +5 Mana and +10 Draft.
-- The Scorching Stench of Suffering [Combat] Combat Enchantment.
+- The Scorching Stench of Suffering Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
@@ -234,12 +234,12 @@ Province adjacent to this Landmark gain:
 
 - +5 Food.
 - A Farm in this province grants +5 Mana.
-- The Celestial Rain [Combat] Combat Enchantment.
+- The Celestial Rain Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
 - Farms in the domain grant +2 Gold and +2 City Stability.
-- The Celestial Rain [Combat] Combat Enchantment in the domain.
+- The Celestial Rain Combat Enchantment in the domain.
 - Spell unlocks/rewards: Celestial Rain: Every 3 Turn: ; All units become Wet for 3 Turns; All Faithful, Zeal, and Celestial units have their negative status effects cleansed.
 
 ## Grand Statuary
@@ -264,7 +264,7 @@ Province adjacent to this Landmark gain:
 
 - +10 Draft.
 - If Soul are obtainable, this province grants +2 >.
-- The Undying Battlefield [Combat] Combat Enchantment
+- The Undying Battlefield Combat Enchantment
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -281,7 +281,7 @@ Province adjacent to this Landmark gain:
 
 - +5 Knowledge.
 - A Research Post in this province grants +10 Knowledge.
-- The Behemoths Dreadful Presence [Combat] Combat Enchantment
+- The Behemoths Dreadful Presence Combat Enchantment
 
 A City with 3 Province adjacent to this Landmark gain:
 
@@ -296,7 +296,7 @@ Province adjacent to this Landmark gain:
 
 - +3 Mana and +3 Knowledge.
 - Allows the construction of a Conduit.
-- The Elemental Attunement [Combat] Combat Enchantment.
+- The Elemental Attunement Combat Enchantment.
 
 A City with 3 Province adjacent to this Landmark gains:
 
@@ -341,7 +341,7 @@ Province adjacent to this Landmark gain:
 
 - Allows the construction of a Conduit in this province.
 - A Conduit in this province grants +5 Mana income.
-- The Vortex Storm [Combat] Combat Enchantment.
+- The Vortex Storm Combat Enchantment.
 - Unit starting their Turn in this Province gain Accelerated Movement for 3 Turn.
 
 A City with 3 Province adjacent to this Landmark gains:
@@ -368,7 +368,7 @@ A City with 3 Province adjacent to this Landmark gains:
 - Gains Sunless.
 - Loses Gloom.
 
-- The City's Empire gains the Parasiticinfection [Combat] Combat Enchantment when fighting in a province with Sunless.
+- The City's Empire gains the Parasiticinfection Combat Enchantment when fighting in a province with Sunless.
 - Spell unlocks/rewards: Parasitic Contamination: Every Turn, all enemy units with Bleeding have a 60% chance of suffering Blood Parasite.
 
 ## Volcano
@@ -378,7 +378,7 @@ A City with 3 Province adjacent to this Landmark gains:
 Province adjacent to this Landmark gain:
 
 - +10 Mana.
-- The Combatproperty Volcanic Eruption [Combat] Combat Enchantment.
+- The Combatproperty Volcanic Eruption Combat Enchantment.
 - > in the Province gain Volcanic heat unit property.
 
 A City with 3 Province adjacent to this Landmark gains:
@@ -445,7 +445,7 @@ A City with 3 Province adjacent to this Landmark gains:
 
 (Silver Ancient Wonder; DLC SECRETSOFTHEARCHMAGES; node: research_post +25 Knowledge)
 
-- +5 [World Map] World Map Casting Point
+- +5 World Map Casting Point
 - +5 Combat Casting Point
 
 ## Astral Rift
@@ -469,7 +469,7 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 Devotees and celestials gather to vanquish evil.
 If left unchecked, they will grow in strength, expand their territory, and send out invasion armies.
 
-This Infestation will be Neutral to those with G O O D_2_ U N I T_ P R O P E R T Y or better Alignment.
+This Infestation will be Neutral to those with Good 2 or better Alignment.
 
 ## Derelict Workshop
 
@@ -595,7 +595,7 @@ Unique global effect:
 
 Unique global effect:
 
-- +15 [World Map] World Map Casting Point.
+- +15 World Map Casting Point.
 - Combat enchantment: Displaced Reality: Every 2 Turns, all units are teleported by 2 hexes.
 
 ## Tranquility Pool
@@ -639,7 +639,7 @@ Unique global effect:
 
 Unique global effect:
 
-- Unit gain +20% XP experience from combat.
+- Unit gain +20% experience from combat.
 - Combat enchantment: Focused Gaze: Base Missile and Magic attacks of all defending units gain +? Range.
 
 ## Haste Berries

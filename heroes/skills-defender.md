@@ -117,7 +117,7 @@ Melee attacks gain +20% damage.
 
 (type normal; requires any of Graceful Defense, Vigor; can't be taken with Greater Fighting; DLC Base)
 
-+30 maximum HP Hit Points.
++30 maximum Hit Points.
 
 ## Invigorating Retaliations
 
@@ -240,13 +240,13 @@ When entering Defense Mode, this unit gains Tireless Retaliation until the start
 
 (type normal; requires any of Greater Resistance, Pure Defense; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Vigor
 
 (type normal; requires Taunt; DLC Base)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Warded Armor
 

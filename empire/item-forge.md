@@ -379,8 +379,8 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Area Damage - Chain** (2 pts, DLC Base, needs 3 Haste Berries, fits all of (Item Type Weapon, lacks Exclusive Targeter Modifier)): Base attacks deal 30% of their damage to a random unit within 3 hexes.
 - **Area Damage - Line** (3 pts, DLC Base, needs 3 Focus Crystals, fits all of (Item Type Weapon, lacks Exclusive Targeter Modifier)): Base attacks deal -20% damage, but deal damage to units in a 3-hex line.
 - **Army Maintenance** (2 pts, DLC Base, needs 2 Silvertongue Fruit, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Units in the army cost -10% base Unit Upkeep.
-- **Army Recuperation** (3 pts, DLC Base, needs 1 Rainbow Clover, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): All units in the army heal +5 HP Hit Points every World Map Turn.  Does not stack.
-- **Army Trainer** (2 pts, DLC Base, needs 1 Silvertongue Fruit, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Units in the army gain +20% XP Experience.
+- **Army Recuperation** (3 pts, DLC Base, needs 1 Rainbow Clover, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): All units in the army heal +5 Hit Points every World Map Turn.  Does not stack.
+- **Army Trainer** (2 pts, DLC Base, needs 1 Silvertongue Fruit, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Units in the army gain +20% Experience.
 - **Army: Umbral Malady Immunity** (2 pts, DLC ELDRITCHREALMS, needs 1 Void Stones, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): While this unit is the leader of the army, units gain Umbral Malady Immunity
 - **Assassin's Strike** (2 pts, DLC Base, needs 1 Archon Blood, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): 
 - **Astral Blessing** (1 pts, DLC Base, needs 2 Astral Dew, fits any of (Staff, Grimoire)): 
@@ -389,8 +389,8 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Attunement: Fortune** (3 pts, DLC Base, needs 2 Tranquility Pool, fits any of (Head, Torso, Legs)): 
 - **Attunement: Star Blades** (3 pts, DLC Base, needs 1 Tranquility Pool, fits any of (Head, Torso, Legs)): 
 - **Aura of Disease** (4 pts, DLC Base, needs 3 Silvertongue Fruit, fits Ring): At the end of this unit's turn, adjacent enemy units have a base % chance of becoming Diseased.
-- **Berserker's Rage** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): When this unit's total HP Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
-- **Berserker's Rage** (3 pts, DLC Base, needs 1 Fireforge Stone, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When this unit's total HP Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage** (3 pts, DLC Base, needs 1 Fireforge Stone, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
 - **Bless** (1 pts, DLC Base, needs 1 Archon Blood, fits any of (Staff, any of (Instrument, Wand))): 
 - **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Blight Damage.  +3 damage per Item Tier.
 - **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Blight Damage.  +2 damage per Item Tier.
@@ -721,7 +721,7 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to mixed Fire Damage and Spirit Damage.  +2 damage per Item Tier.
 - **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Staff): Change damage to mixed Fire Damage and Spirit Damage.  +4 damage per Item Tier.
 - **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits any of (Magical Orb, Orb Fire Spirit)): Change damage to mixed Fire Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Raise Undead** (1 pts, DLC Base, fits Magical Orb): Target: ; Friendly Undead corpse is revived with 60% of its total HP Hit Points.; Non-Undead corpse is raised as a Zombie.
+- **Raise Undead** (1 pts, DLC Base, fits Magical Orb): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie.
 - **Raise Undead** (1 pts, DLC Base, needs 1 Archon Blood, fits any of (Staff, Grimoire)): 
 - **Raise Undead** (2 pts, DLC Base, needs 1 Archon Blood, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Rampant Fire** (1 pts, DLC Base, fits any of (Magical Orb, Staff)): Target hex becomes On Fire for 3 Turns.
@@ -756,7 +756,7 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Seduce** (3 pts, DLC Base, needs 2 Silvertongue Fruit, fits any of (Staff, Grimoire)): 
 - **Seduce** (4 pts, DLC Base, needs 2 Silvertongue Fruit, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Siege Master** (2 pts, DLC Base, needs 2 Arcanium Ore, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Grants Siege Breaker to all units in the army.
-- **Slip Away** (1 pts, DLC Base, needs 1 Astral Dew, fits any of (Item Type Armor, Legs)): When this unit's HP Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away** (1 pts, DLC Base, needs 1 Astral Dew, fits any of (Item Type Armor, Legs)): When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
 - **Slip Away** (2 pts, DLC Base, needs 1 Astral Dew, fits Ring): 
 - **Slippery** (1 pts, DLC Base, needs 1 Tranquility Pool, fits any of (Item Type Armor, Legs)): This unit does not trigger Opportunity Attack.
 - **Song of Carnage** (2 pts, DLC Base, needs 2 Fireforge Stone, fits any of (Staff, Grimoire)): 
@@ -825,7 +825,7 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Umbral Malady Immunity** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): This unit is immune to Umbral Malady.
 - **Umbral Wake** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): Unit creates Umbral Taint as it moves.
 - **Undead Slayer** (1 pts, DLC Base, needs 2 Tranquility Pool, fits all of (Item Type Weapon, lacks Exclusive Slayer)): Base attacks deal +40% damage to Undead units.
-- **Undying** (5 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When killed, this unit will revive with 50% of its total HP Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Undying** (5 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When killed, this unit will revive with 50% of its total Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
 - **Universal Camouflage** (1 pts, DLC Base, needs 1 Silvertongue Fruit, fits Ring): This unit cannot be seen on the World Map.
 - **Unleash the Hounds** (3 pts, DLC Base, needs 2 Haste Berries, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): At the start of battle, summon a War Hound Shock Unit that inflicts Marked and Bleeding with its attack.  Cannot benefit from Unit Enchantments.
 - **Unyielding** (5 pts, DLC Base, needs 3 Tranquility Pool, fits Ring): 

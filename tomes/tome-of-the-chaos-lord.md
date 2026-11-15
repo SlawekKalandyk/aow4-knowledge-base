@@ -9,7 +9,7 @@ Unleash chaos forces upon the world. Specialize in offensive buffs.
 
 ## Unlocks
 
-- [Call Forth Avatar of Chaos](../spells/call-forth-avatar-of-chaos.md) ([Combat] Combat Summon Spell): Summons an avatar of your Ruler into a battle. The avatar has the same abilities as your Ruler and spawns with full Action Points. All Fiends gain +10 Morale.
+- [Call Forth Avatar of Chaos](../spells/call-forth-avatar-of-chaos.md) (Combat Summon Spell): Summons an avatar of your Ruler into a battle. The avatar has the same abilities as your Ruler and spawns with full Action Points. All Fiends gain +10 Morale.
   
   Cannot be used in battles where your Ruler is present.
 - Incite Rebellion (Siege Project): - After 1 Turns in battle, 3 enemy non-Hero units are Mind-Controlled until the end of combat.

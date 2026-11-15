@@ -12,7 +12,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Glacial Mammoth's Boon
   - Arctic Walk
-- [Conjure Primal Mammoth](../spells/conjure-primal-mammoth.md) ([Combat] Combat Summon Spell): Summon a Tier 2 Primal Mammoth.
+- [Conjure Primal Mammoth](../spells/conjure-primal-mammoth.md) (Combat Summon Spell): Summon a Tier 2 Primal Mammoth.
   This summon lasts for 3 Turns.
 - [Ancestral Harmony](../spells/ancestral-harmony.md) ([Combat] Healing Spell): Target friendly unit:
   

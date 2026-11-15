@@ -87,7 +87,7 @@ DLC: SILVERSEAS | Spells: [Nevermoor's Curse](../spells/nevermoors-curse.md) | U
 
 DLC: SILVERSEAS
 
-- You have +50 [World Map] World Map Casting Point and +50 Combat Casting Point.
+- You have +50 World Map Casting Point and +50 Combat Casting Point.
 - Whenever you cast a strategic spell, the Province of your Ruler is affected by the following:
 
 - Alter land provinces to Snow and Ice.
@@ -268,9 +268,9 @@ Unlocks the spell: Zaethyl’s paradise.
 DLC: GIANTKINGS | Spells: [Soulcurse of Gluttony](../spells/soulcurse-of-gluttony.md)
 
 - Unlocks the Soulcurse of gluttony spell.
-- Whenever you cast a soulcurse spell there is a 25% chance of your ruler gaining some XP Experience.
+- Whenever you cast a soulcurse spell there is a 25% chance of your ruler gaining some Experience.
 
-- The amount of XP Experience gained this way scales with the tier of the cast soulcurse spell.
+- The amount of Experience gained this way scales with the tier of the cast soulcurse spell.
 - When multiple of these extra soulcurse casting effects could trigger, their triggering chance is summed up, but a maximum of 1 effects triggers.
 
 ## Soulcursed Grail

@@ -32,7 +32,7 @@
 
 (type normal; requires Taunt; DLC GIANTKINGS)
 
-+15 maximum HP Hit Points.
++15 maximum Hit Points.
 
 ## Exalted Brilliance
 

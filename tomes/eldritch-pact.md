@@ -22,7 +22,7 @@ These boons can be purchased from an Umbral Dwelling by reaching an Eldritch Pac
   - While in Gloom terrain units gain:
   
   - +10 Morale.
-  - +12 HP Hit Point per Turn on the world map.
+  - +12 Hit Point per Turn on the world map.
   
   - Cities and Outposts of the race:
   
@@ -38,7 +38,7 @@ These boons can be purchased from an Umbral Dwelling by reaching an Eldritch Pac
   - Being immediately removed from combat.
   - Appearing at a random location in the Umbral Abyss after battle.
   - If unsuccessful, inflicts Stunned for 1 Turn instead.
-- [Umbral Rift](../spells/umbral-rift.md) ([World Map] World Spell): Create an Umbral Rift in the target Umbral Abyss province, and another nearby on the Surface layer.
+- [Umbral Rift](../spells/umbral-rift.md) (World Spell): Create an Umbral Rift in the target Umbral Abyss province, and another nearby on the Surface layer.
 - [Pall of Gloom](../spells/pall-of-gloom.md) ([World Map] Terraforming Spell): Target Province and adjacent Provinces:
   
   - Gain Gloom

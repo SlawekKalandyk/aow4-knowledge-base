@@ -10,7 +10,7 @@ Become closer to the umbral demons, and punish your enemies with their own stren
 ## Unlocks
 
 - Throne of Insidious Whispers (City Structure): - +15 Mana income
-  - 15 [World Map] World Map Casting Points
+  - 15 World Map Casting Points
   - 15 Combat Casting Points
   
   At the start of combat in this city's domain:
@@ -22,10 +22,10 @@ Become closer to the umbral demons, and punish your enemies with their own stren
   
   - Loses all Positive Status Effects.
   - If a lost status effect has any Status Effects Countering, then the unit gains a stack of that Negative Status Effect.
-- [Treacherous Reflection](../spells/treacherous-reflection.md) ([Combat] Combat Summon Spell): Create a Treacherous Reflection of target enemy unit.
+- [Treacherous Reflection](../spells/treacherous-reflection.md) (Combat Summon Spell): Create a Treacherous Reflection of target enemy unit.
   
   Cannot target Heroes, Combat Summons, and Mythic Units.
-- [Umbral Incursion](../spells/umbral-incursion.md) ([World Map] World Spell): Target enemy city:
+- [Umbral Incursion](../spells/umbral-incursion.md) (World Spell): Target enemy city:
   
   - Loses a border land province and the population is lost.
   - Spawns an Umbral Nest Infestation on lost province.

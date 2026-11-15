@@ -10,7 +10,7 @@ Wreathes target race in swirling shadows, granting them:
 
 - +10% Evasion.
 - Fleeting.
-- When this unit's HP Hit Points drop below 60%:
+- When this unit's Hit Points drop below 60%:
 
 - It becomes Obscured for 1 Turn.
 - Adjacent enemies have a base 90% chance of becoming Blind for 1 Turn.

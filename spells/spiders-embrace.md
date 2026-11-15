@@ -10,7 +10,7 @@ Target race weaves themselves with spiders gaining:
 
 - The Spider unit type.
 - Fast Movement.
-- +10 HP Hit Points.
+- +10 Hit Points.
 - All attacks gain a base 30% chance of inflicting Immobilized for 1 Turn. Increased for Single Shots.
 
 Mounted units lose their mounts.

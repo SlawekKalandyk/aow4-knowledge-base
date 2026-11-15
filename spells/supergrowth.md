@@ -8,7 +8,7 @@
 
 Makes the target race grow in mass and stature, granting them:
 
-- +10 HP Hit Points.
+- +10 Hit Points.
 - +1 Retaliation Attack.
 - Decreased number of units in formation.
 

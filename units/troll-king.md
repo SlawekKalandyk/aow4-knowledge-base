@@ -18,7 +18,7 @@
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Personal Guard**: At the start of combat, a random Tier II Ogre unit joins the battle.
-- **Troll Natural Regeneration**: - Heals 10% of their maximum Hit Points as Temporary Hit Points at the end of its turn in combat.; Heals 10 HP Hit Points at the start of your turn on the world map.; If this unit sustains Fire Damage, the regeneration stops for 1 Turn.
+- **Troll Natural Regeneration**: - Heals 10% of their maximum Hit Points as Temporary Hit Points at the end of its turn in combat.; Heals 10 Hit Points at the start of your turn on the world map.; If this unit sustains Fire Damage, the regeneration stops for 1 Turn.
 
 ## Unit type traits
 

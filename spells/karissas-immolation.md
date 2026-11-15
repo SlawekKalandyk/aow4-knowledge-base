@@ -1,6 +1,6 @@
 # Karissa's Immolation
 
-- Type: [Combat] Combat Summon Spell
+- Type: Combat Summon Spell
 - Casting cost: 80 Mana
 - Casting points: 35
 - DLC: SECRETSOFTHEARCHMAGES

@@ -12,7 +12,7 @@ Gives the target race blessings of the Umbral Abyss, granting them:
 - While in Gloom terrain units gain:
 
 - +10 Morale.
-- +12 HP Hit Point per Turn on the world map.
+- +12 Hit Point per Turn on the world map.
 
 - Cities and Outposts of the race:
 

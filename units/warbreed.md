@@ -16,7 +16,7 @@
 ## Passives
 
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Siege Breaker**: When part of a besieging army, this unit contributes +1 Fortification Damage.
 
 ## Unit type traits

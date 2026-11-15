@@ -19,28 +19,28 @@
 (type normal; requires any of Mind Devourer, Rosebound Noble, Spreading Blight, Miasmic Spine; DLC Base)
 
 
-- **Ancient One**: Unit gains: ; +20 HP Hit Points; +20% damage
+- **Ancient One**: Unit gains: ; +20 Hit Points; +20% damage
 
 ## Ancient of Earth
 
 (type normal; requires Grand Brawn Rune; DLC Base)
 
 
-- **Ancient of Earth**: Unit gains: ; +20 HP Hit Points; +20% damage
+- **Ancient of Earth**: Unit gains: ; +20 Hit Points; +20% damage
 
 ## Ancient of Earth
 
 (type normal; requires Paragon of Materium; DLC Base)
 
 
-- **Ancient of Earth**: Unit grows in size and gains: ; Large Target; +20 HP Hit Points; +30% damage  Unit can no longer use a mount.
+- **Ancient of Earth**: Unit grows in size and gains: ; Large Target; +20 Hit Points; +30% damage  Unit can no longer use a mount.
 
 ## Ancient of Earth
 
 (type normal; requires Elder of Materium; DLC Base)
 
 
-- **Ancient of Earth**: Unit gains: ; +20 HP Hit Points; +20% damage
+- **Ancient of Earth**: Unit gains: ; +20 Hit Points; +20% damage
 
 ## Arcane Surge
 
@@ -62,7 +62,7 @@
 
 Gain:
 
-- +30 HP Hit Point
+- +30 Hit Point
 - Maternal Rage
 - Natural Regeneration
 
@@ -170,7 +170,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Grand Disruption Rune, Elder of Shadow, Paragon of Shadow, Puppeteer, Curse to Undeath, Elite March; DLC Base)
 
 
-- **Eternal One**: - When this Hero unit is killed in battle, after 2 Turns, it comes back to life with 35% of its total HP Hit Points.; Can be used any number of times.; Does not function if all other units are dead.
+- **Eternal One**: - When this Hero unit is killed in battle, after 2 Turns, it comes back to life with 35% of its total Hit Points.; Can be used any number of times.; Does not function if all other units are dead.
 
 ## Exhume Undead
 
@@ -357,7 +357,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Disruption Rune, Primal Dragon, Shadow Transformation, Adept of Shadow, Forgotten Tome of Curses, Nightlord, Reaper, Vampiric Rage, Profane Body Mastery, Marrow Drinker, Defiler; DLC Base)
 
 
-- **Unholy Leader**: While army leader, non-Hero Undead units in army have: ; +10% damage; +15 HP Hit Points; +2 Fire Protection; +2 Spirit Protection
+- **Unholy Leader**: While army leader, non-Hero Undead units in army have: ; +10% damage; +15 Hit Points; +2 Fire Protection; +2 Spirit Protection
 
 ## Vicious Killer
 

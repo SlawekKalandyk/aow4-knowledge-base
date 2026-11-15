@@ -18,9 +18,9 @@
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Fearless**: Unit cannot rout due to low morale.
-- **Fiery Rebirth**: When killed, this unit will revive with 40% of its total HP Hit Points: ; After 1 Combat Turn and then deal 15 Fire Damage to adjacent enemy units.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Fiery Rebirth**: When killed, this unit will revive with 40% of its total Hit Points: ; After 1 Combat Turn and then deal 15 Fire Damage to adjacent enemy units.; If side is victorious in battle.  Can only be triggered once per battle.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Primordial Pride**: While this unit is in battle, all friendly units gain: ; Once per turn, when this unit is hit by an attack, the attacker gains a stack of Burning for 3 Turns.
 - **Status Effect Immunity: Burning**: Unit is immune to Burning.
 

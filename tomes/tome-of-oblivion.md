@@ -14,7 +14,7 @@ Use powerful magic capable of sending your enemies to the nothingness of oblivio
   - Each turn, the radius increases by 1 hex.
   - Lasts for 2 Turns.
 - [Summon Living Fog](../spells/summon-living-fog.md) ([World Map] Summon Spell): Summons a Living Fog unit onto the target world hex.
-- [Sleep of Oblivion](../spells/sleep-of-oblivion.md) ([Combat] Debuff Spell): Target non-Hero unit dies. After 2 Turns, they come back to life with 75% of their total HP Hit Points and are inflicted with Insanity.
+- [Sleep of Oblivion](../spells/sleep-of-oblivion.md) ([Combat] Debuff Spell): Target non-Hero unit dies. After 2 Turns, they come back to life with 75% of their total Hit Points and are inflicted with Insanity.
   
   While dead this way the unit cannot be revived or have its corpse destroyed.
 - [Ritual of Somnia](../spells/ritual-of-somnia.md) ([World Map] Enemy Army Spell): In the target enemy army:

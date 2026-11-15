@@ -7,4 +7,4 @@
 - DLC: Base
 
 - Heals all friendly units +40 Temporary Hit Points.
-- Brings all dead friendly Animals and Plants back to life with 50% of their total HP Hit Points.
+- Brings all dead friendly Animals and Plants back to life with 50% of their total Hit Points.

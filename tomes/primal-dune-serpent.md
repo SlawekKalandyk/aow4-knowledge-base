@@ -12,7 +12,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Dune Serpent's Boon
   - Sand Walk
-- [Conjure Primal Serpent](../spells/conjure-primal-serpent.md) ([Combat] Combat Summon Spell): Summon a Tier 2 Primal Serpent.
+- [Conjure Primal Serpent](../spells/conjure-primal-serpent.md) (Combat Summon Spell): Summon a Tier 2 Primal Serpent.
   This summon lasts for 3 Turns.
 - [Ancestral Harmony](../spells/ancestral-harmony.md) ([Combat] Healing Spell): Target friendly unit:
   

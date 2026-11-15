@@ -19,7 +19,7 @@
 - **Fearless**: Unit cannot rout due to low morale.
 - **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack.  Works once per Turn.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Primordial Strength**: While this unit is in battle all friendly units gain: ; If this unit attacked, at the end of their turn they gain a stack of Strengthened and Nature's Might for 3 Turns.
 
 ## Unit type traits

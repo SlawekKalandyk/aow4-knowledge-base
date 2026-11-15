@@ -7,5 +7,5 @@
 
 Target enemy army:
 
-- Sustains damage equal to 20% of its maximum HP Hit Points
+- Sustains damage equal to 20% of its maximum Hit Points
 - Loses 2 Status Resistance until the end of its next combat

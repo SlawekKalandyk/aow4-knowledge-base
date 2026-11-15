@@ -1,6 +1,6 @@
 # Conjure Spellward
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 200 Mana
 - Casting points: 200
 - Tome: Tome of Severing

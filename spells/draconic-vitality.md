@@ -8,6 +8,6 @@
 
 Target race is imbued with Dragon-like vitality, granting them:
 
-- +5 HP Hit Point regeneration per World Map Turn.
-- +3 HP Hit Points per Unit Rank.
-- +3 HP Hit Points per Hero Level, up to Level 10.
+- +5 Hit Point regeneration per World Map Turn.
+- +3 Hit Points per Unit Rank.
+- +3 Hit Points per Hero Level, up to Level 10.

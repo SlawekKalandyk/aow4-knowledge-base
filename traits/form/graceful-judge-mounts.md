@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Gain the Touch of Grace ability.
 - Additional units become Cavalry
 - Ruler starts with a Graceful Judge mount.

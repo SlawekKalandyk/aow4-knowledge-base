@@ -52,7 +52,7 @@ The Tail Swipe ability now:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -65,7 +65,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -78,7 +78,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -91,7 +91,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -105,7 +105,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -118,7 +118,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -131,7 +131,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -146,7 +146,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -161,7 +161,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -176,7 +176,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -191,7 +191,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -206,7 +206,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -228,13 +228,13 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
 - Becomes part Blight Damage if not a Nature Dragon.
 - Heals friendly units for +20 Temporary Hit Points.
-- Revives friendly dead units with 30% of their total HP Hit Points.
+- Revives friendly dead units with 30% of their total Hit Points.
 
 ## Lifebreath
 
@@ -242,13 +242,13 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
 - Becomes part Blight Damage if not a Nature Dragon.
 - Heals friendly units for +20 Temporary Hit Points.
-- Revives friendly dead units with 30% of their total HP Hit Points.
+- Revives friendly dead units with 30% of their total Hit Points.
 
 ## Lifebreath
 
@@ -256,13 +256,13 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
 - Becomes part Blight Damage if not a Nature Dragon.
 - Heals friendly units for +20 Temporary Hit Points.
-- Revives friendly dead units with 30% of their total HP Hit Points.
+- Revives friendly dead units with 30% of their total Hit Points.
 
 ## Lifebreath
 
@@ -270,13 +270,13 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
 - Becomes part Blight Damage if not a Nature Dragon.
 - Heals friendly units for +20 Temporary Hit Points.
-- Revives friendly dead units with 30% of their total HP Hit Points.
+- Revives friendly dead units with 30% of their total Hit Points.
 
 ## Lifebreath
 
@@ -284,13 +284,13 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
 - Becomes part Blight Damage if not a Nature Dragon.
 - Heals friendly units for +20 Temporary Hit Points.
-- Revives friendly dead units with 30% of their total HP Hit Points.
+- Revives friendly dead units with 30% of their total Hit Points.
 
 ## Lifebreath
 
@@ -298,13 +298,13 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
 - Becomes part Blight Damage if not a Nature Dragon.
 - Heals friendly units for +20 Temporary Hit Points.
-- Revives friendly dead units with 30% of their total HP Hit Points.
+- Revives friendly dead units with 30% of their total Hit Points.
 
 ## Primal Dragon
 
@@ -312,7 +312,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Natural Regeneration
@@ -323,7 +323,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Natural Regeneration
@@ -334,7 +334,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Natural Regeneration
@@ -345,7 +345,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Natural Regeneration
@@ -356,7 +356,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Natural Regeneration
@@ -367,7 +367,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Natural Regeneration
@@ -378,7 +378,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -391,7 +391,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -404,7 +404,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -417,7 +417,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -430,7 +430,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -443,7 +443,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -462,7 +462,7 @@ Cooldown of the breath attack is reduced by 1 Turns.
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -478,7 +478,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -494,7 +494,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -510,7 +510,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -526,7 +526,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -542,7 +542,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -558,7 +558,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -573,7 +573,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -588,7 +588,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -603,7 +603,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -618,7 +618,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.
@@ -633,7 +633,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 - Its breath attack:
 
 - Increases in size.

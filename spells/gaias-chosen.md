@@ -11,4 +11,4 @@ Infuse the target race with the blessing of Nature. They gain:
 - The Plant unit type.
 - Negative Status Effects last -1 Turn, with a minimum of 1.
 - +3 Status Resistance.
-- +20 HP Hit Points.
+- +20 Hit Points.

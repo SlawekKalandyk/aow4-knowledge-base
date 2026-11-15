@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +5 HP Hit Points.
+- +5 Hit Points.
 - Gains the Web ability.
 - Gains Swift.
 - Additional units become Cavalry

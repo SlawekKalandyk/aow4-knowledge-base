@@ -1,6 +1,6 @@
 # Gust of the Seven Seas
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 240 Mana
 - Casting points: 240
 - DLC: SILVERSEAS

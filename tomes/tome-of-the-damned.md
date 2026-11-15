@@ -9,7 +9,7 @@ Apply Ghostfire to your enemies and use it as a conduit to summon Accursed Wisps
 
 ## Unlocks
 
-- [Curse of the Damned](../spells/curse-of-the-damned.md) ([World Map] World Spell): Target province gains Curse of the Damned for 3 Turns.
+- [Curse of the Damned](../spells/curse-of-the-damned.md) (World Spell): Target province gains Curse of the Damned for 3 Turns.
 - [Accursed Blades](../spells/accursed-blades.md) ([World Map] Unit Enchantment): Enchanted units attacks gain:
   
   - +1 Fire Damage.

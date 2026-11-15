@@ -6,4 +6,4 @@
 - Tome: Tome of Faith
 - DLC: Base
 
-Units in target army heal 25 HP Hit Points.
+Units in target army heal 25 Hit Points.

@@ -15,7 +15,7 @@ Discover the power of the natural world and specialize in immobilizing enemies a
   - +10% damage against Poisoned or Decaying units.
   
   Effects are increased for Single Shot attacks.
-- [Vine Prison](../spells/vine-prison.md) ([Combat] Combat Summon Spell): Summon 5 Living Vine units randomly in a 2-hex radius which live for 2 Turns. These don't deal damage but have a chance of inflicting Immobilized on enemies.
+- [Vine Prison](../spells/vine-prison.md) (Combat Summon Spell): Summon 5 Living Vine units randomly in a 2-hex radius which live for 2 Turns. These don't deal damage but have a chance of inflicting Immobilized on enemies.
 - [Poison Arrows](../spells/poison-arrows.md) ([World Map] Unit Enchantment): Makes attacks of enchanted units:
   
   - Deal +1 Blight Damage.
@@ -28,4 +28,4 @@ Discover the power of the natural world and specialize in immobilizing enemies a
   - Gains 2 Regeneration.
   - Has Obscuring Flora created below it.
 - [Summon Entwined Thrall](../spells/summon-entwined-thrall.md) ([World Map] Summon Spell): Summons an Entwined Thrall, a poisonous and plantlike creature.
-- Herbalist (Initial City Upgrade): - +5 Food.; +5 Mana.; Per adjacent Province with Forest or Swamp: ; +2 Food.; +2 Mana. ; Friendly Armies in this City's Domain regenerate an additional +5 HP Hit Points per Turn.; Counts as a Conduit.
+- Herbalist (Initial City Upgrade): - +5 Food.; +5 Mana.; Per adjacent Province with Forest or Swamp: ; +2 Food.; +2 Mana. ; Friendly Armies in this City's Domain regenerate an additional +5 Hit Points per Turn.; Counts as a Conduit.

@@ -26,7 +26,7 @@
 (type signature; DLC Base)
 
 
-- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 HP Hit Points, this effect stacks.
+- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 Hit Points, this effect stacks.
 
 ## Adept of Order
 
@@ -48,7 +48,7 @@
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Breath attacks deal +30% damage
@@ -60,7 +60,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Ethereal unit type
@@ -126,7 +126,7 @@ Killing a unit deals 15 Lightning Damage to up to 2 other enemy unit within 2 he
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - +20% Critical Hit Chance
@@ -137,7 +137,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Infernal Fiend unit type
@@ -241,7 +241,7 @@ Increases unit upkeep by 20 Mana.
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 +1 Defense
 +1 Resistance
 - Wind Barrier
@@ -253,7 +253,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 +1 Defense
 +1 Resistance
 - Immunity to Fire hazards
@@ -265,7 +265,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 +1 Defense
 +1 Resistance
 - Immunity to Slowed and Immobilized
@@ -278,7 +278,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 +1 Defense
 +1 Resistance
 - Using non-attack abilities heals all other friendly units for 10 Temporary Hit Points
@@ -289,7 +289,7 @@ This unit gains:
 
 This unit gains:
 
-- +20 HP Hit Points
+- +20 Hit Points
 +1 Defense
 +1 Resistance
 - All friendly units in combat gain Control Loss Immunity
@@ -494,7 +494,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Blood Empowerment** (accuracy Always Hits, range 0, free action): Sustain unblockable damage equal to 10% of your maximum HP Hit Points. Your next attack this turn deals +50% damage. Cooldown: 2 Turns
+- **Blood Empowerment** (accuracy Always Hits, range 0, free action): Sustain unblockable damage equal to 10% of your maximum Hit Points. Your next attack this turn deals +50% damage. Cooldown: 2 Turns
 - **Blood Recovery**: Recover 10 Temporary Hit Points when killing a unit with a Magic, Melee, or Missile attack.
 - **Increased Upkeep**: Upkeep increases by 10 Gold.
 
@@ -524,7 +524,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC Base)
 
 
-- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 HP Hit Points, this effect stacks.
+- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 Hit Points, this effect stacks.
 
 ## Initiate of Order
 
@@ -545,7 +545,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC GIANTKINGS)
 
 
-- **Undying**: When killed, this unit will revive with 50% of its total HP Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Undying**: When killed, this unit will revive with 50% of its total Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
 
 ## Madcaster
 
@@ -591,7 +591,7 @@ Increases unit upkeep by 10 Mana.
 (type signature; DLC Base)
 
 
-- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 HP Hit Points, this effect stacks.
+- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 Hit Points, this effect stacks.
 
 ## Master of Order
 
@@ -613,7 +613,7 @@ Increases unit upkeep by 10 Mana.
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Retaliation Attacks and Opportunity Attacks deal +50% damage
@@ -625,7 +625,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Elemental unit type
@@ -664,7 +664,7 @@ Increases unit upkeep by 10 Mana.
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Non-base attack abilities grant a Friendly unit in 3-hex range of the target +10 Temporary Hit Points
@@ -675,7 +675,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Plant and Fey unit types
@@ -703,7 +703,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Adjacent friendly units gain +2 Resistance
@@ -714,7 +714,7 @@ This unit gains:
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Celestial unit type
@@ -773,7 +773,7 @@ Blood Communion now has a base 120% chance of inflicting Blood Parasite for 3 Tu
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Profane Body Mastery**: Unit has: ; Very Fast Movement; +15% Evasion; +20 HP Hit Points
+- **Profane Body Mastery**: Unit has: ; Very Fast Movement; +15% Evasion; +20 Hit Points
 
 ## Puppeteer
 
@@ -789,7 +789,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Reaper**: On kill: ; Active cooldowns are reduced by 1 Turn.; Gain +10 HP Hit Points for the fight.  Triggers once per turn.
+- **Reaper**: On kill: ; Active cooldowns are reduced by 1 Turn.; Gain +10 Hit Points for the fight.  Triggers once per turn.
 
 ## Reflecting Rune
 
@@ -826,7 +826,7 @@ Increases unit upkeep by 20 Mana.
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - All attacks inflict guaranteed Weakened for 3 Turns
@@ -838,7 +838,7 @@ This effect is doubled for Single Shot abilities
 
 This unit gains:
 
-- +15 HP Hit Points
+- +15 Hit Points
 +1 Defense
 +1 Resistance
 - Undead unit type
@@ -872,7 +872,7 @@ Bloodblight now spreads to 4 enemy units within 3 hexes.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Vampiric Rage**: Damage increases as HP Hit Points are lowered, up to 50% at 1 HP Hit Point.
+- **Vampiric Rage**: Damage increases as Hit Points are lowered, up to 50% at 1 Hit Point.
 
 ## Violent Exsanguination
 
@@ -885,11 +885,11 @@ Exsanguinate now deals 50% of its damage to adjacent enemies which ignores 50% o
 (type signature; DLC GIANTKINGS)
 
 
-- **Vitality Rune**: Unit gains +15 HP Hit Points.
+- **Vitality Rune**: Unit gains +15 Hit Points.
 
 ## Vitality Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Vitality Rune**: Unit gains +15 HP Hit Points.
+- **Vitality Rune**: Unit gains +15 Hit Points.

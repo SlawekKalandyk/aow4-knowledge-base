@@ -1,6 +1,6 @@
 # Umbral Incursion
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 120 Mana
 - Casting points: 120
 - Tome: Tome of Corruption

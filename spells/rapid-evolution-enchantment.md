@@ -9,5 +9,5 @@
 
 Grants enchanted units:
 
-- 15 XP Experience per Turn.
-- Slip Away healing them once per battle if their HP Hit Points would be reduced to zero.
+- 15 Experience per Turn.
+- Slip Away healing them once per battle if their Hit Points would be reduced to zero.

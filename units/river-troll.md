@@ -17,7 +17,7 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Slippery**: This unit does not trigger Opportunity Attack.
 - **Swift**: This unit ignores the effects of Slowing terrain in combat.
-- **Troll Natural Regeneration**: - Heals 10% of their maximum Hit Points as Temporary Hit Points at the end of its turn in combat.; Heals 10 HP Hit Points at the start of your turn on the world map.; If this unit sustains Fire Damage, the regeneration stops for 1 Turn.
+- **Troll Natural Regeneration**: - Heals 10% of their maximum Hit Points as Temporary Hit Points at the end of its turn in combat.; Heals 10 Hit Points at the start of your turn on the world map.; If this unit sustains Fire Damage, the regeneration stops for 1 Turn.
 
 ## Unit type traits
 

@@ -9,7 +9,7 @@ Become a god to be worshiped. Your mere presence inspires your troops and your c
 
 ## Unlocks
 
-- [Mass Revive](../spells/mass-revive.md) ([Combat] Combat Summon Spell): Targets all friendly dead units with Faithful or Zeal. They come back to life with 50% of their total HP Hit Points.
+- [Mass Revive](../spells/mass-revive.md) (Combat Summon Spell): Targets all friendly dead units with Faithful or Zeal. They come back to life with 50% of their total Hit Points.
 - [Wrath of the Emperor](../spells/wrath-of-the-emperor.md) ([World Map] Enemy Army Spell): Target enemy army:
   
   - Sustains 20 Spirit Damage.

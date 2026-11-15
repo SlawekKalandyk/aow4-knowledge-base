@@ -20,7 +20,7 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Fearless**: Unit cannot rout due to low morale.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Primordial Envy**: While this unit is in battle, all friendly units' attacks gain: ; A 60% chance of stealing one Positive Status Effect.  Effects are increased for Single Shot attacks.
 
 ## Unit type traits

@@ -1,6 +1,6 @@
 # Parting Gifts
 
-- Type: [Combat] Combat Enchantment
+- Type: Combat Enchantment
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of Cycles

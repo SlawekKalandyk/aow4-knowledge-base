@@ -10,6 +10,6 @@
 Makes enchanted units:
 
 - Deal +20% damage.
-- Gain +10 HP Hit Points.
+- Gain +10 Hit Points.
 - Gain Demolisher, making them able to destroy reinforced obstacles.
 - Decreased number of units in formation.

@@ -9,4 +9,4 @@
 Target enemy unit:
 
 - Has a base 120% chance of becoming Pacified for 1 Turn.
-- Chance decreases based on target's lost HP Hit Points.
+- Chance decreases based on target's lost Hit Points.

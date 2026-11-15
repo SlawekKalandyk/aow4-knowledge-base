@@ -177,7 +177,7 @@ Hostile Wildgrowth and Protective Wildgrowth gain:
 
 (type normal; requires any of Inner Grace, Empowering Bond; DLC Base)
 
-While army leader, all units heal +15 HP Hit Points per World Map Turn.
+While army leader, all units heal +15 Hit Points per World Map Turn.
 
 ## Natural Vitality
 
@@ -185,7 +185,7 @@ While army leader, all units heal +15 HP Hit Points per World Map Turn.
 
 Hero gains:
 
-- +20 Max HP Hit Points
+- +20 Max Hit Points
 
 Summons gain:
 

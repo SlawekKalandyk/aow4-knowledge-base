@@ -8,5 +8,5 @@
 
 Target friendly army:
 
-- Heal non-Undead units for 20 HP Hit Points.
-- Heal Undead units for 40 HP Hit Points.
+- Heal non-Undead units for 20 Hit Points.
+- Heal Undead units for 40 Hit Points.

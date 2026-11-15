@@ -13,7 +13,7 @@ Create a safe haven for all believers. Specialize in healing and buffing defense
 - Healing Spires (City Structure): Tower Structure
   
   - Adds 4 Healing Spires in Combat during a Siege.
-  - Friendly units in the domain heal +12 HP Hit Points per Turn.
+  - Friendly units in the domain heal +12 Hit Points per Turn.
   - +10 City Stability
 - [Keeper's Mark](../spells/keepers-mark.md) ([World Map] Unit Enchantment): Enchanted units:
   
@@ -24,7 +24,7 @@ Create a safe haven for all believers. Specialize in healing and buffing defense
   - Pacified for 1 Turn.
 - [Salvation](../spells/salvation.md) ([Combat] Healing/Buff Spell): Target friendly unit:
   
-  - Heals all of its HP Hit Points as Temporary Hit Points.
+  - Heals all of its Hit Points as Temporary Hit Points.
   - Dispels its Negative Status Effects.
   - Gains 3 Bolstered Resistance.
 - [Consecrated Domain](../spells/consecrated-domain.md) ([World Map] Sustained City Spell): Target friendly City, friendly units in the Domain gain:

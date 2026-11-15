@@ -10,7 +10,7 @@
 
 - Cities gain +10 Gold and your empire gains +5 Imperium per level of Good Alignment.
 - +10 Alignment.
-- Units gain +10 XP Experience per Turn while you are at the maximum good Alignment.
+- Units gain +10 Experience per Turn while you are at the maximum good Alignment.
 
 ## Starting bonus
 

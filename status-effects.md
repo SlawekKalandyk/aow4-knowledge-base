@@ -3,10 +3,10 @@
 What each combat status effect does (in-game tooltip text). Same-name lines are variants.
 
 - **+1 Retaliation Attack**: This unit can perform +1 Retaliation Attack each turn.
-- **Absorbed Mind**: - +10 maximum HP Hit Points; +2 Resistance.; Stacks up to 5 times.
+- **Absorbed Mind**: - +10 maximum Hit Points; +2 Resistance.; Stacks up to 5 times.
 - **Abyssal Flames**: -2 Fire Protection
 - **Accelerated Movement**: This unit has: ; 48 maximum Move Points in the World Map.; 6 maximum Move Points in Combat.
-- **Accursed Sea Witch**: - +100 HP Hit Points; +3 Defense; +3 Resistance; +3 Status Resistance; +30% damage; Wail of the Lost; Fearless; Control Loss Immunity
+- **Accursed Sea Witch**: - +100 Hit Points; +3 Defense; +3 Resistance; +3 Status Resistance; +30% damage; Wail of the Lost; Fearless; Control Loss Immunity
 - **Afflicted**: When this unit is attacked, they have a base 90% chance of becoming inflicted with a Negative Status Effect based on the damage type: ; Bleeding from Physical Damage.; Burning from Fire Damage.; Condemned from Spirit Damage.; Electrified from Lightning Damage.; Poisoned from Blight Damage.; Chilled from Frost Damage.
 - **Aimed**: Grants +80% Accuracy.
 - **Ammunition: Incendiary Shot**: Next attack: ; Inflicts +5 Fire Damage.; Random hexes in the target Area gain On Fire
@@ -31,7 +31,7 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Blood of the Exarch**: Unit has: ; +20% damage.; +10% Critical Hit chance.; +25% Critical Hit damage.
 - **Bolstered Defense**: - 1 Defense.; Stacks up to 5 times.  Bolstered Defense counters Sundered Defense.
 - **Bolstered Resistance**: - 1 Resistance.; Stacks up to 5 times.  Bolstered Resistance counters Sundered Resistance.
-- **Bounty**: When this unit is slain, the unit that slew it gains 5 XP Experience per Unit tier of this unit.  Vulnerable to units with Bounty Hunter.
+- **Bounty**: When this unit is slain, the unit that slew it gains 5 Experience per Unit tier of this unit.  Vulnerable to units with Bounty Hunter.
 - **Building Momentum**: This unit gains Empowering Momentum at the start of it's next turn.
 - **Bulwark**: Defense Mode grants 2 Defense and 2 Resistance.
 - **Burning**: - Unit sustains 4 Fire Damage each Turns.; Stacks up to 5 times.  Burning counters Wet, Chilled, and Frozen.
@@ -56,11 +56,11 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Decaying Dissolution**: When this unit dies, adjacent enemy units suffer 15 Blight Damage and 2x Decaying.
 - **Decreased Defense**: Due to the consequences of a narrative event, this unit has -1 Defense. This effect can stack.
 - **Defensive Masters**: Unit always enters Defense Mode at the end of its Turn.
-- **Demonic Satiation**: - +5 HP Hit Points.; Deals +2% damage.; Stacks up to 10 times.
+- **Demonic Satiation**: - +5 Hit Points.; Deals +2% damage.; Stacks up to 10 times.
 - **Demoralized**: - -5 Morale per stack.; Stacks up to 5 times.
 - **Destructive Regrowth**: Unit has -2 Blight Protection.
-- **Devoured Power**: - Max HP Hit Points raised by 25.; Gains 1 stack of Strengthened.
-- **Dire Queen**: - The defending Colossal Penguin has +25 HP Hit Points per defending Dire Penguin at the start of combat.; Whenever a defending Dire Penguin dies, the defending Colossal Penguin loses 25 HP Hit Points.
+- **Devoured Power**: - Max Hit Points raised by 25.; Gains 1 stack of Strengthened.
+- **Dire Queen**: - The defending Colossal Penguin has +25 Hit Points per defending Dire Penguin at the start of combat.; Whenever a defending Dire Penguin dies, the defending Colossal Penguin loses 25 Hit Points.
 - **Diseased**: At the start of its turn, this unit: ; Suffers Weakened.; Suffers Poisoned.; Has a base 60% chance of inflicting Diseased on adjacent units.
 - **Dissonance**: When an enemy Overcharged Spell is cast, this unit suffers 4 Lightning Damage per stack and loses all stacks.  Can stack up to 5 times.
 - **Distracted**: All attacks targeting this unit are Flanking attacks.  Distracted counters Hyper-Awareness.
@@ -102,7 +102,7 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Focused Aim**: +30% Accuracy until the unit moves.
 - **Focused Aim**: +50% Accuracy until the unit moves.
 - **Focused Hunt**: +20% Critical Hit Chance until the unit moves.
-- **Fortified Summons**: This unit has +10 HP Hit Point.
+- **Fortified Summons**: This unit has +10 Hit Point.
 - **Fortune**: - +10% Critical Hit Chance.; Stacks up to 3 times.  Fortune counters Misfortune.
 - **Frenzy**: When this unit lands an attack, it gains a stack of Strengthened. Effects are increased for Single Shot attacks.
 - **Frost Hex**: Until the end of combat, when this unit is dealt damage it has a 20% chance of becoming Frozen for 1 Turn.
@@ -120,10 +120,10 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Giant Slayer**: This unit deals +40% damage to Large Target units.
 - **Gilded**: This unit has the following effects: ; Stunned.; When this unit dies, the winner of the battle gains 20 Gold per unit Tier.
 - **Go For The Kill**: Attacks deal +50% damage.
-- **Gorged**: - +2 HP Hit Points; Stacks up to 10 times.
+- **Gorged**: - +2 Hit Points; Stacks up to 10 times.
 - **Gorgon's Curse**: When this expires, the unit will become Stunned.
 - **Gravecall**: A Zombie is summoned next to the Hero at the start of your Turn.
-- **Graven Strength**: Unit has: ; +20% damage.; +10 maximum HP Hit Points.
+- **Graven Strength**: Unit has: ; +20% damage.; +10 maximum Hit Points.
 - **Greater Empower**: - Deals +80% damage.; +3 Status Resistance.; Has Resurgence.  Unit dies when this effect's time expires.
 - **Hastened**: Unit has: ; +1 Combat Speed; An additional Retaliation Attack  Hastened counters Slowed
 - **Haunted**: When this effect expires, any adjacent Sarcophagus obstacle is destroyed and summons a Skeleton Unit unit on the defender's side.
@@ -163,24 +163,24 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Lucky**: The hero has +1 Chaos Affinity. This effect can stack.
 - **Madness**: - Unit suffers from Insanity, becoming uncontrollable.; Unit sustains 5 Physical Damage each Turns.
 - **Mana Drained**: Unit cannot use Magic, Support, and Debuff abilities.
-- **Mantle of the Blood Noble**: Unit: ; Has +5 HP Hit Points.; Receives +5% healing in combat.
+- **Mantle of the Blood Noble**: Unit: ; Has +5 Hit Points.; Receives +5% healing in combat.
 - **Mark of Shadow**: An enemy was slain, granting this unit: ; Slippery; Flanker
 - **Marked**: - -10% Evasion.; Stacks up to 5 times.  Marked counters Evasion and Clinging Mist.
 - **Marked for Evolution**: When this expires, this unit will transform into a greater Animal or Dragon unit.
 - **Master Skirmisher - Attacks Disabled**: This unit cannot attack.
 - **Mastered Focus**: +20% damage until the unit moves.
 - **Mastered Focus**: This hero gains +30% damage and +1 Range on its Magic attacks and abilities until it moves.
-- **Materium Hardening**: This unit has +5 HP Hit Points per stack.
+- **Materium Hardening**: This unit has +5 Hit Points per stack.
 - **Mercifully Returned**: This unit was resurrected and transformed into a Blessed Soul. It will rout when this effect expires.
 - **Mind-Controlled**: This unit is controlled by the opponent. If the effect lasts until the end of combat, the unit will die, unless its original owner wins.
 - **Misfortune**: - +15% Fumble chance.; Take 8 Physical Damage when fumbling.; Stacks up to 3 times.  Misfortune counters Fortune.
 - **Molten Fury**: - Base attack gains +2 Fire Damage per stack.; Molten Whirlwind gains +5 Fire Damage per stack.; Stacks up to 5 times.
 - **Momentum**: - +1 Defense.; +1 Resistance.; Attacks inflict +30% damage.; Support abilities heal +30% Temporary Hit Points.
-- **Morbid Sacrifice**: Until the end of their next combat, this unit has: ; +20 HP Hit Points; +15 Morale
-- **Mortal Blessing**: The death of another has granted this unit: ; +5 HP Hit Points; +2% Critical Hit Chance  Stacks up to 10 times.
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Morbid Sacrifice**: Until the end of their next combat, this unit has: ; +20 Hit Points; +15 Morale
+- **Mortal Blessing**: The death of another has granted this unit: ; +5 Hit Points; +2% Critical Hit Chance  Stacks up to 10 times.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Nature Leeching**: The defending Horned God is leeching power from the surrounding nature. Each Turn, all Flora Obstacle obstacles within a 2-hex range are consumed, healing the Horned God +10 HP and granting 1 Strengthened for 3 Turns.
-- **Nature's Bounty**: Unit gains +15 max HP Hit Points and regenerates +15 HP Hit Points in neutral and friendly domain for the next 2 World Map Turns.
+- **Nature's Bounty**: Unit gains +15 max Hit Points and regenerates +15 Hit Points in neutral and friendly domain for the next 2 World Map Turns.
 - **Nature's Might**: - Base attacks have +1 Blight Damage; Can stack up to 5 times  Effects are increased for Single Shot attacks.
 - **Necro Hex**: When this unit dies, it becomes a Decaying Zombie under the opponent's control until the end of combat.
 - **Obscured**: This unit is 40% harder to hit with Missile and ranged Magic attacks.
@@ -199,17 +199,17 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Quickening Ritual**: Unit has Very Fast Movement.
 - **Quicksilver Basin**: This unit has visited Quicksilver Basin and temporarily gained: ; Fast Movement
 - **Rally**: - This unit gains 2 Morale at the end of its turn.; Stacks up to 5 times.  Rallying counters Remorse.
-- **Reaper**: Unit has +10 HP Hit Points per stack.
+- **Reaper**: Unit has +10 Hit Points per stack.
 - **Reckless Rage**: Melee attacks deal +30% damage.
 - **Refuged**: Unit is: ; Invulnerable; Stunned
 - **Regeneration**: This unit heals +6 Temporary Hit Points at the end of its turn in battle. Stacks up to 5 times.  Regeneration counters Poisoned and Decaying.
-- **Reinforced Conjure Weapon**: This unit has: ; +10 HP Hit Points; +2 Status Resistance; +1 Defense; +X Resistance
+- **Reinforced Conjure Weapon**: This unit has: ; +10 Hit Points; +2 Status Resistance; +1 Defense; +X Resistance
 - **Remorse**: - Lose -2 Morale at the end of the turn.; Stacks up to 5 times.  Remorse counters Rally.
 - **Requiem of the Damned**: At the start of combat, this unit has a 90% chance of suffering Ghostfire.
 - **Resilient Incarnation**: Per stack: ; +1 Defense, +1 Resistance
-- **Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 50% of their maximum HP Hit Points.
+- **Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 50% of their maximum Hit Points.
 - **Retaliating Growths**: Unit has: ; A base 60% chance of inflicting Constricted for 1 Turn with its base Melee attacks.; Unlimited Retaliation Attacks.; Hyper-Awareness.; Defensive Masters.
-- **Revels of Carnage**: Unit gains +100% XP Experience from combat.
+- **Revels of Carnage**: Unit gains +100% Experience from combat.
 - **Revenant Whispers**: When attacked, conjure 3 Skeletons with Unholy Champion on the attacker's side.
 - **Revitalizing Rush**: At the start of the next combat, gain Hastened for 3 Turns.
 - **Rite of Fanaticism**: Until the end of its next combat, this unit has: ; Resurgence; Martyr
@@ -221,14 +221,14 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Sharpened Conjure Weapon**: This unit's attacks: ; Deal +20% damage.; Have a base 90% chance of inflicting Sundered Defense for 3 Turns.; Have a base 90% chance of inflicting Sundered Resistance for 3 Turns.
 - **Sharpened Conjure Weapon**: This unit's attacks: ; Deal +20% damage.; Inflict Burning for 3 Turns.
 - **Sharpened Conjure Weapon**: This unit's attacks: ; Deal +20% damage.; Inflict Electrified for 3 Turns.
-- **Slaughter Empowerment**: +1 HP Hit Point and +1% damage. Stacks up to 50 times.
-- **Sleep of Oblivion**: Come back to life with 75% of their total HP Hit Points and are inflicted with Insanity.
+- **Slaughter Empowerment**: +1 Hit Point and +1% damage. Stacks up to 50 times.
+- **Sleep of Oblivion**: Come back to life with 75% of their total Hit Points and are inflicted with Insanity.
 - **Slowed**: Unit has: ; -1 Combat Speed; One less Retaliation Attack  Slowed counters Hastened
 - **Slowed Movement**: Due to the consequences of a narrative event, this unit has Slow Movement.
 - **Sniper's Focus**: +1 Range until unit moves.
 - **Soaked**: Due to the consequences of a narrative event, this unit has Wet at the start of combat.
 - **Soothing Shrine**: This unit has visited a Soothing Shrine and temporarily gained: ; Faithful; Zeal
-- **Soul Overflow**: +20 maximum HP Hit Points until the end of battle.
+- **Soul Overflow**: +20 maximum Hit Points until the end of battle.
 - **Soulbinders**: Unit has: ; A base 90% chance of inflicting Soulbound on attacks.; +10% damage against units that are Soulbound.  Effects are increased for Single Shot attacks.
 - **Soulbound**: - Souls gained from killing this unit are increased by 2.; When this unit dies, it has a 30% chance of becoming a Decaying Zombie under the opponent's control until the end of combat.
 - **Spirit Summon Recharging**: Spirit Summon is unavailable.
@@ -251,7 +251,7 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Status Effect Immunity: Slowed**: Unit is immune to Slowed.
 - **Status Protection**: - Gains 2 Status Resistance.; Stacks up to 5 times.  Status Protection counters Status Vulnerability.
 - **Status Vulnerability**: - Gains -2 Status Resistance.; Stacks up to 5 times.  Status Vulnerability counters Status Protection.
-- **Steadfast**: This unit cannot have fewer than 1 HP Hit Point.
+- **Steadfast**: This unit cannot have fewer than 1 Hit Point.
 - **Steeled**: The hero has +1 Materium Affinity. This effect can stack.
 - **Still as Stone**: +2 Defense and + 2 Resistance until the start of the next turn or until the unit moves.
 - **Stone Skin**: Unit has: ; +3 Defense; +3 Resistance; -3 Spirit Protection
@@ -282,14 +282,14 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Warrior's Fury (Adherent)**: This unit's attacks do +3 Fire Damage. Effects are increased for Single Shot attacks.
 - **Warrior's Fury (Devotee)**: This unit's attacks do +4 Fire Damage. Effects are increased for Single Shot attacks.
 - **Warrior's Fury (Paragon)**: This unit's attacks do +5 Fire Damage. Effects are increased for Single Shot attacks.
-- **Warseeker**: This unit gains: ; +10% damage on their attacks.; +10 maximum HP Hit Points.  Stacks up to 3 times.
+- **Warseeker**: This unit gains: ; +10% damage on their attacks.; +10 maximum Hit Points.  Stacks up to 3 times.
 - **Water Walk**: Unit doesn't embark when in water.
 - **Weakened**: - Deals -10% damage.; Stacks up to 5 times.  Weakened counters Strengthened.
-- **Well Supplied**: This unit has: ; +10 Maximum HP Hit Points.; +20% healing received in Combat.
+- **Well Supplied**: This unit has: ; +10 Maximum Hit Points.; +20% healing received in Combat.
 - **Wet**: Unit has: ; -2 Lightning Protection; -2 Frost Protection; 2 Fire Protection  Wet counters Burning
 - **Whiteout**: Units in this province have: ; -2 Status Resistance.; At the start of each turn in combat, have a base 60% chance of becoming Chilled for 3 Turns.  Units with Frozen or Chilled Immunity are not affected.
 - **Windstance**: - This unit has Slippery and Swift.; Lost when this unit enters Stormstance.
 - **Withered**: The hero has -1 Nature Affinity. This effect can stack.
-- **Ydgaard's Trade**: Unit: ; Has -20 maximum HP Hit Points.; Base attacks have a base 60% chance of inflicting Gilded for 1 Turn.; Grants +50 Gold per World Map Turn.
+- **Ydgaard's Trade**: Unit: ; Has -20 maximum Hit Points.; Base attacks have a base 60% chance of inflicting Gilded for 1 Turn.; Grants +50 Gold per World Map Turn.
 - **Yearning for the Song**: This unit suffers a Morale loss, yearning for the melody of the Lamenters.
 - **Zeal**: - Attacks gain +2 Spirit Damage.; Deal +10% damage against Condemned units.  Effects are increased for Single Shot attacks.

@@ -1,6 +1,6 @@
 # Cinren's Temptation
 
-- Type: [World Map] World Spell
+- Type: World Spell
 - Casting cost: 200 Mana
 - Casting points: 200
 - DLC: SECRETSOFTHEARCHMAGES

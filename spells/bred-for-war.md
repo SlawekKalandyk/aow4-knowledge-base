@@ -8,5 +8,5 @@
 
 Transformed units become stronger and more battle ready gaining:
 
-- +10 HP Hit Points.
+- +10 Hit Points.
 - +10% Morale resistance to morale loss, plus +10% for each adjacent friendly unit.

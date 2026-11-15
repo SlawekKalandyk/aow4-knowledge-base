@@ -17,7 +17,7 @@
 ## Passives
 
 - **Crystal Reflection**: Non-Melee attacks are reflected back at the attacker for 20% of the damage.
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 
 ## Unit type traits
 

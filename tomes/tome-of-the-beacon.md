@@ -20,7 +20,7 @@ Brings out the inner radiance of the Faithful to smite enemies and bolster allie
 - [Covenant of the Faith](../spells/covenant-of-the-faith.md) ([World Map] Sustained City Spell): Units recruited through Rally of the Lieges from the target Vassal have Faithful.
   Target Vassal city grants the player +15 Mana each Turn.
 - [Chaplain](../units/chaplain.md) (Unit): Faithful Support Unit that bolsters allies.
-- [Conjure Divine Beacon](../spells/conjure-divine-beacon.md) ([Combat] Combat Summon Spell): Summons a Divine Beacon. Upon casting and at the start of each turn, friendly units in a 2-hex radius:
+- [Conjure Divine Beacon](../spells/conjure-divine-beacon.md) (Combat Summon Spell): Summons a Divine Beacon. Upon casting and at the start of each turn, friendly units in a 2-hex radius:
   
   - Heal +15 Temporary Hit Points.
   - Gain +5 Morale.

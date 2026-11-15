@@ -1,6 +1,6 @@
 # Conjure Abjurer Pylon
 
-- Type: [Combat] Combat Summon Spell
+- Type: Combat Summon Spell
 - Casting cost: 15 Mana
 - Casting points: 20
 - Tome: Tome of Abjuration

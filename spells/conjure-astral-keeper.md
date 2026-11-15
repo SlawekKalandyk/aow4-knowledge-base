@@ -1,6 +1,6 @@
 # Conjure Astral Keeper
 
-- Type: [Combat] Combat Summon Spell
+- Type: Combat Summon Spell
 - Casting cost: 20 Mana
 - Casting points: 25
 - Tome: Tome of Summoning

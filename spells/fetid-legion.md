@@ -9,5 +9,5 @@
 
 Grants enchanted units:
 
-- +10 HP Hit Points.
+- +10 Hit Points.
 - Weakening Aura, which inflicts Weakened to adjacent enemies at the end of the turn.

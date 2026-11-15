@@ -2210,7 +2210,7 @@ Grants First Strike.
 
 - **Death Bolts** (damage 6 Blight 6 Frost, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total HP Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
 
 ## Orb of the Far Traveler
 
@@ -2477,7 +2477,7 @@ Grants First Strike.
 
 - **Death Blast** (damage 8 Blight 8 Frost, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total HP Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
 
 ## Staff of Spirit
 
@@ -3428,7 +3428,7 @@ Units killed with this weapon turn into Zombies under your control until the end
 (Tier IV; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 15 Physical 15 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. The Anathema^N: Grants a chance of killing creatures of Magic Origin instantly. Chance increases on targets with lower HP Hit Points. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 15 Physical 15 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. The Anathema^N: Grants a chance of killing creatures of Magic Origin instantly. Chance increases on targets with lower Hit Points. Requires: Melee, Base, Single Shot
 
 ## The Great Blue
 

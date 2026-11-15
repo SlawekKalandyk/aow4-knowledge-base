@@ -18,12 +18,12 @@
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **Fearless**: Unit cannot rout due to low morale.
 - **Fire Aura**: At the start of the turn, adjacent enemy units: ; Sustain 8 Fire Damage.; Become inflicted with Burning for 3 Turns.
 - **High Maintenance**: Base Unit Upkeep increased by 50%
 - **Juggernaut**: This unit may crush non-Fortified obstacles.
-- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 HP Hit Points at the start of your turn on the world map.
+- **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Siege Breaker**: When part of a besieging army, this unit contributes +1 Fortification Damage.
 - **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
 - **Truesight**: Unit can see invisible or camouflaged units within its vision range.

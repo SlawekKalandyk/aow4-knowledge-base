@@ -7,7 +7,7 @@
 
 ## Effects
 
-- +10 HP Hit Points.
+- +10 Hit Points.
 - +4 Fire Protection.
 - Gain the Juggernaut ability.
 - Gains Large Target.

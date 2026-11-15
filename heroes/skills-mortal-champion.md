@@ -47,7 +47,7 @@
 (type normal; requires Foraging Training; DLC Base)
 
 
-- **Endurance Training**: While army leader, all non-hero units in the army gain: ; +10 HP Hit Points; +2 Status Resistance
+- **Endurance Training**: While army leader, all non-hero units in the army gain: ; +10 Hit Points; +2 Status Resistance
 
 ## Experienced Leader
 
@@ -61,7 +61,7 @@
 (type normal; DLC Base)
 
 
-- **Foraging Training**: While army leader, all non-hero units in the army gain: ; Regenerate +10 HP Hit Points per Turn.
+- **Foraging Training**: While army leader, all non-hero units in the army gain: ; Regenerate +10 Hit Points per Turn.
 
 ## Logistics Training
 

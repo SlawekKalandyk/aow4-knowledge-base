@@ -9,5 +9,5 @@
 Friendly units in a 1-hex radius:
 
 - Gain 1 Strengthened.
-- Gain +20 maximum HP Hit Points until the end of battle.
+- Gain +20 maximum Hit Points until the end of battle.
 - Have 2 Negative Status Effects removed.

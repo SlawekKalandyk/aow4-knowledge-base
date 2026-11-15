@@ -9,4 +9,4 @@
 
 Enchanted units gain:
 
-- Battle Shields, gaining Precognition when its total HP Hit Points reach 60% and 30%.
+- Battle Shields, gaining Precognition when its total Hit Points reach 60% and 30%.

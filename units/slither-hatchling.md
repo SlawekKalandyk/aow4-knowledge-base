@@ -16,7 +16,7 @@
 
 ## Passives
 
-- **Draconic Rage**: When this unit's total HP Hit Points reach 60% or lower, it deals +30% damage.
+- **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
 - **Slippery**: This unit does not trigger Opportunity Attack.
 - **Swift**: This unit ignores the effects of Slowing terrain in combat.

@@ -8,7 +8,7 @@ Data is current as of the commit in `SOURCE.md` (all DLCs up to then).
 1. Read the folder's `_index.md` table first. It answers most "which X has Y" questions (tier, affinity, cost, DLC, summary) in one read.
 2. Open the item's file for full detail. File names are slugs: `Tome of Severing` → `tomes/tome-of-severing.md`. Glob `**/*severing*` if unsure.
 3. Grep across the folders for an effect or keyword (e.g. `Vassal`, `Immobilized`, `Pillag`).
-4. Large files (`glossary.md`, `empire/structures.md`, `empire/item-forge.md`, `spells/_index.md`): grep them, don't read them whole.
+4. Large files (`glossary.md`, `status-effects.md`, `empire/structures.md`, `empire/item-forge.md`, `spells/_index.md`): grep them, don't read them whole.
 
 ## Layout
 
@@ -24,7 +24,8 @@ Data is current as of the commit in `SOURCE.md` (all DLCs up to then).
 | `world/` | Relics, free city factions (what absorbing one gives), ancient wonders/landmarks/magic materials, cosmic happenings |
 | `heroes/` | Hero skill trees, hero items by slot, destinies |
 | `empire/` | Empire skills, governors, city structures, siege projects, item forge |
-| `glossary.md` | In-game concept tooltips (status effects, mechanics) |
+| `glossary.md` | In-game concept tooltips (mechanics, terms) |
+| `status-effects.md` | What each status effect does (Insanity, Bleeding, Stunned, …) |
 | `builds/` | The user's own builds and notes. Hand-written; the only folder you should edit |
 
 ## Data quirks

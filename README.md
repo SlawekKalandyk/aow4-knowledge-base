@@ -19,6 +19,7 @@ It is generated from [aow4db](https://github.com/MinionsArt/aow4db), a community
 | [`heroes/`](heroes/_index.md) | Hero skill trees, hero items by slot, destinies |
 | [`empire/`](empire/_index.md) | Empire skills, governors, city structures, siege projects, item forge |
 | [`glossary.md`](glossary.md) | In-game concept tooltips |
+| [`status-effects.md`](status-effects.md) | What each status effect does |
 | [`builds/`](builds/) | My own faction builds and notes (hand-written) |
 
 Every folder has an `_index.md` table to start from. Item files are named after the item, e.g. `tomes/tome-of-severing.md`.

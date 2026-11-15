@@ -17,7 +17,7 @@ SRC_REPO = KB.parent / "aow4db"
 SRC = SRC_REPO / "Data" / "EN"
 GEN = SRC_REPO / "Data" / "GEN"
 GENERATED = ["tomes", "traits", "units", "spells", "cultures", "races.md", "rulers.md", "heroes", "empire", "world",
-             "glossary.md", "SOURCE.md"]
+             "glossary.md", "status-effects.md", "SOURCE.md"]
 
 # ---------------------------------------------------------------- markup cleanup
 
@@ -709,6 +709,19 @@ def build_glossary():
     write(KB / "glossary.md", "\n".join(lines))
 
 
+def build_status_effects():
+    """StatusEffects.json lists slugs only; the name and text live in Abilities.json."""
+    seen = set()
+    for s in load("StatusEffects"):
+        a = abilities.get(s["slug"].lower())
+        if a and a.get("name"):
+            seen.add((clean(a["name"]), one_line(a.get("description"))))
+    lines = ["# Status effects", "",
+             "What each combat status effect does (in-game tooltip text). Same-name lines are variants.", ""]
+    lines += [f"- **{name}**: {desc}" for name, desc in sorted(seen)]
+    write(KB / "status-effects.md", "\n".join(lines))
+
+
 def build_source():
     try:
         rev = subprocess.run(["git", "-C", str(SRC_REPO), "log", "-1", "--format=%h %cd", "--date=short"],
@@ -737,6 +750,7 @@ if __name__ == "__main__":
     build_heroes()
     build_empire()
     build_glossary()
+    build_status_effects()
     build_source()
     files = list(KB.rglob("*.md"))
     print(f"Generated {len(files)} files, {sum(f.stat().st_size for f in files) // 1024} KB")

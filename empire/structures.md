@@ -1,1064 +1,21 @@
 # City structures and upgrades
 
+- category: the province improvement or victory type the structure counts as (from the icon in its name).
 - Requires: the game's own build requirement text.
 - Unlocked by: tome whose research or pick unlocks the structure (tier 0 = culture/subculture tome, pact or special research).
 - Built after: its parent in the city building tree (aow4db GEN/CityTree.json); 'or' separates alternatives (Wizard Tower vs Vampire Castle).
 - Boost requirements: game data field, named as on the aow4db site; what the boost gives isn't in the data.
 - Culture building: from the aow4db site's hand-made culture map, not game data (aow4db HTML/CityTrees.html).
 
-## Conduit Accursed Grave
-
-(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade) Requires: - Annexed Water Province.; City Tier II.
-- Unlocked by: [Tome of the Damned](../tomes/tome-of-the-damned.md) (tier 2)
-
-- +15 Mana
-- Per adjacent owned Ocean province:
-
-- +1 Knowledge.
-- +2 Gold.
-
-- Fights on this city's domain add an Accursed Lamenter on your side.
-- Counts as a Conduit
-
-## Conduit Accursed Shrine
-
-(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Calamity](../tomes/tome-of-calamity.md) (tier 4)
-
-- When placed, alter terrain into Desolate.
-- Per adjacent Ruin province gain:
-
-- +3 Draft
-- +3 Food
-- +3 Gold
-- +3 Knowledge
-- +3 Mana
-- +3 Production
-
-- Allows the drafting of Accursed Ogre, Accursed Blade, and Accursed Trickster
-- Counts as a Conduit.
-
-## Conduit Altar of Marching Gloom
-
-(cost 60 Gold 130 Production; DLC ELDRITCHREALMS; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Eldritch Pact](../tomes/eldritch-pact.md) (tier 0)
-
-- +10 Mana income.
-- Every Turn, 1 Province within a radius equal to the City Tier:
-
-- Gains Gloom.
-- Loses Chasm, River, Swamp, Sand, Snow, Ice, and Ashlands.
-
-- Counts as a Conduit.
-
-## Conduit Ash Megalith
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Primal - Ash Sabertooth](../tomes/primal-ash-sabertooth.md) (tier 0)
-
-- +6 Gold per adjacent Ashland Province.
-- Counts as a Conduit.
-
-## Conduit Astral Manalith
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Mystic - School of Summoning](../tomes/mystic-school-of-summoning.md) (tier 0)
-
-- +10 Mana income.
-- +5 Mana per adjacent Conduit or Research Post.
-- Counts as a Conduit.
-
-## Conduit Basilica of Lamentation
-
-(cost 100 Gold 250 Production; DLC THRONESOFBLOOD; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Torment](../tomes/tome-of-torment.md) (tier 3)
-
-- +10 Mana income.
-- +10 Knowledge income.
-- +10 City Stability
-- +3 Mana per adjacent Farm.
-- +2 Knowledge per adjacent Forester.
-- Counts as a Conduit.
-
-## Conduit Blood Altar
-
-(cost 60 Gold 130 Production; DLC THRONESOFBLOOD; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Blood Rite](../tomes/tome-of-the-blood-rite.md) (tier 1)
-
-- +15 Draft income.
-- +5 Draft per adjacent Farm.
-- When victorious in battle gain 10 Mana.
-- Counts as a Conduit.
-
-## Conduit Channeling Tower
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Evocation](../tomes/tome-of-evocation.md) (tier 1)
-
-- +10 Mana.
-- +3 Mana per adjacent Conduit.
-- Counts as a Conduit.
-
-## Conduit Doomdepth Trench
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Doomherald](../tomes/tome-of-the-doomherald.md) (tier 2)
-
-- -5 City Stability.
-- +10 Mana.
-- +10 Knowledge.
-- +3 Mana and Knowledge for each Alignment level below Neutral.
-- Counts as a Conduit.
-
-## Conduit Dune Megalith
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Primal - Dune Serpent](../tomes/primal-dune-serpent.md) (tier 0)
-
-- +4 Gold per adjacent Sand Province.
-- Counts as a Conduit.
-
-## Conduit Excavated Ley Line
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Terramancy](../tomes/tome-of-terramancy.md) (tier 3)
-
-- +5 Production.
-- +5 Mana.
-- +5 [World Map] World Map Casting Points.
-- +4 Mana per adjacent Quarry.
-- Counts as a Conduit.
-
-## Conduit Feywater Pond
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Fey Mists](../tomes/tome-of-fey-mists.md) (tier 2)
-
-- Provinces in this city's domain become Misty.
-- +3 Mana per adjacent Forester.
-- Counts as a Conduit.
-
-## Conduit Glacial Megalith
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Primal - Glacial Mammoth](../tomes/primal-glacial-mammoth.md) (tier 0)
-
-- +6 Production per adjacent Snow Province.
-- Counts as a Conduit.
-
-## Conduit Glyph Tower
-
-(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Abjuration](../tomes/tome-of-abjuration.md) (tier 1)
-
-- +10 City Stability
-- +10 Draft
-- Per adjacent Conduit or Research Post:
-
-- +3 City Stability
-- +1 Fortification Health
-
-- Counts as a Conduit
-
-## Conduit Herbalist
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Roots](../tomes/tome-of-roots.md) (tier 1)
-
-- +5 Food.
-- +5 Mana.
-- Per adjacent Province with Forest or Swamp:
-
-- +2 Food.
-- +2 Mana.
-
-- Friendly Armies in this City's Domain regenerate an additional +5 HP Hit Points per Turn.
-- Counts as a Conduit.
-
-## Conduit Mire Megalith
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Primal - Mire Crocodile](../tomes/primal-mire-crocodile.md) (tier 0)
-
-- +6 Food per adjacent Swamp Province.
-- Counts as a Conduit.
-
-## Conduit Monastery
-
-(cost 60 Gold 130 Production; DLC WAYSOFWAR; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Discipline](../tomes/tome-of-discipline.md) (tier 1)
-
-- 10 City Stability.
-- 10 Draft
-- Per adjacent Farm:
-
-- 2 City Stability
-- 3 Draft
-
-- Counts as a Conduit
-
-## Conduit Mystic Abbey
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Mystic - School of Attunement](../tomes/mystic-school-of-attunement.md) (tier 0)
-
-- +10 Mana income.
-- +3 Knowledge per adjacent Conduit or Research Post.
-- Counts as a Conduit.
-
-## Conduit Resonance Fields
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Amplification](../tomes/tome-of-amplification.md) (tier 3)
-
-- +5 Mana.
-- +5 [World Map] World Map Casting Points.
-- +5 Combat Casting Points.
-- Counts as a Conduit.
-
-## Conduit Ruler's Statue
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Exaltation](../tomes/tome-of-exaltation.md) (tier 4)
-
-- Can only be built once in your Throne City.
-- Allied Empires and Free Cities with a Supreme Vassalage grant 3 Imperium.
-- Ruler respawns 1 Turn faster.
-- Spells can be cast even if the Ruler is in the void.
-- Counts as a Conduit.
-
-## Conduit Sanctuary
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Sanctuary](../tomes/tome-of-sanctuary.md) (tier 3)
-
-- +15 Mana.
-- Pillaging Province Improvements in this domain takes +2 Turns and yields -30% resources.
-- Counts as a Conduit.
-
-## Conduit School of Contemplation
-
-(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Oathsworn - Harmony](../tomes/oathsworn-harmony.md) (tier 0)
-
-- +7 Mana
-- +7 Knowledge
-- +3 Knowledge per adjacent Conduit or Research Post.
-- Counts as a Conduit.
-
-## Conduit School of Discipline
-
-(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Oathsworn - Righteousness](../tomes/oathsworn-righteousness.md) (tier 0)
-
-- +7 Mana
-- +7 Draft
-- +5 Draft per adjacent Quarry.
-- Counts as a Conduit.
-
-## Conduit School of Mastery
-
-(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Oathsworn - Strife](../tomes/oathsworn-strife.md) (tier 0)
-
-- +7 Mana
-- +7 Draft
-- Units produced in this city start with +1 Starting Rank.
-- Counts as a Conduit.
-
-## Conduit Shrine of Prosperity
-
-(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Prosperity](../tomes/tome-of-prosperity.md) (tier 4)
-
-- +3 City Stability per adjacent Farm or Forester.
-- +7 Food per adjacent Farm or Forester.
-- 10% of Food income in the city is converted to Gold.
-- Allows the drafting of Blessed Dragon, Radiant Guardian, and Righteous Judge.
-- Counts as a Conduit.
-
-## Conduit Spell Jammer
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Enemies cannot target World Map Spells in this Domain.
-- Enemy Spells cost +100% Combat Casting Points in Combat in Domain.
-- -10 Mana.
-- Counts as a Conduit.
-
-## Conduit Storm Megalith
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Primal - Storm Crow](../tomes/primal-storm-crow.md) (tier 0)
-
-- +4 Mana per adjacent Grassland Province.
-- Counts as a Conduit.
-
-## Conduit Summoning Well
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Summoning](../tomes/tome-of-summoning.md) (tier 2)
-
-- +10 Mana.
-- +2 Mana and +2 Knowledge per adjacent Conduit or Research Post.
-- [Combat] Combat Summon Spells in the domain cost -50% less mana.
-- Counts as a Conduit.
-
-## Conduit Sylvan Megalith
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Primal - Sylvan Wolf](../tomes/primal-sylvan-wolf.md) (tier 0)
-
-- +6 Draft per adjacent Forest Province
-- Counts as a Conduit.
-
-## Conduit Temple of the Prophet
-
-(cost 100 Gold 250 Production; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Prophecies](../tomes/tome-of-prophecies.md) (tier 3)
-
-- +15 Mana.
-- +5 Knowledge per adjacent Conduit.
-- Counts as a Conduit.
-
-## Conduit Tunneling Megalith
-
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Primal - Tunneling Spider](../tomes/primal-tunneling-spider.md) (tier 0)
-
-- +4 Knowledge per adjacent Mushroom Forest Province.
-- Counts as a Conduit.
-
-## Beacon of Unity
-
-(cost 280 Gold 750 Production; DLC Base; province/sector upgrade)
-A Special Province Improvement that is built as part of the Expansion Victory. Once three Beacons have been built, an option to Light the Beacons will appear. Lighting the Beacons will start a Turn timer counting down to victory.
-
-## Bountiful Fields
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Fertility](../tomes/tome-of-fertility.md) (tier 2)
-
-- +10 Food income.
-- Per adjacent Province with Grasslands or Fungal Fields:
-
-- +3 Food.
-- +3 Mana.
-
-- Counts as a Farm.
-
-## Farmstead
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Feudal - Aristocracy](../tomes/feudal-aristocracy.md) (tier 0), [Feudal - Monarchy](../tomes/feudal-monarchy.md) (tier 0)
-
-- +15 Food income.
-- +5 Food per adjacent Farm.
-- Counts as a Farm.
-
-## Garden of Bliss
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Paradise](../tomes/tome-of-paradise.md) (tier 4)
-
-- +15 City Stability.
-- +7 Food per adjacent Grasslands Province.
-- Convert 10% of Food income into Mana.
-- Counts as a Farm.
-
-## Hungering Maw
-
-(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Gluttony](../tomes/tome-of-gluttony.md) (tier 1)
-
-- 10% of Food is converted to Mana.
-- When victorious in battle, this city gains 25 Food.
-- Counts as a Farm.
-
-## Sacred Meadow
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Glades](../tomes/tome-of-glades.md) (tier 2)
-
-- +10 Food.
-- +10 City Stability.
-- +5 Food and +5 City Stability per adjacent Conduit.
-- Grants Encouraged at start of next Combat to friendly Units on this hex, 5 Turn cooldown.
-- Counts as a Farm.
-
-## Carnival of Flesh
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Revelry](../tomes/tome-of-revelry.md) (tier 2)
-
-- +5 Food.
-- +5 City Stability.
-- +5 Draft.
-- Per adjacent Farm:
-
-- +3 Food.
-- +3 City Stability.
-- +3 Draft.
-- Counts as a Farm.
-
-## Fey Woods
-
-(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Sprite](../tomes/tome-of-the-sprite.md) (tier 1)
-
-- +10 Food.
-- +5 Draft.
-- +2 Mana per adjacent Forester.
-- Counts as a Forester.
-
-## Forest of Stakes
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Barbarian](../tomes/barbarian.md) (tier 0)
-
-- +7 Food income.
-- +7 Production income.
-- +7 Draft per adjacent Forester.
-- Enemy Units in this Domain get Demoralized.
-- Counts as a Forester.
-
-## Mob Camp
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Horde](../tomes/tome-of-the-horde.md) (tier 1)
-
-- +7 Food.
-- +7 Draft.
-- Unit deployment location.
-- Tier I Units are cheaper by 20%.
-- Counts as a Forester.
-
-## Ritual Pyre
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Pyromancy](../tomes/tome-of-pyromancy.md) (tier 1)
-
-- +10 Mana income.
-- +3 Mana per adjacent Forester.
-- Allows the drafting of Inferno Puppies.
-- Counts as a Forester.
-
-## Spider's Nest
-
-(cost 170 Gold 450 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Weaver](../tomes/tome-of-the-weaver.md) (tier 3)
-
-- +20 Food.
-- +5 Draft per adjacent Forester or Forest.
-- Unlocks various Spider units.
-- Counts as a Forester.
-
-## Warcamp
-
-(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Nomad - Conquerors](../tomes/nomad-conquerors.md) (tier 0)
-
-- +15 Draft.
-- Pillaging adjacent provinces takes -1 Turn.
-- Friendly units in this and adjacent provinces gain +15 HP Hit Point regeneration per World Map Turn.
-- Counts as a Forester.
-
-## Wildlife Sanctuary
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Beasts](../tomes/tome-of-beasts.md) (tier 1)
-
-- +10 Food.
-- +5 Draft per adjacent Province with Forest.
-- Unlocks the production of various Animal Units.
-- Counts as a Forester.
-
-## Pyreshrine
-
-(cost 100 Gold 250 Production; DLC ELDRITCHREALMS; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Cleansing Flame](../tomes/tome-of-the-cleansing-flame.md) (tier 3)
-
-- +15 Gold.
-- +5 Draft per adjacent Forester.
-- Units produced in this city gain Faithful.
-- Flameherald's Consecration is added to all battles in this domain.
-- Counts as a Forester.
-
-## Heart of Astral
-
-(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade)
-- +1 Astral Affinity.
-- Astral [Combat] Damage Spells deal +20 Lightning Damage.
-- Astral [Combat] Debuff Spells inflict 2 Sundered Resistance.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Heart of Chaos
-
-(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade)
-- +1 Chaos Affinity.
-- Chaos [Combat] Damage Spells deal +20 Fire Damage.
-- Chaos [Combat] Debuff Spells inflict 2 Misfortune.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Heart of Materium
-
-(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade)
-- +1 Materium Affinity.
-- Materium [Combat] Damage Spells deal +20 Physical Damage.
-- Materium [Combat] Debuff Spells inflict 2 Sundered Defense.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Heart of Nature
-
-(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade)
-- +1 Nature Affinity.
-- Nature [Combat] Damage Spells deal +20 Blight Damage.
-- Nature [Combat] Debuff Spells inflict 2 Weakened.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Heart of Order
-
-(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade)
-- +1 Order Affinity.
-- Order [Combat] Damage Spells deal +20 Spirit Damage.
-- Order [Combat] Debuff Spells also remove all Positive Status Effects.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Heart of Shadow
-
-(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade)
-- +1 Shadow Affinity.
-- Shadow [Combat] Damage Spells deal +20 Frost Damage.
-- Shadow [Combat] Debuff Spells inflict 2 Status Vulnerability.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Root of Astral
-
-(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade)
-- +1 Astral Affinity.
-- Astral Spells are 20% cheaper to cast.
-- Astral Buff and Healing Spells grant 2 Bolstered Resistance.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Root of Chaos
-
-(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade)
-- +1 Chaos Affinity.
-- Chaos Spells are 20% cheaper to cast.
-- Chaos Buff and Healing Spells grant 2 Strengthened.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Root of Materium
-
-(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade)
-- +1 Materium Affinity.
-- Materium Spells are 20% cheaper to cast.
-- Materium Buff and Healing Spells grant 2 Bolstered Defense.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Root of Nature
-
-(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade)
-- +1 Nature Affinity.
-- Nature Spells are 20% cheaper to cast.
-- Nature Buff and Healing Spells heal +10 Temporary Hit Points.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Root of Order
-
-(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade)
-- +1 Order Affinity
-- Order Spells are 20% cheaper to cast.
-- Order Buff and Healing Spells grant 2 Fortune.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Root of Shadow
-
-(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade)
-- +1 Shadow Affinity.
-- Shadow Spells are 20% cheaper to cast.
-- Shadow Buff and Healing Spells grant 3 Evasion.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Seed of Astral
-
-(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade)
-- +1 Astral Affinity
-- Astral research cost -20% Knowledge.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Seed of Chaos
-
-(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade)
-- +1 Chaos Affinity.
-- Chaos research cost -20% Knowledge.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Seed of Materium
-
-(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade)
-- +1 Materium Affinity.
-- Materium research cost -20% Knowledge.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Seed of Nature
-
-(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade)
-- +1 Nature Affinity
-- Nature research costs -20% Knowledge.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Seed of Order
-
-(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade)
-- +1 Order Affinity.
-- Order research costs -20% Knowledge.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Seed of Shadow
-
-(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade)
-- +1 Shadow Affinity.
-- Shadow research costs -20% Knowledge.
-- Required for the Magic Victory.
-- Once built, will reveal its location to all other Empires.
-
-## Bazaar of Wonders
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Golden Realm](../tomes/tome-of-the-golden-realm.md) (tier 4)
-
-- +10 Gold.
-- +5 Gold per unique adjacent Province Improvement.
-- Counts as a Mine.
-
-## Dark Forge
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Dark - Cult of Tyranny](../tomes/dark-cult-of-tyranny.md) (tier 0)
-
-- +10 Gold.
-- +5 Production per adjacent Quarry, Mine, or Forester.
-- Counts as a Mine.
-
-## Golem Mine
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Artificing](../tomes/tome-of-artificing.md) (tier 2)
-
-- +10 Gold.
-- +5 Production per adjacent Quarry.
-- Spawns an Iron Golem on the owner's side for Combat in this Domain.
-- Counts as a Mine.
-
-## Grand Bazaar
-
-(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Sand Stalkers](../tomes/tome-of-the-sand-stalkers.md) (tier 2)
-
-- +7 Gold income.
-- Per adjacent Province with Sand:
-
-- +2 Gold.
-- +3 Food.
-
-- Counts as a Mine.
-
-## Great Foundry
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Crucible](../tomes/tome-of-the-crucible.md) (tier 4)
-
-- +10 Gold.
-- Per adjacent Mine:
-
-- +5 Draft.
-- +3 Gold.
-
-- Counts as a Mine.
-- Allows for the drafting of Magma Spirit.
-
-## Pirate Haven
-
-(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade) Requires: - Annexed Water Province.; City Tier II.
-- Unlocked by: [Tome of Piracy](../tomes/tome-of-piracy.md) (tier 2)
-
-- +15 Gold
-- +4 Gold per adjacent owned Ocean Province.
-- Pillaging a Province grants the city +15 City Stability for 10 Turns.
-- Counts as a Mine.
-
-## Privateers Camp
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Mercantile - Cartel](../tomes/mercantile-cartel.md) (tier 0)
-
-- +15 Gold.
-- +10 City Stability for 10 Turns after Raiding a Supply Route.
-- +5 City Stability for 10 Turns after Pillaging a province.
-- Counts as a Mine.
-
-## Reaver Manufactorum
-
-(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Reaver - Federated](../tomes/reaver-federated.md) (tier 0)
-
-- +10 Gold.
-- +5 Gold income per Vassal.
-- Counts as a Mine.
-
-## Scavenging Camp
-
-(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Nomad - Scavengers](../tomes/nomad-scavengers.md) (tier 0)
-
-- +10 Gold.
-- +10 Gold for this and each adjacent province containing a Resource Node.
-- Counts as a Mine.
-
-## Tithe Collector
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Inquisition](../tomes/tome-of-the-inquisition.md) (tier 2)
-
-- +10 Gold.
-- +2 Gold per adjacent Farm or Forester.
-- Counts as a Mine.
-
-## Trade District
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Mercantile - Barony](../tomes/mercantile-barony.md) (tier 0)
-
-- +10 Gold
-
-For each Trade Route connecting to or from this city, the city gains:
-
-- +10 Gold
-
-## Transmutation Circle
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Tome of Transmutation](../tomes/tome-of-transmutation.md) (tier 3)
-
-- Once built, can replicate the effects and income of a Magic Material.
-- Counts as a Mine.
-
-## Underground Vault
-
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade) Requires: - Annexed Underground Land Province.; City Tier II.
-- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
-
-- +10 Gold
-- +3 Gold per adjacent Dungeon Province.
-- +1 Binding Essence per adjacent Dungeon Province
-- Counts as a Mine
-
-## War Forge
-
-(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Warlord](../tomes/tome-of-the-warlord.md) (tier 3)
-
-- +20 Draft income.
-- Per available Ore type Magic Material available to your empire gain:
-
-- +5 Gold.
-- +10 Draft
-
-- Counts as a Mine.
-
-## Wyvern Eyrie
-
-(cost 170 Gold 450 Production; DLC DRAGONLORDS; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Dragons](../tomes/tome-of-dragons.md) (tier 3)
-
-- +10 Gold.
-- +5 Gold per adjacent Farm Province.
-- Unlocks the production of various Wyvern Units. Alignment influences which Wyverns can be drafted.
-- Counts as a Mine.
-
-## Builder's Quarters
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Industrious](../tomes/industrious.md) (tier 0)
-
-- +15 Production income.
-- +5 Production per adjacent Quarry.
-- Counts as a Quarry.
-
-## Central Quarry
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Rock](../tomes/tome-of-rock.md) (tier 1)
-
-- +15 Production.
-- +5 Production per adjacent Quarry.
-- Counts as a Quarry.
-
-## Circle of Zealotry
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Zeal](../tomes/tome-of-zeal.md) (tier 1)
-
-- +10 Draft per positive or negative level of alignment.
-- +2 City Stability per adjacent Province Improvement.
-- Unit deployment location.
-- Counts as a Quarry.
-
-## Clay Forge
-
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade) Requires: - Annexed Underground Land Province.; City Tier II.
-- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
-
-- +5 Production per adjacent Dungeon Province.
-- +5 Draft per adjacent Dungeon Province.
-- Allows the drafting of the Clay Arbalest, Clay Charger, and Clay Defender units.
-- Counts as a Quarry.
-
-## House of Passion
-
-(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Burning Passion](../tomes/tome-of-burning-passion.md) (tier 2)
-
-- +10 Draft.
-- +6 Gold per adjacent Farm.
-- Counts as a Quarry.
-
-## Imperial Warfactory
-
-(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Reaver - Imperial](../tomes/reaver-imperial.md) (tier 0)
-
-- +10 Production.
-- 10 Draft per adjacent Quarry, Forester, or Mine.
-- Counts as a Quarry.
-
-## Runecarver's Camp
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Enchantment](../tomes/tome-of-enchantment.md) (tier 1)
-
-- +15 Draft.
-- +3 Mana per adjacent Quarry.
-- Unit deployment location.
-- Counts as a Quarry.
-
-## Silent Barracks
-
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade) Requires: - Annexed Underground Land Province.; City Tier II.
-- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
-
-- +1 Fortification Health per adjacent Dungeon Province.
-- +3 City Stability per adjacent Dungeon Province.
-- A Clay Arbalest, Clay Charger, or a Clay Defender joins combat on your side when fighting in this city's domain (does not function in lava).
-- Counts as a Quarry.
-
-## War Foundry
-
-(cost 170 Gold 450 Production; DLC EMPIRESANDASHES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Dreadnought](../tomes/tome-of-the-dreadnought.md) (tier 3)
-
-- +20 Draft.
-- +5 Draft per adjacent Quarry or Mine Province.
-- Construct Units produced in the owner city gain +2 Ranks.
-
-## Worker Construct Nexus
-
-(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Construct](../tomes/tome-of-the-construct.md) (tier 2)
-
-- +10 Production.
-- +3 Food per adjacent Farm.
-- +3 Production per adjacent Quarry or Forester.
-- +3 Mana per adjacent Conduit.
-- +3 Knowledge per adjacent Research Post.
-- +3 Gold per adjacent Mine.
-- Counts as a Quarry.
-
 ## Abbey
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Tome of Faith](../tomes/tome-of-faith.md) (tier 1)
 
 - +10 Knowledge
 - +3 Knowledge per adjacent Farm.
 - Grants Status Protection at the start of the next Combat to all friendly Units on this hex. 3 Turn cooldown.
 - Counts as a Research Post.
-
-## Alchemist's Lab
-
-(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Alchemy](../tomes/tome-of-alchemy.md) (tier 1)
-
-- +10 Knowledge.
-- +3 Knowledge per adjacent unique Province Improvement.
-- Counts as a Research Post.
-
-## Dungeoneering Conclave
-
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade) Requires: - Annexed Underground Land Province.; City Tier II.
-- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
-
-- +5 Knowledge
-- Every Turn, a Province in the Domain of a City:
-
-- Gains Dungeon.
-
-- Gain +2 Production per adjacent Dungeon Province.
-- Counts as a Research Post.
-
-## Frostspire
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Cold Dark](../tomes/tome-of-the-cold-dark.md) (tier 3)
-
-- +10 Knowledge.
-- +3 Knowledge per adjacent Snow or Ice Province.
-- Allows for the drafting of some Tier I, Tier II, and Tier III frost themed units.
-- Counts as a Research Post.
-
-## Mausoleum
-
-(cost 130 Production 1; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Dark - Cult of Death](../tomes/dark-cult-of-death.md) (tier 0)
-
-- +10 Knowledge income.
-- +3 Knowledge per adjacent Conduit.
-- Counts as a Research Post.
-
-## Meditation Fountain
-
-(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade) Requires: - Annexed Water or Land Province.; City Tier II.
-- Unlocked by: [Tome of Hydromancy](../tomes/tome-of-hydromancy.md) (tier 1)
-
-- +5 Knowledge
-- +5 Mana
-Per adjacent owned province with River or Ocean:
-- +1 Knowledge
-- +1 Mana
-- Counts as a Research Post
-
-## Necropolis
-
-(cost 280 Gold 750 Production; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Revenant](../tomes/tome-of-the-revenant.md) (tier 4)
-
-- +8 Soul
-- +2 Soul per adjacent Research Post.
-- Allows the drafting of Skeletons, Corrupt Souls and Undead Titans.
-- Counts as a Research Post.
-
-## Permafrost Nexus
-
-(cost 280 Gold 750 Production; DLC SILVERSEAS; province/sector upgrade) Requires: - Annexed Water or Land Province.; City Tier II.
-- Unlocked by: [Tome of Eternal Ice](../tomes/tome-of-eternal-ice.md) (tier 4)
-
-- +10 Knowledge
-- +7 Mana
-- In this city's domain:
-
-- Provinces gain Whiteout.
-- 2 provinces per turn:
-
-- Gain Snow and/or Ice.
-- Provinces with Water gain Ice.
-- Lose Chasm, Swamp, Ashlands, Sand, Cavern Floor, and Gloom.
-
-- Counts as a Research Post.
-
-## School of Cryomancy
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Cryomancy](../tomes/tome-of-cryomancy.md) (tier 1)
-
-- +8 Knowledge.
-- +3 Mana per adjacent Snow or Ice Province.
-- Counts as a Research Post.
-
-## Soulwell
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Necromancy](../tomes/tome-of-necromancy.md) (tier 1)
-
-- +5 Souls.
-- +3 Mana per adjacent Research Post or Conduit.
-- Counts as a Research Post.
-
-## Spell Arcanist Library
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [Mystic - School of Potential](../tomes/mystic-school-of-potential.md) (tier 0)
-
-- +10 Knowledge income.
-- +3 Knowledge per adjacent Conduit or Research Post.
-- Counts as a Research Post.
-
-## Sunshrine
-
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade) Requires: Must be built on an annexed Province.  Requires City Tier II.
-- Unlocked by: [High](../tomes/high.md) (tier 0)
-
-- +10 Knowledge income.
-- +3 Knowledge per adjacent Research Post.
-- Friendly Units in this Domain are Encouraged.
-- Counts as a Research Post.
-
-## Archon Gate
-
-(cost 170 Gold 450 Production; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Archon](../tomes/tome-of-the-archon.md) (tier 4)
-
-- +20 City Stability
-- Unit deployment location.
-- Allows the drafting of Titans.
-- Functions as a Teleporter.
-
-## Chrono Gate
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of Teleportation](../tomes/tome-of-teleportation.md) (tier 3)
-
-- +3 Mana per adjacent Conduit or Research Post.
-- +3 Knowledge per adjacent Conduit or Research Post.
-- Grants Evasion to visiting Armies until their next combat.
-- Functions as a Teleporter.
-
-## Demon Gate
-
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
-- Unlocked by: [Tome of the Demon Gate](../tomes/tome-of-the-demon-gate.md) (tier 4)
-
-- Unlocks the production of various Infernal Fiend Units.
-- Unit deployment location.
-- Functions as a Teleporter.
-
-## Teleporter (variant 1 of 2)
-
-(cost 280 Gold 750 Production; DLC Base)
-
-
-## Teleporter (variant 2 of 2)
-
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade)
-A Province Improvement which enables an Army to teleport from one teleporter to another.
-
--10 Mana.
 
 ## Academy
 
@@ -1074,6 +31,38 @@ A Province Improvement which enables an Army to teleport from one teleporter to 
 - Culture building (aow4db site's hand-made culture map, not game data): [Mystic - School of Potential](../cultures/mystic.md), unique building
 
 Contributes +1 Arcane Inspiration to a random spell each Turn.
+
+## Accursed Grave
+
+(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Conduit) Requires: - Annexed Water Province.; City Tier II.
+- Unlocked by: [Tome of the Damned](../tomes/tome-of-the-damned.md) (tier 2)
+
+- +15 Mana
+- Per adjacent owned Ocean province:
+
+- +1 Knowledge.
+- +2 Gold.
+
+- Fights on this city's domain add an Accursed Lamenter on your side.
+- Counts as a Conduit
+
+## Accursed Shrine
+
+(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Calamity](../tomes/tome-of-calamity.md) (tier 4)
+
+- When placed, alter terrain into Desolate.
+- Per adjacent Ruin province gain:
+
+- +3 Draft
+- +3 Food
+- +3 Gold
+- +3 Knowledge
+- +3 Mana
+- +3 Production
+
+- Allows the drafting of Accursed Ogre, Accursed Blade, and Accursed Trickster
+- Counts as a Conduit.
 
 ## Affinity Effigies
 
@@ -1098,6 +87,28 @@ For each tier of Monument built in the empire, the city gains:
 
 - +10 Food
 - +10 City Stability
+
+## Alchemist's Lab
+
+(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Alchemy](../tomes/tome-of-alchemy.md) (tier 1)
+
+- +10 Knowledge.
+- +3 Knowledge per adjacent unique Province Improvement.
+- Counts as a Research Post.
+
+## Altar of Marching Gloom
+
+(cost 60 Gold 130 Production; DLC ELDRITCHREALMS; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Eldritch Pact](../tomes/eldritch-pact.md) (tier 0)
+
+- +10 Mana income.
+- Every Turn, 1 Province within a radius equal to the City Tier:
+
+- Gains Gloom.
+- Loses Chasm, River, Swamp, Sand, Snow, Ice, and Ashlands.
+
+- Counts as a Conduit.
 
 ## Altar of the All-Seers
 
@@ -1150,6 +161,16 @@ Battlement Structure
 - +10 Production income
 - +15 Knowledge income
 
+## Archon Gate
+
+(cost 170 Gold 450 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Teleporter) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Archon](../tomes/tome-of-the-archon.md) (tier 4)
+
+- +20 City Stability
+- Unit deployment location.
+- Allows the drafting of Titans.
+- Functions as a Teleporter.
+
 ## Armory
 
 (cost 170 Gold 450 Production; DLC Base) Requires: - 2 Foresters
@@ -1176,6 +197,14 @@ A Tower Structure that grants the city Bolt Repeater Towers during siege combat.
 - +10 Production income
 - +5 Draft income
 - +5 City Stability income
+
+## Ash Megalith
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Primal - Ash Sabertooth](../tomes/primal-ash-sabertooth.md) (tier 0)
+
+- +6 Gold per adjacent Ashland Province.
+- Counts as a Conduit.
 
 ## Ash Sabertooth Temple
 
@@ -1204,6 +233,15 @@ Astral Buff and Healing Spells grant 3 Bolstered Resistance.
 
 (cost 200 Production 100 Gold 100 Mana; DLC Base) Requires: Only one Focus Crystal of your highest Affinity can be built.
 Astral Spells are 10% cheaper.
+
+## Astral Manalith
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Mystic - School of Summoning](../tomes/mystic-school-of-summoning.md) (tier 0)
+
+- +10 Mana income.
+- +5 Mana per adjacent Conduit or Research Post.
+- Counts as a Conduit.
 
 ## Astral Trade Relay
 
@@ -1247,6 +285,18 @@ Can only be built in cities of another race.
 
 +15 Production income
 
+## Basilica of Lamentation
+
+(cost 100 Gold 250 Production; DLC THRONESOFBLOOD; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Torment](../tomes/tome-of-torment.md) (tier 3)
+
+- +10 Mana income.
+- +10 Knowledge income.
+- +10 City Stability
+- +3 Mana per adjacent Farm.
+- +2 Knowledge per adjacent Forester.
+- Counts as a Conduit.
+
 ## Bastion's Barricade
 
 (cost 170 Gold 450 Production; DLC Base)
@@ -1272,6 +322,20 @@ Grants 2 Bastions on the defender's side when fighting a defensive Siege.
 
 - +5 Draft income
 - +10 Mana income
+
+## Bazaar of Wonders
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Golden Realm](../tomes/tome-of-the-golden-realm.md) (tier 4)
+
+- +10 Gold.
+- +5 Gold per unique adjacent Province Improvement.
+- Counts as a Mine.
+
+## Beacon of Unity
+
+(cost 280 Gold 750 Production; DLC Base; province/sector upgrade; category: Expansion Victory)
+A Special Province Improvement that is built as part of the Expansion Victory. Once three Beacons have been built, an option to Light the Beacons will appear. Lighting the Beacons will start a Turn timer counting down to victory.
 
 ## Beacon of Unity Ruins
 
@@ -1309,6 +373,38 @@ For each Trade Route connecting this city to a Foreign City, the city gains:
 - +20 Draft income
 - +1 Starting Rank to every Tier I.
 
+## Blood Altar
+
+(cost 60 Gold 130 Production; DLC THRONESOFBLOOD; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Blood Rite](../tomes/tome-of-the-blood-rite.md) (tier 1)
+
+- +15 Draft income.
+- +5 Draft per adjacent Farm.
+- When victorious in battle gain 10 Mana.
+- Counts as a Conduit.
+
+## Bountiful Fields
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Fertility](../tomes/tome-of-fertility.md) (tier 2)
+
+- +10 Food income.
+- Per adjacent Province with Grasslands or Fungal Fields:
+
+- +3 Food.
+- +3 Mana.
+
+- Counts as a Farm.
+
+## Builder's Quarters
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Industrious](../tomes/industrious.md) (tier 0)
+
+- +15 Production income.
+- +5 Production per adjacent Quarry.
+- Counts as a Quarry.
+
 ## Caltrop Stash
 
 (cost 100 Gold 250 Production; DLC Base)
@@ -1328,6 +424,21 @@ Support Structure
 
 Mutually exclusive with Taxation Offices.
 
+## Carnival of Flesh
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Revelry](../tomes/tome-of-revelry.md) (tier 2)
+
+- +5 Food.
+- +5 City Stability.
+- +5 Draft.
+- Per adjacent Farm:
+
+- +3 Food.
+- +3 City Stability.
+- +3 Draft.
+- Counts as a Farm.
+
 ## Catapult Towers
 
 (cost 140 Gold 300 Production; DLC Base)
@@ -1335,6 +446,15 @@ Mutually exclusive with Taxation Offices.
 - Boost requirements: - Build 1 Forester; Build 2 Quarry
 
 Tower Structure
+
+## Central Quarry
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Rock](../tomes/tome-of-rock.md) (tier 1)
+
+- +15 Production.
+- +5 Production per adjacent Quarry.
+- Counts as a Quarry.
 
 ## Chamber of Commerce
 
@@ -1354,6 +474,15 @@ For each Trade Route connecting to or from this city, the city gains:
 
 Undead units drafted in this city gain Natural Regeneration.
 
+## Channeling Tower
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Evocation](../tomes/tome-of-evocation.md) (tier 1)
+
+- +10 Mana.
+- +3 Mana per adjacent Conduit.
+- Counts as a Conduit.
+
 ## Chaos Amplifier Lens
 
 (cost 400 Production 300 Gold 300 Mana; DLC Base) Requires: Only a single Amplifier Lens can be built in your Empire.
@@ -1372,6 +501,36 @@ Chaos Buff and Healing Spells grant 3 Strengthened.
 
 (cost 200 Production 100 Gold 100 Mana; DLC Base) Requires: Only one Focus Crystal of your highest Affinity can be built.
 Chaos Spells are 10% cheaper.
+
+## Chrono Gate
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Teleporter) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Teleportation](../tomes/tome-of-teleportation.md) (tier 3)
+
+- +3 Mana per adjacent Conduit or Research Post.
+- +3 Knowledge per adjacent Conduit or Research Post.
+- Grants Evasion to visiting Armies until their next combat.
+- Functions as a Teleporter.
+
+## Circle of Zealotry
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Zeal](../tomes/tome-of-zeal.md) (tier 1)
+
+- +10 Draft per positive or negative level of alignment.
+- +2 City Stability per adjacent Province Improvement.
+- Unit deployment location.
+- Counts as a Quarry.
+
+## Clay Forge
+
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Quarry) Requires: - Annexed Underground Land Province.; City Tier II.
+- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
+
+- +5 Production per adjacent Dungeon Province.
+- +5 Draft per adjacent Dungeon Province.
+- Allows the drafting of the Clay Arbalest, Clay Charger, and Clay Defender units.
+- Counts as a Quarry.
 
 ## Collector
 
@@ -1436,6 +595,24 @@ Battlement Structure
 - +40 Mana income
 - +20 City Stability income
 
+## Dark Forge
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Dark - Cult of Tyranny](../tomes/dark-cult-of-tyranny.md) (tier 0)
+
+- +10 Gold.
+- +5 Production per adjacent Quarry, Mine, or Forester.
+- Counts as a Mine.
+
+## Demon Gate
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Teleporter) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Demon Gate](../tomes/tome-of-the-demon-gate.md) (tier 4)
+
+- Unlocks the production of various Infernal Fiend Units.
+- Unit deployment location.
+- Functions as a Teleporter.
+
 ## Desecration Chambers
 
 (cost 30 Gold 70 Production; DLC THRONESOFBLOOD)
@@ -1455,6 +632,25 @@ For each Trade Route connecting this city to a Foreign City, the city gains:
 
 Mutually exclusive with Outpost Supply Hub.
 
+## Doomdepth Trench
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Doomherald](../tomes/tome-of-the-doomherald.md) (tier 2)
+
+- -5 City Stability.
+- +10 Mana.
+- +10 Knowledge.
+- +3 Mana and Knowledge for each Alignment level below Neutral.
+- Counts as a Conduit.
+
+## Dune Megalith
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Primal - Dune Serpent](../tomes/primal-dune-serpent.md) (tier 0)
+
+- +4 Gold per adjacent Sand Province.
+- Counts as a Conduit.
+
 ## Dune Serpent Temple
 
 (cost 50 Gold 130 Production; DLC PRIMALFURY)
@@ -1463,6 +659,19 @@ Annexed Provinces with a Dune Serpent Den and Surface Provinces within a radius 
 - Grant +5 Mana.
 - Per Turn, one of the Provinces gains Sand.
 - Per Turn, one of the provinces loses River, Chasm, Grassland, Swamp, Snow, Ice, Ashlands, Cavern Floor, Fungus Fields, and Gloom.
+
+## Dungeoneering Conclave
+
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Research Post) Requires: - Annexed Underground Land Province.; City Tier II.
+- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
+
+- +5 Knowledge
+- Every Turn, a Province in the Domain of a City:
+
+- Gains Dungeon.
+
+- Gain +2 Production per adjacent Dungeon Province.
+- Counts as a Research Post.
 
 ## Eldritch Walls
 
@@ -1498,6 +707,17 @@ Cannot suffer additional breaches through Siege Project
 - +5 Draft income
 - +5 Mana income
 
+## Excavated Ley Line
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Terramancy](../tomes/tome-of-terramancy.md) (tier 3)
+
+- +5 Production.
+- +5 Mana.
+- +5 [World Map] World Map Casting Points.
+- +4 Mana per adjacent Quarry.
+- Counts as a Conduit.
+
 ## Extraction Nexus
 
 (cost 170 Gold 450 Production; DLC EMPIRESANDASHES)
@@ -1514,6 +734,34 @@ Cannot suffer additional breaches through Siege Project
 - Boost requirements: Build 4 Forester
 
 - This city produces +30% Food income.
+
+## Farmstead
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Farm) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Feudal - Aristocracy](../tomes/feudal-aristocracy.md) (tier 0), [Feudal - Monarchy](../tomes/feudal-monarchy.md) (tier 0)
+
+- +15 Food income.
+- +5 Food per adjacent Farm.
+- Counts as a Farm.
+
+## Fey Woods
+
+(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Sprite](../tomes/tome-of-the-sprite.md) (tier 1)
+
+- +10 Food.
+- +5 Draft.
+- +2 Mana per adjacent Forester.
+- Counts as a Forester.
+
+## Feywater Pond
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Fey Mists](../tomes/tome-of-fey-mists.md) (tier 2)
+
+- Provinces in this city's domain become Misty.
+- +3 Mana per adjacent Forester.
+- Counts as a Conduit.
 
 ## Fishmonger
 
@@ -1556,6 +804,17 @@ For each Trade Route connecting to or from this city, the city gains:
 - +5 Food income
 - +5 Gold income
 
+## Forest of Stakes
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Barbarian](../tomes/barbarian.md) (tier 0)
+
+- +7 Food income.
+- +7 Production income.
+- +7 Draft per adjacent Forester.
+- Enemy Units in this Domain get Demoralized.
+- Counts as a Forester.
+
 ## Forester's Guild
 
 (cost 170 Gold 450 Production; DLC Base) Requires: - 3 Forester
@@ -1574,6 +833,16 @@ For each Trade Route connecting to or from this city, the city gains:
 - A Wall Structure in a City forces enemies to enter a siege when attacking the city.
 - +30 Fortification Health
 
+## Frostspire
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Cold Dark](../tomes/tome-of-the-cold-dark.md) (tier 3)
+
+- +10 Knowledge.
+- +3 Knowledge per adjacent Snow or Ice Province.
+- Allows for the drafting of some Tier I, Tier II, and Tier III frost themed units.
+- Counts as a Research Post.
+
 ## Garden of Affluence
 
 (cost 170 Gold 450 Production; DLC WAYSOFWAR)
@@ -1585,6 +854,16 @@ For each Trade Route connecting to or from this city, the city gains:
 - +2 Gold income
 - +2 Mana income
 
+## Garden of Bliss
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Paradise](../tomes/tome-of-paradise.md) (tier 4)
+
+- +15 City Stability.
+- +7 Food per adjacent Grasslands Province.
+- Convert 10% of Food income into Mana.
+- Counts as a Farm.
+
 ## Glacial Mammoth Temple
 
 (cost 50 Gold 130 Production; DLC PRIMALFURY)
@@ -1593,6 +872,14 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 - Grant +5 Mana.
 - Per Turn, one of the Provinces gains Snow and Ice
 - Per Turn, one of the Provinces loses Chasm, Grassland, Swamp, River, Ashlands, Sand, Cavern Floor, Fungus Fields, and Gloom.
+
+## Glacial Megalith
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Primal - Glacial Mammoth](../tomes/primal-glacial-mammoth.md) (tier 0)
+
+- +6 Production per adjacent Snow Province.
+- Counts as a Conduit.
 
 ## Gladiatorial Pit
 
@@ -1603,6 +890,30 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 - +10 Gold
 - +10 City Stability
 
+## Glyph Tower
+
+(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Abjuration](../tomes/tome-of-abjuration.md) (tier 1)
+
+- +10 City Stability
+- +10 Draft
+- Per adjacent Conduit or Research Post:
+
+- +3 City Stability
+- +1 Fortification Health
+
+- Counts as a Conduit
+
+## Golem Mine
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Artificing](../tomes/tome-of-artificing.md) (tier 2)
+
+- +10 Gold.
+- +5 Production per adjacent Quarry.
+- Spawns an Iron Golem on the owner's side for Combat in this Domain.
+- Counts as a Mine.
+
 ## Granary
 
 (cost 100 Gold 250 Production; DLC Base)
@@ -1610,6 +921,19 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 - Boost requirements: Build 2 Forester
 
 +20 Food income
+
+## Grand Bazaar
+
+(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Sand Stalkers](../tomes/tome-of-the-sand-stalkers.md) (tier 2)
+
+- +7 Gold income.
+- Per adjacent Province with Sand:
+
+- +2 Gold.
+- +3 Food.
+
+- Counts as a Mine.
 
 ## Grand Mill
 
@@ -1636,6 +960,20 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 
 - +30 Mana income
 - +10 City Stability income
+
+## Great Foundry
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Crucible](../tomes/tome-of-the-crucible.md) (tier 4)
+
+- +10 Gold.
+- Per adjacent Mine:
+
+- +5 Draft.
+- +3 Gold.
+
+- Counts as a Mine.
+- Allows for the drafting of Magma Spirit.
 
 ## Hall of Devotion
 
@@ -1669,6 +1007,75 @@ Tower Structure
 - Adds 4 Healing Spires in Combat during a Siege.
 - Friendly units in the domain heal +12 HP Hit Points per Turn.
 - +10 City Stability
+
+## Heart of Astral
+
+(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Astral Affinity.
+- Astral [Combat] Damage Spells deal +20 Lightning Damage.
+- Astral [Combat] Debuff Spells inflict 2 Sundered Resistance.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Heart of Chaos
+
+(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Chaos Affinity.
+- Chaos [Combat] Damage Spells deal +20 Fire Damage.
+- Chaos [Combat] Debuff Spells inflict 2 Misfortune.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Heart of Materium
+
+(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Materium Affinity.
+- Materium [Combat] Damage Spells deal +20 Physical Damage.
+- Materium [Combat] Debuff Spells inflict 2 Sundered Defense.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Heart of Nature
+
+(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Nature Affinity.
+- Nature [Combat] Damage Spells deal +20 Blight Damage.
+- Nature [Combat] Debuff Spells inflict 2 Weakened.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Heart of Order
+
+(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Order Affinity.
+- Order [Combat] Damage Spells deal +20 Spirit Damage.
+- Order [Combat] Debuff Spells also remove all Positive Status Effects.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Heart of Shadow
+
+(cost 700 Production 400 Gold 400 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Shadow Affinity.
+- Shadow [Combat] Damage Spells deal +20 Frost Damage.
+- Shadow [Combat] Debuff Spells inflict 2 Status Vulnerability.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Herbalist
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Roots](../tomes/tome-of-roots.md) (tier 1)
+
+- +5 Food.
+- +5 Mana.
+- Per adjacent Province with Forest or Swamp:
+
+- +2 Food.
+- +2 Mana.
+
+- Friendly Armies in this City's Domain regenerate an additional +5 HP Hit Points per Turn.
+- Counts as a Conduit.
 
 ## Hero's Forum
 
@@ -1721,6 +1128,24 @@ Tower Structure
 
 The city loses 10% of its Gold income, and gains double that amount as Food and Production.
 
+## House of Passion
+
+(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Burning Passion](../tomes/tome-of-burning-passion.md) (tier 2)
+
+- +10 Draft.
+- +6 Gold per adjacent Farm.
+- Counts as a Quarry.
+
+## Hungering Maw
+
+(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Gluttony](../tomes/tome-of-gluttony.md) (tier 1)
+
+- 10% of Food is converted to Mana.
+- When victorious in battle, this city gains 25 Food.
+- Counts as a Farm.
+
 ## Imperial Academy
 
 (cost 170 Gold 450 Production; DLC EMPIRESANDASHES)
@@ -1728,6 +1153,15 @@ The city loses 10% of its Gold income, and gains double that amount as Food and 
 
 - Units stationed in the city gain 15 XP Experience each Turn.
 - +20 Knowledge income
+
+## Imperial Warfactory
+
+(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Reaver - Imperial](../tomes/reaver-imperial.md) (tier 0)
+
+- +10 Production.
+- 10 Draft per adjacent Quarry, Forester, or Mine.
+- Counts as a Quarry.
 
 ## Informant Network
 
@@ -1894,6 +1328,27 @@ Materium Buff and Healing Spells grant 3 Bolstered Defense.
 (cost 100 Gold 250 Production; DLC Base) Requires: Only one Focus Crystal of your highest Affinity can be built.
 Materium Spells are 10% cheaper.
 
+## Mausoleum
+
+(cost 130 Production 1; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Dark - Cult of Death](../tomes/dark-cult-of-death.md) (tier 0)
+
+- +10 Knowledge income.
+- +3 Knowledge per adjacent Conduit.
+- Counts as a Research Post.
+
+## Meditation Fountain
+
+(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Research Post) Requires: - Annexed Water or Land Province.; City Tier II.
+- Unlocked by: [Tome of Hydromancy](../tomes/tome-of-hydromancy.md) (tier 1)
+
+- +5 Knowledge
+- +5 Mana
+Per adjacent owned province with River or Ocean:
+- +1 Knowledge
+- +1 Mana
+- Counts as a Research Post
+
 ## Merchants' Guild
 
 (cost 280 Gold 750 Production; DLC Base) Requires: - 2 Mines
@@ -1936,6 +1391,39 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 - Grant +5 Mana.
 - Per Turn, one of the provinces gains Swamp
 - Per Turn, one of the provinces loses Chasm, Sand, Snow, Ice, Ashlands, and Gloom.
+
+## Mire Megalith
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Primal - Mire Crocodile](../tomes/primal-mire-crocodile.md) (tier 0)
+
+- +6 Food per adjacent Swamp Province.
+- Counts as a Conduit.
+
+## Mob Camp
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Horde](../tomes/tome-of-the-horde.md) (tier 1)
+
+- +7 Food.
+- +7 Draft.
+- Unit deployment location.
+- Tier I Units are cheaper by 20%.
+- Counts as a Forester.
+
+## Monastery
+
+(cost 60 Gold 130 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Discipline](../tomes/tome-of-discipline.md) (tier 1)
+
+- 10 City Stability.
+- 10 Draft
+- Per adjacent Farm:
+
+- 2 City Stability
+- 3 Draft
+
+- Counts as a Conduit
 
 ## Monolith
 
@@ -2247,6 +1735,15 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 +5 City Stability per Monument of Supremacy in your empire.
 
+## Mystic Abbey
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Mystic - School of Attunement](../tomes/mystic-school-of-attunement.md) (tier 0)
+
+- +10 Mana income.
+- +3 Knowledge per adjacent Conduit or Research Post.
+- Counts as a Conduit.
+
 ## Nature Amplifier Lens
 
 (cost 400 Production 300 Gold 300 Mana; DLC Base) Requires: Only a single Amplifier Lens can be built in your Empire.
@@ -2265,6 +1762,16 @@ Nature Buff and Healing Spells heal for +10 Temporary Hit Points.
 
 (cost 200 Production 100 Gold 100 Mana; DLC Base) Requires: Only one Focus Crystal of your highest Affinity can be built.
 Nature Spells are 10% cheaper.
+
+## Necropolis
+
+(cost 280 Gold 750 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Revenant](../tomes/tome-of-the-revenant.md) (tier 4)
+
+- +8 Soul
+- +2 Soul per adjacent Research Post.
+- Allows the drafting of Skeletons, Corrupt Souls and Undead Titans.
+- Counts as a Research Post.
 
 ## Necrotic Spires
 
@@ -2357,12 +1864,40 @@ Adds an Avenger unit to all fights in this domain.
 
 Adds a Peacebringer unit to all fights in this domain.
 
+## Permafrost Nexus
+
+(cost 280 Gold 750 Production; DLC SILVERSEAS; province/sector upgrade; category: Research Post) Requires: - Annexed Water or Land Province.; City Tier II.
+- Unlocked by: [Tome of Eternal Ice](../tomes/tome-of-eternal-ice.md) (tier 4)
+
+- +10 Knowledge
+- +7 Mana
+- In this city's domain:
+
+- Provinces gain Whiteout.
+- 2 provinces per turn:
+
+- Gain Snow and/or Ice.
+- Provinces with Water gain Ice.
+- Lose Chasm, Swamp, Ashlands, Sand, Cavern Floor, and Gloom.
+
+- Counts as a Research Post.
+
 ## Pirate Cannon Towers
 
 (cost 85 Gold 200 Production; DLC Base)
 - Boost requirements: - Build 1 Forester; Build 2 Quarry
 
 Tower Structure
+
+## Pirate Haven
+
+(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Mine) Requires: - Annexed Water Province.; City Tier II.
+- Unlocked by: [Tome of Piracy](../tomes/tome-of-piracy.md) (tier 2)
+
+- +15 Gold
+- +4 Gold per adjacent owned Ocean Province.
+- Pillaging a Province grants the city +15 City Stability for 10 Turns.
+- Counts as a Mine.
 
 ## Pirate Smuggling Den
 
@@ -2390,6 +1925,27 @@ Trade Routes in this city going over Ocean provinces grant +3 Gold for each Ocea
 
 Can only be built in the Throne City.
 
+## Privateers Camp
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Mercantile - Cartel](../tomes/mercantile-cartel.md) (tier 0)
+
+- +15 Gold.
+- +10 City Stability for 10 Turns after Raiding a Supply Route.
+- +5 City Stability for 10 Turns after Pillaging a province.
+- Counts as a Mine.
+
+## Pyreshrine
+
+(cost 100 Gold 250 Production; DLC ELDRITCHREALMS; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Cleansing Flame](../tomes/tome-of-the-cleansing-flame.md) (tier 3)
+
+- +15 Gold.
+- +5 Draft per adjacent Forester.
+- Units produced in this city gain Faithful.
+- Flameherald's Consecration is added to all battles in this domain.
+- Counts as a Forester.
+
 ## Raider Tents
 
 (cost 60 Gold 130 Production; DLC RISEFROMRUIN)
@@ -2412,6 +1968,25 @@ While this city shares a border with another Empire or Free City:
 - +10 Food income per Magic Material inside Domain:
 - +10 Draft income per Magic Material inside Domain:
 
+## Reaver Manufactorum
+
+(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Reaver - Federated](../tomes/reaver-federated.md) (tier 0)
+
+- +10 Gold.
+- +5 Gold income per Vassal.
+- Counts as a Mine.
+
+## Resonance Fields
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Amplification](../tomes/tome-of-amplification.md) (tier 3)
+
+- +5 Mana.
+- +5 [World Map] World Map Casting Points.
+- +5 Combat Casting Points.
+- Counts as a Conduit.
+
 ## Retainer's Estate
 
 (cost 170 Gold 450 Production; DLC Base)
@@ -2423,6 +1998,70 @@ While this city shares a border with the Throne City or is the Throne City gain:
 - +10 Gold income
 - +10 City Stability income
 
+## Ritual Pyre
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Pyromancy](../tomes/tome-of-pyromancy.md) (tier 1)
+
+- +10 Mana income.
+- +3 Mana per adjacent Forester.
+- Allows the drafting of Inferno Puppies.
+- Counts as a Forester.
+
+## Root of Astral
+
+(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Astral Affinity.
+- Astral Spells are 20% cheaper to cast.
+- Astral Buff and Healing Spells grant 2 Bolstered Resistance.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Root of Chaos
+
+(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Chaos Affinity.
+- Chaos Spells are 20% cheaper to cast.
+- Chaos Buff and Healing Spells grant 2 Strengthened.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Root of Materium
+
+(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Materium Affinity.
+- Materium Spells are 20% cheaper to cast.
+- Materium Buff and Healing Spells grant 2 Bolstered Defense.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Root of Nature
+
+(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Nature Affinity.
+- Nature Spells are 20% cheaper to cast.
+- Nature Buff and Healing Spells heal +10 Temporary Hit Points.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Root of Order
+
+(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Order Affinity
+- Order Spells are 20% cheaper to cast.
+- Order Buff and Healing Spells grant 2 Fortune.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Root of Shadow
+
+(cost 500 Production 300 Gold 300 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Shadow Affinity.
+- Shadow Spells are 20% cheaper to cast.
+- Shadow Buff and Healing Spells grant 3 Evasion.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
 ## Royal Smith
 
 (cost 100 Gold 250 Production; DLC Base)
@@ -2433,6 +2072,38 @@ While this city shares a border with the Throne City or is the Throne City gain:
 - +10 City Stability income
 - +1 Starting Rank to every Tier I.
 
+## Ruler's Statue
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Exaltation](../tomes/tome-of-exaltation.md) (tier 4)
+
+- Can only be built once in your Throne City.
+- Allied Empires and Free Cities with a Supreme Vassalage grant 3 Imperium.
+- Ruler respawns 1 Turn faster.
+- Spells can be cast even if the Ruler is in the void.
+- Counts as a Conduit.
+
+## Runecarver's Camp
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Enchantment](../tomes/tome-of-enchantment.md) (tier 1)
+
+- +15 Draft.
+- +3 Mana per adjacent Quarry.
+- Unit deployment location.
+- Counts as a Quarry.
+
+## Sacred Meadow
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Glades](../tomes/tome-of-glades.md) (tier 2)
+
+- +10 Food.
+- +10 City Stability.
+- +5 Food and +5 City Stability per adjacent Conduit.
+- Grants Encouraged at start of next Combat to friendly Units on this hex, 5 Turn cooldown.
+- Counts as a Farm.
+
 ## Salvage Shop
 
 (cost 60 Gold 130 Production; DLC RISEFROMRUIN)
@@ -2442,6 +2113,15 @@ While this city shares a border with the Throne City or is the Throne City gain:
 - +5 Food income
 - +10 Production income
 - +5 Draft income
+
+## Sanctuary
+
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Sanctuary](../tomes/tome-of-sanctuary.md) (tier 3)
+
+- +15 Mana.
+- Pillaging Province Improvements in this domain takes +2 Turns and yields -30% resources.
+- Counts as a Conduit.
 
 ## Sanctuary Expansion
 
@@ -2462,6 +2142,15 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 - +20 Production
 - At the start of combat in this Domain, 3 friendly units gain Looted Power
 
+## Scavenging Camp
+
+(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Nomad - Scavengers](../tomes/nomad-scavengers.md) (tier 0)
+
+- +10 Gold.
+- +10 Gold for this and each adjacent province containing a Resource Node.
+- Counts as a Mine.
+
 ## Scholars Guild
 
 (cost 280 Gold 750 Production; DLC Base) Requires: - 2 Research Posts
@@ -2469,6 +2158,45 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 - Boost requirements: - Build 2 Forester; Build 2 Quarry
 
 +10 Knowledge income per Research Post:
+
+## School of Contemplation
+
+(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Oathsworn - Harmony](../tomes/oathsworn-harmony.md) (tier 0)
+
+- +7 Mana
+- +7 Knowledge
+- +3 Knowledge per adjacent Conduit or Research Post.
+- Counts as a Conduit.
+
+## School of Cryomancy
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Cryomancy](../tomes/tome-of-cryomancy.md) (tier 1)
+
+- +8 Knowledge.
+- +3 Mana per adjacent Snow or Ice Province.
+- Counts as a Research Post.
+
+## School of Discipline
+
+(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Oathsworn - Righteousness](../tomes/oathsworn-righteousness.md) (tier 0)
+
+- +7 Mana
+- +7 Draft
+- +5 Draft per adjacent Quarry.
+- Counts as a Conduit.
+
+## School of Mastery
+
+(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Oathsworn - Strife](../tomes/oathsworn-strife.md) (tier 0)
+
+- +7 Mana
+- +7 Draft
+- Units produced in this city start with +1 Starting Rank.
+- Counts as a Conduit.
 
 ## Seafarers' Guild
 
@@ -2482,6 +2210,54 @@ Per Coast or Water province:
 - +3 Food
 - +3 Gold
 - +3 Draft
+
+## Seed of Astral
+
+(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Astral Affinity
+- Astral research cost -20% Knowledge.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Seed of Chaos
+
+(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Chaos Affinity.
+- Chaos research cost -20% Knowledge.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Seed of Materium
+
+(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Materium Affinity.
+- Materium research cost -20% Knowledge.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Seed of Nature
+
+(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Nature Affinity
+- Nature research costs -20% Knowledge.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Seed of Order
+
+(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Order Affinity.
+- Order research costs -20% Knowledge.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
+
+## Seed of Shadow
+
+(cost 300 Production 200 Gold 200 Mana; DLC Base; province/sector upgrade; category: Magic Victory)
+- +1 Shadow Affinity.
+- Shadow research costs -20% Knowledge.
+- Required for the Magic Victory.
+- Once built, will reveal its location to all other Empires.
 
 ## Sentry Nests
 
@@ -2560,6 +2336,17 @@ Shadow Spells are 10% cheaper.
 (cost 60 Gold 130 Production; DLC ARCHONPROPHECY)
 - The city produces 20% more income
 
+## Shrine of Prosperity
+
+(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Prosperity](../tomes/tome-of-prosperity.md) (tier 4)
+
+- +3 City Stability per adjacent Farm or Forester.
+- +7 Food per adjacent Farm or Forester.
+- 10% of Food income in the city is converted to Gold.
+- Allows the drafting of Blessed Dragon, Radiant Guardian, and Righteous Judge.
+- Counts as a Conduit.
+
 ## Shrine of the Wargod
 
 (cost 170 Gold 450 Production; DLC Base)
@@ -2576,6 +2363,16 @@ Shadow Spells are 10% cheaper.
 - Culture building (aow4db site's hand-made culture map, not game data): [Primal](../cultures/primal.md), unique building
 
 +10 Food income per Farm:
+
+## Silent Barracks
+
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Quarry) Requires: - Annexed Underground Land Province.; City Tier II.
+- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
+
+- +1 Fortification Health per adjacent Dungeon Province.
+- +3 City Stability per adjacent Dungeon Province.
+- A Clay Arbalest, Clay Charger, or a Clay Defender joins combat on your side when fighting in this city's domain (does not function in lava).
+- Counts as a Quarry.
 
 ## Smiths' Guild
 
@@ -2616,6 +2413,42 @@ For each Trade Route connecting this city to a Foreign City, the city gains:
 - Culture building (aow4db site's hand-made culture map, not game data): [Dark - Cult of Death](../cultures/dark.md), unique building
 
 This city's Governor gains Soulvault Meditation.
+
+## Soulwell
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Necromancy](../tomes/tome-of-necromancy.md) (tier 1)
+
+- +5 Souls.
+- +3 Mana per adjacent Research Post or Conduit.
+- Counts as a Research Post.
+
+## Spell Arcanist Library
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Mystic - School of Potential](../tomes/mystic-school-of-potential.md) (tier 0)
+
+- +10 Knowledge income.
+- +3 Knowledge per adjacent Conduit or Research Post.
+- Counts as a Research Post.
+
+## Spell Jammer
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Enemies cannot target World Map Spells in this Domain.
+- Enemy Spells cost +100% Combat Casting Points in Combat in Domain.
+- -10 Mana.
+- Counts as a Conduit.
+
+## Spider's Nest
+
+(cost 170 Gold 450 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Weaver](../tomes/tome-of-the-weaver.md) (tier 3)
+
+- +20 Food.
+- +5 Draft per adjacent Forester or Forest.
+- Unlocks various Spider units.
+- Counts as a Forester.
 
 ## Stone Conjurer
 
@@ -2667,6 +2500,14 @@ Annexed Provinces with a Storm Crow Den and Surface Provinces within a radius eq
 - Per Turn, one of the Provinces gains Grassland.
 - Per Turn, one of the Provinces loses Chasm, Swamp, Snow, Ice, Ashlands, Sand, and Gloom
 
+## Storm Megalith
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Primal - Storm Crow](../tomes/primal-storm-crow.md) (tier 0)
+
+- +4 Mana per adjacent Grassland Province.
+- Counts as a Conduit.
+
 ## Stormport
 
 (cost 140 Gold 300 Production; DLC PRIMALFURY)
@@ -2686,6 +2527,34 @@ Requires an Ocean Province Improvement in order to build.
 - Culture building (aow4db site's hand-made culture map, not game data): [Mystic - School of Summoning](../cultures/mystic.md), unique building
 
 +30 Mana income
+
+## Summoning Well
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Summoning](../tomes/tome-of-summoning.md) (tier 2)
+
+- +10 Mana.
+- +2 Mana and +2 Knowledge per adjacent Conduit or Research Post.
+- [Combat] Combat Summon Spells in the domain cost -50% less mana.
+- Counts as a Conduit.
+
+## Sunshrine
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [High](../tomes/high.md) (tier 0)
+
+- +10 Knowledge income.
+- +3 Knowledge per adjacent Research Post.
+- Friendly Units in this Domain are Encouraged.
+- Counts as a Research Post.
+
+## Sylvan Megalith
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Primal - Sylvan Wolf](../tomes/primal-sylvan-wolf.md) (tier 0)
+
+- +6 Draft per adjacent Forest Province
+- Counts as a Conduit.
 
 ## Sylvan Wolf Temple
 
@@ -2716,6 +2585,18 @@ For each Trade Route connecting this city:
 
 Mutually exclusive with Caravaneers Guild.
 
+## Teleporter (variant 1 of 2)
+
+(cost 280 Gold 750 Production; DLC Base; category: Teleporter)
+
+
+## Teleporter (variant 2 of 2)
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Teleporter)
+A Province Improvement which enables an Army to teleport from one teleporter to another.
+
+-10 Mana.
+
 ## Temple of Fertility
 
 (cost 100 Gold 250 Production; DLC Base)
@@ -2732,6 +2613,15 @@ Mutually exclusive with Caravaneers Guild.
 
 - +30 Mana income
 - +30 City Stability income
+
+## Temple of the Prophet
+
+(cost 100 Gold 250 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Prophecies](../tomes/tome-of-prophecies.md) (tier 3)
+
+- +15 Mana.
+- +5 Knowledge per adjacent Conduit.
+- Counts as a Conduit.
 
 ## Temple of the Pyre
 
@@ -2774,6 +2664,15 @@ Can only be built in the Throne City.
 
 - When a fight occurs in the city's domain, the player gains an Astral Reflection of their Ruler if they are not present themselves.
 - Your Ruler gains 10 XP Experience per Turn per owned City with this city structure built.
+
+## Tithe Collector
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Inquisition](../tomes/tome-of-the-inquisition.md) (tier 2)
+
+- +10 Gold.
+- +2 Gold per adjacent Farm or Forester.
+- Counts as a Mine.
 
 ## Tower of True Sight
 
@@ -2917,7 +2816,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Architect](../cultures/architect.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Cartography Bilge
 
@@ -2925,7 +2824,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Nomad](../cultures/nomad.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Chained Spire
 
@@ -2933,7 +2832,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Reaver](../cultures/reaver.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Citadel (variant 1 of 2)
 
@@ -2941,7 +2840,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Feudal](../cultures/feudal.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Citadel (variant 2 of 2)
 
@@ -2959,7 +2858,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Industrious](../cultures/industrious.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Guild Hall
 
@@ -2967,7 +2866,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Mercantile](../cultures/mercantile.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Halls of War
 
@@ -2975,7 +2874,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Barbarian](../cultures/barbarian.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Mystic Spire
 
@@ -2983,7 +2882,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Mystic](../cultures/mystic.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Pantheon
 
@@ -2991,7 +2890,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [High](../cultures/high.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Spirit Hall
 
@@ -2999,7 +2898,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Primal](../cultures/primal.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Steel Bastion
 
@@ -3007,7 +2906,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Oathsworn](../cultures/oathsworn.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall III: Stronghold
 
@@ -3015,7 +2914,7 @@ Can only be built in the Throne City.
 - Boost requirements: Have 10 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Dark](../cultures/dark.md), replaces Town Hall III
 
-- Unlocks the Conduit Spell Jammer.
+- Unlocks the Spell Jammer.
 
 ## Town Hall IV: Black Palace
 
@@ -3156,6 +3055,17 @@ For each unowned Foreign Trade Route connecting to this city:
 
 - +15 Gold
 
+## Trade District
+
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Mercantile - Barony](../tomes/mercantile-barony.md) (tier 0)
+
+- +10 Gold
+
+For each Trade Route connecting to or from this city, the city gains:
+
+- +10 Gold
+
 ## Trade Post
 
 (cost 100 Gold 250 Production; DLC Base)
@@ -3191,6 +3101,14 @@ For each unowned Foreign Trade Route connecting to this city:
 - +5 Draft income
 - +10 Gold income
 
+## Transmutation Circle
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Tome of Transmutation](../tomes/tome-of-transmutation.md) (tier 3)
+
+- Once built, can replicate the effects and income of a Magic Material.
+- Counts as a Mine.
+
 ## Tribunal
 
 (cost 100 Gold 250 Production; DLC Base)
@@ -3212,12 +3130,30 @@ While this city shares a border with another Empire or Free City:
 - +20 Gold
 - +20 Food
 
+## Tunneling Megalith
+
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Primal - Tunneling Spider](../tomes/primal-tunneling-spider.md) (tier 0)
+
+- +4 Knowledge per adjacent Mushroom Forest Province.
+- Counts as a Conduit.
+
 ## Tunneling Spider Temple
 
 (cost 50 Gold 130 Production; DLC PRIMALFURY)
 Annexed Provinces with a Tunneling Spider Den and Underground Provinces within a radius equal to the city tier:
 
 - Per Turn, one of the Provinces gains Mushroom Forest
+
+## Underground Vault
+
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Mine) Requires: - Annexed Underground Land Province.; City Tier II.
+- Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
+
+- +10 Gold
+- +3 Gold per adjacent Dungeon Province.
+- +1 Binding Essence per adjacent Dungeon Province
+- Counts as a Mine
 
 ## Vampire Castle: Abattoir
 
@@ -3344,6 +3280,28 @@ Per Lava province:
 - +5 Production
 - +3 Knowledge
 
+## War Forge
+
+(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Warlord](../tomes/tome-of-the-warlord.md) (tier 3)
+
+- +20 Draft income.
+- Per available Ore type Magic Material available to your empire gain:
+
+- +5 Gold.
+- +10 Draft
+
+- Counts as a Mine.
+
+## War Foundry
+
+(cost 170 Gold 450 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Dreadnought](../tomes/tome-of-the-dreadnought.md) (tier 3)
+
+- +20 Draft.
+- +5 Draft per adjacent Quarry or Mine Province.
+- Construct Units produced in the owner city gain +2 Ranks.
+
 ## War Trophies
 
 (cost 250 Production 100; DLC EMPIRESANDASHES)
@@ -3355,6 +3313,16 @@ Use the spoils of war to improve the city:
 - +10 Gold
 
 This structure can be built multiple times, its cost increasing each time.
+
+## Warcamp
+
+(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Forester) Requires: Must be built on an annexed Province.  Requires City Tier II.
+- Unlocked by: [Nomad - Conquerors](../tomes/nomad-conquerors.md) (tier 0)
+
+- +15 Draft.
+- Pillaging adjacent provinces takes -1 Turn.
+- Friendly units in this and adjacent provinces gain +15 HP Hit Point regeneration per World Map Turn.
+- Counts as a Forester.
 
 ## Warehouse
 
@@ -3372,6 +3340,16 @@ For each Trade Route connecting to or from this city, the city gains:
 
 (cost 100 Gold 250 Production; DLC Base)
 Builds a Watch Tower in this outpost, granting the outpost +4 Vision Range and +4 Sensing Range.
+
+## Wildlife Sanctuary
+
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Beasts](../tomes/tome-of-beasts.md) (tier 1)
+
+- +10 Food.
+- +5 Draft per adjacent Province with Forest.
+- Unlocks the production of various Animal Units.
+- Counts as a Forester.
 
 ## Wizard Tower: Apex
 
@@ -3498,6 +3476,19 @@ Mutually exclusive with Food Importers.
 - +5 Food income
 - +10 Production income
 
+## Worker Construct Nexus
+
+(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of the Construct](../tomes/tome-of-the-construct.md) (tier 2)
+
+- +10 Production.
+- +3 Food per adjacent Farm.
+- +3 Production per adjacent Quarry or Forester.
+- +3 Mana per adjacent Conduit.
+- +3 Knowledge per adjacent Research Post.
+- +3 Gold per adjacent Mine.
+- Counts as a Quarry.
+
 ## Worker's Farmstead
 
 (cost 60 Gold 130 Production; DLC Base)
@@ -3523,3 +3514,13 @@ Mutually exclusive with Food Importers.
 
 - +10 Production income
 - +5 Draft income
+
+## Wyvern Eyrie
+
+(cost 170 Gold 450 Production; DLC DRAGONLORDS; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+- Unlocked by: [Tome of Dragons](../tomes/tome-of-dragons.md) (tier 3)
+
+- +10 Gold.
+- +5 Gold per adjacent Farm Province.
+- Unlocks the production of various Wyvern Units. Alignment influences which Wyverns can be drafted.
+- Counts as a Mine.

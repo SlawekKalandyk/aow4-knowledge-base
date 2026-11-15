@@ -10,7 +10,7 @@
 ## Effects
 
 - Start with Ritual of the Gloomveil unlocked.
-- Cities may build the Conduit Altar of Marching Gloom.
+- Cities may build the Altar of Marching Gloom.
 - Your Ruler gains Tyrant's Retinue.
 - -10 Alignment.
 

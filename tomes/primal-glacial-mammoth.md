@@ -22,5 +22,5 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Grant +15 City Stability.
   - Allow a Glacial Mammoth Temple to be built.
-- Conduit Glacial Megalith (Initial City Upgrade): - +6 Production per adjacent Snow Province.; Counts as a Conduit.
+- Glacial Megalith (Initial City Upgrade): - +6 Production per adjacent Snow Province.; Counts as a Conduit.
 - Avatar of the Glacial Mammoth (Hero Skill):

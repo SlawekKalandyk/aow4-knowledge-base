@@ -28,4 +28,4 @@ Torment your enemies by turning their very actions against them and make your un
   
   - 2 Morale.
   - A random positive status effect.
-- Conduit Basilica of Lamentation (Initial City Upgrade): - +10 Mana income.; +10 Knowledge income.; +10 City Stability; +3 Mana per adjacent Farm.; +2 Knowledge per adjacent Forester.; Counts as a Conduit.
+- Basilica of Lamentation (Initial City Upgrade): - +10 Mana income.; +10 Knowledge income.; +10 City Stability; +3 Mana per adjacent Farm.; +2 Knowledge per adjacent Forester.; Counts as a Conduit.

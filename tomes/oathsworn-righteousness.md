@@ -19,4 +19,4 @@ This research is available to rulers with the Oathsworn culture. They specialize
   - First Strike
   - An extra Retaliation Attack
   - Defensive Masters
-- Conduit School of Discipline (Initial City Upgrade): - +7 Mana; +7 Draft; +5 Draft per adjacent Quarry.; Counts as a Conduit.
+- School of Discipline (Initial City Upgrade): - +7 Mana; +7 Draft; +5 Draft per adjacent Quarry.; Counts as a Conduit.

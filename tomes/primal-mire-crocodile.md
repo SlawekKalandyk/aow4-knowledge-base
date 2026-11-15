@@ -23,5 +23,5 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Grant +15 City Stability.
   - Allow a Mire Crocodile Temple to be built.
-- Conduit Mire Megalith (Initial City Upgrade): - +6 Food per adjacent Swamp Province.; Counts as a Conduit.
+- Mire Megalith (Initial City Upgrade): - +6 Food per adjacent Swamp Province.; Counts as a Conduit.
 - Avatar of the Mire Crocodile (Hero Skill):

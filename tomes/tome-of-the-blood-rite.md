@@ -36,4 +36,4 @@ Perform forbidden and dangerous rites on your units to bleed your enemies and st
   
   - Strengthened for 3 Turns.
   - Life Steal for 3 Turns.
-- Conduit Blood Altar (Initial City Upgrade): - +15 Draft income.; +5 Draft per adjacent Farm.; When victorious in battle gain 10 Mana.; Counts as a Conduit.
+- Blood Altar (Initial City Upgrade): - +15 Draft income.; +5 Draft per adjacent Farm.; When victorious in battle gain 10 Mana.; Counts as a Conduit.

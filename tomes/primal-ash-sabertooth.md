@@ -22,5 +22,5 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Grant +15 City Stability.
   - Allow an Ash Sabertooth Temple to be built.
-- Conduit Ash Megalith (Initial City Upgrade): - +6 Gold per adjacent Ashland Province.; Counts as a Conduit.
+- Ash Megalith (Initial City Upgrade): - +6 Gold per adjacent Ashland Province.; Counts as a Conduit.
 - Avatar of the Ash Sabertooth (Hero Skill):

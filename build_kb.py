@@ -28,7 +28,7 @@ ICON_LABELS = {
     "souls": "Souls", "population": "Population", "thralls": "Thralls", "hp": "HP",
     "temphp": "Temporary HP", "defense": "Defense", "resistance": "Resistance",
     "statuseffectresistance": "Status Resistance", "crit": "Crit", "xp": "XP", "turn": "Turns",
-    "conduit": "Conduit", "production": "Production", "optactical": "Combat Casting Points",
+    "production": "Production", "optactical": "Combat Casting Points",
     "caststrategic": "[World Map]", "casttactical": "[Combat]",
     "singleuseaction": "single-use action", "repeatingaction": "repeating action",
     "fullaction": "full action", "freeaction": "free action", "leaveoneaction": "leave-one action",
@@ -206,6 +206,25 @@ cosmic = load_gen("CosmicHappenings")
 
 unit_groups = dedupe(units)
 spell_groups = dedupe(spells)
+STRUCTURE_CATEGORIES = {"conduit": "Conduit", "mine": "Mine", "researchpost": "Research Post", "quarry": "Quarry",
+                        "forester": "Forester", "farm": "Farm", "farms": "Farm", "teleporter": "Teleporter",
+                        "magicvictory": "Magic Victory", "expansionvictory": "Expansion Victory"}
+
+
+def split_icon_name(name):
+    """'<conduit></conduit> Accursed Grave' -> ('Conduit', 'Accursed Grave'). Some structure names start with the
+    icon of the improvement or victory type they count as; it isn't part of the name."""
+    m = re.match(r"\s*<(\w+)></\1>\s*(.*)", name or "", re.S)
+    if not m:
+        return "", name
+    return STRUCTURE_CATEGORIES.get(m.group(1).lower(), m.group(1).capitalize()), m.group(2)
+
+
+for _s in structures:
+    _s["category"], _s["name"] = split_icon_name(_s["name"])
+for _t in tomes:
+    for _sk in _t.get("skills", []):
+        _sk["name"] = split_icon_name(_sk["name"])[1]
 structure_by_id = {s["id"]: s for s in structures}
 hero_skill_by_id = {h["id"]: h for h in hero_skills}
 
@@ -910,6 +929,7 @@ def build_empire():
     write(KB / "empire" / "governance.md", "\n".join(lines))
 
     lines = ["# City structures and upgrades", "",
+             "- category: the province improvement or victory type the structure counts as (from the icon in its name).",
              "- Requires: the game's own build requirement text.",
              "- Unlocked by: tome whose research or pick unlocks the structure (tier 0 = culture/subculture tome, pact "
              "or special research).",
@@ -922,7 +942,8 @@ def build_empire():
         sid = s["id"]
         title = clean(s["name"]) + (f" (variant {n} of {of})" if of > 1 else "")
         meta = [f"cost {one_line(s.get('cost'))}" if s.get("cost") else "", f"DLC {dlc(s)}",
-                "province/sector upgrade" if s.get("is_sector_upgrade") else ""]
+                "province/sector upgrade" if s.get("is_sector_upgrade") else "",
+                f"category: {s['category']}" if s.get("category") else ""]
         req = one_line(s.get("requirement_description"))
         info = []
         if structure_tomes.get(sid):

@@ -24,4 +24,4 @@ Convert your people to Celestials and use their faith to smite your enemies.
 - [Ascended Warriors](../spells/ascended-warriors.md) ([World Map] Friendly Army Spell): Non-Hero units in target army gain 1 Rank.
   
   Cannot promote units above Legendary rank.
-- Conduit Ruler's Statue (Initial City Upgrade): - Can only be built once in your Throne City.; Allied Empires and Free Cities with a Supreme Vassalage grant 3 Imperium.; Ruler respawns 1 Turn faster.; Spells can be cast even if the Ruler is in the void.; Counts as a Conduit.
+- Ruler's Statue (Initial City Upgrade): - Can only be built once in your Throne City.; Allied Empires and Free Cities with a Supreme Vassalage grant 3 Imperium.; Ruler respawns 1 Turn faster.; Spells can be cast even if the Ruler is in the void.; Counts as a Conduit.

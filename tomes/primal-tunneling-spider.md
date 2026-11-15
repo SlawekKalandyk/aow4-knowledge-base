@@ -22,5 +22,5 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Grant +15 City Stability.
   - Allow a Tunneling Spider Temple to be built.
-- Conduit Tunneling Megalith (Initial City Upgrade): - +4 Knowledge per adjacent Mushroom Forest Province.; Counts as a Conduit.
+- Tunneling Megalith (Initial City Upgrade): - +4 Knowledge per adjacent Mushroom Forest Province.; Counts as a Conduit.
 - Avatar of the Tunneling Spider (Hero Skill):

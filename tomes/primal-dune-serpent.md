@@ -22,5 +22,5 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Grant +15 City Stability.
   - Allow a Dune Serpent Temple to be built.
-- Conduit Dune Megalith (Initial City Upgrade): - +4 Gold per adjacent Sand Province.; Counts as a Conduit.
+- Dune Megalith (Initial City Upgrade): - +4 Gold per adjacent Sand Province.; Counts as a Conduit.
 - Avatar of the Dune Serpent (Hero Skill):

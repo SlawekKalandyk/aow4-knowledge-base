@@ -17,4 +17,4 @@ This research is available to rulers with the Mystic culture. They specialize in
   
   - Attunement: Star Blades, which increases damage dealt when spells are cast.
 - Astral Echoes (): Mysterious whispers of the Astral Sea, only visible to and collectible by Mystics.
-- Conduit Mystic Abbey (Initial City Upgrade): - +10 Mana income.; +3 Knowledge per adjacent Conduit or Research Post.; Counts as a Conduit.
+- Mystic Abbey (Initial City Upgrade): - +10 Mana income.; +3 Knowledge per adjacent Conduit or Research Post.; Counts as a Conduit.

@@ -31,4 +31,4 @@ Enhance your mages and your spellcasting with more advanced arcane magic.
   - Have a base 30% chance of inflicting Sundered Resistance on each target hit for 3 Turns.
   
   Effects are increased for Single Shot attacks.
-- Conduit Resonance Fields (Initial City Upgrade): - +5 Mana.; +5 [World Map] World Map Casting Points.; +5 Combat Casting Points.; Counts as a Conduit.
+- Resonance Fields (Initial City Upgrade): - +5 Mana.; +5 [World Map] World Map Casting Points.; +5 Combat Casting Points.; Counts as a Conduit.

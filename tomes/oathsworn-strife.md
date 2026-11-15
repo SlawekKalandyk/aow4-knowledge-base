@@ -19,4 +19,4 @@ This research is available to rulers with the Oathsworn culture. They specialize
   - First Strike
   - An extra Retaliation Attack
   - Defensive Masters
-- Conduit School of Mastery (Initial City Upgrade): - +7 Mana; +7 Draft; Units produced in this city start with +1 Starting Rank.; Counts as a Conduit.
+- School of Mastery (Initial City Upgrade): - +7 Mana; +7 Draft; Units produced in this city start with +1 Starting Rank.; Counts as a Conduit.

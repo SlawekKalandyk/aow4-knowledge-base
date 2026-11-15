@@ -35,4 +35,4 @@ Create a safe haven for all believers. Specialize in healing and buffing defense
   
   - +3 Status Resistance
   - +3 Spirit Protection
-- Conduit Sanctuary (Initial City Upgrade): - +15 Mana.; Pillaging Province Improvements in this domain takes +2 Turns and yields -30% resources.; Counts as a Conduit.
+- Sanctuary (Initial City Upgrade): - +15 Mana.; Pillaging Province Improvements in this domain takes +2 Turns and yields -30% resources.; Counts as a Conduit.

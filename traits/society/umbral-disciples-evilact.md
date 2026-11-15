@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: 1
-- Affinity: -10 Alignment, Shadow 1
+- Affinity: Shadow 1, Alignment -10
 - DLC: ELDRITCHREALMS
 - Incompatible with: Devotees of Good, Transformation Ascetics
 - Not available to cultures: Oathsworn - Oath of Righteousness

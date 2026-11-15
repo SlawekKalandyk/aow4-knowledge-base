@@ -2,7 +2,7 @@
 
 - Type: destiny trait
 - Point cost: 1
-- Affinity: reputation4 10
+- Affinity: Alignment 10
 - DLC: Base
 - Earned when: Has Met Other Players; Has equal or over a 'High' Imperium Stored; No wars with Free City or Rulers; No battles for 5 or more turns
 

@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: -1
-- Affinity: -1 Order Affinity
+- Affinity: Order -1
 - DLC: Base
 - Note: disabled in game data
 

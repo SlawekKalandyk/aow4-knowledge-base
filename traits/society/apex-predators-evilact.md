@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: 1
-- Affinity: Nature 1, -10 Alignment
+- Affinity: Nature 1, Alignment -10
 - DLC: Base
 - Incompatible with: Devotees of Good
 

@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: 1
-- Affinity: Chaos 1, -10 Alignment
+- Affinity: Chaos 1, Alignment -10
 - DLC: Base
 - Incompatible with: Imperialists, Chosen Uniters, Devotees of Good, Keepers of Knowledge, Adept Settlers
 

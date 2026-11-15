@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: 1
-- Affinity: reputation4 10, Shadow 1
+- Affinity: Shadow 1, Alignment 10
 - DLC: Base
 - Incompatible with: Scions of Evil
 

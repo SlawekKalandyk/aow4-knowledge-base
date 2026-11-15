@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: 1
-- Affinity: Order 1, reputation4 10
+- Affinity: Order 1, Alignment 10
 - DLC: Base
 - Incompatible with: Chosen Destroyers, Scions of Evil
 

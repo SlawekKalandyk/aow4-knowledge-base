@@ -4,7 +4,6 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 
 | Unit | Tier | HP | Def | Res | Cost | Source | DLC |
 |---|---|---|---|---|---|---|---|
-| [](unnamed.md) | 1 | 1 | 0 | 0 |  | Culture: Barbarian | Base |
 | [Accursed Wisp](accursed-wisp.md) | 1 | 35 | 0 | 2 | 80 Draft 60 Gold |  | SILVERSEAS |
 | [Animated Fire Sword](animated-fire-sword.md) | 1 | 60 | 1 | 0 | 80 Draft 60 Gold |  | GIANTKINGS |
 | [Animated Frost Sword](animated-frost-sword.md) | 1 | 60 | 1 | 0 | 80 Draft 60 Gold |  | GIANTKINGS |

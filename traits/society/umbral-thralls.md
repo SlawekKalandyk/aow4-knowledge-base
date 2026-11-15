@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: 1
-- Affinity: -100 Alignment
+- Affinity: Alignment -100
 - DLC: ELDRITCHREALMS
 - Note: disabled in game data
 - Incompatible with: Chosen Uniters, Devotees of Good, Keepers of Knowledge

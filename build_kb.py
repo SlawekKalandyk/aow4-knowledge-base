@@ -120,11 +120,18 @@ def tome_affinity(s):
 
 
 def trait_affinity(lst):
+    """'1<order></order> Order Affinity' -> 'Order 1'; '-10<reputation4></reputation4> Alignment' -> 'Alignment -10'.
+    Affinities first, Alignment last."""
     out = []
     for a in lst or []:
-        m = re.match(r"(\d+)\s*<(\w+)>", a.get("name", ""))
-        out.append(f"{AFFINITY_TAGS.get(m.group(2), m.group(2))} {m.group(1)}" if m else clean(a.get("name")))
-    return ", ".join(out)
+        m = re.match(r"([+-]?\d+)\s*<(\w+)>", a.get("name", ""))
+        if not m:
+            out.append(clean(a.get("name")))
+        elif m.group(2).startswith("reputation"):
+            out.append(f"Alignment {m.group(1)}")
+        else:
+            out.append(f"{AFFINITY_TAGS.get(m.group(2), m.group(2))} {m.group(1)}")
+    return ", ".join(sorted(out, key=lambda s: s.startswith("Alignment")))
 
 
 def names(lst):
@@ -143,7 +150,14 @@ def bullets(text):
     return clean(text).replace("\n", "\n  ")
 
 
+_written = set()
+
+
 def write(path, text):
+    """Each generated file is written once; a second write means two records share a slug."""
+    if path in _written:
+        raise SystemExit(f"slug collision: {path} written twice")
+    _written.add(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text.rstrip() + "\n", encoding="utf-8", newline="\n")
 
@@ -175,8 +189,8 @@ tomes = [t for t in load("Tomes") if t.get("name") or t.get("id")]  # skip one e
 for _t in tomes:  # tier 0 = culture/subculture tomes, pacts and other non-research tomes
     _t["tier"] = _t.get("tier") or 0
     _t["name"] = _t.get("name") or _t["id"].replace("_", " ").title()
-traits = load("Traits")
-units = load("Units")
+traits = [t for t in load("Traits") if t.get("name") or t.get("id")]  # skip empty placeholder records
+units = [u for u in load("Units") if u.get("name") or u.get("id")]  # skip empty placeholder records
 spells = load("Spells")
 abilities = {a["slug"].lower(): a for a in load("Abilities")}
 hero_skills = load("HeroSkills")

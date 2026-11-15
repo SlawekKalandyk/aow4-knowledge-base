@@ -2,7 +2,7 @@
 
 - Type: society trait
 - Point cost: 1
-- Affinity: Shadow 1, -10 Alignment
+- Affinity: Shadow 1, Alignment -10
 - DLC: Base
 - Incompatible with: Devotees of Good, Chosen Uniters, Keepers of Knowledge
 - Not available to cultures: Oathsworn - Oath of Strife, Oathsworn - Oath of Righteousness, Oathsworn - Oath of Harmony

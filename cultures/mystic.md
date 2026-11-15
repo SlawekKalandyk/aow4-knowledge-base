@@ -10,12 +10,15 @@ They have integrated magic into every level of their society, with mages on the 
 
 A culture of scholars, driven to study every corner of the Astral Sea. They prefer to find answers through research and arcane prowess.
 
+Culture buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Evocator's Abode (replaces Workshop), Stone Conjurer (replaces Stonemason), Town Hall II: Mage's Plaza (replaces Town Hall II), Town Hall III: Mystic Spire (replaces Town Hall III), Town Hall IV: Wizard's Auditorium (replaces Town Hall IV)
+
 ## Subculture: School of Attunement
 
 - Starting affinity (culture + subculture): Astral 2
 - DLC: Base
 - Subculture tome: [Mystic - School of Attunement](../tomes/mystic-school-of-attunement.md)
 - Units: [Arcane Guard](../units/arcane-guard.md), [Arcanist](../units/arcanist.md), [Mystic Projection](../units/mystic-projection.md), [Soother](../units/soother.md), [Spellshield](../units/spellshield.md), [Spellbreaker](../units/spellbreaker.md)
+- Buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Altar of the All-Seers (unique building)
 
 Your people are versatile spellcasters, attuned to the arcane:
 
@@ -29,6 +32,7 @@ Your people are versatile spellcasters, attuned to the arcane:
 - DLC: Base
 - Subculture tome: [Mystic - School of Potential](../tomes/mystic-school-of-potential.md)
 - Units: [Arcane Guard](../units/arcane-guard.md), [Arcanist](../units/arcanist.md), [Mystic Projection](../units/mystic-projection.md), [Soother](../units/soother.md), [Spellshield](../units/spellshield.md), [Spellweaver](../units/spellweaver.md)
+- Buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Academy of Potential (unique building)
 
 Your people are experimental spellcasters, seeking knowledge in the arcane:
 
@@ -42,6 +46,7 @@ Your people are experimental spellcasters, seeking knowledge in the arcane:
 - DLC: Base
 - Subculture tome: [Mystic - School of Summoning](../tomes/mystic-school-of-summoning.md)
 - Units: [Arcane Guard](../units/arcane-guard.md), [Arcanist](../units/arcanist.md), [Mystic Projection](../units/mystic-projection.md), [Soother](../units/soother.md), [Spellshield](../units/spellshield.md), [Summoner](../units/summoner.md)
+- Buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Summoners' Cistern (unique building)
 
 Your people are powerful summoners, specializing in magical creatures:
 

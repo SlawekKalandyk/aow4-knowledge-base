@@ -7,6 +7,8 @@ They worship powerful Animal Spirits and aim to shape the realms in their honor.
 
 A people who worship powerful Animal Spirits and channel their Fury during battle. They receive blessings by altering their environment.
 
+Culture buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Shrine to the Spirits (unique building), Stonestele (replaces Stonemason), Town Hall II: Clan Lodge (replaces Town Hall II), Town Hall III: Spirit Hall (replaces Town Hall III), Town Hall IV: Primeval Palace (replaces Town Hall IV), Woodcarver's Workshop (replaces Workshop)
+
 ## Subculture: Mire Crocodile
 
 - Starting affinity (culture + subculture): Nature 2

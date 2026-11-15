@@ -14,6 +14,8 @@ A people dedicated to the creation of something greater than themselves, buildin
 
 Culture tome: [Architect](../tomes/architect.md)
 
+Culture buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Affinity Obelisks (unique building), Architect Institute (replaces Arcane Institute), Magitectural Archive (replaces Library), Town Hall II: Great Ziggurat (replaces Town Hall II), Town Hall III: Ascended Gardens (replaces Town Hall III), Town Hall IV: Pinnacle of the Incarnate (replaces Town Hall IV)
+
 ## Subculture: Architects of Shadow
 
 - Starting affinity (culture + subculture): Shadow 2

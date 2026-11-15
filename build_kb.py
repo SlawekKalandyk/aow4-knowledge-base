@@ -217,6 +217,93 @@ for t in tomes:
         if sk.get("spell_slug"):
             spell_tome[sk["spell_slug"]].append(t["name"])
 
+# Tomes that unlock a structure: "City Structure" tome skills plus the tome's initial city upgrades.
+structure_tomes = defaultdict(list)
+for t in tomes:
+    ups = [sk.get("upgrade_slug") for sk in t.get("skills", [])] + [u.get("upgrade_slug") for u in t.get("initial_upgrades", [])]
+    for sid in filter(None, ups):
+        if t not in structure_tomes[sid]:
+            structure_tomes[sid].append(t)
+
+CITY_TIERS = ["II", "III", "IV"]
+
+
+def city_tree_prereqs():
+    """GEN/CityTree.json: each node lists the nodes it hangs off in the city building tree.
+    town_hall_ii..iv are city tiers; town_hall_i_town_center is the root. '*x' stands for the six affinity
+    versions of x. Parents missing from StructureUpgrades (an older Wizard Tower layout) are dropped."""
+    tiers, after = defaultdict(set), defaultdict(set)
+    affinities = sorted({a.lower() for a in AFFINITY_TAGS.values()})
+    for node in load_gen("CityTree"):
+        nid = node["id"]
+        ids = [f"{a}_{nid[1:]}" for a in affinities] if nid.startswith("*") else [nid]
+        for p in (c["id"] for c in node["connectTo"]):
+            tier = re.fullmatch(r"town_hall_(ii|iii|iv)", p)
+            for i in ids:
+                if tier:
+                    tiers[i].add(tier.group(1).upper())
+                elif p in structure_by_id:
+                    after[i].add(p)
+    return tiers, after
+
+
+def faction_full_name(f):
+    """'Cult of Death' (subculture of Dark) -> 'Dark - Cult of Death'; cultures and prefixed subcultures unchanged."""
+    if f["type"] == "SubCulture" and " - " not in f["name"]:
+        return f"{f['requirement']} - {f['name']}"
+    return f["name"]
+
+
+def culture_buildings():
+    """Culture/subculture building swaps from the aow4db site's hand-made map (HTML/CityTrees.html,
+    `overrideBuildings`), not game data. Returns {structure id: [(faction full name, culture, what it does, base id)]}
+    and {faction full name: {base id: replacement id}}."""
+    page = SRC_REPO / "HTML" / "CityTrees.html"
+    m = page.exists() and re.search(r"const overrideBuildings = \{(.*?)\n\s*\};", page.read_text(encoding="utf-8"), re.S)
+    if not m:
+        print("WARNING: overrideBuildings not found in aow4db/HTML/CityTrees.html; culture buildings skipped")
+        return {}, {}
+    keys = {slug(faction_full_name(f)).replace("-", "_"): (faction_full_name(f), f.get("requirement") or f["name"])
+            for f in faction if f["type"] in ("Culture", "SubCulture")}
+    out, swaps = defaultdict(list), defaultdict(dict)
+    for key, entries in re.findall(r"(\w+): \[(.*?)\]", re.sub(r"/\*.*?\*/", "", m.group(1), flags=re.S), re.S):
+        hits = [k for k in keys if k == key] or [k for k in keys if k.startswith(key)]  # site: reaver_federate
+        if len(hits) != 1:
+            print(f"WARNING: culture map key {key!r} matches no single culture/subculture; skipped")
+            continue
+        full, culture = keys[hits[0]]
+        for base, new in re.findall(r'"([\w-]+):([\w-]+)"', entries):
+            if new not in structure_by_id:
+                print(f"WARNING: culture map building {new!r} ({key}) not in StructureUpgrades; skipped")
+                continue
+            if base in structure_by_id:
+                what = f"replaces {clean(structure_by_id[base]['name'])}"
+            elif re.fullmatch(r"town_hall_(ii|iii|iv)", base):
+                what = f"replaces Town Hall {base.rsplit('_', 1)[1].upper()}"
+            elif base == "extraBase":
+                what = "extra building"
+            else:  # iii_unlock* slots
+                what = "unique building"
+            out[new].append((full, culture, what, base))
+            swaps[full][base] = new
+    return out, swaps
+
+
+def culture_built_after(full, culture, base):
+    """A culture building that replaces `base` sits in base's place in the city tree; base's parents are
+    themselves swapped if the same culture/subculture (or its parent culture) replaces them."""
+    if base not in structure_by_id:
+        return ""
+    swap = {**culture_swaps.get(culture, {}), **culture_swaps.get(full, {})}
+    parents = " or ".join(sorted(clean(structure_by_id[swap.get(p, p)]["name"]) for p in city_after.get(base, ())))
+    tiers = [f"City Tier {t}" for t in sorted(city_tiers.get(base, ()), key=CITY_TIERS.index)]
+    return " and ".join(b for b in [parents, *tiers] if b)
+
+
+city_tiers, city_after = city_tree_prereqs()
+culture_building_of, culture_swaps = culture_buildings()
+CULTURE_MAP_NOTE = "aow4db site's hand-made culture map, not game data"
+
 
 def unit_link(uid, frm):
     if uid in unit_groups:
@@ -427,6 +514,11 @@ def build_cultures(culture_units):
     cultures = [x for x in faction if x["type"] == "Culture"]
     subs = [x for x in faction if x["type"] == "SubCulture"]
     culture_tomes = [t for t in tomes if not t["tier"]]
+    buildings = defaultdict(list)  # faction full name -> "Black Market (replaces Market)"
+    for sid, uses in culture_building_of.items():
+        for full, _, what, _ in uses:
+            buildings[full].append(f"{clean(structure_by_id[sid]['name'])} ({what})")
+    building_note = f" ({CULTURE_MAP_NOTE}; details in [structures](../empire/structures.md))"
     rows = []
     for c in cultures:
         cname = c["name"]
@@ -441,6 +533,8 @@ def build_cultures(culture_units):
         units_all = culture_units.get(cname, {})
         if units_all.get("(all subcultures)"):
             lines += ["", "Culture units: " + ", ".join(unit_link(u, "../") for u in units_all["(all subcultures)"])]
+        if buildings[cname]:
+            lines += ["", f"Culture buildings{building_note}: " + ", ".join(sorted(buildings[cname]))]
         my_subs = [s for s in subs if s.get("requirement") == cname]
         if not my_subs:
             rows.append([f"[{cname}]({fname})", "-", fmt_affinity(c_aff), dlc(c)])
@@ -459,6 +553,8 @@ def build_cultures(culture_units):
                          and (sc.lower() in short.lower() or short.lower() in sc.lower()) for u in us]
             if sub_units:
                 lines.append("- Units: " + ", ".join(unit_link(u, "../") for u in sub_units))
+            if buildings[faction_full_name(s)]:
+                lines.append(f"- Buildings{building_note}: " + ", ".join(sorted(buildings[faction_full_name(s)])))
             desc = loc_text(s.get("extraLookup"), "description") or [clean(s.get("description"))]
             lines += ["", *[d for d in desc if d]] if any(desc) else []
         write(KB / "cultures" / fname, "\n".join(lines))
@@ -674,13 +770,36 @@ def build_empire():
         lines.append("")
     write(KB / "empire" / "governance.md", "\n".join(lines))
 
-    lines = ["# City structures and upgrades", ""]
+    lines = ["# City structures and upgrades", "",
+             "- Requires: the game's own build requirement text.",
+             "- Unlocked by: tome whose research or pick unlocks the structure (tier 0 = culture/subculture tome, pact "
+             "or special research).",
+             "- Built after: its parent in the city building tree (aow4db GEN/CityTree.json); 'or' separates alternatives "
+             "(Wizard Tower vs Vampire Castle).",
+             "- Boost requirements: game data field, named as on the aow4db site; what the boost gives isn't in the data.",
+             f"- Culture building: from the {CULTURE_MAP_NOTE} (aow4db HTML/CityTrees.html).", ""]
     for s in sorted(structures, key=lambda s: s["name"]):
+        sid = s["id"]
         meta = [f"cost {one_line(s.get('cost'))}" if s.get("cost") else "", f"DLC {dlc(s)}",
                 "province/sector upgrade" if s.get("is_sector_upgrade") else ""]
         req = one_line(s.get("requirement_description"))
-        lines += [f"## {clean(s['name'])}", "", f"({'; '.join(m for m in meta if m)})" + (f" Requires: {req}" if req else ""),
-                  clean(s.get("description")) or clean(s.get("prediction_description")), ""]
+        info = []
+        if structure_tomes.get(sid):
+            info.append("Unlocked by: " + ", ".join(f"[{t['name']}](../tomes/{slug(t['id'])}.md) (tier {t['tier']})"
+                                                    for t in structure_tomes[sid]))
+        built = [" or ".join(sorted(clean(structure_by_id[p]["name"]) for p in city_after.get(sid, ())))]
+        built += [f"City Tier {t}" for t in sorted(city_tiers.get(sid, ()), key=CITY_TIERS.index)]
+        if any(built):
+            info.append("Built after: " + " and ".join(b for b in built if b))
+        if s.get("boost_requirements"):
+            info.append("Boost requirements: " + one_line(s["boost_requirements"]))
+        for full, culture, what, base in culture_building_of.get(sid, []):
+            after = culture_built_after(full, culture, base)
+            info.append(f"Culture building ({CULTURE_MAP_NOTE}): [{full}](../cultures/{slug(culture)}.md), {what}"
+                        + (f"; built after {after}" if after else ""))
+        lines += [f"## {clean(s['name'])}", "", f"({'; '.join(m for m in meta if m)})" + (f" Requires: {req}" if req else "")]
+        lines += [f"- {i}" for i in info] + ([""] if info else [])
+        lines += [clean(s.get("description")) or clean(s.get("prediction_description")), ""]
     write(KB / "empire" / "structures.md", "\n".join(lines))
 
     lines = ["# Siege projects", ""]

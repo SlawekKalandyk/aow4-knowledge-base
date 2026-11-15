@@ -10,6 +10,8 @@ Driven by a strong sense of devotion, they proudly follow the rules of their oat
 
 A society that functions through a strong sense of devotion, rewarding its rulers for their dedication to their chosen oath.
 
+Culture buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Hall of Devotion (replaces Market), Paragon Quarters (unique building), Town Hall II: Oath Square (replaces Town Hall II), Town Hall III: Steel Bastion (replaces Town Hall III), Town Hall IV: Palace of Vows (replaces Town Hall IV), Training Hall (replaces Vendor)
+
 ## Subculture: Oath of Strife
 
 - Starting affinity (culture + subculture): Order 1, Chaos 1

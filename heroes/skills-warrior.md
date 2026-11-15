@@ -1,5 +1,16 @@
 # Hero skills: Warrior
 
+A Hero Class that specializes in charge attacks, dealing damage, and gaining strength through fighting.
+
+Compatible weapons:
+
+- Great Weapon
+- One Handed Weapon
+- Shield
+- Fist Weapon
+- Polearm Weapon
+- Skirmisher Weapon
+
 ## Berserker
 
 (type normal; can't be taken with Knight; DLC Base)

@@ -1,5 +1,17 @@
 # Hero skills: Spellblade
 
+A Hero Class that uses both Melee and Magic attacks to deal magic damage from a distance and physical damage when the enemy gets close.
+
+Compatible weapons:
+
+- Great Weapon
+- One Handed Weapon
+- Shield
+- Fist Weapon
+- Polearm Weapon
+- Skirmisher Weapon
+- Ranged Weapon
+
 ## Adaptive Armor
 
 (type normal; requires Melee Mage; DLC Base)

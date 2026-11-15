@@ -785,20 +785,49 @@ def build_spells():
 
 # ---------------------------------------------------------------- heroes
 
+def skill_group(h, tree_of_group):
+    """File group for a hero skill: its tree, else the tree its group belongs to (skills without a tree position
+    sit in the same group as the tree's skills), else its group name."""
+    group = clean(h.get("group_name"))
+    if h.get("tree_name"):
+        return clean(h["tree_name"])
+    if group.startswith("Primal SubCulture"):
+        return "Primal subculture avatars"
+    if any(hero_skill_by_resid.get(r.get("resid"), {}).get("id", "").startswith("base_dragon_")
+           for r in h.get("required_skills") or []):
+        return "Dragon Lord"
+    if not group and h.get("type") == "signature":
+        return "Ruler signature skills"
+    return tree_of_group.get(group) or group or "Other"
+
+
 def build_heroes():
+    tree_of_group = {clean(h["group_name"]): clean(h["tree_name"]) for h in hero_skills
+                     if h.get("tree_name") and h.get("group_name")}
+    classes = {c["name"]: c for c in faction if c["type"] == "Class"}
     groups = defaultdict(list)
     for h in hero_skills:
-        groups[clean(h.get("tree_name") or h.get("group_name") or "Other")].append(h)
+        if clean(h["name"]):  # nameless records are internal tree nodes (e.g. base_dragon_astral)
+            groups[skill_group(h, tree_of_group)].append(h)
     idx = []
     for g, items in sorted(groups.items()):
         f = f"skills-{slug(g)}.md"
         idx.append(f"- [{g}]({f}) ({len(items)} skills)")
         lines = [f"# Hero skills: {g}", ""]
+        if g in classes:
+            lines += ["\n\n".join(loc_text(classes[g].get("extraLookup"), "description_short", "description")), ""]
         for h in sorted(items, key=lambda h: h["name"]):
             extra = [f"type {h['type']}"] if h.get("type") else []
-            req = [clean(hero_skill_by_resid[r["resid"]]["name"]) for r in h.get("required_skills") or []
-                   if r.get("resid") in hero_skill_by_resid]
-            req = [n for n in req if n]  # some required skills have no name in the data
+            req, only = [], []
+            for r in h.get("required_skills") or []:
+                p = hero_skill_by_resid.get(r.get("resid"), {})
+                dragon = re.fullmatch(r"base_dragon_(\w+)", p.get("id", ""))
+                if dragon:  # hidden node that ties the skill to one Dragon Lord subtype
+                    only.append(f"{AFFINITY_TAGS.get(dragon.group(1), dragon.group(1).capitalize())} Dragon")
+                elif clean(p.get("name")):
+                    req.append(clean(p["name"]))
+            if only:
+                extra.append(" or ".join(only) + " only")
             if req:  # the aow4db skill tree unlocks a skill once any one of its required skills is taken
                 extra.append(("requires " if len(req) == 1 else "requires any of ") + ", ".join(req))
             excl = [clean(hero_skill_by_resid[e["resid"]]["name"]) for e in h.get("excluded_skills") or []
@@ -888,8 +917,10 @@ def build_empire():
              "(Wizard Tower vs Vampire Castle).",
              "- Boost requirements: game data field, named as on the aow4db site; what the boost gives isn't in the data.",
              f"- Culture building: from the {CULTURE_MAP_NOTE} (aow4db HTML/CityTrees.html).", ""]
-    for s in sorted(structures, key=lambda s: s["name"]):
+    variants = [(v, i, len(vs)) for vs in dedupe(structures).values() for i, v in enumerate(vs, 1)]
+    for s, n, of in sorted(variants, key=lambda x: (x[0]["name"], x[1])):
         sid = s["id"]
+        title = clean(s["name"]) + (f" (variant {n} of {of})" if of > 1 else "")
         meta = [f"cost {one_line(s.get('cost'))}" if s.get("cost") else "", f"DLC {dlc(s)}",
                 "province/sector upgrade" if s.get("is_sector_upgrade") else ""]
         req = one_line(s.get("requirement_description"))
@@ -906,7 +937,7 @@ def build_empire():
             after = culture_built_after(full, culture, base)
             info.append(f"Culture building ({CULTURE_MAP_NOTE}): [{full}](../cultures/{slug(culture)}.md), {what}"
                         + (f"; built after {after}" if after else ""))
-        lines += [f"## {clean(s['name'])}", "", f"({'; '.join(m for m in meta if m)})" + (f" Requires: {req}" if req else "")]
+        lines += [f"## {title}", "", f"({'; '.join(m for m in meta if m)})" + (f" Requires: {req}" if req else "")]
         lines += [f"- {i}" for i in info] + ([""] if info else [])
         lines += [clean(s.get("description")) or clean(s.get("prediction_description")), ""]
     write(KB / "empire" / "structures.md", "\n".join(lines))

@@ -1,5 +1,12 @@
 # Hero skills: Ranger
 
+A Hero Class that specializes in ranged damage, skirmishing, and disrupting enemies.
+
+Compatible weapons:
+
+- Ranged Weapon
+- Skirmisher Weapon
+
 ## Barrage Attacks
 
 (type normal; requires any of Plague Shot, Thorn Shot; DLC Base)

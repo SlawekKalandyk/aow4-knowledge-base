@@ -1,11 +1,5 @@
 # Hero skills: Invalid Hero Skills
 
-## 
-
-(type normal; DLC SECRETSOFTHEARCHMAGES)
-
-
-
 ## Ancient Governor I
 
 (type normal; DLC DRAGONLORDS)

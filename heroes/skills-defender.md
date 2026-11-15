@@ -1,5 +1,15 @@
 # Hero skills: Defender
 
+A Hero Class that specializes in defending its allies, survivability, and retaliation.
+
+Compatible weapons:
+
+- One Handed Weapon
+- Shield
+- Fist Weapon
+- Polearm Weapon
+- Skirmisher Weapon
+
 ## Adaptive Armor
 
 (type normal; requires any of Defense, Warded Armor; DLC Base)

@@ -1,5 +1,14 @@
 # Hero skills: Elementalist
 
+Elementalists are magical damage dealers setting up attacks or delivering the killing blow with powerful Elemental abilities.
+Each Elementalist hero chooses a discipline which determines the element of their abilities.
+
+Compatible weapons:
+
+- Magic Orb Weapon
+- Magic Staff Weapon
+- Eldritch Relic Weapon
+
 ## Amplified Magic
 
 (type normal; requires Withering Magic; DLC Base)

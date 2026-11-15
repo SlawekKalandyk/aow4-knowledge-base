@@ -1048,12 +1048,12 @@ Per adjacent owned province with River or Ocean:
 - Unit deployment location.
 - Functions as a Teleporter.
 
-## Teleporter
+## Teleporter (variant 1 of 2)
 
 (cost 280 Gold 750 Production; DLC Base)
 
 
-## Teleporter
+## Teleporter (variant 2 of 2)
 
 (cost 100 Gold 250 Production; DLC Base; province/sector upgrade)
 A Province Improvement which enables an Army to teleport from one teleporter to another.
@@ -1691,14 +1691,14 @@ Tower Structure
 
 
 
-## Hero's Quarters
+## Hero's Quarters (variant 1 of 2)
 
 (cost 440 Gold 1300 Production; DLC Base)
 - Boost requirements: Build 4 Forester
 
 
 
-## Hero's Quarters
+## Hero's Quarters (variant 2 of 2)
 
 (cost 60 Gold 130 Production; DLC Base)
 - Boost requirements: Build 1 Quarry
@@ -1958,7 +1958,7 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 This monument can be further improved towards the chosen Affinity once built.
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum
+## Monument II: Sanctum (variant 1 of 6)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1972,7 +1972,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum
+## Monument II: Sanctum (variant 2 of 6)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1986,7 +1986,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum
+## Monument II: Sanctum (variant 3 of 6)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2000,7 +2000,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum
+## Monument II: Sanctum (variant 4 of 6)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2014,7 +2014,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum
+## Monument II: Sanctum (variant 5 of 6)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2028,7 +2028,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum
+## Monument II: Sanctum (variant 6 of 6)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2042,7 +2042,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument III: Zenith
+## Monument III: Zenith (variant 1 of 6)
 
 (cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2058,7 +2058,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument III: Zenith
+## Monument III: Zenith (variant 2 of 6)
 
 (cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2074,7 +2074,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument III: Zenith
+## Monument III: Zenith (variant 3 of 6)
 
 (cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2090,7 +2090,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument III: Zenith
+## Monument III: Zenith (variant 4 of 6)
 
 (cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2106,7 +2106,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument III: Zenith
+## Monument III: Zenith (variant 5 of 6)
 
 (cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2122,7 +2122,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument III: Zenith
+## Monument III: Zenith (variant 6 of 6)
 
 (cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2138,7 +2138,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument IV: Apex
+## Monument IV: Apex (variant 1 of 6)
 
 (cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2155,7 +2155,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument IV: Apex
+## Monument IV: Apex (variant 2 of 6)
 
 (cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2172,7 +2172,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument IV: Apex
+## Monument IV: Apex (variant 3 of 6)
 
 (cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2189,7 +2189,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument IV: Apex
+## Monument IV: Apex (variant 4 of 6)
 
 (cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2206,7 +2206,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument IV: Apex
+## Monument IV: Apex (variant 5 of 6)
 
 (cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2223,7 +2223,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument IV: Apex
+## Monument IV: Apex (variant 6 of 6)
 
 (cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -2333,7 +2333,7 @@ Mutually exclusive with Diplomatic Embassy.
 
 Wall Structure
 
-## Paragon Quarters
+## Paragon Quarters (variant 1 of 3)
 
 (cost 170 Gold 450 Production; DLC WAYSOFWAR)
 - Built after: Town Hall III: Steel Bastion
@@ -2341,7 +2341,7 @@ Wall Structure
 
 Adds a Warbound unit to all fights in this domain.
 
-## Paragon Quarters
+## Paragon Quarters (variant 2 of 3)
 
 (cost 170 Gold 450 Production; DLC WAYSOFWAR)
 - Built after: Town Hall III: Steel Bastion
@@ -2349,7 +2349,7 @@ Adds a Warbound unit to all fights in this domain.
 
 Adds an Avenger unit to all fights in this domain.
 
-## Paragon Quarters
+## Paragon Quarters (variant 3 of 3)
 
 (cost 170 Gold 450 Production; DLC WAYSOFWAR)
 - Built after: Town Hall III: Steel Bastion
@@ -2442,16 +2442,6 @@ While this city shares a border with the Throne City or is the Throne City gain:
 - +5 Food income
 - +10 Production income
 - +5 Draft income
-
-## Sanctuary Expansion
-
-(cost 170 Gold 450 Production; DLC ELDRITCHREALMS)
-Allows this Sanctuary Outpost to annex an additional Province. Can only be done up to 2 times.
-
-## Sanctuary Expansion
-
-(cost 170 Gold 450 Production; DLC ELDRITCHREALMS)
-Allows this Sanctuary Outpost to annex an additional Province. Can only be done up to 2 times.
 
 ## Sanctuary Expansion
 
@@ -2560,12 +2550,12 @@ Shadow Spells are 10% cheaper.
 
 +10 Mana income
 
-## Shrine of Fulfilled Promise
+## Shrine of Fulfilled Promise (variant 1 of 2)
 
 (cost 60 Gold 130 Production; DLC ARCHONPROPHECY)
 - The city produces 20% more income and has Titan Guardian
 
-## Shrine of Fulfilled Promise
+## Shrine of Fulfilled Promise (variant 2 of 2)
 
 (cost 60 Gold 130 Production; DLC ARCHONPROPHECY)
 - The city produces 20% more income
@@ -2811,7 +2801,7 @@ Can only be built in the Throne City.
 
 - Unlocks Special Province Improvements.
 
-## Town Hall II: Castle
+## Town Hall II: Castle (variant 1 of 4)
 
 (cost 60 Gold 130 Production; DLC RISEFROMRUIN)
 - Culture building (aow4db site's hand-made culture map, not game data): [Feudal](../cultures/feudal.md), replaces Town Hall II
@@ -2821,7 +2811,7 @@ Can only be built in the Throne City.
 - +40 Food income
 - +20 Production income
 
-## Town Hall II: Castle
+## Town Hall II: Castle (variant 2 of 4)
 
 (cost 200 Production 200 Gold; DLC Base) Requires: Requires 3 Population to unlock
 - Boost requirements: Have 5 Population
@@ -2829,7 +2819,7 @@ Can only be built in the Throne City.
 
 - Unlocks Special Province Improvements.
 
-## Town Hall II: Castle
+## Town Hall II: Castle (variant 3 of 4)
 
 (cost 60 Gold 130 Production; DLC Base)
 - Culture building (aow4db site's hand-made culture map, not game data): [Feudal](../cultures/feudal.md), replaces Town Hall II
@@ -2839,7 +2829,7 @@ Can only be built in the Throne City.
 - +40 Food income
 - +20 Production income
 
-## Town Hall II: Castle
+## Town Hall II: Castle (variant 4 of 4)
 
 (cost 200 Production 200 Gold; DLC Base)
 - Boost requirements: Have 4 Population
@@ -2945,7 +2935,7 @@ Can only be built in the Throne City.
 
 - Unlocks the Conduit Spell Jammer.
 
-## Town Hall III: Citadel
+## Town Hall III: Citadel (variant 1 of 2)
 
 (cost 400 Production 400 Gold; DLC Base)
 - Boost requirements: Have 10 Population
@@ -2953,7 +2943,7 @@ Can only be built in the Throne City.
 
 - Unlocks the Conduit Spell Jammer.
 
-## Town Hall III: Citadel
+## Town Hall III: Citadel (variant 2 of 2)
 
 (cost 400 Production 400 Gold; DLC Base)
 - Boost requirements: Have 10 Population
@@ -3037,7 +3027,7 @@ Can only be built in the Throne City.
 - +10 Gold income
 - +2 City Stability income per Population:
 
-## Town Hall IV: Grand Estate
+## Town Hall IV: Grand Estate (variant 1 of 2)
 
 (cost 800 Production 800 Gold; DLC Base)
 - Boost requirements: Have 15 Population
@@ -3047,7 +3037,7 @@ Can only be built in the Throne City.
 - +10 Gold income
 - +2 City Stability income per Population:
 
-## Town Hall IV: Grand Estate
+## Town Hall IV: Grand Estate (variant 2 of 2)
 
 (cost 800 Production 800 Gold; DLC Base)
 - Boost requirements: Have 16 Population

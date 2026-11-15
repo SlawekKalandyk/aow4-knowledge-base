@@ -1,5 +1,13 @@
 # Hero skills: Warlock
 
+Warlocks are debuff and undeath experts, using powerful debuffs and empowering undead summons they raise during battle.
+
+Compatible weapons:
+
+- Magic Orb Weapon
+- Magic Staff Weapon
+- Eldritch Relic Weapon
+
 ## Awaken Corrupted Soul
 
 (type normal; requires Draining Magic; DLC Base)

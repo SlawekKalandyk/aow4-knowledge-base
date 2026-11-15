@@ -1,5 +1,16 @@
 # Hero skills: Death Knight
 
+A Hero Class that specializes in high damage Melee attacks, backed up by Debuff and summoned Undead units.
+
+Compatible weapons:
+
+- Great Weapon
+- One Handed Weapon
+- Shield
+- Fist Weapon
+- Polearm Weapon
+- Skirmisher Weapon
+
 ## Berserker's Rage
 
 (type normal; requires any of Reckless Rage, Execute; can't be taken with Grim Executioner; DLC Base)

@@ -1,11 +1,31 @@
 # Hero skills: Battlesaint
 
+Battlesaints gain Fervor through particular actions that they spend for powerful support abilities or to empower themselves and smite their enemies.
+
+Compatible weapons:
+
+- Great Weapon
+- One Handed Weapon
+- Shield
+- Fist Weapon
+- Polearm Weapon
+- Magic Staff Weapon
+- Magic Orb Weapon
+- Skirmisher Weapon
+
 ## Battlefield Restoration
 
 (type normal; requires Healing Support; can't be taken with Immortal Saint, Smite; DLC ARCHONPROPHECY)
 
 
 - **Battlefield Restoration** (accuracy Always Hits, range 0, full action): All friendly units gain: ; +1 Regeneration per stack of Fervor consumed.  Enter Defense Mode. Cooldown: 3 Turns
+
+## Bless
+
+(type normal; DLC ARCHONPROPHECY)
+
+
+- **Bless** (accuracy Always Hits, range 4, free action): Target friendly unit gains +1 Fortune. Cooldown: 2 Turns Requires: Support
 
 ## Blessed Body
 

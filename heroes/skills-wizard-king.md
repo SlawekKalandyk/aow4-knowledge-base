@@ -62,3 +62,25 @@
 
 
 - **Channeling Ritual** (accuracy Always Hits, range 0, free action): Allows you to cast an additional Spell this Turn. This effect does not stack. Cooldown: 2 Turns Starts on cooldown: 1 Turns Requires: Can't be refreshed
+
+## Wizard King I
+
+(type normal; DLC Base)
+
+- +10 Combat Casting Points
+- +10 [World Map] World Map Casting Points
+
+## Wizard King II
+
+(type normal; requires Wizard King I; DLC Base)
+
+- +10 Combat Casting Points
+- +10 [World Map] World Map Casting Points
+
+## Wizard King III
+
+(type normal; requires Wizard King II; DLC Base)
+
+- +10 Combat Casting Points
+- +10 [World Map] World Map Casting Points
+- Hero gains Spell Channeling

@@ -116,16 +116,19 @@ def clean(s):
     def icon(m):
         num, tag, nxt = m.group(1), m.group(2), m.group(3).lower()
         label = icon_label(tag)
-        # Bracketed labels are where something is cast ("[Combat] Combat Enchantment"), not a repeat: keep them.
-        if nxt and not label.startswith("[") and (nxt.startswith(label.lower()[:4])
-                                                  or nxt.startswith(ICON_ALIASES.get(label, "\0"))):
+        # Bracketed labels are where something is cast ("[Combat] Combat Enchantment"), not a repeat: keep them,
+        # except before that context's Casting Points ("[World Map] World Map Casting Points").
+        if label.startswith("["):
+            if nxt.startswith(label.strip("[]").lower() + " casting point"):
+                label = ""
+        elif nxt and (nxt.startswith(label.lower()[:4]) or nxt.startswith(ICON_ALIASES.get(label, "\0"))):
             label = ""  # following text already names it ("3 <turn></turn> Turns")
         if num:
             return f"{num} {label} "
         return f" {label} " if label else " "
 
-    # Icon tags like 12<gold></gold>; peek (without consuming) at the next word to avoid "Food Food".
-    s = re.sub(r"(?:([+-]?\d+%?)\s*)?<(\w+)></\2>(?=\s*([^\s<]*))", icon, s)
+    # Icon tags like 12<gold></gold>; peek (without consuming) at the following words to avoid "Food Food".
+    s = re.sub(r"(?:([+-]?\d+%?)\s*)?<(\w+)></\2>(?=\s*([^<\n]{0,40}))", icon, s)
     s = re.sub(r" +([.,;:)])", r"\1", s)
     s = re.sub(r"<[^>]+>", "", s)
     s = re.sub(r"[ \t]+", " ", s)

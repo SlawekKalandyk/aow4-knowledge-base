@@ -714,7 +714,7 @@ Cannot suffer additional breaches through Siege Project
 
 - +5 Production.
 - +5 Mana.
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - +4 Mana per adjacent Quarry.
 - Counts as a Conduit.
 
@@ -1912,7 +1912,7 @@ Trade Routes in this city going over Ocean provinces grant +3 Gold for each Ocea
 - Unlocked by: [Tome of the Cosmos](../tomes/tome-of-the-cosmos.md) (tier 5)
 
 - Reveal the Map.
-- +25 [World Map] World Map Casting Point.
+- +25 World Map Casting Point.
 - +25 Combat Casting Point.
 - For each Affinity at or above 5 the city gains +50 of the resource based on that affinity.
 
@@ -1983,7 +1983,7 @@ While this city shares a border with another Empire or Free City:
 - Unlocked by: [Tome of Amplification](../tomes/tome-of-amplification.md) (tier 3)
 
 - +5 Mana.
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - +5 Combat Casting Points.
 - Counts as a Conduit.
 
@@ -2648,7 +2648,7 @@ Support Structure
 - Unlocked by: [Tome of Corruption](../tomes/tome-of-corruption.md) (tier 3)
 
 - +15 Mana income
-- 15 [World Map] World Map Casting Points
+- 15 World Map Casting Points
 - 15 Combat Casting Points
 
 At the start of combat in this city's domain:
@@ -3040,7 +3040,7 @@ Production Conversions convert an additional 10%.
 - Boost requirements: Have 15 Population
 - Culture building (aow4db site's hand-made culture map, not game data): [Mystic](../cultures/mystic.md), replaces Town Hall IV
 
-10 [World Map] World Map Casting Points and Combat Casting Points.
+10 World Map Casting Points and Combat Casting Points.
 
 ## Trade Bazaar
 
@@ -3383,7 +3383,7 @@ Builds a Watch Tower in this outpost, granting the outpost +4 Vision Range and +
 
 - +1 Spell Slot
 - +10 Combat Casting Point
-- +10 [World Map] World Map Casting Point
+- +10 World Map Casting Point
 
 ## Wizard Tower: Crypts
 

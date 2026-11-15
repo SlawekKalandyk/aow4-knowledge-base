@@ -10,7 +10,7 @@ Become closer to the umbral demons, and punish your enemies with their own stren
 ## Unlocks
 
 - Throne of Insidious Whispers (City Structure): - +15 Mana income
-  - 15 [World Map] World Map Casting Points
+  - 15 World Map Casting Points
   - 15 Combat Casting Points
   
   At the start of combat in this city's domain:

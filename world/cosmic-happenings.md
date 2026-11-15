@@ -14,7 +14,7 @@ Global Effects:
 (Major Major, 12 turns)
 
 Global Effects:
-- Magic Origin units gain Magic Origin Potential, granting: Attacks inflict Sundered Resistance and gain +5 [Combat] Combat Casting Points at the start of combat.
+- Magic Origin units gain Magic Origin Potential, granting: Attacks inflict Sundered Resistance and gain +5 Combat Casting Points at the start of combat.
 - Combat spells are always Overcharged the first time they are cast each combat.
 - For the rest of the game, all units have -2 Lightning Resistance.
 
@@ -39,7 +39,7 @@ Mysterious Fey folk appear from the mists to attack the cities of the unwary.
 
 Global Effects:
 - Mana income is reduced by -30%.
-- World Map Spells cost +50% [World Map] World Map Casting Points.
+- World Map Spells cost +50% World Map Casting Points.
 
 ## Blightfall Conjunction
 

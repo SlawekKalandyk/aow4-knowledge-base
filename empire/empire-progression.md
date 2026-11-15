@@ -15,8 +15,8 @@
 - **Mana Infrastructure** (level 1, cost 100 Imperium): Mana City Structures cost -25% Gold and Production.
 - **Supercharged Conduits** (level 1, cost 100 Imperium): Conduits grant 3 Production and 3 Food income.
 - **Ancient Studies** (level 2, cost 125 Imperium): Ancient Wonders grant +5 Knowledge income for each Tier they have, when annexed to a City.
-- **Transformative Expertise** (level 2, cost 125 Imperium): Enchantment and Transformation Spells cost -25% Mana and [World Map] World Map Casting Points.
-- **Grand Casting Reserves** (level 3, cost 150 Imperium): Gain +30 [World Map] World Map Casting Points.
+- **Transformative Expertise** (level 2, cost 125 Imperium): Enchantment and Transformation Spells cost -25% Mana and World Map Casting Points.
+- **Grand Casting Reserves** (level 3, cost 150 Imperium): Gain +30 World Map Casting Points.
 - **Tactical Casting Reserves** (level 3, cost 150 Imperium): Gain +30 Combat Casting Points.
 - **Summoning Bonds** (level 4, cost 175 Imperium): - Your Magic Origin Units gain +2 Experience for each non-Magic Origin unit in the same army.; Your non-Magic Origin Units gain +1 Status Resistance for each Magic Origin unit in the same army.
 - **Cosmic Breaches** (level 5, cost 200 Imperium): [Combat] Damage Spells and [Combat] Debuff Spells in combat now apply Sundered Resistance to their targets.
@@ -39,7 +39,7 @@
 - **Battlefield Looting** (level 3, cost 150 Imperium): Gain 3 Gold per Unit Tier of the Units killed in Combat.
 - **Might Makes Right** (level 3, cost 150 Imperium): - Tier 3, 4, and 5 units gain +5 Hit Point for each Tier 1 and 2 unit in the same army.; Tier 1 and 2 units gain +2 Experience per Turn for each Tier 3, 4, and 5 unit in the same army.
 - **Chaotic Inspiration** (level 4, cost 175 Imperium): Whenever a new Research Skill is being researched, the Knowledge cost of another random Skill is reduced by -25%.
-- **Otherworldly Reinforcements** (level 5, cost 200 Imperium): - [World Map] Summon Spells cost -25% [World Map] World Map Casting Points.; [Combat] Combat Summon Spells cost -25% Combat Casting Point.
+- **Otherworldly Reinforcements** (level 5, cost 200 Imperium): - [World Map] Summon Spells cost -25% World Map Casting Points.; [Combat] Combat Summon Spells cost -25% Combat Casting Point.
 - **Skilled Raiders** (level 5, cost 200 Imperium): Pillaging a Province takes -1 turns and yields +20% more rewards. Pillaging Units are healed for 20 Hit Points.
 - **Destiny of War** (level 6, cost 250 Imperium): 30 Grievances against all other Empires. These cannot be traded or lost. Your Throne City gains +30 Gold and +30 Mana per active War you are involved in against another Empire.
 - **Conquerors** (level 7, cost 300 Imperium): Absorbing and Migrating Cities takes -2 Turns. Absorbed and Migrated Cities permanently gain +20 Food, +20 Production, and +20 City Stability.
@@ -69,7 +69,7 @@
 ## Materium Empire Skill
 
 - **Industrial Infrastructure** (level 1, cost 100 Imperium): Production City Structures cost -25% Gold and Production to build.
-- **Land Sculptors** (level 1, cost 100 Imperium): Terraforming Spells cost -25% Mana and [World Map] World Map Casting Points.
+- **Land Sculptors** (level 1, cost 100 Imperium): Terraforming Spells cost -25% Mana and World Map Casting Points.
 - **Metropolitan Plans** (level 2, cost 125 Imperium): [World Map] City Spells and City Structures Research cost -25% Knowledge. City Structures unlocked through Research cost -25% Gold to build.
 - **Outpost Expertise** (level 2, cost 125 Imperium): Constructing Outposts takes -1 Turn and costs -50% Gold.
 - **Mythical Alloys** (level 3, cost 150 Imperium): Mines grant +5 Mana income.
@@ -119,7 +119,7 @@
 - **Shared Prosperity** (level 5, cost 200 Imperium): Gold City Structures grant +10 City Stability and +5 Production income.
 - **Benevolent Conquerors** (level 6, cost 250 Imperium): Converting conquered Cities into Vassals takes -2 Turns and does not give a Relations penalty.
 - **Bonds of Brotherhood** (level 6, cost 250 Imperium): - You gain +5 Imperium income per Defensive Pact you have with other Rulers.; You gain +15 Imperium income per Alliance you have with other Rulers instead.
-- **Blessings and Wards** (level 7, cost 300 Imperium): - [Combat] Healing Spells and [Combat] Buff Spells cost -25% Mana and Combat Casting Points.; [World Map] Friendly Army Spells cost -25% Mana and [World Map] World Map Casting Points.
+- **Blessings and Wards** (level 7, cost 300 Imperium): - [Combat] Healing Spells and [Combat] Buff Spells cost -25% Mana and Combat Casting Points.; [World Map] Friendly Army Spells cost -25% Mana and World Map Casting Points.
 - **Call to Arms** (level 8, cost 350 Imperium): Units from Rally of the Lieges: ; Cost -50% Gold.; Gain +2 starting ranks.
 - **Lead by Example** (level 8, cost 350 Imperium): Armies led by Heroes gain +5 Morale for each level of Renown they have.
 - **Absolute Loyalty** (level 9, cost 400 Imperium): Vassals grant an additional +20% income when at Supreme Vassalage.
@@ -136,7 +136,7 @@
 
 - **Rite of Astral Abundance** (level 4, cost 175 Imperium, repeatable, each repeat costs +50 Imperium): Instantly gain 750 Mana.
 - **Rite of Conjuration** (level 6, cost 250 Imperium, repeatable, each repeat costs +50 Imperium): Create a random Magic Material near your Throne City.
-- **Rite of Spell Storm** (level 8, cost 350 Imperium, repeatable, each repeat costs +50 Imperium): Gain 150 [World Map] World Map Casting Points and Combat Casting Points until the end of the turn.
+- **Rite of Spell Storm** (level 8, cost 350 Imperium, repeatable, each repeat costs +50 Imperium): Gain 150 World Map Casting Points and Combat Casting Points until the end of the turn.
 
 ## Repeatable Chaos Rite
 
@@ -167,7 +167,7 @@
 - **Wonder Reavers** (level 1, cost 100 Imperium): When clearing an Ancient Wonder gain: ; 70 Knowledge for a Bronze Ancient Wonder.; 150 Knowledge for a Silver Ancient Wonder.; 300 Knowledge for a Gold Ancient Wonder.
 - **Extracted Essence** (level 2, cost 125 Imperium): Gain 2 Mana per Unit Tier of the Units killed in Combat.
 - **Turncoat Masters** (level 2, cost 125 Imperium): Routing Units are Captured if your side is victorious in Combat.  Units recruited in this way have Low Maintenance.
-- **Hexes and Curses** (level 3, cost 150 Imperium): - [World Map] Enemy Army Spells cost -25% [World Map] World Map Casting Points.; [Combat] Debuff Spells cost -25% Combat Casting Points.
+- **Hexes and Curses** (level 3, cost 150 Imperium): - [World Map] Enemy Army Spells cost -25% World Map Casting Points.; [Combat] Debuff Spells cost -25% Combat Casting Points.
 - **Research Infrastructure** (level 3, cost 150 Imperium): Knowledge City Structures cost -25% Gold and Production.
 - **Seeing Stones** (level 4, cost 175 Imperium): Free Cities with a Whispering Stone assigned instantly provide you with Vision Range. Free Cities or Vassals with a Whispering Stone assigned grant you +15 Knowledge.
 - **Interrogation Studies** (level 5, cost 200 Imperium): Knowledge City Structures grant +5 Mana and +5 Gold income.

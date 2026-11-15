@@ -24,7 +24,7 @@ A powerful Wizard seeking dominion over a new realm.
 
 - Wizard Kings have access to unique Combat Spell enhancing hero skills.
 - All Conduit grant +2 Mana.
-- Start with +10 Combat Casting Point and +10 [World Map] World Map Casting Point.
+- Start with +10 Combat Casting Point and +10 World Map Casting Point.
 - Wizard Kings start with the Overchannel ability ability in Combat.
 - Wizard Kings are Herotrait governance wizard governor.
 

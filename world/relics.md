@@ -87,7 +87,7 @@ DLC: SILVERSEAS | Spells: [Nevermoor's Curse](../spells/nevermoors-curse.md) | U
 
 DLC: SILVERSEAS
 
-- You have +50 [World Map] World Map Casting Point and +50 Combat Casting Point.
+- You have +50 World Map Casting Point and +50 Combat Casting Point.
 - Whenever you cast a strategic spell, the Province of your Ruler is affected by the following:
 
 - Alter land provinces to Snow and Ice.

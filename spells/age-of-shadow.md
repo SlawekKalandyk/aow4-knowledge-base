@@ -8,5 +8,5 @@
 
 Channel the Age of Shadow to reach the Magic Victory. While channeling:
 
-- Your Shadow Affinity Spells cost -20% Mana, [World Map] World Map Casting Points, and Combat Casting Points.
+- Your Shadow Affinity Spells cost -20% Mana, World Map Casting Points, and Combat Casting Points.
 - Each turn in combat, a random corpse is reanimated as a Decaying Zombie until the end of combat.

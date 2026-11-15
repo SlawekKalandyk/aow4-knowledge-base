@@ -34,7 +34,7 @@
 
 Gain:
 
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - Abilities ignore up to 1 Status Resistance.
 
 ## Eldritch Caster II
@@ -43,7 +43,7 @@ Gain:
 
 Gain:
 
-- +5 [World Map] World Map Casting Points.
+- +5 World Map Casting Points.
 - Abilities ignore up to 1 Status Resistance.
 
 ## Eldritch Phase I

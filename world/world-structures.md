@@ -41,7 +41,7 @@
 
 - +2 Mana per Research Post in City Domain.
 - Adds the Shrieking Bat unit to the Rally of the Lieges.
-- If Thrall are available, the Thrall Sacrifice action on this structure becomes available to permanently gain +10 [World Map] World Map Casting Point and +10 Combat Casting Point from this structure.
+- If Thrall are available, the Thrall Sacrifice action on this structure becomes available to permanently gain +10 World Map Casting Point and +10 Combat Casting Point from this structure.
 - Unit unlocks: [Shrieking Bat](../units/shrieking-bat.md)
 
 ## Crystal Forest
@@ -192,7 +192,7 @@ Province adjacent to this Landmark gain:
 A City with 3 Province adjacent to this Landmark gains:
 
 - Enemy Spell have 33% chance of Backfiring within the domain.
-- The City's owner gains 15 [World Map] World Map Casting Point and Combat Casting Point.
+- The City's owner gains 15 World Map Casting Point and Combat Casting Point.
 - Unlocks the Broken wizard tower spell [World Map] City Spell.
 - Spell unlocks/rewards: [Cosmic Inspiration](../spells/cosmic-inspiration.md)
 
@@ -445,7 +445,7 @@ A City with 3 Province adjacent to this Landmark gains:
 
 (Silver Ancient Wonder; DLC SECRETSOFTHEARCHMAGES; node: research_post +25 Knowledge)
 
-- +5 [World Map] World Map Casting Point
+- +5 World Map Casting Point
 - +5 Combat Casting Point
 
 ## Astral Rift
@@ -595,7 +595,7 @@ Unique global effect:
 
 Unique global effect:
 
-- +15 [World Map] World Map Casting Point.
+- +15 World Map Casting Point.
 - Combat enchantment: Displaced Reality: Every 2 Turns, all units are teleported by 2 hexes.
 
 ## Tranquility Pool

@@ -52,14 +52,14 @@ Grants:
 - +1 Resistance
 - +2 Status Resistance
 
-## Forefather's Cloak
+## Forefather's Cloak (variant 1 of 2)
 
 (Tier III; DLC THRONESOFBLOOD)
 
 
 - **Lifedrinker**: When an adjacent unit dies: ; Gain Strengthened for 3 Turns.; Heal for 10 Temporary Hit Points.
 
-## Forefather's Cloak
+## Forefather's Cloak (variant 2 of 2)
 
 (Tier III; DLC THRONESOFBLOOD)
 

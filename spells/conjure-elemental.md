@@ -6,35 +6,37 @@
 - DLC: ARCHONPROPHECY
 - Summons: [Lesser Snow Spirit](../units/lesser-snow-spirit.md)
 
+## Variant: Snow Spirit (cost 20 Mana)
+
 Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity: Lesser Snow Spirit
 
 This summon lasts for 3 Turns.
 
-## Variant (cost 20 Mana)
+## Variant: Tide Spirit (cost 20 Mana)
 
 Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity: Lesser Tide Spirit
 
 This summon lasts for 3 Turns.
 
-## Variant (cost 20 Mana)
+## Variant: Stone Spirit (cost 20 Mana)
 
 Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity: Lesser Stone Spirit
 
 This summon lasts for 3 Turns.
 
-## Variant (cost 20 Mana)
+## Variant: Storm Spirit (cost 20 Mana)
 
 Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity: Lesser Storm Spirit
 
 This summon lasts for 3 Turns.
 
-## Variant (cost 20 Mana)
+## Variant: Magma Spirit (cost 20 Mana)
 
 Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity: Lesser Magma Spirit
 
 This summon lasts for 3 Turns.
 
-## Variant (cost 20 Mana)
+## Variant: Light Spirit (cost 20 Mana)
 
 Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity: Lesser Light Spirit
 

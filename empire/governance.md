@@ -8,7 +8,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 3: Each Mine grants +2 Imperium.
 - Renown level 4: Units cost -20% less Gold, Draft and Souls to recruit.
 
-## Giant King Governor
+## Giant King Governor (Frost Giant)
 
 While Governor, the governed city gains benefits based on the Renown level of this Hero:
 - Renown level 1: Each Quarry grants +5 Production
@@ -16,7 +16,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 3: Each Quarry grants +1 Binding Fragments
 - Renown level 4: City Structures grant +2 Gold in addition to their normal effects Enable drafting of Frost Giant units
 
-## Giant King Governor
+## Giant King Governor (Rock Giant)
 
 While Governor, the governed city gains benefits based on the Renown level of this Hero:
 - Renown level 1: Each Quarry grants +5 Production
@@ -24,7 +24,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 3: Each Quarry grants +1 Binding Fragments
 - Renown level 4: City Structures grant +2 Gold in addition to their normal effects Enable drafting of Rock Giant units
 
-## Giant King Governor
+## Giant King Governor (Fire Giant)
 
 While Governor, the governed city gains benefits based on the Renown level of this Hero:
 - Renown level 1: Each Quarry grants +5 Production
@@ -32,7 +32,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 3: Each Quarry grants +1 Binding Fragments
 - Renown level 4: City Structures grant +2 Gold in addition to their normal effects Enable drafting of Fire Giant units
 
-## Giant King Governor
+## Giant King Governor (Storm Giant)
 
 While Governor, the governed city gains benefits based on the Renown level of this Hero:
 - Renown level 1: Each Quarry grants +5 Production

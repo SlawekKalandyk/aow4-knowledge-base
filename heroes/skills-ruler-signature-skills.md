@@ -96,25 +96,25 @@ This unit gains:
 
 - **Mighty Stomp** (damage 20 Physical, accuracy 100%, range 1, single-use action): Deals damage to units in a 2-hex cone. Stunned: Base 70% chance of inflicting Stunned for 1 Turn. Bleeding: Inflicts 3 Bleeding for 3 Turns. Immobilized: Base 120% chance of inflicting Immobilized for 1 Turn. Requires: Melee
 
-## Cascading Rune
+## Cascading Rune (Frost Damage)
 
 (type signature; DLC GIANTKINGS)
 
 Killing a unit deals 15 Frost Damage to up to 2 other enemy unit within 2 hexes.
 
-## Cascading Rune
+## Cascading Rune (Physical Damage)
 
 (type signature; DLC GIANTKINGS)
 
 Killing a unit deals 15 Physical Damage to up to 2 other enemy unit within 2 hexes.
 
-## Cascading Rune
+## Cascading Rune (Fire Damage)
 
 (type signature; DLC GIANTKINGS)
 
 Killing a unit deals 15 Fire Damage to up to 2 other enemy unit within 2 hexes.
 
-## Cascading Rune
+## Cascading Rune (Lightning Damage)
 
 (type signature; DLC GIANTKINGS)
 
@@ -381,28 +381,28 @@ Increases unit upkeep by 10 Mana.
 
 - **Grand Brawn Rune**: While army leader, all non-hero units in the army gain: ; +15% damage on base attacks.; A base 90% chance of applying Bleeding for 3 Turns on base attacks, Effects are increased for Single Shot attacks.
 
-## Grand Cascading Rune
+## Grand Cascading Rune (Frost Damage)
 
 (type signature; DLC GIANTKINGS)
 
 
 - **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: ; Killing a unit deals 10 Frost Damage to up to 2 other enemy units within 2 hexes.
 
-## Grand Cascading Rune
+## Grand Cascading Rune (Fire Damage)
 
 (type signature; DLC GIANTKINGS)
 
 
 - **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: ; Killing a unit deals 10 Fire Damage to up to 2 other enemy units within 2 hexes.
 
-## Grand Cascading Rune
+## Grand Cascading Rune (Physical Damage)
 
 (type signature; DLC GIANTKINGS)
 
 
 - **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: ; Killing a unit deals 10 Physical Damage to up to 2 other enemy units within 2 hexes.
 
-## Grand Cascading Rune
+## Grand Cascading Rune (Lightning Damage)
 
 (type signature; DLC GIANTKINGS)
 

@@ -766,42 +766,42 @@
 - **Steel Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Armored Claw
+## Armored Claw (6 Physical 6 Lightning)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 6 Physical 6 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Armored Claw
+## Armored Claw (6 Physical 6 Frost)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 6 Physical 6 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Armored Claw
+## Armored Claw (6 Physical 6 Blight)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 6 Physical 6 Blight, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Armored Claw
+## Armored Claw (6 Physical 6 Fire)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 6 Physical 6 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Armored Claw
+## Armored Claw (12 Physical)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Armored Claw
+## Armored Claw (6 Physical 6 Spirit)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
@@ -953,42 +953,42 @@
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Dragon Claw
+## Dragon Claw (16 Physical)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Dragon Claw
+## Dragon Claw (8 Physical 8 Frost)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 8 Physical 8 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Dragon Claw
+## Dragon Claw (8 Physical 8 Spirit)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 8 Physical 8 Spirit, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Dragon Claw
+## Dragon Claw (8 Physical 8 Fire)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 8 Physical 8 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Dragon Claw
+## Dragon Claw (8 Physical 8 Lightning)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
 
 - **Melee Strike** (damage 8 Physical 8 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Dragon Claw
+## Dragon Claw (8 Physical 8 Blight)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
 
@@ -1058,28 +1058,28 @@
 - **Frost Bolts** (damage 12 Frost, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Giant Axe
+## Giant Axe (12 Physical 12 Frost)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
 - **Heavy Charge Strike** (damage 12 Physical 12 Frost, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
-## Giant Axe
+## Giant Axe (12 Physical 12 Fire)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
 - **Heavy Charge Strike** (damage 12 Physical 12 Fire, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
-## Giant Axe
+## Giant Axe (24 Physical)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
 - **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
-## Giant Axe
+## Giant Axe (12 Physical 12 Lightning)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
@@ -1108,14 +1108,14 @@ Grants First Strike.
 - **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Godir Greataxe
+## Godir Greataxe (variant 1 of 2)
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 60% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 
-## Godir Greataxe
+## Godir Greataxe (variant 2 of 2)
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
@@ -1164,14 +1164,14 @@ Grants First Strike.
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Greatsword
+## Greatsword (21 Physical)
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Greatsword
+## Greatsword (11 Physical 10 Spirit)
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
@@ -1376,7 +1376,7 @@ Grants First Strike.
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Obelisk
+## Obelisk (10 Physical 10 Frost)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
@@ -1384,7 +1384,7 @@ Grants First Strike.
 - **Obelisk Crash** (damage 10 Physical 10 Frost, accuracy Always Hits, range 4, single-use action): Deal damage to target unit. Adjacent enemy units to the target sustain 50% of the damage. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic
 - **Kick** (damage 20 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Obelisk
+## Obelisk (10 Physical 10 Fire)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
@@ -1392,7 +1392,7 @@ Grants First Strike.
 - **Obelisk Crash** (damage 10 Physical 10 Fire, accuracy Always Hits, range 4, single-use action): Deal damage to target unit. Adjacent enemy units to the target sustain 50% of the damage. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic
 - **Kick** (damage 20 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Obelisk
+## Obelisk (20 Physical)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
@@ -1400,7 +1400,7 @@ Grants First Strike.
 - **Obelisk Crash** (damage 20 Physical, accuracy Always Hits, range 4, single-use action): Deal damage to target unit. Adjacent enemy units to the target sustain 50% of the damage. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic
 - **Kick** (damage 20 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Obelisk
+## Obelisk (10 Physical 10 Lightning)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
@@ -1902,14 +1902,14 @@ Grants First Strike.
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 - **Pull** (damage 20 Physical, accuracy Always Hits, range 3, single-use action): Target unit: ; Sustains damage.; Has a base 90% chance of: ; Being pulled to an adjacent space.; Becoming Constricted for 1 Turn. Cannot be used when within an enemy Zone of Control. Requires: Melee, Debuff, Single Shot
 
-## Vampire Sword
+## Vampire Sword (variant 1 of 2)
 
 (Tier I; DLC THRONESOFBLOOD; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Bleeding: Base 60% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base
 
-## Vampire Sword
+## Vampire Sword (variant 2 of 2)
 
 (Tier I; DLC THRONESOFBLOOD; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
 
@@ -1924,70 +1924,70 @@ Grants First Strike.
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Polearm: +40% damage to Cavalry and Large Target units. Requires: Melee, Base
 - **Vigilant**: Unit has +1 Retaliation Attack.
 
-## Warclaw
+## Warclaw (23 Physical)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
 - **Charge Strike** (damage 23 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Warclaw
+## Warclaw (12 Physical 11 Lightning)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
 - **Charge Strike** (damage 12 Physical 11 Lightning, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Warclaw
+## Warclaw (12 Physical 11 Blight)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
 - **Charge Strike** (damage 12 Physical 11 Blight, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Warclaw
+## Warclaw (12 Physical 11 Spirit)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
 - **Charge Strike** (damage 12 Physical 11 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Warclaw
+## Warclaw (12 Physical 11 Frost)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
 - **Charge Strike** (damage 12 Physical 11 Frost, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Warclaw
+## Warclaw (12 Physical 11 Fire)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
 - **Charge Strike** (damage 12 Physical 11 Fire, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Warhammer
+## Warhammer (6 Physical 6 Frost)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
 - **Swiping Melee Strike** (damage 6 Physical 6 Frost, accuracy 100%, range 1, repeating action): Strike at enemy targets in a 1-hex cone. Requires: Melee, Base
 
-## Warhammer
+## Warhammer (6 Physical 6 Fire)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
 - **Swiping Melee Strike** (damage 6 Physical 6 Fire, accuracy 100%, range 1, repeating action): Strike at enemy targets in a 1-hex cone. Requires: Melee, Base
 
-## Warhammer
+## Warhammer (12 Physical)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
 - **Swiping Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strike at enemy targets in a 1-hex cone. Requires: Melee, Base
 
-## Warhammer
+## Warhammer (6 Physical 6 Lightning)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
@@ -2279,7 +2279,7 @@ Grants First Strike.
 - **Shoot Bow** (damage 18 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Monster Slayer^N: Deals +30% damage to Large Targets. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Parley
+## Parley (variant 1 of 2)
 
 (Tier III; DLC SILVERSEAS; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
@@ -2288,7 +2288,7 @@ Grants First Strike.
 - **Fire Pistol** (damage 14 Physical 14 Fire, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Ember Dust: Base 60% chance of inflicting Ember Dust. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
 - **Pierce Shot** (damage 14 Fire 12 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all targets in a 4-hex line from this unit. Piercing: Ignore 50% of the target's Defense. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Cooldown: 3 Turns Requires: Missile, Base
 
-## Parley
+## Parley (variant 2 of 2)
 
 (Tier III; DLC SILVERSEAS; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 

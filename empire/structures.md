@@ -1446,7 +1446,7 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 This monument can be further improved towards the chosen Affinity once built.
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum (variant 1 of 6)
+## Monument II: Sanctum (Shadow Affinity)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1460,7 +1460,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum (variant 2 of 6)
+## Monument II: Sanctum (Nature Affinity)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1474,7 +1474,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum (variant 3 of 6)
+## Monument II: Sanctum (Materium Affinity)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1488,7 +1488,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum (variant 4 of 6)
+## Monument II: Sanctum (Astral Affinity)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1502,7 +1502,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum (variant 5 of 6)
+## Monument II: Sanctum (Chaos Affinity)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1516,7 +1516,7 @@ Upgrades the Monument:
 
 Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
-## Monument II: Sanctum (variant 6 of 6)
+## Monument II: Sanctum (Order Affinity)
 
 (cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
@@ -1840,7 +1840,7 @@ Mutually exclusive with Diplomatic Embassy.
 
 Wall Structure
 
-## Paragon Quarters (variant 1 of 3)
+## Paragon Quarters (Warbound)
 
 (cost 170 Gold 450 Production; DLC WAYSOFWAR)
 - Built after: Town Hall III: Steel Bastion
@@ -1848,7 +1848,7 @@ Wall Structure
 
 Adds a Warbound unit to all fights in this domain.
 
-## Paragon Quarters (variant 2 of 3)
+## Paragon Quarters (Avenger)
 
 (cost 170 Gold 450 Production; DLC WAYSOFWAR)
 - Built after: Town Hall III: Steel Bastion
@@ -1856,7 +1856,7 @@ Adds a Warbound unit to all fights in this domain.
 
 Adds an Avenger unit to all fights in this domain.
 
-## Paragon Quarters (variant 3 of 3)
+## Paragon Quarters (Peacebringer)
 
 (cost 170 Gold 450 Production; DLC WAYSOFWAR)
 - Built after: Town Hall III: Steel Bastion

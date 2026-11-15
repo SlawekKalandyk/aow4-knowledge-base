@@ -214,6 +214,46 @@ def unique(seq):
     return list(dict.fromkeys(seq))
 
 
+def variant_labels(texts, max_words=4):
+    """Label same-name versions of a record from their own text: the words between what all versions share at the
+    start and at the end. The game data has no field saying which version is which, so "Fury of the Tunneling Spider"
+    -> 'Tunneling Spider', "drafting of Frost Giant units" -> 'Frost Giant' (the span is extended over capitalized
+    words after it). If the versions differ in more than one short span, all get 'variant n of m'."""
+    toks = [re.findall(r"\S+|\n", t) for t in texts]
+    pre = 0
+    while all(len(t) > pre for t in toks) and len({t[pre] for t in toks}) == 1:
+        pre += 1
+    suf = 0
+    while all(len(t) - suf > pre for t in toks) and len({t[-1 - suf] for t in toks}) == 1:
+        suf += 1
+    labels = []
+    for t in toks:
+        end = len(t) - suf
+        span = t[pre:end]
+        while span and span[-1] != "\n" and not re.search(r"[.,;:)]$", span[-1]) and end < len(t) and t[end][:1].isupper():
+            span, end = span + [t[end]], end + 1
+        words = [w for w in span if w != "\n"]
+        if words and words[0].lower() in ("a", "an", "the"):
+            words = words[1:]
+        labels.append(" ".join(words).strip(".,;:()"))
+    if all(labels) and len(set(labels)) == len(labels) and all(len(l.split()) <= max_words for l in labels):
+        return labels
+    return [f"variant {i} of {len(texts)}" for i in range(1, len(texts) + 1)]
+
+
+def label_variants(entries):
+    """entries: unique (name, meta, body) tuples. Same name and same meta line = versions a reader can't tell apart,
+    so append a variant label to the name."""
+    groups = defaultdict(list)
+    for e in entries:
+        groups[e[:2]].append(e)
+    labels = {}
+    for vs in groups.values():
+        if len(vs) > 1:
+            labels.update(zip(vs, variant_labels([body for _, _, body in vs])))
+    return [(name + (f" ({labels[e]})" if e in labels else ""), meta, body) for e in entries for name, meta, body in [e]]
+
+
 def dedupe(items):
     """Group records by id, dropping exact duplicates (ignoring resid)."""
     groups = defaultdict(list)
@@ -870,9 +910,12 @@ def build_spells():
         summ = [unit_link(x.get("slug"), "../") if isinstance(x, dict) else str(x) for x in s.get("summoned_units", [])]
         if summ:
             lines.append(f"- Summons: {', '.join(summ)}")
-        lines += ["", clean(s.get("description"))]
-        for v in variants[1:]:
-            lines += ["", f"## Variant (cost {one_line(v.get('casting_cost'))})", "", clean(v.get("description"))]
+        if len(variants) == 1:
+            lines += ["", clean(s.get("description"))]
+        else:  # one record per culture/subculture etc.; name each from its own text
+            for v, label in zip(variants, variant_labels([clean(v.get("description")) for v in variants])):
+                head = label.capitalize() if label.startswith("variant ") else f"Variant: {label}"
+                lines += ["", f"## {head} (cost {one_line(v.get('casting_cost'))})", "", clean(v.get("description"))]
         write(KB / "spells" / f"{slug(sid)}.md", "\n".join(lines))
     write(KB / "spells" / "_index.md", "# Spells\n\n" + table(["Spell", "Type", "Cost", "Upkeep", "Tome", "DLC"], rows))
 
@@ -933,16 +976,13 @@ def build_heroes():
             if h.get("id") in ascended_tomes:
                 extra.append("granted by " + ", ".join(tome_ref(tome_by_name[n]) if n in tome_by_name else n
                                                        for n in ascended_tomes[h["id"]]))
-            entry = [f"## {clean(h['name'])}\n\n" + (f"({'; '.join(extra)}; DLC {dlc(h)})\n\n" if extra else f"(DLC {dlc(h)})\n\n")
-                     + clean(h.get("description"))]
+            meta = f"({'; '.join(extra)}; DLC {dlc(h)})" if extra else f"(DLC {dlc(h)})"
             ab = [ability_line(a["slug"]) for a in h.get("abilities", []) if isinstance(a, dict) and a.get("slug")]
             ab = [a for a in ab if a]
-            if ab:
-                entry.append("\n".join(ab))
-            entries.append("\n".join(entry + [""]))
-        entries = unique(entries)  # same skill copied into several trees renders identically
+            entries.append((clean(h["name"]), meta, "\n".join([clean(h.get("description"))] + (["\n".join(ab)] if ab else []))))
+        entries = label_variants(unique(entries))  # same skill copied into several trees renders identically
         idx.append(f"- [{g}]({f}) ({len(entries)} skills)")
-        write(KB / "heroes" / f, "\n".join(lines + entries))
+        write(KB / "heroes" / f, "\n".join(lines + [f"## {n}\n\n{m}\n\n{b}\n" for n, m, b in entries]))
 
     slots = defaultdict(list)
     for it in hero_items:
@@ -960,15 +1000,13 @@ def build_heroes():
                 meta.append("hero types: " + ", ".join(names(it["hero_types"])))
             if it.get("disabled_slots"):
                 meta.append("disables slots: " + ", ".join(names(it["disabled_slots"])))
-            entry = [f"## {clean(it['name'])}\n\n({'; '.join(m for m in meta if m)})\n\n{clean(it.get('description'))}"]
             ab = [ability_line(a["slug"] if isinstance(a, dict) else a) for a in it.get("ability_slugs", [])]
             ab = [a for a in ab if a]
-            if ab:
-                entry.append("\n".join(ab))
-            entries.append("\n".join(entry + [""]))
-        entries = unique(entries)  # base types per culture/hero type (Ring, Crown, ...) render identically
+            entries.append((clean(it["name"]), f"({'; '.join(m for m in meta if m)})",
+                            "\n".join([clean(it.get("description"))] + (["\n".join(ab)] if ab else []))))
+        entries = label_variants(unique(entries))  # base types per culture/hero type (Ring, Crown, ...) render identically
         idx.append(f"- [{slot_} items]({f}) ({len(entries)} items)")
-        write(KB / "heroes" / f, "\n".join(lines + entries))
+        write(KB / "heroes" / f, "\n".join(lines + [f"## {n}\n\n{m}\n\n{b}\n" for n, m, b in entries]))
 
     lines = ["# Hero destinies", ""]
     for d in destinies:
@@ -1004,14 +1042,14 @@ def build_empire():
         lines.append("")
     write(KB / "empire" / "empire-progression.md", "\n".join(lines))
 
-    lines = ["# Governors (governance)", ""]
+    entries = []
     for g in governance:
         # The description repeats level_data as a bullet list; keep only the text around that list.
         desc = re.sub(r"<bulletlist>.*?</bulletlist>", "\n", g.get("screen_description") or "", flags=re.S)
-        lines += [f"## {clean(g['name'])}", "", clean(desc)]
-        lines += [f"- Renown level {l.get('level')}: {one_line(l.get('effect_description'))}" for l in g.get("level_data", [])]
-        lines.append("")
-    write(KB / "empire" / "governance.md", "\n".join(lines))
+        levels = [f"- Renown level {l.get('level')}: {one_line(l.get('effect_description'))}" for l in g.get("level_data", [])]
+        entries.append((clean(g["name"]), clean(desc), "\n".join(levels)))
+    write(KB / "empire" / "governance.md", "\n".join(["# Governors (governance)", ""] + [
+        f"## {n}\n\n{d}\n{lv}\n" for n, d, lv in label_variants(entries)]))
 
     lines = ["# City structures and upgrades", "",
              "- category: the province improvement or victory type the structure counts as (from the icon in its name).",
@@ -1022,10 +1060,14 @@ def build_empire():
              "(Wizard Tower vs Vampire Castle).",
              "- Boost requirements: game data field, named as on the aow4db site; what the boost gives isn't in the data.",
              f"- Culture building: from the {CULTURE_MAP_NOTE} (aow4db HTML/CityTrees.html).", ""]
-    variants = [(v, i, len(vs)) for vs in dedupe(structures).values() for i, v in enumerate(vs, 1)]
-    for s, n, of in sorted(variants, key=lambda x: (x[0]["name"], x[1])):
+    variants = []
+    for vs in dedupe(structures).values():
+        labels = variant_labels([f"{one_line(v.get('requirement_description'))}\n{clean(v.get('description'))}"
+                                 for v in vs]) if len(vs) > 1 else [""]
+        variants += [(v, n, lab) for n, (v, lab) in enumerate(zip(vs, labels), 1)]
+    for s, n, label in sorted(variants, key=lambda x: (x[0]["name"], x[1])):
         sid = s["id"]
-        title = clean(s["name"]) + (f" (variant {n} of {of})" if of > 1 else "")
+        title = clean(s["name"]) + (f" ({label})" if label else "")
         meta = [f"cost {one_line(s.get('cost'))}" if s.get("cost") else "", f"DLC {dlc(s)}",
                 "province/sector upgrade" if s.get("is_sector_upgrade") else "",
                 f"category: {s['category']}" if s.get("category") else ""]

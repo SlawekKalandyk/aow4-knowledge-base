@@ -6,47 +6,49 @@
 - Tome: Primal - Tunneling Spider, Primal - Glacial Mammoth, Primal - Storm Crow, Primal - Dune Serpent, Primal - Ash Sabertooth, Primal - Mire Crocodile, Primal - Sylvan Wolf
 - DLC: PRIMALFURY
 
+## Variant: Tunneling Spider (cost 5 Mana)
+
 Target friendly unit:
 
 - Heals 15 Temporary Hit Points.
 - If Fury of the Tunneling Spider is active, heal twice the amount.
 
-## Variant (cost 5 Mana)
+## Variant: Glacial Mammoth (cost 5 Mana)
 
 Target friendly unit:
 
 - Heals 15 Temporary Hit Points.
 - If Fury of the Glacial Mammoth is active, heal twice the amount.
 
-## Variant (cost 5 Mana)
+## Variant: Storm Crow (cost 5 Mana)
 
 Target friendly unit:
 
 - Heals 15 Temporary Hit Points.
 - If Fury of the Storm Crow is active, heal twice the amount.
 
-## Variant (cost 5 Mana)
+## Variant: Dune Serpent (cost 5 Mana)
 
 Target friendly unit:
 
 - Heals 15 Temporary Hit Points.
 - If Fury of the Dune Serpent is active, heal twice the amount.
 
-## Variant (cost 5 Mana)
+## Variant: Ash Sabertooth (cost 5 Mana)
 
 Target friendly unit:
 
 - Heals 15 Temporary Hit Points.
 - If Fury of the Ash Sabertooth is active, heal twice the amount.
 
-## Variant (cost 5 Mana)
+## Variant: Mire Crocodile (cost 5 Mana)
 
 Target friendly unit:
 
 - Heals 15 Temporary Hit Points.
 - If Fury of the Mire Crocodile is active, heal twice the amount.
 
-## Variant (cost 5 Mana)
+## Variant: Sylvan Wolf (cost 5 Mana)
 
 Target friendly unit:
 

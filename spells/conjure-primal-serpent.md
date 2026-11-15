@@ -1,6 +1,6 @@
 # Conjure Primal Serpent
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 45 Mana
 - Casting points: 30
 - Tome: Primal - Dune Serpent

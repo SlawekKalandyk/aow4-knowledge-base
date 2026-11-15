@@ -9,7 +9,7 @@ Cause chaos on the battlefield by randomly displacing enemies and inflicting Mis
 
 ## Unlocks
 
-- [Incite Revolution](../spells/incite-revolution.md) (World Spell): Target enemy city:
+- [Incite Revolution](../spells/incite-revolution.md) ([World Map] World Spell): Target enemy city:
   
   - Loses a border province and the population is lost.
   - Spawns a Brigand Camp on land provinces.

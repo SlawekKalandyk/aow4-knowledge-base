@@ -116,7 +116,9 @@ def clean(s):
     def icon(m):
         num, tag, nxt = m.group(1), m.group(2), m.group(3).lower()
         label = icon_label(tag)
-        if nxt and (nxt.startswith(label.strip("[]").lower()[:4]) or nxt.startswith(ICON_ALIASES.get(label, "\0"))):
+        # Bracketed labels are where something is cast ("[Combat] Combat Enchantment"), not a repeat: keep them.
+        if nxt and not label.startswith("[") and (nxt.startswith(label.lower()[:4])
+                                                  or nxt.startswith(ICON_ALIASES.get(label, "\0"))):
             label = ""  # following text already names it ("3 <turn></turn> Turns")
         if num:
             return f"{num} {label} "

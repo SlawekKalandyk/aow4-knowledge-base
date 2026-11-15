@@ -9,7 +9,7 @@ Strengthen your units and armies with the brute power of wild beasts. Specialize
 
 ## Unlocks
 
-- [Totem of the Wild](../spells/totem-of-the-wild.md) (Combat Summon Spell): Summons a Totem of the Wild, which spawns a random Tier I or II animal unit when it's created and at the start of your next 2 Turns.
+- [Totem of the Wild](../spells/totem-of-the-wild.md) ([Combat] Combat Summon Spell): Summons a Totem of the Wild, which spawns a random Tier I or II animal unit when it's created and at the start of your next 2 Turns.
 - [Empowered Beasts](../spells/empowered-beasts.md) ([World Map] Unit Enchantment): Makes enchanted units:
   
   - Deal +20% damage.

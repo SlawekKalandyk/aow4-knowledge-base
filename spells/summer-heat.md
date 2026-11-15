@@ -1,6 +1,6 @@
 # Summer Heat
 
-- Type: Combat Enchantment
+- Type: [Combat] Combat Enchantment
 - Casting cost: 150 Mana
 - Casting points: 50
 - DLC: ELDRITCHREALMS

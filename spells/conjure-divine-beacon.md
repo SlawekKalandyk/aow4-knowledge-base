@@ -1,6 +1,6 @@
 # Conjure Divine Beacon
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 30 Mana
 - Casting points: 25
 - Tome: Tome of the Beacon

@@ -1,6 +1,6 @@
 # Blood Moon Ritual
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 12 Thralls
 - Casting points: 300
 - DLC: THRONESOFBLOOD

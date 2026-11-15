@@ -1,6 +1,6 @@
 # Battlefield Reanimation
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 50 Souls
 - Casting points: 65
 - Tome: Tome of the Eternal Lord

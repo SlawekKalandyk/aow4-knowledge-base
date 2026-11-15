@@ -19,7 +19,7 @@ Inflict and exploit the Immobilized status effect and strike fear into your enem
   Mounted units lose their mounts.
   
   Heroes lose their Mount and Leg equipment slots.
-- [Conjure Weaver Spiders](../spells/conjure-weaver-spiders.md) (Combat Summon Spell): Conjure 2 Weaver Spiders on target and adjacent hex.
+- [Conjure Weaver Spiders](../spells/conjure-weaver-spiders.md) ([Combat] Combat Summon Spell): Conjure 2 Weaver Spiders on target and adjacent hex.
   This summon lasts for 3 Turns.
 - [Dreadful Bind](../spells/dreadful-bind.md) ([Combat] Debuff Spell): Units in a 2-hex radius:
   

@@ -26,7 +26,7 @@ Prevent enemy attacks and foresee the downfall of your enemies.
   - Enemy units gain:
   
   - A 10% Fumble chance for the duration of combat.
-- [Battle Divination](../spells/battle-divination.md) (Combat Enchantment): When cast and for the next 2 Turns, apply effect to the battle in the following order:
+- [Battle Divination](../spells/battle-divination.md) ([Combat] Combat Enchantment): When cast and for the next 2 Turns, apply effect to the battle in the following order:
   
   - All friendly units gain +25% Evasion for the turn.
   - All friendly units gain Precognition.

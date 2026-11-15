@@ -1,6 +1,6 @@
 # Call Thunder Storms
 
-- Type: Combat Enchantment
+- Type: [Combat] Combat Enchantment
 - Casting cost: 80 Mana
 - Casting points: 35
 - DLC: ELDRITCHREALMS

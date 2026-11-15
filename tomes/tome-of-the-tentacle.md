@@ -22,6 +22,6 @@ Conjure tentacled mutations and creatures from the depths to restrain and constr
   - If unsuccessful, inflicts Status Vulnerability.
   
   Effects are increased for Single Shot attacks.
-- [Conjure Tentacle](../spells/conjure-tentacle.md) (Combat Summon Spell): Summon an Immobile Fighter Unit with Hyper-Awareness.
+- [Conjure Tentacle](../spells/conjure-tentacle.md) ([Combat] Combat Summon Spell): Summon an Immobile Fighter Unit with Hyper-Awareness.
   This summon lasts for 3 Turns.
 - [Constrictor](../units/constrictor.md) (Unit): A Polearm Unit capable of pulling in and restraining opponents.

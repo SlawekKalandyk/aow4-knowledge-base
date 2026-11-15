@@ -1,6 +1,6 @@
 # Lightning Storm
 
-- Type: Combat Enchantment
+- Type: [Combat] Combat Enchantment
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of the Stormborne

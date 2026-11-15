@@ -1,6 +1,6 @@
 # Summon Astral Reflection
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 150 Mana
 - Casting points: 50
 - Tome: Tome of the Astral Mirror

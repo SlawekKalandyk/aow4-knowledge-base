@@ -27,7 +27,7 @@ Embrace a forgotten, corrupt magic that empowers your high tier units and spread
   
   - +5 Hit Points
   - +5% healing received in combat.
-- [Tears of the Crimson Sovereign](../spells/tears-of-the-crimson-sovereign.md) (Combat Enchantment): When cast and for the next 2 Turns:
+- [Tears of the Crimson Sovereign](../spells/tears-of-the-crimson-sovereign.md) ([Combat] Combat Enchantment): When cast and for the next 2 Turns:
   
   - Up to 3 enemy units:
   

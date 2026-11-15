@@ -1,6 +1,6 @@
 # Mass Revive
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 200 Mana
 - Casting points: 65
 - Tome: Tome of the God Emperor

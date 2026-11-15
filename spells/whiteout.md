@@ -1,6 +1,6 @@
 # Whiteout
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 120 Mana
 - Casting points: 120
 - Tome: Tome of Eternal Ice

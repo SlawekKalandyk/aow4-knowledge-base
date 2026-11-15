@@ -202,7 +202,7 @@ This unit's attacks inflict Dissonance.
 (type normal; DLC ELDRITCHREALMS)
 
 - Gain +4 Imperium income per Turn.
-- Gain +10 World Map Casting Points
+- Gain +10 [World Map] World Map Casting Points
 - Gain +10 Combat Casting Points
 
 ## Eldritch Influence II
@@ -210,7 +210,7 @@ This unit's attacks inflict Dissonance.
 (type normal; requires Eldritch Influence I; DLC ELDRITCHREALMS)
 
 - Gain +6 Imperium income per Turn.
-- Gain +10 World Map Casting Points
+- Gain +10 [World Map] World Map Casting Points
 - Gain +10 Combat Casting Points
 
 ## Eldritch Rituals

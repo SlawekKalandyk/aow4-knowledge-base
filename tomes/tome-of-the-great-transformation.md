@@ -10,7 +10,7 @@ Turn your people into the Undead and transform your empire into a paradise for t
 ## Unlocks
 
 - Bone Dragon Reanimation (Empire Bonus): When killing non-racial Tier IV or Tier V units, gain the option to spend Souls to create a Bone Dragon after combat.
-- [Desecrate Structure](../spells/desecrate-structure.md) (World Spell): Targets a resource node in your domain:
+- [Desecrate Structure](../spells/desecrate-structure.md) ([World Map] World Spell): Targets a resource node in your domain:
   
   - Node provides +5 Soul income.
   - If you lose the province, the effect stops.

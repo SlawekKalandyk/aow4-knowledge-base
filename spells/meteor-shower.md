@@ -1,6 +1,6 @@
 # Meteor Shower
 
-- Type: Combat Enchantment
+- Type: [Combat] Combat Enchantment
 - Casting cost: 150 Mana
 - Casting points: 50
 - Tome: Tome of the Crucible

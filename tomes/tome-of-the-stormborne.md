@@ -9,13 +9,13 @@ Control the storms to do your bidding and turn your people into powerful Naga.
 
 ## Unlocks
 
-- [Downpour](../spells/downpour.md) (World Spell): Target and adjacent Provinces:
+- [Downpour](../spells/downpour.md) ([World Map] World Spell): Target and adjacent Provinces:
   
   - Alters terrain to Swamp, if land.
   - Becomes Downpouring for 3 Turns.
   
   Cannot be used underground.
-- [Lightning Storm](../spells/lightning-storm.md) (Combat Enchantment): - All units become Wet for 3 Turns
+- [Lightning Storm](../spells/lightning-storm.md) ([Combat] Combat Enchantment): - All units become Wet for 3 Turns
   - Up to 2 random enemy units:
   
   - Sustain 30 Lightning Damage.

@@ -1,6 +1,6 @@
 # Ydgaard's Trade
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 45 Mana
 - Casting points: 45
 - DLC: SECRETSOFTHEARCHMAGES

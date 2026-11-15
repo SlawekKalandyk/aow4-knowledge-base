@@ -17,4 +17,4 @@ Become the ultimate embodiment of nature. Excel at buffs and healing, especially
   - +3 Blight Damage on attacks
   
   Effects are increased for Single Shot attacks.
-- [Forest Awareness](../spells/forest-awareness.md) (World Spell): All forests grant Vision on the World Map.
+- [Forest Awareness](../spells/forest-awareness.md) ([World Map] World Spell): All forests grant Vision on the World Map.

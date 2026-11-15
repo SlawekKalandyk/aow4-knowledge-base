@@ -1,6 +1,6 @@
 # Astral Shattering
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 150 Mana
 - Casting points: 150
 - Tome: Tome of Astral Convergence

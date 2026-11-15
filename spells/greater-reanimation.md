@@ -1,6 +1,6 @@
 # Greater Reanimation
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 35 Souls
 - Casting points: 40
 - Tome: Tome of the Reaper

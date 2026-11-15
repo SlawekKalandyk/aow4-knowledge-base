@@ -15,7 +15,7 @@ Extract Souls in brutal fashion and use them to bring Undead terrors into the wo
   - Gains +30 Souls income.
   - Has -20 City Stability
 - [Summon Reaper](../spells/summon-reaper.md) ([World Map] Summon Spell): Summons a Reaper, a Tier V Mythic Unit that can instantly kill units and grows stronger when enemies die.
-- [Greater Reanimation](../spells/greater-reanimation.md) (Combat Summon Spell): Resurrects target non-Hero unit:
+- [Greater Reanimation](../spells/greater-reanimation.md) ([Combat] Combat Summon Spell): Resurrects target non-Hero unit:
   
   - As a Corrupt Soul if not Undead.
   - With 100% of its total Hit Points if Undead.

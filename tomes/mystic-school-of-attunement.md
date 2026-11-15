@@ -12,7 +12,7 @@ This research is available to rulers with the Mystic culture. They specialize in
   
   - 2 Bolstered Defense for 3 Turns.
   - 2 Bolstered Resistance for 3 Turns.
-- [Astral Divination](../spells/astral-divination.md) (World Spell): Create and reveal new Astral Echoes in provinces near your domain.
+- [Astral Divination](../spells/astral-divination.md) ([World Map] World Spell): Create and reveal new Astral Echoes in provinces near your domain.
 - [Scroll of Attunement](../spells/scroll-of-attunement.md) ([World Map] Unit Enchantment): Grants non-Mystic units:
   
   - Attunement: Star Blades, which increases damage dealt when spells are cast.

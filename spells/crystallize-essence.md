@@ -1,6 +1,6 @@
 # Crystallize Essence
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 100 Mana
 - Casting points: 40
 - Tome: Crystal Pact

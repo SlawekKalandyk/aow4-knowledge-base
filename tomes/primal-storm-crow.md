@@ -12,7 +12,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Storm Crow's Boon
   - Grassland Walk
-- [Conjure Primal Crow](../spells/conjure-primal-crow.md) (Combat Summon Spell): Summon a Tier 2 Primal Crow.
+- [Conjure Primal Crow](../spells/conjure-primal-crow.md) ([Combat] Combat Summon Spell): Summon a Tier 2 Primal Crow.
   This summon lasts for 3 Turns.
 - [Ancestral Harmony](../spells/ancestral-harmony.md) ([Combat] Healing Spell): Target friendly unit:
   

@@ -1,6 +1,6 @@
 # Lingering Mists
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 60 Mana
 - Casting points: 60
 - Tome: Tome of Fey Mists

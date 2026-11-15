@@ -1,6 +1,6 @@
 # Dark Knowledge Ritual
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 6 Thralls
 - Casting points: 150
 - DLC: ELDRITCHREALMS

@@ -12,7 +12,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Tunneling Spider's Boon
   - Cave Walk
-- [Conjure Primal Spider](../spells/conjure-primal-spider.md) (Combat Summon Spell): Summon a Tier 2 Primal Spider.
+- [Conjure Primal Spider](../spells/conjure-primal-spider.md) ([Combat] Combat Summon Spell): Summon a Tier 2 Primal Spider.
   This summon lasts for 3 Turns.
 - [Ancestral Harmony](../spells/ancestral-harmony.md) ([Combat] Healing Spell): Target friendly unit:
   

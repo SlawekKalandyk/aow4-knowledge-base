@@ -22,4 +22,4 @@ Reach the pinnacle of the arcane arts by bending space and time to your will.
   - Become Stunned for 1 Turn.
   - Become Distracted for 1 Turn.
   - Gain 5 Marked for 3 Turns.
-- [Astral Travel](../spells/astral-travel.md) (World Spell): Makes your leader teleport to the target world hex.
+- [Astral Travel](../spells/astral-travel.md) ([World Map] World Spell): Makes your leader teleport to the target world hex.

@@ -10,7 +10,7 @@ Use your mastery over the magic of the universe to empower your units and your e
 ## Unlocks
 
 - Prismatic Tower (City Structure): - Reveal the Map.
-  - +25 World Map Casting Point.
+  - +25 [World Map] World Map Casting Point.
   - +25 Combat Casting Point.
   - For each Affinity at or above 5 the city gains +50 of the resource based on that affinity.
   

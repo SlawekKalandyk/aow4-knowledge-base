@@ -33,4 +33,4 @@ Manipulate the earth at will. Specialize in dealing Physical Damage and hinderin
   - Sustains 50 Physical Damage.
   - Suffers 4 Sundered Defense for 3 Turns.
   - Has a base 90% chance of becoming Stunned for 1 Turn.
-- Excavated Ley Line (Initial City Upgrade): - +5 Production.; +5 Mana.; +5 World Map Casting Points.; +4 Mana per adjacent Quarry.; Counts as a Conduit.
+- Excavated Ley Line (Initial City Upgrade): - +5 Production.; +5 Mana.; +5 [World Map] World Map Casting Points.; +4 Mana per adjacent Quarry.; Counts as a Conduit.

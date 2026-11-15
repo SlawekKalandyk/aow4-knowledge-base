@@ -12,7 +12,7 @@ This research is available to Rulers with the Architect culture. They empower an
   
   - +1 Defense, +1 Resistance.
   - An additional +1 Defense, +1 Resistance per stack of Affinity Incarnate.
-- Conjure Elemental (Combat Summon Spell): Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity.
+- Conjure Elemental ([Combat] Combat Summon Spell): Summon a Tier 1 Lesser Spirit based on your Empire's dominant Affinity.
   This summon lasts for 3 Turns.
 - [Incarnate Mark](../spells/incarnate-mark.md) ([World Map] Unit Enchantment): Grants non-Architect units:
   

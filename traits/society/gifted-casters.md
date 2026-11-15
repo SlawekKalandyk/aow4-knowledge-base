@@ -9,7 +9,7 @@
 ## Effects
 
 - +10 Combat Casting Points
-- +10 World Map Casting Points.
+- +10 [World Map] World Map Casting Points.
 - Combat Spells cost -20% less Mana to cast.
 
 ## Starting bonus

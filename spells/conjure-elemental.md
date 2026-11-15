@@ -1,6 +1,6 @@
 # Conjure Elemental
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 20 Mana
 - Casting points: 25
 - DLC: ARCHONPROPHECY

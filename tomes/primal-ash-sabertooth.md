@@ -12,7 +12,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Ash Sabertooth's Boon
   - Desolate Walk
-- [Conjure Primal Sabertooth](../spells/conjure-primal-sabertooth.md) (Combat Summon Spell): Summon a Tier 2 Primal Sabertooth.
+- [Conjure Primal Sabertooth](../spells/conjure-primal-sabertooth.md) ([Combat] Combat Summon Spell): Summon a Tier 2 Primal Sabertooth.
   This summon lasts for 3 Turns.
 - [Ancestral Harmony](../spells/ancestral-harmony.md) ([Combat] Healing Spell): Target friendly unit:
   

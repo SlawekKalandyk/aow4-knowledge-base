@@ -1,6 +1,6 @@
 # Totem of the Wild
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of Vigor

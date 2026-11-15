@@ -15,7 +15,7 @@ Discover the power of the natural world and specialize in immobilizing enemies a
   - +10% damage against Poisoned or Decaying units.
   
   Effects are increased for Single Shot attacks.
-- [Vine Prison](../spells/vine-prison.md) (Combat Summon Spell): Summon 5 Living Vine units randomly in a 2-hex radius which live for 2 Turns. These don't deal damage but have a chance of inflicting Immobilized on enemies.
+- [Vine Prison](../spells/vine-prison.md) ([Combat] Combat Summon Spell): Summon 5 Living Vine units randomly in a 2-hex radius which live for 2 Turns. These don't deal damage but have a chance of inflicting Immobilized on enemies.
 - [Poison Arrows](../spells/poison-arrows.md) ([World Map] Unit Enchantment): Makes attacks of enchanted units:
   
   - Deal +1 Blight Damage.

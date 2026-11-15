@@ -1,6 +1,6 @@
 # Conjure Astral Ward
 
-- Type: Combat Summon Spell
+- Type: [Combat] Combat Summon Spell
 - Casting cost: 30 Mana
 - Casting points: 25
 - Tome: Mystic - School of Summoning

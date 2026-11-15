@@ -1,6 +1,6 @@
 # Forest Awareness
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 200 Mana
 - Upkeep: 20 Mana
 - Casting points: 200

@@ -1,6 +1,6 @@
 # Soulcurse of Pride
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 100 Mana
 - Casting points: 100
 - DLC: GIANTKINGS

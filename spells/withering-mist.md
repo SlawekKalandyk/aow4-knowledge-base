@@ -1,6 +1,6 @@
 # Withering Mist
 
-- Type: Combat Enchantment
+- Type: [Combat] Combat Enchantment
 - Casting cost: 100 Mana
 - Casting points: 40
 - Tome: Tome of the Eternal Lord

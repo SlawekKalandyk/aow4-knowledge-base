@@ -29,6 +29,6 @@ Create wards and protections to preserve your units.
   
   - Has its negative status effects removed.
   - If the removed status effects have positive counters, the unit gains a stack of it.
-- [Conjure Abjurer Pylon](../spells/conjure-abjurer-pylon.md) (Combat Summon Spell): Conjure an Abjurer Pylon on target hex that casts Magic Shield on friendly units.
+- [Conjure Abjurer Pylon](../spells/conjure-abjurer-pylon.md) ([Combat] Combat Summon Spell): Conjure an Abjurer Pylon on target hex that casts Magic Shield on friendly units.
   This summon lasts for 3 Turns.
 - Glyph Tower (Initial City Upgrade): - +10 City Stability; +10 Draft; Per adjacent Conduit or Research Post: ; +3 City Stability; +1 Fortification Health ; Counts as a Conduit

@@ -1,6 +1,6 @@
 # Desecrate Structure
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 80 Mana
 - Upkeep: 8 Mana
 - Casting points: 80

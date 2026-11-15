@@ -1,6 +1,6 @@
 # Astral Travel
 
-- Type: World Spell
+- Type: [World Map] World Spell
 - Casting cost: 100 Mana
 - Casting points: 100
 - Tome: Tome of the Archmage

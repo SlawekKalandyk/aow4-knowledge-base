@@ -4,6 +4,7 @@
 - Casting cost: 30 Mana
 - Casting points: 25
 - Tome: Tome of the Construct
+- Granted by: [Masters of Constructs](../world/free-cities.md) (free city)
 - DLC: EMPIRESANDASHES
 
 Target friendly Construct or Linked Minds unit gains:

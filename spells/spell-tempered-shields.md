@@ -4,6 +4,7 @@
 - Casting cost: 70 Mana
 - Casting points: 70
 - Tome: Tome of Enchantment
+- Granted by: [Followers of Materium](../world/free-cities.md) (free city), [Initiates of Materium](../world/free-cities.md) (free city), [Masters of Antimagic](../world/free-cities.md) (free city)
 - DLC: Base
 - Applies to: Shield Unit
 

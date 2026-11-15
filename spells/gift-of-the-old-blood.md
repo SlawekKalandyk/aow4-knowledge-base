@@ -4,6 +4,7 @@
 - Casting cost: 600 Mana
 - Casting points: 600
 - Tome: Tome of the Crimson Reign
+- Granted by: [Sanguine Vampires](../world/free-cities.md) (free city)
 - DLC: THRONESOFBLOOD
 
 Transform your units as they ritually imbibe blood from an Exarch, granting them:

@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 80
 - Tome: Tome of the Tentacle
+- Granted by: [Masters of Corruption](../world/free-cities.md) (free city)
 - DLC: ELDRITCHREALMS
 - Applies to: Support Unit, Battle Mage Unit, Magic Fighter Unit
 

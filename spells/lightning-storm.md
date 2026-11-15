@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of the Stormborne
+- Granted by: [Masters of Storms](../world/free-cities.md) (free city)
 - DLC: PRIMALFURY
 
 - All units become Wet for 3 Turns

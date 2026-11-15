@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 80
 - Tome: Tome of Evocation
+- Granted by: [Initiates of Astral](../world/free-cities.md) (free city), [Masters of Storms](../world/free-cities.md) (free city)
 - DLC: Base
 - Applies to: Shield Unit, Polearm Unit, Shock Unit, Fighter Unit
 

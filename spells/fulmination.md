@@ -4,6 +4,7 @@
 - Casting cost: 10 Mana
 - Casting points: 15
 - Tome: Tome of Evocation
+- Granted by: [Masters of Storms](../world/free-cities.md) (free city)
 - DLC: Base
 
 Enemy units in a 1-hex radius:

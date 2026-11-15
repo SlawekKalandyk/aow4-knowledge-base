@@ -4,6 +4,7 @@
 - Casting cost: 100 Mana
 - Casting points: 100
 - Tome: Tome of Sanctuary
+- Granted by: [Masters of Order](../world/free-cities.md) (free city), [Masters of Prosperity](../world/free-cities.md) (free city), [Masters of the Cleansing Flame](../world/free-cities.md) (free city), [Masters of the Ethereal](../world/free-cities.md) (free city)
 - DLC: Base
 - Applies to: Shield Unit, Polearm Unit, Shock Unit, Fighter Unit, Skirmisher Unit, Magic Fighter Unit
 

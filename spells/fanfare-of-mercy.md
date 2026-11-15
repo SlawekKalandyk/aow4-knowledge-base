@@ -3,6 +3,7 @@
 - Type: [Combat] Debuff Spell
 - Casting cost: 80 Mana
 - Casting points: 35
+- Granted by: [Horn of Mercy](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Ethereal and Undead units in a 2-hex radius:

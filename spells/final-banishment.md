@@ -4,6 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 50
 - Tome: Tome of Severing
+- Granted by: [Masters of Antimagic](../world/free-cities.md) (free city)
 - DLC: EMPIRESANDASHES
 
 All non-hero corpses on the map are destroyed. For each corpse destroyed, friendly units:

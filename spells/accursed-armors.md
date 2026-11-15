@@ -4,6 +4,7 @@
 - Casting cost: 120 Mana
 - Casting points: 120
 - Tome: Tome of Calamity
+- Granted by: [Masters of Calamity](../world/free-cities.md) (free city)
 - DLC: WAYSOFWAR
 - Applies to: Shield Unit, Polearm Unit, Shock Unit, Fighter Unit, Skirmisher Unit, Magic Fighter Unit
 

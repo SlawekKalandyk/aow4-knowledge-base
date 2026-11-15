@@ -4,6 +4,7 @@
 - Casting cost: 100 Mana
 - Casting points: 40
 - Tome: Tome of Astral Convergence
+- Granted by: [Masters of Astral](../world/free-cities.md) (free city)
 - DLC: Base
 - Summons: [Astral Serpent](../units/astral-serpent.md), [Astral Siphoner](../units/astral-siphoner.md)
 

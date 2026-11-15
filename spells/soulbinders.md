@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 80
 - Tome: Tome of Souls
+- Granted by: [Followers of Shadow](../world/free-cities.md) (free city), [Masters of Necromancy](../world/free-cities.md) (free city)
 - DLC: Base
 - Applies to: Support Unit, Battle Mage Unit, Magic Fighter Unit
 

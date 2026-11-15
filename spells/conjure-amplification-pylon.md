@@ -4,6 +4,7 @@
 - Casting cost: 45 Mana
 - Casting points: 30
 - Tome: Tome of Amplification
+- Granted by: [Followers of Astral](../world/free-cities.md) (free city)
 - DLC: Base
 - Summons: [Amplification Pylon](../units/amplification-pylon.md)
 

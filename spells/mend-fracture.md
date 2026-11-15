@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 150 Mana
 - Casting points: 150
+- Granted by: [Anti Essence](../world/relics.md) (relic), [Essence Sheath](../world/relics.md) (relic), [Well Tear](../world/relics.md) (relic), [Wind Rose](../world/relics.md) (relic)
 - DLC: RISEFROMRUIN
 
 Decreases the Devouring Winds value by 220, temporarily reducing the chance of a Cataclysm.

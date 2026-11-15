@@ -3,6 +3,7 @@
 - Type: [World Map] Summon Spell
 - Casting cost: 300 Mana
 - Casting points: 300
+- Granted by: [Secret Scroll of Nimue](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 - Summons: [Colossal Penguin](../units/colossal-penguin.md)
 

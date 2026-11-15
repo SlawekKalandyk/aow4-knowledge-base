@@ -72,7 +72,6 @@
 - **Cataclysm Victory**: To achieve the Cataclysm Victory, explore the Echoes of the Fracturing searching for the Artifact of the Unmakers Lore within Fated Regions. Acquire 3 Artifact to claim victory.
 - **Cavern Floor**: A Province Feature. Rough, nearly barren rock. A Hut can be built here. Underground-adapted factions can build a Farm here instead.
 - **Champion**: Mortal Champions have access to unique army leadership hero skills. Mortal Champion Rulers gain ? Experience. Start with ? Relation with Free Cities. Mortal Champion Rulers start with the Spur to Action ability in Combat. Mortal Champions are Champion Governor.
-- **Chaos Affinity**: 
 - **Chaos Boon**: Your communion with the forces of Chaos strengthens your rule, temporarily increasing City Stability in all of your City. The strength of this effect scales up with higher Chaos Empire Affinity.
 - **Chaos Crisis**: Your struggle with the forces of Chaos weakens your rule, temporarily decreasing City Stability in all of your City. The strength of this effect scales up with higher Chaos Empire Affinity.
 - **Charge**: A Charge attack: Gains extra damage per hex traveled, up to Charge Hexes hexes. Cancels Defense Mode. Removes Retaliation. These effects are negated by Charge Resistance, unless the attack is a Heavy Melee Strike.
@@ -308,7 +307,6 @@
 - **Movement**: An ability that moves the unit using it to another location. Cannot be used by units that are Immobilized. Cannot be used when on water unless also a Teleport Ability.
 - **Myrrida**: Many myths surround the fabled kingdom of Myrrida, where Giant King Lore once ruled the small races across the Worlds Within Lore. Undeniable is the wealth and grandeur, still exhibited within its ruined monumental structures and cities. Yet there is much debate among Godir Lore about the fall of Myrrida. Some say the Giant King Lore became corrupted by their power, giving rise to the Traitor Kings Lore. Others blame Archon suppression for the destruction of a lost utopia. Certain is that the Archons Lore and their allied Elder Dragons besieged Myrrida, ending the long Age of Giants and distantly presaging the Endailon Crisis Lore. While the various Giant Clans seek to carry on the legacy of their ancient forefathers, their deeds pale beside the marveled legends of Myrrida.
 - **Mystery Bonus**: Bonus rewards can be earned through different story event choices after completion.
-- **Nature Affinity**: 
 - **Nature Boon**: Your communion with the forces of Nature strengthens your rule, temporarily increasing City Stability in all of your City. The strength of this effect scales up with higher Nature Empire Affinity.
 - **Nature Crisis**: Your struggle with the forces of Nature weakens your rule, temporarily decreasing City Stability in all of your City. The strength of this effect scales up with higher Nature Empire Affinity.
 - **Negative Status Effect**: A negative status effect is a temporary condition that weakens a unit in some way. They are often applied by > and Debuff abilities. Examples include: Sundered Resistance; Poisoned; Dominated; Decaying. All cultures have a unit ability or spell that can remove negative status effects. Additionally, some negative status effects have counters—for example, Poisoned can be removed by applying Regeneration.
@@ -330,7 +328,6 @@
 - **One Handed Weapon**: These are smaller melee weapons such as swords, maces, and daggers. They leave the left hand free to use a shield. Usable by: Hero Class Defender; Hero Class Warrior
 - **Open Borders**: Both Leader open their borders to each other. This allows Army to move through Province of the opposing Ruler without trespassing.
 - **Opportunity Attack**: Opportunity Attacks are a special type of Retaliation that are triggered when an enemy unit leaves the Zone Of Control.
-- **Order Affinity**: 
 - **Order Boon**: Your communion with the forces of Order strengthens your rule, temporarily increasing City Stability in all of your cities. The strength of this effect scales up with higher Order Empire Affinity.
 - **Order Crisis**: Your struggle with the forces of Order weakens your rule, temporarily decreasing City Stability in all of your City. The strength of this effect scales up with higher Order Empire Affinity.
 - **Outnumbered**: A unit is outnumbered if the number of units on the opposing side is greater than the number of units on their own side.
@@ -402,7 +399,6 @@
 - **Scout Prospecting**: When Industrious Scout Unit stand within a friendly or neutral Province that contains a Cliff, Mountain or Stalagmite, the player that owns the Scout Unit can prospect the Province for Structure Production or Gold rewards. Each Province can only be prospected once.
 - **Sensing Range**: Sensing Range is the number of hexes within which the presence of Unit can be detected in the Fog Of War.
 - **Shad'rai**: A group of ambitious Godir Lore who formed a volatile cabal in order to claim power within the Pantheon Lore and the Astral Sea Lore. They believe no power should be hidden from anyone and are known for their schemes and invasions of realms they deem worthy of their domination. Their chaotic tendencies often put them in direct opposition to the Covenant Faction Lore.
-- **Shadow Affinity**: 
 - **Shadow Boon**: Your communion with the forces of Shadow strengthens your rule, temporarily increasing City Stability in all of your City. The strength of this effect scales up with higher Shadow Empire Affinity.
 - **Share Vision**: Both Leader share their Vision with each other and will reveal explored areas to each other.
 - **Shield**: Shields are defensive weapons that can be wielded with One Handed Weapon weapons. They grant the hero Shield Wall. Usable by: Hero Class Defender; Hero Class Warrior; Hero Class Death Knight; Hero Class Spellblade

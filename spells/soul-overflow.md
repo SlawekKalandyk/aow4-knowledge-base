@@ -4,6 +4,7 @@
 - Casting cost: 15 Souls
 - Casting points: 20
 - Tome: Tome of Souls
+- Granted by: [Followers of Shadow](../world/free-cities.md) (free city), [Masters of Necromancy](../world/free-cities.md) (free city)
 - DLC: Base
 
 Friendly units in a 1-hex radius:

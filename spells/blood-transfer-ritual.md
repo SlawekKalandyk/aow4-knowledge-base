@@ -3,6 +3,7 @@
 - Type: [World Map] Friendly Army Spell
 - Casting cost: 2 Thralls
 - Casting points: 80
+- Granted by: [Elder Vampire](../rulers.md) (ruler origin)
 - DLC: THRONESOFBLOOD
 
 In target friendly army:

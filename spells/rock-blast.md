@@ -4,6 +4,7 @@
 - Casting cost: 10 Mana
 - Casting points: 15
 - Tome: Tome of Rock
+- Granted by: [Initiates of Materium](../world/free-cities.md) (free city), [Masters of Creation](../world/free-cities.md) (free city)
 - DLC: Base
 
 Target enemy unit:

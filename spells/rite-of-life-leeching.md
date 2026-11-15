@@ -4,6 +4,7 @@
 - Casting cost: 15 Mana
 - Casting points: 20
 - Tome: Tome of the Blood Rite
+- Granted by: [Sanguine Vampires](../world/free-cities.md) (free city)
 - DLC: THRONESOFBLOOD
 
 Target friendly unit sustains 5 unblockable Physical Damage. Then all adjacent friendly units gain:

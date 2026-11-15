@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 45 Mana
 - Casting points: 45
+- Granted by: [Secret Scroll of Noctus](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Target friendly city is destroyed. Then for each population of the destroyed city:

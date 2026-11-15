@@ -3,6 +3,7 @@
 - Type: [World Map] Summon Spell
 - Casting cost: 300 Mana
 - Casting points: 300
+- Granted by: [Secret Scroll of Thulyana](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 - Summons: [Abominable Mistling](../units/abominable-mistling.md)
 

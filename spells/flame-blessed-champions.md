@@ -4,6 +4,7 @@
 - Casting cost: 160 Mana
 - Casting points: 160
 - Tome: Tome of the Cleansing Flame
+- Granted by: [Masters of the Cleansing Flame](../world/free-cities.md) (free city)
 - DLC: ELDRITCHREALMS
 - Applies to: Shield Unit, Polearm Unit, Shock Unit, Fighter Unit
 

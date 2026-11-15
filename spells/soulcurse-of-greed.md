@@ -3,6 +3,7 @@
 - Type: [World Map] Enemy Army Spell
 - Casting cost: 80 Mana
 - Casting points: 80
+- Granted by: [Soulcursed Grail](../world/relics.md) (relic)
 - DLC: GIANTKINGS
 
 Target enemy army:

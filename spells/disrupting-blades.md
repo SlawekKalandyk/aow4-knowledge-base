@@ -4,6 +4,7 @@
 - Casting cost: 180 Mana
 - Casting points: 180
 - Tome: Tome of Severing
+- Granted by: [Masters of Antimagic](../world/free-cities.md) (free city)
 - DLC: EMPIRESANDASHES
 - Applies to: Shield Unit, Polearm Unit, Shock Unit, Fighter Unit
 

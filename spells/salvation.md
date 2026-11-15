@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of Sanctuary
+- Granted by: [Masters of Order](../world/free-cities.md) (free city)
 - DLC: Base
 
 Target friendly unit:

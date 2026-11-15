@@ -3,6 +3,7 @@
 - Type: [World Map] City Spell
 - Casting cost: 30 Mana
 - Casting points: 30
+- Granted by: [Eldritch Sovereign](../rulers.md) (ruler origin)
 - DLC: ELDRITCHREALMS
 
 - Target owned or vassal city loses 1 Population.

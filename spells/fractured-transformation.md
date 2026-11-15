@@ -3,6 +3,7 @@
 - Type: [World Map] Major Race Transformation
 - Casting cost: 600 Mana
 - Casting points: 600
+- Granted by: [Anti Essence](../world/relics.md) (relic)
 - DLC: RISEFROMRUIN
 
 Target race becomes fractured:

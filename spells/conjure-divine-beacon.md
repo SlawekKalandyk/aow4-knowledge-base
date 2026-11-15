@@ -4,6 +4,7 @@
 - Casting cost: 30 Mana
 - Casting points: 25
 - Tome: Tome of the Beacon
+- Granted by: [Followers of Order](../world/free-cities.md) (free city)
 - DLC: Base
 - Summons: [Divine Beacon](../units/divine-beacon.md)
 

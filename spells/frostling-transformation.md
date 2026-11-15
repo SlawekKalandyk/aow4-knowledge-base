@@ -4,6 +4,7 @@
 - Casting cost: 350 Mana
 - Casting points: 350
 - Tome: Tome of the Cold Dark
+- Granted by: [Masters of Shadow](../world/free-cities.md) (free city)
 - DLC: Base
 
 Makes winter run through the target race's veins, granting them:

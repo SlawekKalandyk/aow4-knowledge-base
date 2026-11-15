@@ -4,6 +4,7 @@
 - Casting cost: 250 Mana
 - Casting points: 250
 - Tome: Tome of the Doomherald
+- Granted by: [Dreadful Vampires](../world/free-cities.md) (free city), [Followers of Shadow](../world/free-cities.md) (free city), [Masters of Shadow](../world/free-cities.md) (free city)
 - DLC: Base
 
 Target race becomes a living morale siphon, gaining:

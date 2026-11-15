@@ -4,6 +4,7 @@
 - Casting cost: 250 Mana
 - Casting points: 250
 - Tome: Tome of Revelry
+- Granted by: [Followers of Chaos](../world/free-cities.md) (free city), [Masters of Demons](../world/free-cities.md) (free city)
 - DLC: Base
 
 Overwhelms the target race with an intense fervor, granting them:

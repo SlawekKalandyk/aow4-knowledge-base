@@ -3,6 +3,7 @@
 - Type: [Combat] Combat Summon Spell
 - Casting cost: 200 Mana
 - Casting points: 65
+- Granted by: [Secret Scroll of Frikka](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Target non-Hero enemy unit is revealed to be a Mirror Mimic spy on your side.

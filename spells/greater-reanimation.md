@@ -4,6 +4,7 @@
 - Casting cost: 35 Souls
 - Casting points: 40
 - Tome: Tome of the Reaper
+- Granted by: [Masters of Necromancy](../world/free-cities.md) (free city), [Masters of Shadow](../world/free-cities.md) (free city)
 - DLC: Base
 
 Resurrects target non-Hero unit:

@@ -4,6 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 150
 - Tome: Tome of Warding
+- Granted by: [Masters of Antimagic](../world/free-cities.md) (free city), [Masters of Corruption](../world/free-cities.md) (free city)
 - DLC: Base
 
 Inscribes magical wards onto the target race, granting:

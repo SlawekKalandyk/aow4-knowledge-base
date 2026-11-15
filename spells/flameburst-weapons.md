@@ -4,6 +4,7 @@
 - Casting cost: 160 Mana
 - Casting points: 160
 - Tome: Tome of Devastation
+- Granted by: [Masters of Chaos](../world/free-cities.md) (free city), [Masters of Demons](../world/free-cities.md) (free city)
 - DLC: Base
 - Applies to: Shield Unit, Ranged Unit, Polearm Unit, Shock Unit, Fighter Unit, Skirmisher Unit, Magic Fighter Unit
 

@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 100 Mana
 - Casting points: 100
+- Granted by: [Secret Scroll of Artica](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Up to 40 random Provinces gain an Ice Age Hazard. At the start of the next turn, those hazards expire and:

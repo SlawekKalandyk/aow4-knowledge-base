@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 200 Mana
 - Casting points: 200
+- Granted by: [Secret Scroll of Zaethyl](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 
 All Provinces:

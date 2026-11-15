@@ -4,6 +4,7 @@
 - Casting cost: 45 Mana
 - Casting points: 30
 - Tome: Tome of Terramancy
+- Granted by: [Masters of Creation](../world/free-cities.md) (free city), [Masters of Materium](../world/free-cities.md) (free city)
 - DLC: Base
 
 Target enemy unit:

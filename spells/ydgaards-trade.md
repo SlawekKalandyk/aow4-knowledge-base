@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 45 Mana
 - Casting points: 45
+- Granted by: [Secret Scroll of Ydgaard](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Heroes in target army:

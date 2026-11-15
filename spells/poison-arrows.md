@@ -4,6 +4,7 @@
 - Casting cost: 90 Mana
 - Casting points: 90
 - Tome: Tome of Roots
+- Granted by: [Initiates of Nature](../world/free-cities.md) (free city), [Masters of Flora](../world/free-cities.md) (free city)
 - DLC: Base
 - Applies to: Ranged Unit, Skirmisher Unit
 

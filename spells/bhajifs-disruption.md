@@ -3,6 +3,7 @@
 - Type: [Combat] Debuff Spell
 - Casting cost: 80 Mana
 - Casting points: 35
+- Granted by: [Secret Scroll of Bhajif](../world/relics.md) (relic)
 - DLC: SECRETSOFTHEARCHMAGES
 
 - Enemies in a 1-hex radius:

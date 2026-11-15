@@ -4,6 +4,7 @@
 - Casting cost: 600 Mana
 - Casting points: 600
 - Tome: Tome of the Demon Gate
+- Granted by: [Masters of Chaos](../world/free-cities.md) (free city)
 - DLC: Base
 
 Turns the target race into demonic beings, which grants them:

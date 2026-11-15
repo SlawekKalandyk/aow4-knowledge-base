@@ -4,6 +4,7 @@
 - Casting cost: 100 Mana
 - Casting points: 40
 - Tome: Tome of Pandemonium
+- Granted by: [Followers of Chaos](../world/free-cities.md) (free city), [Masters of Demons](../world/free-cities.md) (free city)
 - DLC: Base
 
 Target Unit has:

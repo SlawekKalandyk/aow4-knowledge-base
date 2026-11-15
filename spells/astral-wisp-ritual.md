@@ -3,6 +3,7 @@
 - Type: [World Map] Summon Spell
 - Casting cost: 1 Thralls
 - Casting points: 45
+- Granted by: [Eldritch Sovereign](../rulers.md) (ruler origin)
 - DLC: ELDRITCHREALMS
 - Summons: [Astral Wisp](../units/astral-wisp.md)
 

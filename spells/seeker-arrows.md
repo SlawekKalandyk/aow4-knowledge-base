@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 80
 - Tome: Tome of Winds
+- Granted by: [Initiates of Materium](../world/free-cities.md) (free city)
 - DLC: Base
 - Applies to: Ranged Unit, Skirmisher Unit
 

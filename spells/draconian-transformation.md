@@ -4,6 +4,7 @@
 - Casting cost: 600 Mana
 - Casting points: 600
 - Tome: Tome of Dragons
+- Granted by: [Followers of the Dragon](../world/free-cities.md) (free city)
 - DLC: DRAGONLORDS
 
 Turn target race into Draconians, which grants them:

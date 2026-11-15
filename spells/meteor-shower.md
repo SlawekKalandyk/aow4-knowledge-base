@@ -4,6 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 50
 - Tome: Tome of the Crucible
+- Granted by: [Masters of Creation](../world/free-cities.md) (free city), [Masters of Materium](../world/free-cities.md) (free city)
 - DLC: Base
 
 Up to 2 random enemy units and enemies adjacent to those:

@@ -4,6 +4,7 @@
 - Casting cost: 600 Mana
 - Casting points: 600
 - Tome: Tome of the Stormborne
+- Granted by: [Masters of Storms](../world/free-cities.md) (free city)
 - DLC: PRIMALFURY
 
 Target race gains the body of a Naga, granting:

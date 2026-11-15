@@ -4,6 +4,7 @@
 - Casting cost: 100 Mana
 - Casting points: 40
 - Tome: Tome of Nature's Wrath
+- Granted by: [Masters of Beasts](../world/free-cities.md) (free city), [Masters of Nature](../world/free-cities.md) (free city)
 - DLC: Base
 
 Target non-Hero enemy:

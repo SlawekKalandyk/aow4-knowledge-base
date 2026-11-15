@@ -529,7 +529,13 @@ def unit_link(uid, frm):
     return uid
 
 
-def spell_link(sid, frm):
+SPELL_SOURCES = defaultdict(list)  # spell id -> links (relative to spells/) of the non-tome pages that grant it
+
+
+def spell_link(sid, frm, source=None):
+    """Markdown link to a spell; `source` (a link from spells/ to the page granting it) is listed on the spell page."""
+    if source and sid in spell_groups and source not in SPELL_SOURCES[sid]:
+        SPELL_SOURCES[sid].append(source)
     if sid in spell_groups:
         return f"[{spell_groups[sid][0]['name']}]({frm}spells/{slug(sid)}.md)"
     return sid
@@ -600,9 +606,10 @@ def build_tomes():
                 spell = spell_groups.get(sk["spell_slug"])
                 if spell and spell[0].get("description"):
                     desc = spell[0]["description"]
-            lines.append(f"- {name} ({kind}): {bullets(desc)}")
+            lines.append(f"- {name}{f' ({kind})' if kind else ''}: {bullets(desc)}")
         for p in t.get("passives", []):
-            lines.append(f"- {clean(p['name'])} ({one_line(p.get('type'))}): {bullets(p.get('description'))}")
+            kind = one_line(p.get("type"))  # blank for some culture passives (Ritual of Alacrity, the Primal Dens)
+            lines.append(f"- {clean(p['name'])}{f' ({kind})' if kind else ''}: {bullets(p.get('description'))}")
         for u in t.get("initial_upgrades", []):
             s = structure_by_id.get(u.get("upgrade_slug"))
             if s:
@@ -663,7 +670,8 @@ def build_traits():
                 lines.append("- Earned when: " + join_items(one_line(e.get("entry")) for e in trig.get("trigger", [])))
             granted = origin_spells.get(name) or origin_spells.get(t.get("id"))
             if granted:
-                lines.append("- Grants spells: " + ", ".join(spell_link(s["id"], "../../") for s in granted.get("spell", [])))
+                src = f"[{name}](../traits/{typ}/{fname}) ({typ} trait)"
+                lines.append("- Grants spells: " + ", ".join(spell_link(s["id"], "../../", src) for s in granted.get("spell", [])))
             lines += ["", "## Effects", ""] + [f"- {e}" for e in effects]
             sb = names(t.get("starting_bonuses"))
             if sb:
@@ -820,7 +828,8 @@ def build_rulers():
     for r in (x for x in faction if x["type"] == "Ruler Origin"):
         lines += [f"### {r['name']}", "", f"DLC: {dlc(r)}", ""]
         if origin_spells.get(r.get("id")):
-            lines += ["Origin spells: " + ", ".join(spell_link(s["id"], "") for s in origin_spells[r["id"]]["spell"]), ""]
+            src = f"[{r['name']}](../rulers.md) (ruler origin)"
+            lines += ["Origin spells: " + ", ".join(spell_link(s["id"], "", src) for s in origin_spells[r["id"]]["spell"]), ""]
         lines += ["\n\n".join(loc_text(r.get("extraLookup"), "description_short", "description")), ""]
     lines += ["## Ruler subtypes", ""]
     for s in (x for x in faction if x["type"] == "SubType"):
@@ -844,7 +853,7 @@ def combat_enchantment_line(c):
 def build_world():
     lines = ["# Relics", ""]
     for r in sorted(relics, key=lambda r: r["name"]):
-        sp = [spell_link(s["id"], "../") for s in r.get("spell", [])]
+        sp = [spell_link(s["id"], "../", f"[{clean(r['name'])}](../world/relics.md) (relic)") for s in r.get("spell", [])]
         un = [unit_link(x["id"], "../") for x in r.get("unit_unlock", []) if isinstance(x, dict) and x.get("id")]
         lines += [f"## {r['name']}", "", f"DLC: {dlc(r)}" + (f" | Spells: {', '.join(sp)}" if sp else "")
                   + (f" | Units: {', '.join(un)}" if un else ""), ""]
@@ -862,7 +871,8 @@ def build_world():
                     if kind == "units":
                         items = [unit_link(u, "../") for u in slug_list(val)]
                     elif kind == "spells":
-                        items = [spell_link(s, "../") for s in slug_list(val)]
+                        src = f"[{clean(rec.get('name')) or f['id']}](../world/free-cities.md) (free city)"
+                        items = [spell_link(s, "../", src) for s in slug_list(val)]
                     else:
                         items = [v.replace("_", " ") for v in slug_list(val)]
                     lines.append(f"- {label} – {kind}: {', '.join(items)}")
@@ -883,7 +893,8 @@ def build_world():
         for key in ("spell_unlocks", "spell_rewards"):
             val = w.get(key)
             if isinstance(val, list):
-                sp += [spell_link(s["id"], "../") for s in val if isinstance(s, dict) and s.get("id")]
+                src = f"[{clean(w['name'])}](../world/world-structures.md) (world structure)"
+                sp += [spell_link(s["id"], "../", src) for s in val if isinstance(s, dict) and s.get("id")]
             elif isinstance(val, str):  # a combat property, described in the localization
                 rec = loc.get(val, {})
                 sp.append(f"{clean(rec.get('name')) or val}: {one_line(rec.get('description'))}")
@@ -926,6 +937,8 @@ def build_spells():
             lines.append(f"- Casting points: {s['operation_point_cost']}")
         if tome:
             lines.append(f"- Tome: {tome}")
+        if SPELL_SOURCES.get(sid):
+            lines.append(f"- Granted by: {', '.join(SPELL_SOURCES[sid])}")
         lines.append(f"- DLC: {dlc(s)}")
         req = names(s.get("enchantment_requisites"))
         if req:
@@ -1119,7 +1132,8 @@ def build_empire():
         if s.get("needs_research_to_unlock"):
             by = siege_tomes.get(s.get("id"))
             unlock = "unlocked by " + ", ".join(tome_ref(t) for t in by) if by else "needs research"
-        lines.append(f"- **{clean(s['name'])}** (cost {one_line(s.get('cost'))}, fortification damage {s.get('siege_health_damage')}, "
+        cost = one_line(s.get("cost")) or "not in the data"
+        lines.append(f"- **{clean(s['name'])}** (cost {cost}, fortification damage {s.get('siege_health_damage')}, "
                      f"{unlock}, DLC {dlc(s)}): {one_line(s.get('description'))}")
     write(KB / "empire" / "siege-projects.md", "\n".join(lines))
 
@@ -1149,7 +1163,7 @@ def build_empire():
 def build_glossary():
     lines = ["# Glossary (in-game concept tooltips)", ""]
     for c in sorted(concepts.values(), key=lambda c: c.get("name") or ""):
-        if c.get("name"):
+        if c.get("name") and one_line(c.get("description")):  # Chaos/Nature/Order/Shadow Affinity have no text
             lines.append(f"- **{clean(c['name'])}**: {one_line(c.get('description'))}")
     write(KB / "glossary.md", "\n".join(lines))
 

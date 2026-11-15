@@ -4,6 +4,7 @@
 - Casting cost: 350 Mana
 - Casting points: 350
 - Tome: Tome of Vigor
+- Granted by: [Masters of Beasts](../world/free-cities.md) (free city), [Masters of Flora](../world/free-cities.md) (free city), [Masters of Nature](../world/free-cities.md) (free city)
 - DLC: Base
 
 Makes the target race grow in mass and stature, granting them:

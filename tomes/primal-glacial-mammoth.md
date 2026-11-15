@@ -18,7 +18,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Heals 15 Temporary Hit Points.
   - If Fury of the Tunneling Spider is active, heal twice the amount.
-- Glacial Mammoth Den (): Can see Glacial Mammoth Den nodes which when annexed to a city:
+- Glacial Mammoth Den: Can see Glacial Mammoth Den nodes which when annexed to a city:
   
   - Grant +15 City Stability.
   - Allow a Glacial Mammoth Temple to be built.

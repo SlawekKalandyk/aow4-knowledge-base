@@ -3,6 +3,7 @@
 - Type: [Combat] Damage/Debuff Spell
 - Casting cost: 45 Mana
 - Casting points: 30
+- Granted by: [Well Tear](../world/relics.md) (relic)
 - DLC: RISEFROMRUIN
 
 ## Variant 1 of 2 (cost 45 Mana)

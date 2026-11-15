@@ -21,7 +21,7 @@ This research is available to rulers with the High culture. They specialize in b
   - Dormant: Seeking Arrows if a Ranged Unit or Skirmisher Unit.
   - Dormant: Radiant Light if a Battle Mage Unit or Magic Fighter Unit.
   - The Awaken ability and Dormant: Radiant Light if a Support Unit.
-- Alignment Agenda (): The High Culture has an Alignment Agenda, which grants bonuses for the following alignment levels:
+- Alignment Agenda: The High Culture has an Alignment Agenda, which grants bonuses for the following alignment levels:
   
   - Pure Good: 25 City Stability in all Cities.
   - Neutral: 10 Food and 10 Production per City Stability level above Neutral in all Cities.

@@ -4,6 +4,7 @@
 - Casting cost: 20 Mana
 - Casting points: 25
 - Tome: Tome of Corruption
+- Granted by: [Masters of Corruption](../world/free-cities.md) (free city)
 - DLC: ELDRITCHREALMS
 
 Target enemy unit:

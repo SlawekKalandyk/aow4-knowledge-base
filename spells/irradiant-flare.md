@@ -3,6 +3,7 @@
 - Type: [World Map] Enemy Army Spell
 - Casting cost: 80 Mana
 - Casting points: 80
+- Granted by: [Well Tear](../world/relics.md) (relic)
 - DLC: RISEFROMRUIN
 
 Target army:

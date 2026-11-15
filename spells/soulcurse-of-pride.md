@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 100 Mana
 - Casting points: 100
+- Granted by: [Soulcursed Mirror](../world/relics.md) (relic)
 - DLC: GIANTKINGS
 
 Target enemy City:

@@ -20,5 +20,5 @@ This research is available to rulers with the Mystic culture. They specialize in
   - During combat in this province friendly [Combat] Combat Summon Spells are 20% cheaper to cast.
 - [Conjure Astral Ward](../spells/conjure-astral-ward.md) ([Combat] Combat Summon Spell): Summon an Immobile Astral Ward.
   This summon lasts for 3 Turns.
-- Astral Echoes (): Mysterious whispers of the Astral Sea, only visible to and collectible by Mystics.
+- Astral Echoes: Mysterious whispers of the Astral Sea, only visible to and collectible by Mystics.
 - Astral Manalith (Initial City Upgrade): +10 Mana income. +5 Mana per adjacent Conduit or Research Post. Counts as a Conduit.

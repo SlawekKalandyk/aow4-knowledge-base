@@ -4,6 +4,7 @@
 - Casting cost: 100 Mana
 - Casting points: 40
 - Tome: Tome of Prosperity
+- Granted by: [Masters of Prosperity](../world/free-cities.md) (free city)
 - DLC: WAYSOFWAR
 
 Friendly units in a 2-hex radius gain:

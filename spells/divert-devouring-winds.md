@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 100 Mana
 - Casting points: 100
+- Granted by: [Wind Rose](../world/relics.md) (relic)
 - DLC: RISEFROMRUIN
 
 Target Province that is marked to be struck by a Cataclysm loses its mark and will not be struck next Cataclysm.

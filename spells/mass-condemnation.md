@@ -4,6 +4,7 @@
 - Casting cost: 15 Mana
 - Casting points: 20
 - Tome: Tome of the Inquisition
+- Granted by: [Followers of Order](../world/free-cities.md) (free city), [Masters of the Cleansing Flame](../world/free-cities.md) (free city)
 - DLC: Base
 
 Enemies in a 1-hex radius:

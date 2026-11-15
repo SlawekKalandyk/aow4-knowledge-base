@@ -3,6 +3,7 @@
 - Type: [Combat] Debuff Spell
 - Casting cost: 100 Mana
 - Casting points: 40
+- Granted by: [Chained Demon](../world/world-structures.md) (world structure)
 - DLC: SECRETSOFTHEARCHMAGES
 
 Target enemy Unit:

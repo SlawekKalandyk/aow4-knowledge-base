@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of the Dreadnought
+- Granted by: [Masters of Constructs](../world/free-cities.md) (free city)
 - DLC: EMPIRESANDASHES
 
 Units in a 2-hex radius:

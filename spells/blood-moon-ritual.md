@@ -3,6 +3,7 @@
 - Type: [World Map] World Spell
 - Casting cost: 12 Thralls
 - Casting points: 300
+- Granted by: [Elder Vampire](../rulers.md) (ruler origin)
 - DLC: THRONESOFBLOOD
 
 For the next 10 World Map Turns Vampires:

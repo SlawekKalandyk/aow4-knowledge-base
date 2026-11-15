@@ -18,7 +18,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Heals 15 Temporary Hit Points.
   - If Fury of the Tunneling Spider is active, heal twice the amount.
-- Tunneling Spider Den (): Can see Tunneling Spider Den nodes which when annexed to a city:
+- Tunneling Spider Den: Can see Tunneling Spider Den nodes which when annexed to a city:
   
   - Grant +15 City Stability.
   - Allow a Tunneling Spider Temple to be built.

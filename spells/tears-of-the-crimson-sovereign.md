@@ -4,6 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of the Crimson Reign
+- Granted by: [Sanguine Vampires](../world/free-cities.md) (free city)
 - DLC: THRONESOFBLOOD
 
 When cast and for the next 2 Turns:

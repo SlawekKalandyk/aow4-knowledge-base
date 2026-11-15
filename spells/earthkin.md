@@ -4,6 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 150
 - Tome: Tome of Rock
+- Granted by: [Masters of Creation](../world/free-cities.md) (free city), [Masters of Materium](../world/free-cities.md) (free city)
 - DLC: Base
 
 Makes rock growths develop on the target race, granting them:

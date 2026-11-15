@@ -3,6 +3,7 @@
 - Type: [World Map] Terraforming Spell
 - Casting cost: 6 Thralls
 - Casting points: 220
+- Granted by: [Elder Vampire](../rulers.md) (ruler origin)
 - DLC: THRONESOFBLOOD
 
 Target and adjacent surface Provinces:

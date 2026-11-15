@@ -4,6 +4,7 @@
 - Casting cost: 30 Mana
 - Casting points: 25
 - Tome: Tome of Shades
+- Granted by: [Masters of Calamity](../world/free-cities.md) (free city)
 - DLC: WAYSOFWAR
 
 Enemy units in a 1-hex radius:

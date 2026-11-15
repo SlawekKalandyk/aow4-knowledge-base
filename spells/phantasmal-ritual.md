@@ -3,6 +3,7 @@
 - Type: [World Map] Enemy Army Spell
 - Casting cost: 3 Thralls
 - Casting points: 100
+- Granted by: [Eldritch Sovereign](../rulers.md) (ruler origin)
 - DLC: ELDRITCHREALMS
 
 Target enemy army:

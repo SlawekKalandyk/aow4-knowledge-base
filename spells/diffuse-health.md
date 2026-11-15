@@ -4,6 +4,7 @@
 - Casting cost: 45 Mana
 - Casting points: 30
 - Tome: Tome of Cycles
+- Granted by: [Masters of Flora](../world/free-cities.md) (free city), [Masters of Nature](../world/free-cities.md) (free city)
 - DLC: Base
 
 Target enemy unit:

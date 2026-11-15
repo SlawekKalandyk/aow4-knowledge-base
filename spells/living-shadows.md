@@ -4,6 +4,7 @@
 - Casting cost: 250 Mana
 - Casting points: 250
 - Tome: Tome of Shades
+- Granted by: [Masters of Calamity](../world/free-cities.md) (free city)
 - DLC: WAYSOFWAR
 
 Wreathes target race in swirling shadows, granting them:

@@ -18,7 +18,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Heals 15 Temporary Hit Points.
   - If Fury of the Tunneling Spider is active, heal twice the amount.
-- Dune Serpent Den (): Can see Dune Serpent Den nodes which when annexed to a city:
+- Dune Serpent Den: Can see Dune Serpent Den nodes which when annexed to a city:
   
   - Grant +15 City Stability.
   - Allow a Dune Serpent Temple to be built.

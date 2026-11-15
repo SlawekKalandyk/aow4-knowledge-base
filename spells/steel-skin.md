@@ -4,6 +4,7 @@
 - Casting cost: 350 Mana
 - Casting points: 350
 - Tome: Tome of Transmutation
+- Granted by: [Followers of Alchemy](../world/free-cities.md) (free city), [Masters of Constructs](../world/free-cities.md) (free city), [Masters of Materium](../world/free-cities.md) (free city)
 - DLC: Base
 
 Transmutes the target race's skin into steel, granting them:

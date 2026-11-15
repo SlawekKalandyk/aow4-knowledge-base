@@ -18,7 +18,7 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Heals 15 Temporary Hit Points.
   - If Fury of the Tunneling Spider is active, heal twice the amount.
-- Ash Sabertooth Den (): Can see Ash Sabertooth Den nodes which when annexed to a city:
+- Ash Sabertooth Den: Can see Ash Sabertooth Den nodes which when annexed to a city:
   
   - Grant +15 City Stability.
   - Allow an Ash Sabertooth Temple to be built.

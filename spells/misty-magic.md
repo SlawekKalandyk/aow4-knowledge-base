@@ -3,6 +3,7 @@
 - Type: [Combat] Buff/Debuff Spell
 - Casting cost: 60 Mana
 - Casting points: 60
+- Granted by: [Hidden Wellspring](../world/world-structures.md) (world structure)
 - DLC: Base
 
 Obscuring Mist covers the battlefield for 3 Turns, giving your units standing in the mist +1 Resistance and enemy units become Distracted.

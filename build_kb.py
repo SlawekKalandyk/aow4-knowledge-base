@@ -893,7 +893,9 @@ def build_heroes():
     classes = {c["name"]: c for c in faction if c["type"] == "Class"}
     groups = defaultdict(list)
     for h in hero_skills:
-        if clean(h["name"]):  # nameless records are internal tree nodes (e.g. base_dragon_astral)
+        # Nameless records are internal tree nodes (e.g. base_dragon_astral); the game's "Invalid Hero Skills"
+        # group holds retired skills (ids end in _invalid, _disabled, _inactive, ...) that no live skill links to.
+        if clean(h["name"]) and clean(h.get("group_name")) != "Invalid Hero Skills":
             groups[skill_group(h, tree_of_group)].append(h)
     idx = []
     for g, items in sorted(groups.items()):
@@ -934,7 +936,8 @@ def build_heroes():
 
     slots = defaultdict(list)
     for it in hero_items:
-        slots[it.get("slot") or "Other"].append(it)
+        if not it.get("id", "").endswith("_disabled"):  # retired item (a jagged Greataxe base)
+            slots[it.get("slot") or "Other"].append(it)
     for slot_, items in sorted(slots.items()):
         f = f"items-{slug(slot_)}.md"
         idx.append(f"- [{slot_} items]({f}) ({len(items)} items)")
@@ -977,7 +980,8 @@ def build_heroes():
 
 def build_empire():
     lines = ["# Empire progression (empire skills)", ""]
-    for cat in sorted({p.get("category", "") for p in progression}):
+    # Records without a category are the skill-tree category headers themselves (General, Astral Affinity, ...).
+    for cat in sorted({p["category"] for p in progression if p.get("category")}):
         lines += [f"## {cat}", ""]
         for p in sorted((p for p in progression if p.get("category", "") == cat), key=lambda p: (p.get("required_level", 0), p["name"])):
             req = [f"level {p['required_level']}" if p.get("required_level") else "",

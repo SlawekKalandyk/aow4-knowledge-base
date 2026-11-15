@@ -1,15 +1,5 @@
 # Empire progression (empire skills)
 
-## 
-
-- **Astral Affinity** (): 
-- **Chaos Affinity** (): 
-- **General** (): 
-- **Materium Affinity** (): 
-- **Nature Affinity** (): 
-- **Order Affinity** (): 
-- **Shadow Affinity** (): 
-
 ## Astral Empire Skill
 
 - **Mana Infrastructure** (level 1, cost 100 Imperium): Mana City Structures cost -25% Gold and Production.

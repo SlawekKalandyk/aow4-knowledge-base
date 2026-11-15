@@ -42,7 +42,6 @@
 | [Blessed Dragon Mounts](blessed-dragon-mounts.md) | 3 | Mounts |  | WAYSOFWAR | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Blessed Dragon mount. |
 | [Celestial Griffon Mounts](celestial-griffon-mounts.md) | 3 | Mounts |  | ARCHONPROPHECY | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Celestial Griffon Mount. |
 | [Eagle Mounts](eagle-mounts.md) | 3 | Mounts |  | Base | Gain Flying movement.; Additional units become Cavalry; Ruler starts with an Eagle mount. |
-| [Fractured Eagle Mount](fractured-eagle-mount.md) | 3 | Mounts |  | Base | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Fractured Eagle mount. |
 | [Griffon Mounts](griffon-mounts.md) | 3 | Mounts |  | ARCHONPROPHECY | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Griffon Mount. |
 | [Hoarfrost Manta Mounts](hoarfrost-manta-mounts.md) | 3 | Mounts |  | SILVERSEAS | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Hoarfrost Manta mount. |
 | [Pegasus Mounts](pegasus-mounts.md) | 3 | Mounts |  | HERALDOFGLORY | Gain Flying movement.; Additional units become Cavalry; Ruler starts with a Pegasus mount |
@@ -54,7 +53,6 @@
 | [Elephant Mounts](elephant-mounts.md) | 2 | Mounts |  | PRIMALFURY | +15 Hit Points.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with an Elephant Mount. |
 | [Graceful Judge Mounts](graceful-judge-mounts.md) | 2 | Mounts |  | WAYSOFWAR | +5 Hit Points.; Gain the Touch of Grace ability.; Additional units become Cavalry; Ruler starts with a Graceful Judge mount. |
 | [Infernal Juggernaut Mounts](infernal-juggernaut-mounts.md) | 2 | Mounts |  | PRIMALFURY | +10 Hit Points.; +4 Fire Protection.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with an Infernal Juggernaut mount. |
-| [Inferno Hound Mounts](inferno-hound-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; +4 Fire Protection.; Gains the Pack Hunter passive ability.; Additional units become Cavalry; Ruler starts with an Inferno Hound mount |
 | [Mammoth Mounts](mammoth-mounts.md) | 2 | Mounts |  | PRIMALFURY | +10 Hit Points.; +4 Frost Protection.; Gain the Juggernaut ability.; Gains Large Target.; Additional units become Cavalry; Ruler starts with a Mammoth mount. |
 | [Nightmare Mounts](nightmare-mounts.md) | 2 | Mounts |  | Base | +5 Hit Points.; Gains the Intimidating Aura ability.; Gains the Vicious Killer ability.; Gains the Lava Walk ability.; Additional units become Cavalry; Ruler starts with a Nightmare mount |
 | [Seamare Mounts](seamare-mounts.md) | 2 | Mounts |  | SILVERSEAS | Gain Amphibious movement.; Grants the Slippery passive ability.; +2 Lightning Protection.; +2 Blight Protection.; Additional units become Cavalry; Ruler starts with a Seamare Mount. |

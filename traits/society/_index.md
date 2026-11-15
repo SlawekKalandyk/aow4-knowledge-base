@@ -2,15 +2,6 @@
 
 | Trait | Cost | Group | Affinity | DLC | Effects |
 |---|---|---|---|---|---|
-| [Cannibals](cannibals.md) | 0 |  | Order -1 | Base |  |
-| [Chosen](chosen.md) | 0 |  | Order 1 | Base |  |
-| [Doomed](doomed.md) | 1 |  | Chaos 1 | Base |  |
-| [Lucky Ones](lucky-ones.md) | 1 |  | Chaos 1 | Base |  |
-| [Malformed](malformed.md) | -1 |  | Nature -1 | Base |  |
-| [Regenerating](regenerating.md) | 1 |  | Nature 1 | Base |  |
-| [Spider Worshippers](spider-worshippers.md) | 1 |  | Nature 1 | Base |  |
-| [Umbral Thralls](umbral-thralls.md) | 1 |  | Alignment -100 | ELDRITCHREALMS | This race are designated thralls for all Umbral Dwellings in the realm and will primarily appear in the Umbral Abyss. |
-| [Verminous](verminous.md) | -1 |  | Order -1 | Base |  |
 | [Cult of Personality](cult-of-personality.md) | 1 |  | Shadow 1 | Base | Heroes gain a bonus Skill Point whenever they gain a Renown Level.; Heroes gain +10 Gold Unit Upkeep whenever they gain a Renown Level.; In combat, Units in an Army without a Hero suffer -20 Morale. |
 | [Devious Watchers](devious-watchers.md) | 1 |  | Shadow 1 | Base | Cities and Provinces have +2 Vision Range.; Scout Units have Universal Camouflage.; Outposts start with the Watch Tower upgrade built. |
 | [Keepers of Knowledge](keepers-of-knowledge-goodact.md) | 1 |  | Shadow 1, Alignment 10 | Base | Unlocking a new Research Skill grants +10 Allegiance with all Free Cities to whom you have assigned a Whispering Stone.; Unlocking a new Tome grants +100 Relation with all Empires.; Gain +10 Knowledge income for each empire you have Open Borders with.; +10 Alignment. |

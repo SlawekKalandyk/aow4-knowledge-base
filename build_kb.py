@@ -226,7 +226,9 @@ tomes = [t for t in load("Tomes") if t.get("name") or t.get("id")]  # skip one e
 for _t in tomes:  # tier 0 = culture/subculture tomes, pacts and other non-research tomes
     _t["tier"] = _t.get("tier") or 0
     _t["name"] = _t.get("name") or _t["id"].replace("_", " ").title()
-traits = [t for t in load("Traits") if t.get("name") or t.get("id")]  # skip empty placeholder records
+# Skip empty placeholders and disabled traits (cut design leftovers like Doomed, plus Umbral Thralls and two mount
+# form traits the player can't pick).
+traits = [t for t in load("Traits") if (t.get("name") or t.get("id")) and t.get("enabled", True)]
 units = [u for u in load("Units") if u.get("name") or u.get("id")]  # skip empty placeholder records
 spells = load("Spells")
 abilities = {a["slug"].lower(): a for a in load("Abilities")}
@@ -579,8 +581,6 @@ def build_traits():
             if aff:
                 lines.append(f"- Affinity: {aff}")
             lines.append(f"- DLC: {dlc(t)}")
-            if not t.get("enabled", True):
-                lines.append("- Note: disabled in game data")
             inc = names(t.get("incompatible_society_traits"))
             if inc:
                 lines.append(f"- Incompatible with: {', '.join(inc)}")

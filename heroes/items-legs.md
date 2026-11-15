@@ -83,10 +83,11 @@ Grants +1 Resistance.
 (Tier II; DLC Base)
 
 
+- **Fiery Wake**: This unit ignites Flammable obstacles it moves over On Fire. In addition, this unit is immune to Burning.
 
 ## Heavy Armor Greaves
 
-(Tier II; DLC Base)
+(Tier II; DLC Base; disables slots: Mount)
 
 
 
@@ -95,12 +96,16 @@ Grants +1 Resistance.
 (Tier III; DLC Base)
 
 
+- **Boots of Freedom**: At the start of combat, this Unit becomes Hastened for 3 Turn.
+- **Fleeting**: This unit is not stopped by enemy Zone of Control.
+- **Swift**: This unit ignores the effects of Slowing terrain in combat.
 
 ## Juggernaut Greaves
 
 (Tier III; DLC Base)
 
 
+- **Juggernaut**: This unit may crush non-Fortified obstacles.
 
 ## Boots of the Astral Traveler
 
@@ -112,3 +117,5 @@ Grants:
 - +1 Resistance
 - Pass Through
 - Slippery
+- **Pass Through**: This unit can move through obstacles. Does not function when the unit is in a transport.
+- **Slippery**: This unit does not trigger Opportunity Attack.

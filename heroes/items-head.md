@@ -89,6 +89,7 @@ Grants +1 Defense.
 (Tier II; DLC Base)
 
 
+- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
 
 ## Helm of the Warrior
 
@@ -111,12 +112,14 @@ Grants:
 (Tier II; DLC Base)
 
 Grants +1 Defense.
+- **Farsight**: The unit has +1 vision range.
 
 ## Circlet of Mind Protection
 
 (Tier III; DLC Base)
 
 Grants +1 Resistance.
+- **Circlet of Mind Protection**: - Grants Control Loss Immunity.; Morale loss is reduced by 50%.
 
 ## Crown of Ruin
 
@@ -130,6 +133,7 @@ Grants +1 Resistance.
 (Tier III; DLC Base)
 
 
+- **Judgment Aura**: At the end of this unit's turn, adjacent enemy units suffer Condemned.
 
 ## Anon's Wisdom
 

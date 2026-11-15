@@ -2,7 +2,7 @@
 
 ## Chaotic Rebuke
 
-(type normal; requires ; DLC GIANTKINGS)
+(type normal; requires Pure Defense; DLC GIANTKINGS)
 
 
 - **Chaotic Rebuke**: Enemy attackers within 3 hexes have a base 60% chance of gaining a random status effect.
@@ -16,21 +16,21 @@
 
 ## Enhanced Defense
 
-(type normal; requires , ; DLC GIANTKINGS)
+(type normal; requires any of Vigor, Resistant Vanguard; DLC GIANTKINGS)
 
 - +1 Defense
 - +5% Evasion
 
 ## Enhanced Resistance
 
-(type normal; requires , ; DLC GIANTKINGS)
+(type normal; requires any of Frontline Fighter, Vigor; DLC GIANTKINGS)
 
 - +1 Resistance
 - +2 Status Resistance
 
 ## Enhanced Vigor
 
-(type normal; requires ; DLC GIANTKINGS)
+(type normal; requires Taunt; DLC GIANTKINGS)
 
 +15 maximum HP Hit Points.
 
@@ -64,7 +64,7 @@
 
 ## Heavy Quake
 
-(type normal; requires ; DLC GIANTKINGS)
+(type normal; requires Pure Defense; DLC GIANTKINGS)
 
 
 - **Heavy Quake** (damage 20 Physical, accuracy Always Hits, range 0, single-use action): Enemy units in a 2-hex radius sustain damage. Enter Defense Mode. Immobilized: Base 90% chance of inflicting Immobilized for 1 Turn. Cooldown: 1 Turns Requires: Magic

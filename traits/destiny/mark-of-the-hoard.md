@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: Materium 2
 - DLC: Base
+- Earned when: Have over 1000 + (25 x Current Turn Number) Gold stored
 
 ## Effects
 

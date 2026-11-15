@@ -2,7 +2,7 @@
 
 ## Defensive Swipe
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Tail Swipe; can't be taken with Displacing Swipe; DLC DRAGONLORDS)
 
 The Tail Swipe ability now:
 
@@ -11,7 +11,7 @@ The Tail Swipe ability now:
 
 ## Displacing Swipe
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Tail Swipe; can't be taken with Defensive Swipe; DLC DRAGONLORDS)
 
 The Tail Swipe ability now:
 
@@ -20,21 +20,21 @@ The Tail Swipe ability now:
 
 ## Dragon Breath (Comet)
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Lesser Dragon Breath; can't be taken with Dragon Breath (Line), Dragon Breath (Cone); DLC DRAGONLORDS)
 
 
 - **Dragon Breath** (damage 26 Physical, accuracy Always Hits, range 5, full action): Ranged breath that deals damage to all units in a 1-hex radius. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Cooldown: 3 Turns Requires: Magic
 
 ## Dragon Breath (Cone)
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Lesser Dragon Breath; can't be taken with Dragon Breath (Line), Dragon Breath (Comet); DLC DRAGONLORDS)
 
 
 - **Dragon Breath** (damage 26 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 3-hex cone. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Cooldown: 3 Turns Requires: Magic
 
 ## Dragon Breath (Line)
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Lesser Dragon Breath; can't be taken with Dragon Breath (Cone), Dragon Breath (Comet); DLC DRAGONLORDS)
 
 
 - **Dragon Breath** (damage 30 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 5-hex long line. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Cooldown: 3 Turns Requires: Magic
@@ -55,7 +55,7 @@ The Tail Swipe ability now:
 
 ## Quickened Breath
 
-(type normal; requires , , ; DLC DRAGONLORDS)
+(type normal; requires any of Dragon Breath (Comet), Dragon Breath (Cone), Dragon Breath (Line); DLC DRAGONLORDS)
 
 Cooldown of the breath attack is reduced by 1 Turns.
 

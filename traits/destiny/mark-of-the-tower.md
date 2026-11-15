@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: Order 2
 - DLC: Base
+- Earned when: Has equal or over a 'High' Imperium Stored; Have 1 or more Cities of your race with a 'Town Hall IV' structure; Have 3 or less Cities of your race
 
 ## Effects
 

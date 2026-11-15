@@ -68,7 +68,7 @@ This unit gains:
 
 ## Aura of Torment
 
-(type signature; requires ; DLC THRONESOFBLOOD)
+(type signature; requires Tormenting Mist; DLC THRONESOFBLOOD)
 
 
 - **Aura of Torment**: At the end of the turn, adjacent enemies: ; Sustain 4 Frost Damage.; Lose 4 Morale.; Gain 1 Torment until the end of combat.
@@ -146,7 +146,7 @@ This unit gains:
 
 ## Cosmic Caster
 
-(type signature; requires ; DLC ELDRITCHREALMS)
+(type signature; requires Madcaster; DLC ELDRITCHREALMS)
 
 - Chaos Pulse becomes Cosmic Pulse.
 - Gain Savant Channeling.
@@ -304,13 +304,13 @@ This unit gains:
 
 ## Elite March
 
-(type signature; requires ; DLC THRONESOFBLOOD)
+(type signature; requires Gravemarch; DLC THRONESOFBLOOD)
 
 Gravemarch now conjures the bodies of Tier III and Tier IV Undead units and lasts for 4 Turns.
 
 ## Enthraller
 
-(type signature; requires ; DLC ELDRITCHREALMS)
+(type signature; requires Mindbreaker; DLC ELDRITCHREALMS)
 
 - Eldritch Truth becomes Enrapturing Truth.
 - Gain Manipulator.
@@ -335,7 +335,7 @@ Increases unit upkeep by 20 Mana.
 
 ## Fleshsculptor
 
-(type signature; requires ; DLC ELDRITCHREALMS)
+(type signature; requires Fleshweaver; DLC ELDRITCHREALMS)
 
 - Possession becomes Greater Possession.
 - Fleshweave becomes Fleshsculpt.
@@ -390,7 +390,7 @@ Increases unit upkeep by 10 Mana.
 
 ## Frostbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -403,7 +403,7 @@ This unit gains:
 
 ## Frostbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -416,7 +416,7 @@ This unit gains:
 
 ## Frostbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -429,7 +429,7 @@ This unit gains:
 
 ## Frostbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -443,7 +443,7 @@ This unit gains:
 
 ## Frostbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -456,7 +456,7 @@ This unit gains:
 
 ## Frostbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -561,7 +561,7 @@ This unit gains:
 
 ## Havoc Caster
 
-(type signature; requires ; DLC ELDRITCHREALMS)
+(type signature; requires Madcaster; DLC ELDRITCHREALMS)
 
 - Chaos Pulse becomes Havoc Pulse, increasing the number of triggering effects from 1 to 2.
 - Gain Chaos Channeling
@@ -579,7 +579,7 @@ Increases unit upkeep by 20 Mana.
 
 ## Infernobreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -594,7 +594,7 @@ This unit gains:
 
 ## Infernobreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -609,7 +609,7 @@ This unit gains:
 
 ## Infernobreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -624,7 +624,7 @@ This unit gains:
 
 ## Infernobreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -639,7 +639,7 @@ This unit gains:
 
 ## Infernobreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -654,7 +654,7 @@ This unit gains:
 
 ## Infernobreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -718,7 +718,7 @@ This unit gains:
 
 ## Lifebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -732,7 +732,7 @@ This unit gains:
 
 ## Lifebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -746,7 +746,7 @@ This unit gains:
 
 ## Lifebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -760,7 +760,7 @@ This unit gains:
 
 ## Lifebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -774,7 +774,7 @@ This unit gains:
 
 ## Lifebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -788,7 +788,7 @@ This unit gains:
 
 ## Lifebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -887,13 +887,13 @@ This unit gains:
 
 ## Miasmic Spine
 
-(type signature; requires ; DLC THRONESOFBLOOD)
+(type signature; requires Festering Spine; DLC THRONESOFBLOOD)
 
 When Festering Spine kills a unit, all enemy units in a 2-hex radius gain 5 Poisoned and 4 Decaying for 3 Turns.
 
 ## Mind Devourer
 
-(type signature; requires ; DLC ELDRITCHREALMS)
+(type signature; requires Mindbreaker; DLC ELDRITCHREALMS)
 
 - Eldritch Truth becomes Mind Shattering Truth.
 - Gain Mindrend.
@@ -1017,13 +1017,13 @@ This unit gains:
 
 ## Parasitic Communion
 
-(type signature; requires ; DLC THRONESOFBLOOD)
+(type signature; requires Blood Communion; DLC THRONESOFBLOOD)
 
 Blood Communion now has a base 120% chance of inflicting Blood Parasite for 3 Turns to enemies adjacent to the caster and the target.
 
 ## Primal Dragon
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1034,7 +1034,7 @@ This unit gains:
 
 ## Primal Dragon
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1045,7 +1045,7 @@ This unit gains:
 
 ## Primal Dragon
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1056,7 +1056,7 @@ This unit gains:
 
 ## Primal Dragon
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1067,7 +1067,7 @@ This unit gains:
 
 ## Primal Dragon
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1078,7 +1078,7 @@ This unit gains:
 
 ## Primal Dragon
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1096,7 +1096,7 @@ This unit gains:
 
 ## Puppeteer
 
-(type signature; requires ; DLC ELDRITCHREALMS)
+(type signature; requires Fleshweaver; DLC ELDRITCHREALMS)
 
 - Possession becomes Puppeteer's Possession.
 - Eldritch Mind Control becomes Puppeteer's Domination.
@@ -1105,7 +1105,7 @@ Increases unit upkeep by 20 Mana.
 
 ## Purebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1118,7 +1118,7 @@ This unit gains:
 
 ## Purebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1131,7 +1131,7 @@ This unit gains:
 
 ## Purebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1144,7 +1144,7 @@ This unit gains:
 
 ## Purebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1157,7 +1157,7 @@ This unit gains:
 
 ## Purebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1170,7 +1170,7 @@ This unit gains:
 
 ## Purebreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1212,7 +1212,7 @@ This unit gains:
 
 ## Rustbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1228,7 +1228,7 @@ This unit gains:
 
 ## Rustbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1244,7 +1244,7 @@ This unit gains:
 
 ## Rustbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1260,7 +1260,7 @@ This unit gains:
 
 ## Rustbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1276,7 +1276,7 @@ This unit gains:
 
 ## Rustbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1292,7 +1292,7 @@ This unit gains:
 
 ## Rustbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1340,13 +1340,13 @@ This unit gains:
 
 ## Spreading Blight
 
-(type signature; requires ; DLC THRONESOFBLOOD)
+(type signature; requires Bloodblight; DLC THRONESOFBLOOD)
 
 Bloodblight now spreads to 4 enemy units within 3 hexes.
 
 ## Stormbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1361,7 +1361,7 @@ This unit gains:
 
 ## Stormbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1376,7 +1376,7 @@ This unit gains:
 
 ## Stormbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1391,7 +1391,7 @@ This unit gains:
 
 ## Stormbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1406,7 +1406,7 @@ This unit gains:
 
 ## Stormbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1421,7 +1421,7 @@ This unit gains:
 
 ## Stormbreath
 
-(type signature; requires ; DLC DRAGONLORDS)
+(type signature; DLC DRAGONLORDS)
 
 This unit gains:
 
@@ -1459,7 +1459,7 @@ This unit gains:
 
 ## Violent Exsanguination
 
-(type signature; requires ; DLC THRONESOFBLOOD)
+(type signature; requires Exsanguinate; DLC THRONESOFBLOOD)
 
 Exsanguinate now deals 50% of its damage to adjacent enemies which ignores 50% of enemy Defense and Resistance.
 

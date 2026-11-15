@@ -304,6 +304,64 @@ city_tiers, city_after = city_tree_prereqs()
 culture_building_of, culture_swaps = culture_buildings()
 CULTURE_MAP_NOTE = "aow4db site's hand-made culture map, not game data"
 
+hero_skill_by_resid = {h["resid"]: h for h in hero_skills}
+tome_by_name = {t["name"]: t for t in tomes}
+# Ascension hero skill id -> names of the tomes that grant it ("Tome of Beasts, Tome of Vigor").
+ascended_tomes = {a["id"]: [n.strip() for n in a["description"].split(",")] for a in load_gen("AscendedInfo")}
+# Ruler origins (by id) and form traits (by name) that come with spells.
+origin_spells = {o["id"]: o for o in load_gen("ExtraLookSpellsOrigin")}
+# The data spells the form traits "Arctic Adaption"; the traits are named "Arctic Adaptation".
+origin_spells.update({o["name"].replace("Adaption", "Adaptation"): o for o in origin_spells.copy().values()})
+destiny_triggers = {d["id"]: d for d in load_gen("DestinyTraits")}  # how a race earns a destiny trait
+world_combat_enchantments = defaultdict(list)  # world structure id -> combat enchantments it gives
+for _c in load_gen("CombatEnchantments"):
+    world_combat_enchantments[_c["origin_structure"]].append(_c)
+culture_incompatible = defaultdict(list)  # cleaned society trait name -> cultures/subcultures that can't take it
+for _f in faction:
+    for _i in _f.get("incompatible") or []:
+        culture_incompatible[clean(_i["name"])].append(faction_full_name(_f))
+siege_tomes = defaultdict(list)
+for t in tomes:
+    for sk in t.get("skills", []):
+        if sk.get("siege_project_slug"):
+            siege_tomes[sk["siege_project_slug"]].append(t)
+
+
+def tome_ref(t, frm="../"):
+    return f"[{t['name']}]({frm}tomes/{slug(t['id'])}.md) (tier {t['tier']})"
+
+
+def tag_name(tag):
+    """'ItemTypeWeapon.TwoHandedHeavy.Greatsword' -> 'Greatsword'; 'HeroSkillArchetype.PhysicalRanged' ->
+    'Physical Ranged hero archetype'."""
+    parts = tag.strip().split(".")
+    name = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", parts[-1])
+    return f"{name} hero archetype" if parts[0] == "HeroSkillArchetype" else name
+
+
+def tag_filter(node):
+    """Item forge tag filter -> 'any of (Greatsword, Greataxe)'; 'lacks X' = the item must not carry tag X."""
+    cond = node.get("condition", "")
+    kids = [tag_filter(c) for c in node.get("children", [])]
+    m = re.match(r"(Contains|Does not contain)(?: inherited)? (\S+)", cond)
+    if m:
+        return ("lacks " if m.group(1) != "Contains" else "") + tag_name(m.group(2))
+    if not kids:
+        return one_line(cond)
+    if len(kids) == 1:
+        return kids[0]
+    return f"{'all' if cond.startswith('All') else 'any'} of ({', '.join(kids)})"
+
+
+def token_needs(reqs):
+    """[{'num_required': 2, 'token_name': 'Archon Blood'}] -> '2 Archon Blood' (duplicates in the data dropped)."""
+    out = []
+    for r in reqs or []:
+        s = f"{r.get('num_required')} {r.get('token_name')}"
+        if s not in out:
+            out.append(s)
+    return ", ".join(out)
+
 
 def unit_link(uid, frm):
     if uid in unit_groups:
@@ -431,6 +489,14 @@ def build_traits():
             inc = names(t.get("incompatible_society_traits"))
             if inc:
                 lines.append(f"- Incompatible with: {', '.join(inc)}")
+            if culture_incompatible.get(name):
+                lines.append(f"- Not available to cultures: {', '.join(culture_incompatible[name])}")
+            trig = destiny_triggers.get(t.get("id"))
+            if trig:
+                lines.append("- Earned when: " + "; ".join(one_line(e.get("entry")) for e in trig.get("trigger", [])))
+            granted = origin_spells.get(name) or origin_spells.get(t.get("id"))
+            if granted:
+                lines.append("- Grants spells: " + ", ".join(spell_link(s["id"], "../../") for s in granted.get("spell", [])))
             lines += ["", "## Effects", ""] + [f"- {e}" for e in effects]
             sb = names(t.get("starting_bonuses"))
             if sb:
@@ -535,6 +601,8 @@ def build_cultures(culture_units):
             lines += ["", "Culture units: " + ", ".join(unit_link(u, "../") for u in units_all["(all subcultures)"])]
         if buildings[cname]:
             lines += ["", f"Culture buildings{building_note}: " + ", ".join(sorted(buildings[cname]))]
+        if c.get("incompatible"):
+            lines += ["", "Can't take society traits: " + ", ".join(clean(i["name"]) for i in c["incompatible"])]
         my_subs = [s for s in subs if s.get("requirement") == cname]
         if not my_subs:
             rows.append([f"[{cname}]({fname})", "-", fmt_affinity(c_aff), dlc(c)])
@@ -555,6 +623,8 @@ def build_cultures(culture_units):
                 lines.append("- Units: " + ", ".join(unit_link(u, "../") for u in sub_units))
             if buildings[faction_full_name(s)]:
                 lines.append(f"- Buildings{building_note}: " + ", ".join(sorted(buildings[faction_full_name(s)])))
+            if s.get("incompatible"):
+                lines.append("- Can't take society traits: " + ", ".join(clean(i["name"]) for i in s["incompatible"]))
             desc = loc_text(s.get("extraLookup"), "description") or [clean(s.get("description"))]
             lines += ["", *[d for d in desc if d]] if any(desc) else []
         write(KB / "cultures" / fname, "\n".join(lines))
@@ -580,6 +650,8 @@ def build_rulers():
     lines = ["# Rulers", "", "## Ruler origins", ""]
     for r in (x for x in faction if x["type"] == "Ruler Origin"):
         lines += [f"### {r['name']}", "", f"DLC: {dlc(r)}", ""]
+        if origin_spells.get(r.get("id")):
+            lines += ["Origin spells: " + ", ".join(spell_link(s["id"], "") for s in origin_spells[r["id"]]["spell"]), ""]
         lines += ["\n\n".join(loc_text(r.get("extraLookup"), "description_short", "description")), ""]
     lines += ["## Ruler subtypes", ""]
     for s in (x for x in faction if x["type"] == "SubType"):
@@ -600,6 +672,11 @@ def build_rulers():
 
 def slug_list(val):
     return [v.strip() for v in str(val).split(",") if v.strip()]
+
+
+def combat_enchantment_line(c):
+    desc = one_line(" ".join(loc_text(c.get("extraLookup"), "description")) or c.get("description"))
+    return f"- Combat enchantment: {clean(c['name'])}" + (f": {desc}" if desc else " (no description in data)")
 
 
 def build_world():
@@ -650,7 +727,13 @@ def build_world():
                 sp.append(f"{clean(rec.get('name')) or val}: {one_line(rec.get('description'))}")
         if sp:
             lines.append(f"- Spell unlocks/rewards: {'; '.join(sp)}")
+        lines += [combat_enchantment_line(c) for c in world_combat_enchantments.get(w.get("id"), [])]
         lines.append("")
+    unmatched = [(src, c) for src, cs in world_combat_enchantments.items() if src not in {w.get("id") for w in world_structures}
+                 for c in cs]
+    if unmatched:
+        lines += ["## Other combat enchantments", "", "Their source isn't a listed world structure.", ""]
+        lines += [combat_enchantment_line(c) + f" (source: {src.replace('_', ' ')})" for src, c in unmatched]
     write(KB / "world" / "world-structures.md", "\n".join(lines))
 
     lines = ["# Cosmic happenings", ""]
@@ -708,8 +791,18 @@ def build_heroes():
         lines = [f"# Hero skills: {g}", ""]
         for h in sorted(items, key=lambda h: h["name"]):
             extra = [f"type {h['type']}"] if h.get("type") else []
-            if h.get("required_skills"):
-                extra.append("requires " + ", ".join(clean(hero_skill_by_id.get(r.get("slug"), {}).get("name", r.get("slug", ""))) for r in h["required_skills"]))
+            req = [clean(hero_skill_by_resid[r["resid"]]["name"]) for r in h.get("required_skills") or []
+                   if r.get("resid") in hero_skill_by_resid]
+            req = [n for n in req if n]  # some required skills have no name in the data
+            if req:  # the aow4db skill tree unlocks a skill once any one of its required skills is taken
+                extra.append(("requires " if len(req) == 1 else "requires any of ") + ", ".join(req))
+            excl = [clean(hero_skill_by_resid[e["resid"]]["name"]) for e in h.get("excluded_skills") or []
+                    if e.get("resid") in hero_skill_by_resid]
+            if excl:
+                extra.append("can't be taken with " + ", ".join(excl))
+            if h.get("id") in ascended_tomes:
+                extra.append("granted by " + ", ".join(tome_ref(tome_by_name[n]) if n in tome_by_name else n
+                                                       for n in ascended_tomes[h["id"]]))
             lines.append(f"## {clean(h['name'])}\n\n" + (f"({'; '.join(extra)}; DLC {dlc(h)})\n\n" if extra else f"(DLC {dlc(h)})\n\n")
                          + clean(h.get("description")))
             ab = [ability_line(a["slug"]) for a in h.get("abilities", []) if isinstance(a, dict) and a.get("slug")]
@@ -730,8 +823,12 @@ def build_heroes():
             meta = [it.get("tier", ""), f"DLC {dlc(it)}"]
             if it.get("hero_classes"):
                 meta.append("classes: " + ", ".join(names(it["hero_classes"])))
+            if it.get("hero_types"):
+                meta.append("hero types: " + ", ".join(names(it["hero_types"])))
+            if it.get("disabled_slots"):
+                meta.append("disables slots: " + ", ".join(names(it["disabled_slots"])))
             lines.append(f"## {clean(it['name'])}\n\n({'; '.join(m for m in meta if m)})\n\n{clean(it.get('description'))}")
-            ab = [ability_line(a) for a in it.get("ability_slugs", []) if isinstance(a, str)]
+            ab = [ability_line(a["slug"] if isinstance(a, dict) else a) for a in it.get("ability_slugs", [])]
             ab = [a for a in ab if a]
             if ab:
                 lines.append("\n".join(ab))
@@ -740,10 +837,16 @@ def build_heroes():
 
     lines = ["# Hero destinies", ""]
     for d in destinies:
-        lines += [f"## {clean(d['name'])}", "", clean(d.get("screen_description"))]
+        who = {(True, True): "rulers and heroes", (False, True): "heroes only (not rulers)",
+               (True, False): "rulers only", (False, False): "neither rulers nor heroes, per the game data"}
+        avail = who[(bool(d.get("available_to_rulers")), bool(d.get("available_to_non_rulers")))]
+        lines += [f"## {clean(d['name'])}", "", f"Available to: {avail}", "", clean(d.get("screen_description"))]
         for a in d.get("ambitions", []):
-            rew = "; ".join(f"{clean(p.get('name'))}: {one_line(p.get('screen_description'))}" for p in a.get("reward_properties", []))
-            lines.append(f"- {a.get('type', '')} ambition: {one_line(a.get('screen_description'))} -> {rew}")
+            rew = [f"{clean(p.get('name'))}: {one_line(p.get('screen_description'))}" for p in a.get("reward_properties", [])]
+            if a.get("reward_renown"):
+                rew.append(f"+{a['reward_renown']} Renown")
+            rep = ", repeatable" if a.get("repeatable") else ""
+            lines.append(f"- {a.get('type', '')} ambition{rep}: {one_line(a.get('screen_description'))} -> {'; '.join(rew)}")
         lines.append("")
     write(KB / "heroes" / "destinies.md", "\n".join(lines))
     idx.append("- [Hero destinies](destinies.md)")
@@ -759,6 +862,8 @@ def build_empire():
         for p in sorted((p for p in progression if p.get("category", "") == cat), key=lambda p: (p.get("required_level", 0), p["name"])):
             req = [f"level {p['required_level']}" if p.get("required_level") else "",
                    one_line(p.get("required_affinity")), f"cost {one_line(p.get('cost'))}" if p.get("cost") else ""]
+            if p.get("repeat_cost_increase"):  # its `cooldown` field always equals required_xp, so it's left out
+                req.append(f"repeatable, each repeat costs +{one_line(p['repeat_cost_increase'])}")
             lines.append(f"- **{clean(p['name'])}** ({', '.join(r for r in req if r)}): {one_line(p.get('description'))}")
         lines.append("")
     write(KB / "empire" / "empire-progression.md", "\n".join(lines))
@@ -785,8 +890,7 @@ def build_empire():
         req = one_line(s.get("requirement_description"))
         info = []
         if structure_tomes.get(sid):
-            info.append("Unlocked by: " + ", ".join(f"[{t['name']}](../tomes/{slug(t['id'])}.md) (tier {t['tier']})"
-                                                    for t in structure_tomes[sid]))
+            info.append("Unlocked by: " + ", ".join(tome_ref(t) for t in structure_tomes[sid]))
         built = [" or ".join(sorted(clean(structure_by_id[p]["name"]) for p in city_after.get(sid, ())))]
         built += [f"City Tier {t}" for t in sorted(city_tiers.get(sid, ()), key=CITY_TIERS.index)]
         if any(built):
@@ -804,16 +908,29 @@ def build_empire():
 
     lines = ["# Siege projects", ""]
     for s in siege:
+        unlock = "available by default"
+        if s.get("needs_research_to_unlock"):
+            by = siege_tomes.get(s.get("id"))
+            unlock = "unlocked by " + ", ".join(tome_ref(t) for t in by) if by else "needs research"
         lines.append(f"- **{clean(s['name'])}** (cost {one_line(s.get('cost'))}, fortification damage {s.get('siege_health_damage')}, "
-                     f"{'needs research' if s.get('needs_research_to_unlock') else 'available by default'}, DLC {dlc(s)}): {one_line(s.get('description'))}")
+                     f"{unlock}, DLC {dlc(s)}): {one_line(s.get('description'))}")
     write(KB / "empire" / "siege-projects.md", "\n".join(lines))
 
-    lines = ["# Item forge", "", "## Item types", ""]
+    lines = ["# Item forge", "",
+             "Needs = magic materials required to unlock it. Fits = item types the upgrade can go on (from the game's tag "
+             "filter; 'lacks X' = the item must not carry tag X).", "", "## Item types", ""]
     for f in sorted(forge_types, key=lambda f: (f.get("slot", ""), f["name"])):
-        lines.append(f"- **{clean(f['name'])}** ({f.get('slot', '')}, DLC {dlc(f)}): {one_line(f.get('description'))}")
+        needs = token_needs(f.get("unlock_requirements"))
+        lines.append(f"- **{clean(f['name'])}** ({f.get('slot', '')}, DLC {dlc(f)}{', needs ' + needs if needs else ''}): "
+                     f"{one_line(f.get('description'))}")
     lines += ["", "## Upgrades", ""]
     for f in sorted(forge_upgrades, key=lambda f: f["name"]):
-        lines.append(f"- **{clean(f['name'])}** ({f.get('point_cost')} pts, DLC {dlc(f)}): {one_line(f.get('description'))}")
+        meta = [f"{f.get('point_cost')} pts", f"DLC {dlc(f)}"]
+        if f.get("unlock_requirements"):
+            meta.append("needs " + token_needs(f["unlock_requirements"]))
+        if f.get("tag_filter"):
+            meta.append("fits " + tag_filter(f["tag_filter"]))
+        lines.append(f"- **{clean(f['name'])}** ({', '.join(meta)}): {one_line(f.get('description'))}")
     write(KB / "empire" / "item-forge.md", "\n".join(lines))
     write(KB / "empire" / "_index.md", "# Empire-wide systems\n\n"
           "- [Empire progression / empire skills](empire-progression.md)\n- [Governors](governance.md)\n"

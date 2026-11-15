@@ -123,6 +123,7 @@ Grants:
 (Tier III; DLC THRONESOFBLOOD)
 
 
+- **Lifedrinker**: When an adjacent unit dies: ; Gain Strengthened for 3 Turns.; Heal for 10 Temporary Hit Points.
 
 ## Forefather's Cloak
 
@@ -137,18 +138,22 @@ Grants:
 - +1 Defense
 - Charge Resistance
 - Quill Hide
+- **Charge Resistance**: Unaffected by the bonus effects of Charge attacks.  Can be counteracted by using Heavy Charge Strike.
+- **Quill Hide**: Melee attackers suffer a stack of Bleeding for 3 Turns.
 
 ## Obscuring Mantle
 
 (Tier III; DLC Base)
 
 
+- **Obscured**: This unit is 40% harder to hit with Missile and ranged Magic attacks.
 
 ## Phase Cloak
 
 (Tier III; DLC Base)
 
 Grants +2 Resistance.
+- **Phase** (accuracy Always Hits, range 6): Caster moves to target hex. Leaves 1 Action Point. Cooldown: 2 Turns Requires: Movement, Teleport
 
 ## Breastplate of the Champion
 

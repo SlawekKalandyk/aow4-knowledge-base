@@ -128,38 +128,38 @@
 
 ## Order Repeatable Rite
 
-- **Rite of Allegiance** (level 4, cost 175 Imperium): Instantly gain 20 Allegiance with all non-hostile Free Cities.
-- **Rite of Wealth** (level 7, cost 300 Imperium): Instantly gain 2000 Gold.
-- **Rite of the Banners** (level 10, cost 500 Imperium): Call a Rally of the Lieges event, where you have 20 additional Recruitment Points.
+- **Rite of Allegiance** (level 4, cost 175 Imperium, repeatable, each repeat costs +50 Imperium): Instantly gain 20 Allegiance with all non-hostile Free Cities.
+- **Rite of Wealth** (level 7, cost 300 Imperium, repeatable, each repeat costs +50 Imperium): Instantly gain 2000 Gold.
+- **Rite of the Banners** (level 10, cost 500 Imperium, repeatable, each repeat costs +50 Imperium): Call a Rally of the Lieges event, where you have 20 additional Recruitment Points.
 
 ## Repeatable Astral Rite
 
-- **Rite of Astral Abundance** (level 4, cost 175 Imperium): Instantly gain 750 Mana.
-- **Rite of Conjuration** (level 6, cost 250 Imperium): Create a random Magic Material near your Throne City.
-- **Rite of Spell Storm** (level 8, cost 350 Imperium): Gain 150 [World Map] World Map Casting Points and Combat Casting Points until the end of the turn.
+- **Rite of Astral Abundance** (level 4, cost 175 Imperium, repeatable, each repeat costs +50 Imperium): Instantly gain 750 Mana.
+- **Rite of Conjuration** (level 6, cost 250 Imperium, repeatable, each repeat costs +50 Imperium): Create a random Magic Material near your Throne City.
+- **Rite of Spell Storm** (level 8, cost 350 Imperium, repeatable, each repeat costs +50 Imperium): Gain 150 [World Map] World Map Casting Points and Combat Casting Points until the end of the turn.
 
 ## Repeatable Chaos Rite
 
-- **Rite of War** (level 4, cost 175 Imperium): All your Cities immediately gain 400 Draft.
-- **Rite of Chosen Warriors** (level 6, cost 250 Imperium): Your Units all immediately gain enough XP Experience to level up.  Does not affect Heroes and units above Legendary rank.
-- **Rite of Fanaticism** (level 10, cost 500 Imperium): All of your Units gain the following for 5 Turns: ; Resurgence; Martyr
+- **Rite of War** (level 4, cost 175 Imperium, repeatable, each repeat costs +50 Imperium): All your Cities immediately gain 400 Draft.
+- **Rite of Chosen Warriors** (level 6, cost 250 Imperium, repeatable, each repeat costs +50 Imperium): Your Units all immediately gain enough XP Experience to level up.  Does not affect Heroes and units above Legendary rank.
+- **Rite of Fanaticism** (level 10, cost 500 Imperium, repeatable, each repeat costs +50 Imperium): All of your Units gain the following for 5 Turns: ; Resurgence; Martyr
 
 ## Repeatable General Rite
 
-- **Expanded Governance** (level 4, cost 200 Imperium): Increase the City Cap by +1.
-- **Rite of the Last Stand** (level 5, cost 175 Imperium): Each city in your Empire loses -1 Population, but immediately summons 3 Tier I Units.
+- **Expanded Governance** (level 4, cost 200 Imperium, repeatable, each repeat costs +300 Imperium): Increase the City Cap by +1.
+- **Rite of the Last Stand** (level 5, cost 175 Imperium, repeatable, each repeat costs +50 Imperium): Each city in your Empire loses -1 Population, but immediately summons 3 Tier I Units.
 
 ## Repeatable Materium Rite
 
-- **Rite of the Armorer** (level 4, cost 175 Imperium): Immediately gain 500 Binding Essence and 250 Binding Fragments.
-- **Rite of Industry** (level 7, cost 300 Imperium): All of your Cities immediately gain 500 Production.
-- **Rite of Stoic Defense** (level 8, cost 350 Imperium): All of your current Units: ; Heal to their maximum HP Hit Points.; Gain +1 Defense and +1 Resistance, which does not stack with subsequent uses.
+- **Rite of the Armorer** (level 4, cost 175 Imperium, repeatable, each repeat costs +50 Imperium): Immediately gain 500 Binding Essence and 250 Binding Fragments.
+- **Rite of Industry** (level 7, cost 300 Imperium, repeatable, each repeat costs +50 Imperium): All of your Cities immediately gain 500 Production.
+- **Rite of Stoic Defense** (level 8, cost 350 Imperium, repeatable, each repeat costs +50 Imperium): All of your current Units: ; Heal to their maximum HP Hit Points.; Gain +1 Defense and +1 Resistance, which does not stack with subsequent uses.
 
 ## Repeatable Nature Rite
 
-- **Rite of Expansive Growth** (level 6, cost 250 Imperium): Increase the City Cap by +1.
-- **Rite of Awakening** (level 8, cost 350 Imperium): Instantly gain 15 Knowledge, 15 Mana, and 15 Gold for each Population in your empire's Cities.
-- **Rite of Nature's Guardians** (level 9, cost 400 Imperium): Immediately summon a White Wolf with Resurgence and Animal Guardian and an Entwined Scourge with Resurgence and Plant Guardian in your Throne City.
+- **Rite of Expansive Growth** (level 6, cost 250 Imperium, repeatable, each repeat costs +50 Imperium): Increase the City Cap by +1.
+- **Rite of Awakening** (level 8, cost 350 Imperium, repeatable, each repeat costs +50 Imperium): Instantly gain 15 Knowledge, 15 Mana, and 15 Gold for each Population in your empire's Cities.
+- **Rite of Nature's Guardians** (level 9, cost 400 Imperium, repeatable, each repeat costs +50 Imperium): Immediately summon a White Wolf with Resurgence and Animal Guardian and an Entwined Scourge with Resurgence and Plant Guardian in your Throne City.
 
 ## Shadow Empire Skill
 
@@ -183,6 +183,6 @@
 
 ## Shadow Repeatable Rite
 
-- **Rite of Forbidden Knowledge** (level 4, cost 175 Imperium): Instantly gain 400 Knowledge.
-- **Rite of the Exalted** (level 6, cost 250 Imperium): All your Heroes instantly gain +1 Rank.
-- **Rite of Swift Shadows** (level 8, cost 350 Imperium): Your Units immediately regain all of their Move Points and gain Universal Camouflage for 2 Turns.
+- **Rite of Forbidden Knowledge** (level 4, cost 175 Imperium, repeatable, each repeat costs +50 Imperium): Instantly gain 400 Knowledge.
+- **Rite of the Exalted** (level 6, cost 250 Imperium, repeatable, each repeat costs +50 Imperium): All your Heroes instantly gain +1 Rank.
+- **Rite of Swift Shadows** (level 8, cost 350 Imperium, repeatable, each repeat costs +50 Imperium): Your Units immediately regain all of their Move Points and gain Universal Camouflage for 2 Turns.

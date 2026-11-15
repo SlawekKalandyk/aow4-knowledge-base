@@ -7,6 +7,8 @@
 - +2 Mana per Quarry in City Domain.
 - Adds the Stormscale serpent and Plague serpent units to the Rally of the Lieges.
 - Unit unlocks: [Stormscale Serpent](../units/stormscale-serpent.md), [Plague Serpent](../units/plague-serpent.md)
+- Combat enchantment: Gorgon's Curse: At the start of battle, a unit is secretly chosen to be the target of the curse. This target will become Stunned in 2 Turns if it is still alive, and a new target will then be chosen.
+- Combat enchantment: Sprawling Spiderwebs: At the start of combat, several Slowing Spider Web obstacles are present.
 
 ## Barren Wellspring
 
@@ -59,6 +61,7 @@
 - Adds Spring fairy, Summer fairy, Autumn fairy, and Winter fairy to the Rally of the Lieges.
 - Unit unlocks: [Spring Fairy](../units/spring-fairy.md), [Summer Fairy](../units/summer-fairy.md), [Autumn Fairy](../units/autumn-fairy.md), [Winter Fairy](../units/winter-fairy.md)
 - Spell unlocks/rewards: [Misty Magic](../spells/misty-magic.md)
+- Combat enchantment: Avert Your Eyes!: All attacking units become Blinded but gain Immune to Seduced until the end of battle.
 
 ## Uncharted Harbor
 
@@ -91,6 +94,8 @@
 - Magic origin Unit require -50% less Gold and Mana base Unit Upkeep in this City Domain.
 - Adds the Phoenix unit to the Rally of the Lieges.
 - Unit unlocks: [Phoenix](../units/phoenix.md)
+- Combat enchantment: Mass Spawning: A wave of 2 additional defending units will spawn in 2 Turns !
+- Combat enchantment: Draconic Catalyst: When a Red Dragon has Draconic Rage, all attacking units have a 90% chance to suffer Burning every turn.  When a Blue Dragon has Draconic Rage, all attacking units have a 60% chance to get Frozen every turn.
 
 ## Lost Wizard Tower
 
@@ -140,6 +145,7 @@
 - +2 Mana and +2 Knowledge per Forester in City Domain.
 - Adds Entwined thrall unit, Entwined protector unit, and Entwined scourge unit to the Rally of the Lieges.
 - Unit unlocks: [Entwined Thrall](../units/entwined-thrall.md), [Entwined Protector](../units/entwined-protector.md), [Entwined Scourge](../units/entwined-scourge.md)
+- Combat enchantment: Nature Leeching: The defending Horned God is leeching power from the surrounding nature. Each Turn, all Flora Obstacle obstacles within a 2-hex range are consumed, healing the Horned God +10 HP and granting 1 Strengthened for 3 Turn.
 
 ## Ancient Dragon Hoard
 
@@ -414,6 +420,8 @@ A City with 3 Province adjacent to this Landmark gains:
 - +2 Mana, +2 Knowledge, and +1 Soul (if obtainable) for each Hero in Crypt.
 - Adds the Corrupt Soul unit to the Rally of the Lieges.
 - Unit unlocks: [Corrupt Soul](../units/corrupt-soul.md)
+- Combat enchantment: Haunted Coffins: Whenever a Sarcophacus obstacle is destroyed, it summons a Skeleton on the defender's side until the end of combat.
+- Combat enchantment: Undead Servants: Undead Servants fight to protect the Undead Queen!  All defending units resurrect 1 Turn after being killed for the first time.  Destroying the defending Hero instantly kills all enemies.
 
 ## Magma Forge
 
@@ -422,6 +430,8 @@ A City with 3 Province adjacent to this Landmark gains:
 - Units cost -25% Gold to recruit.
 - Adds the Fire Giant unit to the Rally of the Lieges.
 - Unit unlocks: [Fire Giant](../units/fire-giant.md)
+- Combat enchantment: Magma Split: When a defending Magma spirit is killed, it spawns 1 Lesser magma spirit.
+- Combat enchantment: Crashing Rubble: Every 2 Turns, a marker is placed. Then, after 1 Turn burning debris will crash down, and units within 1 of the marker will suffer 10 Physical and 10 Fire Damage. The target hexes will gain On Fire.
 
 ## Secret Temple
 
@@ -577,6 +587,7 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 Unique global effect:
 
 - +15 Combat Casting Point.
+- Combat enchantment: Archon Martyrdom: When a defending unit dies, all adjacent hostile units suffer 15 Spirit Damage and have 90% base chance of suffering Condemned.
 
 ## Astral Dew
 
@@ -585,6 +596,7 @@ Unique global effect:
 Unique global effect:
 
 - +15 [World Map] World Map Casting Point.
+- Combat enchantment: Displaced Reality: Every 2 Turns, all units are teleported by 2 hexes.
 
 ## Tranquility Pool
 
@@ -593,6 +605,7 @@ Unique global effect:
 Unique global effect:
 
 - Researching Spell costs -10% less Knowledge.
+- Combat enchantment: Wave of Tranquility: Every 2 Turn, all Status Effects on all units are dispelled.
 
 ## Arcanium Ore
 
@@ -601,6 +614,7 @@ Unique global effect:
 Unique global effect:
 
 - Hurry Recruitment for Unit is 25% cheaper.
+- Combat enchantment: Arcanium Tremors: Every 2 Turns, all non-Floating movement and non-Flying movement attacking units suffer 20 Physical Damage.
 
 ## Blood Glass
 
@@ -617,6 +631,7 @@ Unique global effect:
 Unique global effect:
 
 - Unit cost 20% less Draft.
+- Combat enchantment: Rampant Fire: Several areas and flammable obstacles are On Fire.
 
 ## Focus Crystals
 
@@ -625,6 +640,7 @@ Unique global effect:
 Unique global effect:
 
 - Unit gain +20% XP experience from combat.
+- Combat enchantment: Focused Gaze: Base Missile and Magic attacks of all defending units gain +? Range.
 
 ## Haste Berries
 
@@ -633,6 +649,7 @@ Unique global effect:
 Unique global effect:
 
 - Founding, migrating and absorbing City takes -2 turns.
+- Combat enchantment: Unnatural Speed: Defending Units have Hastened, Swift and Slippery until the end of combat.
 
 ## Pale Tidebloom
 
@@ -649,6 +666,7 @@ Unique global effect:
 Unique global effect:
 
 - +100 relations with Free City and Ruler.
+- Combat enchantment: Oh So Lucky: Every 2 Turn, all defending units gain Rally and Fortune.
 
 ## Silvertongue Fruit
 
@@ -657,6 +675,7 @@ Unique global effect:
 Unique global effect:
 
 - Whispering Stones grant +1 Allegiance.
+- Combat enchantment: Distracting Whispers: Each 2 Turn, one of the attacking units has a 90% base chance of suffering Distracted until the end of combat.
 
 ## Void Stones
 
@@ -666,3 +685,9 @@ Unique global effect:
 
 - Gain +2 Allegiance with discovered Umbral Dwelling per Turn.
 - Allows the forging of misc items that grant immunity to Umbral Malady in the Item Forge.
+
+## Other combat enchantments
+
+Their source isn't a listed world structure.
+
+- Combat enchantment: Disruption Pulse (no description in data) (source: astral rift)

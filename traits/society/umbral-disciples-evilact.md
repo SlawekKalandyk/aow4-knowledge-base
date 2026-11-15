@@ -5,6 +5,7 @@
 - Affinity: -10 Alignment, Shadow 1
 - DLC: ELDRITCHREALMS
 - Incompatible with: Devotees of Good, Transformation Ascetics
+- Not available to cultures: Oathsworn - Oath of Righteousness
 
 ## Effects
 

@@ -5,6 +5,7 @@
 - Affinity: Shadow 1, -10 Alignment
 - DLC: Base
 - Incompatible with: Devotees of Good, Chosen Uniters, Keepers of Knowledge
+- Not available to cultures: Oathsworn - Oath of Strife, Oathsworn - Oath of Righteousness, Oathsworn - Oath of Harmony
 
 ## Effects
 

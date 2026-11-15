@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: Chaos 2
 - DLC: Base
+- Earned when: 3 or more wars with ruler or free city; Max of 1: Defensive pact/ Alliance with Ruler; Free city with Cooperation or higher
 
 ## Effects
 

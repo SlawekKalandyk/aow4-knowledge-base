@@ -18,7 +18,7 @@ When Governor, grants the city:
 
 ## Ancient Governor II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Ancient Governor I; DLC DRAGONLORDS)
 
 When Governor, grants the city:
 
@@ -69,7 +69,7 @@ Absorbing or Migrating a City grants 2 Thralls.
 
 ## Chaotic Rebuke
 
-(type normal; requires ; DLC Base)
+(type normal; requires Pure Defense; DLC Base)
 
 
 - **Chaotic Rebuke**: Enemy attackers within 3 hexes have a base 60% chance of gaining a random status effect.
@@ -109,13 +109,13 @@ This unit's attacks inflict Dissonance.
 
 ## Draconic Health II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Draconic Health I; DLC DRAGONLORDS)
 
 - +15 maximum HP Hit Points.
 
 ## Draconic Health III
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Draconic Health II; DLC DRAGONLORDS)
 
 - +30 maximum HP Hit Points.
 
@@ -163,42 +163,42 @@ This unit's attacks inflict Dissonance.
 
 ## Dragon Scales II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Dragon Scales I; DLC DRAGONLORDS)
 
 - +1 Defense
 - +2 Resistance
 
 ## Dragon Scales II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Dragon Scales I; DLC DRAGONLORDS)
 
 - +2 Resistance
 - +5 Lightning Protection
 
 ## Dragon Scales II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Dragon Scales I; DLC DRAGONLORDS)
 
 - +2 Resistance
 - +5 Frost Protection
 
 ## Dragon Scales II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Dragon Scales I; DLC DRAGONLORDS)
 
 - +2 Resistance
 - +5 Blight Protection
 
 ## Dragon Scales II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Dragon Scales I; DLC DRAGONLORDS)
 
 - +2 Resistance
 - +5 Fire Protection
 
 ## Dragon Scales II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Dragon Scales I; DLC DRAGONLORDS)
 
 - +2 Resistance
 - +5 Spirit Protection
@@ -213,7 +213,7 @@ This unit's attacks inflict Dissonance.
 
 ## Eldritch Influence II
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Influence I; DLC ELDRITCHREALMS)
 
 - Gain +6 Imperium income per Turn.
 - Gain +10 [World Map] World Map Casting Points
@@ -249,7 +249,7 @@ Gain the Eldritch Rituals spell.
 
 ## Heightened Senses II
 
-(type normal; requires ; DLC DRAGONLORDS)
+(type normal; requires Heightened Senses I; DLC DRAGONLORDS)
 
 - All-round Awareness
 - +2 Vision Range

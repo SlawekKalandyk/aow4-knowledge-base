@@ -17,6 +17,7 @@ Culture buildings (aow4db site's hand-made culture map, not game data; details i
 - Starting affinity (culture + subculture): Order 1, Chaos 1
 - DLC: WAYSOFWAR
 - Units: [Honor Blade](../units/honor-blade.md), [Sworn Guard](../units/sworn-guard.md), [Wayfarer](../units/wayfarer.md), [Sealbearer](../units/sealbearer.md), [Vowkeeper](../units/vowkeeper.md), [Warbound](../units/warbound.md)
+- Can't take society traits: Fabled Hunters, Scions of Evil
 
 Your people follow a path of Strife, seeking to forge their strength in the fires of war:
 
@@ -31,6 +32,7 @@ Your people follow a path of Strife, seeking to forge their strength in the fire
 - Starting affinity (culture + subculture): Order 2
 - DLC: WAYSOFWAR
 - Units: [Honor Blade](../units/honor-blade.md), [Sworn Guard](../units/sworn-guard.md), [Wayfarer](../units/wayfarer.md), [Sealbearer](../units/sealbearer.md), [Vowkeeper](../units/vowkeeper.md), [Avenger](../units/avenger.md)
+- Can't take society traits: Fabled Hunters, Scions of Evil, Umbral Disciples
 
 Your people follow a path of Righteousness, working to be a positive force for good upon the world:
 
@@ -43,6 +45,7 @@ Your people follow a path of Righteousness, working to be a positive force for g
 - Starting affinity (culture + subculture): Order 1, Nature 1
 - DLC: WAYSOFWAR
 - Units: [Honor Blade](../units/honor-blade.md), [Sworn Guard](../units/sworn-guard.md), [Wayfarer](../units/wayfarer.md), [Sealbearer](../units/sealbearer.md), [Vowkeeper](../units/vowkeeper.md), [Peacebringer](../units/peacebringer.md)
+- Can't take society traits: Fabled Hunters, Scions of Evil
 
 Your people follow a path of Harmony, seeking cooperation and to clear the world of threats:
 

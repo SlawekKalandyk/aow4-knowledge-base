@@ -9,12 +9,15 @@ A people who worship powerful Animal Spirits and channel their Fury during battl
 
 Culture buildings (aow4db site's hand-made culture map, not game data; details in [structures](../empire/structures.md)): Shrine to the Spirits (unique building), Stonestele (replaces Stonemason), Town Hall II: Clan Lodge (replaces Town Hall II), Town Hall III: Spirit Hall (replaces Town Hall III), Town Hall IV: Primeval Palace (replaces Town Hall IV), Woodcarver's Workshop (replaces Workshop)
 
+Can't take society traits: Adaptation
+
 ## Subculture: Mire Crocodile
 
 - Starting affinity (culture + subculture): Nature 2
 - DLC: PRIMALFURY
 - Subculture tome: [Primal - Mire Crocodile](../tomes/primal-mire-crocodile.md)
 - Units: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
+- Can't take society traits: Adaptation
 
 Your people worship the Mire Crocodile, bestowing benefits to your culture:
 
@@ -36,6 +39,7 @@ Your people worship the Mire Crocodile, bestowing benefits to your culture:
 - DLC: PRIMALFURY
 - Subculture tome: [Primal - Storm Crow](../tomes/primal-storm-crow.md)
 - Units: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
+- Can't take society traits: Adaptation
 
 Your people worship the Storm Crow, bestowing benefits to your culture:
 
@@ -56,6 +60,7 @@ Your people worship the Storm Crow, bestowing benefits to your culture:
 - DLC: PRIMALFURY
 - Subculture tome: [Primal - Glacial Mammoth](../tomes/primal-glacial-mammoth.md)
 - Units: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
+- Can't take society traits: Adaptation
 
 Your people worship the Glacial Mammoth, bestowing benefits to your culture:
 
@@ -77,6 +82,7 @@ Your people worship the Glacial Mammoth, bestowing benefits to your culture:
 - DLC: PRIMALFURY
 - Subculture tome: [Primal - Dune Serpent](../tomes/primal-dune-serpent.md)
 - Units: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
+- Can't take society traits: Adaptation
 
 Your people worship the Dune Serpent, bestowing benefits to your culture:
 
@@ -98,6 +104,7 @@ Your people worship the Dune Serpent, bestowing benefits to your culture:
 - DLC: PRIMALFURY
 - Subculture tome: [Primal - Ash Sabertooth](../tomes/primal-ash-sabertooth.md)
 - Units: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
+- Can't take society traits: Adaptation
 
 Your people worship the Ash Sabertooth, bestowing benefits to your culture:
 
@@ -120,6 +127,7 @@ Your people worship the Ash Sabertooth, bestowing benefits to your culture:
 - DLC: PRIMALFURY
 - Subculture tome: [Primal - Tunneling Spider](../tomes/primal-tunneling-spider.md)
 - Units: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
+- Can't take society traits: Adaptation
 
 Your people worship the Tunneling Spider, bestowing benefits on your culture:
 
@@ -143,6 +151,7 @@ Your people worship the Tunneling Spider, bestowing benefits on your culture:
 - DLC: PRIMALFURY
 - Subculture tome: [Primal - Sylvan Wolf](../tomes/primal-sylvan-wolf.md)
 - Units: [Primal Darter](../units/primal-darter.md), [Protector](../units/protector.md), [Spirit Tracker](../units/spirit-tracker.md), [Animist](../units/animist.md), [Primal Charger](../units/primal-charger.md), [Ancestral Warden](../units/ancestral-warden.md)
+- Can't take society traits: Adaptation
 
 Your people worship the Sylvan Wolf, bestowing benefits to your culture:
 

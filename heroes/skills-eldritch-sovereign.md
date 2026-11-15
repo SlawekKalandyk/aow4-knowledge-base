@@ -2,7 +2,7 @@
 
 ## Astral Siphoner Ritual
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Astral Wisp Ritual; DLC ELDRITCHREALMS)
 
 - Gain +5 HP Hit Points
 - Gain +1 Resistance
@@ -23,7 +23,7 @@
 
 ## Desperate Anguish
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Caster I; DLC ELDRITCHREALMS)
 
 
 - **Desperate Anguish** (accuracy Always Hits, range 6, full action): Target enemy unit has a base 90% chance of: ; Losing -30 Morale.; Becoming Stunned for 1 Turn.  If unsuccessful, target loses -15 Morale instead. Cooldown: 4 Turns Requires: Debuff
@@ -39,7 +39,7 @@ Gain:
 
 ## Eldritch Caster II
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Caster I; DLC ELDRITCHREALMS)
 
 Gain:
 
@@ -55,7 +55,7 @@ Gain:
 
 ## Eldritch Phase II
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Phase I; DLC ELDRITCHREALMS)
 
 
 - **Greater Eldritch Phase** (accuracy Always Hits, range 6, free action): Teleport to target hex. Cooldown: 2 Turns Requires: Movement, Teleport
@@ -75,39 +75,39 @@ Gain:
 
 ## Forgotten Tome Mastery
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Caster II; DLC ELDRITCHREALMS)
 
 
 - **Forgotten Tome Mastery**: Forgotten Tome signature skills give their next spell 1 Turn faster.
 
 ## Mage Bane Ritual
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Astral Siphoner Ritual; DLC ELDRITCHREALMS)
 
 - Gain +5 HP Hit Points
 - Gain +1 Resistance
 
 ## Mass Phantasmal Ritual
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Phantasmal Ritual; DLC ELDRITCHREALMS)
 
 - Magic attacks gain +10% damage.
 
 ## Phantasmal Ritual
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Caster I; DLC ELDRITCHREALMS)
 
 - Magic attacks gain +10% damage.
 
 ## Quickening Ritual
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Caster II; DLC ELDRITCHREALMS)
 
 - Gain 20% evasion against Missile and Magic attacks.
 
 ## Tentacled Escape
 
-(type normal; requires ; DLC ELDRITCHREALMS)
+(type normal; requires Eldritch Caster II; DLC ELDRITCHREALMS)
 
 
 - **Tentacled Escape**: When the unit dies in combat, it escapes to the void instead and returns at the end of combat if its side is victorious.  Unit is brought back with 50% of their maximum HP Hit Points.

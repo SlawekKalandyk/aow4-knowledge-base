@@ -5,6 +5,7 @@
 - Group: Adaptations
 - DLC: Base
 - Incompatible with: Arctic Adaptation, Desert Adaptation, Swamp Adaptation, Underground Adaptation
+- Grants spells: [Earthshape: Ashland](../../spells/earthshape-ashland.md)
 
 ## Effects
 

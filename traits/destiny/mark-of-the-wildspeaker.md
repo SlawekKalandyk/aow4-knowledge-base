@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: Nature 2
 - DLC: Base
+- Earned when: 5 or more Animal type units; Animal type units make up 25+% of your total units
 
 ## Effects
 

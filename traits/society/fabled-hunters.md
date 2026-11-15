@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: Nature 1
 - DLC: Base
+- Not available to cultures: Mystic - School of Attunement, Mystic, Mystic - School of Potential, Mystic - School of Summoning, Oathsworn - Oath of Strife, Oathsworn - Oath of Righteousness, Oathsworn - Oath of Harmony
 
 ## Effects
 

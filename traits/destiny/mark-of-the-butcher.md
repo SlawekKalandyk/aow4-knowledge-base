@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: -10 Alignment
 - DLC: Base
+- Earned when: Has equal or over a 'High' Imperium Amount; 8 or more recent battles
 
 ## Effects
 

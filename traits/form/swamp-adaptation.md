@@ -5,6 +5,7 @@
 - Group: Adaptations
 - DLC: Base
 - Incompatible with: Arctic Adaptation, Desert Adaptation, Desolate Adaptation, Underground Adaptation
+- Grants spells: [Earthshape: Swamp](../../spells/earthshape-swamp.md)
 
 ## Effects
 

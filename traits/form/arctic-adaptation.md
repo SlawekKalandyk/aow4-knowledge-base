@@ -5,6 +5,7 @@
 - Group: Adaptations
 - DLC: Base
 - Incompatible with: Desert Adaptation, Desolate Adaptation, Swamp Adaptation, Underground Adaptation
+- Grants spells: [Earthshape: Snow](../../spells/earthshape-snow.md)
 
 ## Effects
 

@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: Astral 2
 - DLC: Base
+- Earned when: Have over 1000 + (25 x Current Turn Number) Mana stored
 
 ## Effects
 

@@ -5,6 +5,7 @@
 - Group: Adaptations
 - DLC: Base
 - Incompatible with: Arctic Adaptation, Desolate Adaptation, Swamp Adaptation, Underground Adaptation
+- Grants spells: [Earthshape: Sand](../../spells/earthshape-sand.md)
 
 ## Effects
 

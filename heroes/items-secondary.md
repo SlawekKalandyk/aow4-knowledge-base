@@ -155,6 +155,7 @@
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
+- **Inspiring Presence**: While in combat, this and all other friendly units have a +25% modifier to positive Morale gain.  This effect doesn't stack.
 
 ## Captain's Shield
 
@@ -239,6 +240,7 @@
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
+- **Intimidating Aura**: At the end of this unit's turn, adjacent enemy units have a base 90% chance of losing -5 Morale.  Doesn't work on units with this ability or Terrifying Aura.
 
 ## Umbral Shield
 
@@ -269,12 +271,14 @@
 (Tier II; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
+- **Barbed Shield**: Melee range attackers have a base 30% chance of becoming Bleeding.
 
 ## Frost Shield
 
 (Tier II; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
+- **Lesser Frost Shield**: When an attacker hits at melee range, the attacker sustains 6 Frost Damage.
 
 ## Noble Aegis
 
@@ -287,18 +291,21 @@
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
+- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
 
 ## Gilded Shield
 
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
+- **Gilded Shield**: Melee range attackers have a base 30% chance of becoming Gilded.
 
 ## Mirror Shield
 
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
+- **Damage Reflection**: Reflects 30% of all damage sustained from attacks back onto attackers.
 
 ## Fangir's Defender
 
@@ -309,3 +316,6 @@
 ## Shield of Artica
 
 (Tier IV; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
+
+
+- **Shield of Artica**: Melee range attackers: ; Take 4 Frost Damage.; Have a base 30% chance of becoming Frozen.

@@ -18,6 +18,8 @@ A Ruler risen from the ranks of their people.
 
 DLC: Base
 
+Origin spells: [Arcane Renewal](spells/arcane-renewal.md)
+
 A powerful Wizard seeking dominion over a new realm.
 
 - Wizard Kings have access to unique Combat Spell enhancing hero skills.
@@ -42,6 +44,8 @@ A mighty Dragon seeking new realms to shape in their vision.
 
 DLC: THRONESOFBLOOD
 
+Origin spells: [Desecration Ritual](spells/desecration-ritual.md), [Pall of Darkness Ritual](spells/pall-of-darkness-ritual.md), [Blood Moon Ritual](spells/blood-moon-ritual.md), [Vivisection Ritual](spells/vivisection-ritual.md), [Soul Drain Ritual](spells/soul-drain-ritual.md), [Blood Transfer Ritual](spells/blood-transfer-ritual.md)
+
 A deathless Vampire who drains the life from enemies under cover of night.
 
 - An Undead unit with an aversion to light.
@@ -55,6 +59,8 @@ A deathless Vampire who drains the life from enemies under cover of night.
 
 DLC: ELDRITCHREALMS
 
+Origin spells: [Astral Wisp Ritual](spells/astral-wisp-ritual.md), [Mage Bane Ritual](spells/mage-bane-ritual.md), [Astral Siphoner Ritual](spells/astral-siphoner-ritual.md), [Clairvoyance Ritual](spells/clairvoyance-ritual.md), [Phantasmal Ritual](spells/phantasmal-ritual.md), [Mass Phantasmal Ritual](spells/mass-phantasmal-ritual.md), [Dark Knowledge Ritual](spells/dark-knowledge-ritual.md), [Quickening Ritual](spells/quickening-ritual.md), [Eldritch Rituals](spells/eldritch-rituals.md), [Enthrall Population](spells/enthrall-population.md)
+
 An eldritch sorcerer commanding powers beyond mortal comprehension.
 
 - Eldritch Sovereigns have access to powerful control Hero Skills.
@@ -67,6 +73,8 @@ An eldritch sorcerer commanding powers beyond mortal comprehension.
 ### Giant King
 
 DLC: GIANTKINGS
+
+Origin spells: [Summon Ice Runestele](spells/summon-ice-runestele.md), [Summon Lava Runestele](spells/summon-lava-runestele.md), [Summon Storm Runestele](spells/summon-storm-runestele.md), [Summon Rock Runestele](spells/summon-rock-runestele.md)
 
 A formidable Giant who harnesses the elemental force of the Fire, Rock, Storm, or Frost Clan to refashion realms.
 

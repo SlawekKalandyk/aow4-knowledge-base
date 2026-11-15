@@ -4,6 +4,7 @@
 - Point cost: 1
 - Affinity: Shadow 2
 - DLC: Base
+- Earned when: 'High' Knowledge income; 3 or more Ancient Wonders in domain
 
 ## Effects
 

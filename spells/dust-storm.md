@@ -4,7 +4,7 @@
 - Casting cost: 15 Mana
 - Casting points: 20
 - Tome: Tome of Winds
-- Granted by: [Followers of Materium](../world/free-cities.md) (free city)
+- Granted by: [Followers of Materium](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Enemy units in a 2-hex radius:

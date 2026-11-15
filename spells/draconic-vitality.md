@@ -4,7 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 150
 - Tome: Tome of Evolution
-- Granted by: [Followers of the Dragon](../world/free-cities.md) (free city)
+- Granted by: [Followers of the Dragon](../world/free-cities.md) (free city, possible upgrade)
 - DLC: DRAGONLORDS
 
 Target race is imbued with Dragon-like vitality, granting them:

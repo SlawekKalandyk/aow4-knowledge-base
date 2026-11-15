@@ -4,7 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 80
 - Tome: Tome of the Blood Rite
-- Granted by: [Sanguine Vampires](../world/free-cities.md) (free city)
+- Granted by: [Sanguine Vampires](../world/free-cities.md) (free city, possible upgrade)
 - DLC: THRONESOFBLOOD
 - Applies to: Support Unit, Battle Mage Unit, Magic Fighter Unit
 

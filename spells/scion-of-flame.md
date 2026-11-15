@@ -4,7 +4,7 @@
 - Casting cost: 450 Mana
 - Casting points: 450
 - Tome: Tome of Chaos Channeling
-- Granted by: [Masters of Chaos](../world/free-cities.md) (free city), [Masters of Demons](../world/free-cities.md) (free city), [Masters of the Cleansing Flame](../world/free-cities.md) (free city)
+- Granted by: [Masters of Chaos](../world/free-cities.md) (free city, possible upgrade), [Masters of Demons](../world/free-cities.md) (free city, possible upgrade), [Masters of the Cleansing Flame](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Makes the target race the embodiment of fire, granting them:

@@ -4,7 +4,7 @@
 - Casting cost: 15 Mana
 - Casting points: 20
 - Tome: Tome of Pyromancy
-- Granted by: [Masters of the Cleansing Flame](../world/free-cities.md) (free city)
+- Granted by: [Masters of the Cleansing Flame](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Enemy units in a 1-hex radius:

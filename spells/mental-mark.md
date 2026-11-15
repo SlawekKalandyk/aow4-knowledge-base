@@ -4,7 +4,7 @@
 - Casting cost: 15 Mana
 - Casting points: 20
 - Tome: Tome of Scrying
-- Granted by: [Followers of Astral](../world/free-cities.md) (free city)
+- Granted by: [Followers of Astral](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Target Enemies in a 1-hex radius gain:

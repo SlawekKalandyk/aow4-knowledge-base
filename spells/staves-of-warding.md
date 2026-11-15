@@ -4,7 +4,7 @@
 - Casting cost: 70 Mana
 - Casting points: 70
 - Tome: Tome of Warding
-- Granted by: [Masters of Antimagic](../world/free-cities.md) (free city)
+- Granted by: [Masters of Antimagic](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Applies to: Support Unit
 

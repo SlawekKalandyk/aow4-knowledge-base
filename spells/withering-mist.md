@@ -4,7 +4,7 @@
 - Casting cost: 100 Mana
 - Casting points: 40
 - Tome: Tome of the Eternal Lord
-- Granted by: [Masters of Corruption](../world/free-cities.md) (free city), [Masters of Frost](../world/free-cities.md) (free city), [Masters of Shadow](../world/free-cities.md) (free city)
+- Granted by: [Masters of Corruption](../world/free-cities.md) (free city, possible upgrade), [Masters of Frost](../world/free-cities.md) (free city, possible upgrade), [Masters of Shadow](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Each turn, for 3 Turns, all enemies:

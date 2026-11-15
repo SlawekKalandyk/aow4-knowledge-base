@@ -4,7 +4,7 @@
 - Casting cost: 70 Mana
 - Casting points: 70
 - Tome: Tome of Alchemy
-- Granted by: [Followers of Alchemy](../world/free-cities.md) (free city)
+- Granted by: [Followers of Alchemy](../world/free-cities.md) (free city, possible upgrade)
 - DLC: EMPIRESANDASHES
 - Applies to: Support Unit
 

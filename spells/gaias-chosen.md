@@ -4,7 +4,7 @@
 - Casting cost: 600 Mana
 - Casting points: 600
 - Tome: Tome of Paradise
-- Granted by: [Masters of Nature](../world/free-cities.md) (free city)
+- Granted by: [Masters of Nature](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Infuse the target race with the blessing of Nature. They gain:

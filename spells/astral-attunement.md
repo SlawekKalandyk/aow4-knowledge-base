@@ -4,7 +4,7 @@
 - Casting cost: 600 Mana
 - Casting points: 600
 - Tome: Tome of Astral Convergence
-- Granted by: [Masters of Astral](../world/free-cities.md) (free city), [Masters of the Ethereal](../world/free-cities.md) (free city)
+- Granted by: [Masters of Astral](../world/free-cities.md) (free city, possible upgrade), [Masters of the Ethereal](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Links the target race to the Astral Sea, granting them:

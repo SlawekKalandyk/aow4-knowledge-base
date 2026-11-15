@@ -4,7 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 80
 - Tome: Tome of Faith
-- Granted by: [Initiates of Order](../world/free-cities.md) (free city)
+- Granted by: [Initiates of Order](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Applies to: Support Unit
 

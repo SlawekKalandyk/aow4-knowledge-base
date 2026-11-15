@@ -4,7 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 150
 - Tome: Tome of Discipline
-- Granted by: [Masters of Prosperity](../world/free-cities.md) (free city)
+- Granted by: [Masters of Prosperity](../world/free-cities.md) (free city, possible upgrade)
 - DLC: WAYSOFWAR
 
 Grants the target race mastery over their own internal energies, granting them:

@@ -4,7 +4,7 @@
 - Casting cost: 250 Mana
 - Casting points: 250
 - Tome: Tome of Fey Mists
-- Granted by: [Followers of Fey](../world/free-cities.md) (free city)
+- Granted by: [Followers of Fey](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Makes the target race connect with Fey powers, granting them:

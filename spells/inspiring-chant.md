@@ -4,7 +4,7 @@
 - Casting cost: 30 Mana
 - Casting points: 25
 - Tome: Tome of Zeal
-- Granted by: [Initiates of Order](../world/free-cities.md) (free city), [Masters of the Cleansing Flame](../world/free-cities.md) (free city)
+- Granted by: [Initiates of Order](../world/free-cities.md) (free city, possible upgrade), [Masters of the Cleansing Flame](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Friendly units in a 2-hex radius:

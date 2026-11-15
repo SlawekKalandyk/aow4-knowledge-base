@@ -4,7 +4,7 @@
 - Casting cost: 90 Mana
 - Casting points: 90
 - Tome: Tome of the Inquisition
-- Granted by: [Followers of Order](../world/free-cities.md) (free city), [Masters of the Cleansing Flame](../world/free-cities.md) (free city)
+- Granted by: [Followers of Order](../world/free-cities.md) (free city, possible upgrade), [Masters of the Cleansing Flame](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Applies to: Ranged Unit, Support Unit, Battle Mage Unit, Skirmisher Unit
 

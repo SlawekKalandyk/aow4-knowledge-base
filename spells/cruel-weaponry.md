@@ -4,7 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 80
 - Tome: Tome of the Doomherald
-- Granted by: [Dreadful Vampires](../world/free-cities.md) (free city), [Followers of Shadow](../world/free-cities.md) (free city)
+- Granted by: [Dreadful Vampires](../world/free-cities.md) (free city, possible upgrade), [Followers of Shadow](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Applies to: Shield Unit, Polearm Unit, Shock Unit, Fighter Unit, Skirmisher Unit, Magic Fighter Unit
 

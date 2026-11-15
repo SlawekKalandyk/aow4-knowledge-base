@@ -4,7 +4,7 @@
 - Casting cost: 250 Mana
 - Casting points: 250
 - Tome: Tome of the Construct
-- Granted by: [Masters of Constructs](../world/free-cities.md) (free city)
+- Granted by: [Masters of Constructs](../world/free-cities.md) (free city, possible upgrade)
 - DLC: EMPIRESANDASHES
 
 Units of this race gain the ability to share senses, granting them:

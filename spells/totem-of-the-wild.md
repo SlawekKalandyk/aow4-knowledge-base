@@ -4,7 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of Vigor
-- Granted by: [Masters of Beasts](../world/free-cities.md) (free city), [Masters of Nature](../world/free-cities.md) (free city)
+- Granted by: [Masters of Beasts](../world/free-cities.md) (free city, possible upgrade), [Masters of Nature](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Summons: [Totem of the Wild](../units/totem-of-the-wild.md)
 

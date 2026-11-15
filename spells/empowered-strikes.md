@@ -4,7 +4,7 @@
 - Casting cost: 70 Mana
 - Casting points: 70
 - Tome: Tome of Discipline
-- Granted by: [Masters of Prosperity](../world/free-cities.md) (free city)
+- Granted by: [Masters of Prosperity](../world/free-cities.md) (free city, possible upgrade)
 - DLC: WAYSOFWAR
 - Applies to: Shield Unit, Polearm Unit, Fighter Unit, Skirmisher Unit, Magic Fighter Unit
 

@@ -4,7 +4,7 @@
 - Casting cost: 140 Mana
 - Casting points: 140
 - Tome: Tome of the Cleansing Flame
-- Granted by: [Masters of the Cleansing Flame](../world/free-cities.md) (free city)
+- Granted by: [Masters of the Cleansing Flame](../world/free-cities.md) (free city, possible upgrade)
 - DLC: ELDRITCHREALMS
 - Applies to: Support Unit, Battle Mage Unit, Magic Fighter Unit
 

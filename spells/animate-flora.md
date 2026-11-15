@@ -4,7 +4,7 @@
 - Casting cost: 15 Mana
 - Casting points: 20
 - Tome: Tome of Glades
-- Granted by: [Followers of Nature](../world/free-cities.md) (free city), [Masters of Flora](../world/free-cities.md) (free city)
+- Granted by: [Followers of Nature](../world/free-cities.md) (free city, possible upgrade), [Masters of Flora](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Summons: [Floral Stinger](../units/floral-stinger.md)
 

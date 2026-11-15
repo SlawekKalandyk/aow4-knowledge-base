@@ -17,7 +17,7 @@ Data is current as of the commit in `SOURCE.md` (all DLCs up to then).
 | `tomes/` | 122 tomes; each file lists the units, spells, passives and upgrades it unlocks, linked. Tier 0 = culture/subculture tomes (`dark-cult-of-tyranny.md`), pacts and special research |
 | `traits/society/`, `traits/form/`, `traits/destiny/` | Faction traits: point cost, affinity, effects, starting bonus, incompatibilities. Evil-act traits are marked. The Vision society traits list their Archon Prophecy visions |
 | `units/` | Stats, cost, abilities with damage/range, passives, rank-up rewards, and the tome or culture that unlocks the unit |
-| `spells/` | Type, cost, upkeep, unlocking tome, "Granted by" (ruler origin, trait, relic, free city or world structure), targets, full text. About 60 spells have neither; the data doesn't say where those come from |
+| `spells/` | Type, cost, upkeep, unlocking tome, "Granted by" (ruler origin, trait, relic, free city or world structure; "free city, possible upgrade" = a city of that faction may offer it, not a sure source), targets, full text. About 60 spells have neither; the data doesn't say where those come from |
 | `cultures/` | One file per culture: description, starting affinity per subculture, culture/subculture tomes, units, buildings and society traits it can't take. The index table has every culture + subculture's starting affinity |
 | `races.md` | The 24 race appearances with descriptions (cosmetic; gameplay comes from form traits) |
 | `rulers.md` | Ruler origins (Champion, Wizard King, Eldritch Sovereign, …), dragon/giant/vampire subtypes |

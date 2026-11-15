@@ -4,7 +4,7 @@
 - Casting cost: 600 Mana
 - Casting points: 600
 - Tome: Tome of Corruption
-- Granted by: [Masters of Corruption](../world/free-cities.md) (free city)
+- Granted by: [Masters of Corruption](../world/free-cities.md) (free city, possible upgrade)
 - DLC: ELDRITCHREALMS
 
 Turns target race into Umbral beings, which grants them:

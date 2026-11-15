@@ -4,7 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 50
 - Tome: Tome of Supremacy
-- Granted by: [Masters of Order](../world/free-cities.md) (free city)
+- Granted by: [Masters of Order](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 All allied units gain:

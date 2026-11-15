@@ -4,7 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 150
 - Tome: Tome of the Blood Rite
-- Granted by: [Sanguine Vampires](../world/free-cities.md) (free city)
+- Granted by: [Sanguine Vampires](../world/free-cities.md) (free city, possible upgrade)
 - DLC: THRONESOFBLOOD
 
 Carve profane sigils onto the flesh of your race, granting them:

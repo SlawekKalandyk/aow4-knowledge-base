@@ -871,7 +871,8 @@ def build_world():
                     if kind == "units":
                         items = [unit_link(u, "../") for u in slug_list(val)]
                     elif kind == "spells":
-                        src = f"[{clean(rec.get('name')) or f['id']}](../world/free-cities.md) (free city)"
+                        how = "always" if key == "mandatory" else "possible upgrade"  # upgrades: a city may offer it
+                        src = f"[{clean(rec.get('name')) or f['id']}](../world/free-cities.md) (free city, {how})"
                         items = [spell_link(s, "../", src) for s in slug_list(val)]
                     else:
                         items = [v.replace("_", " ") for v in slug_list(val)]

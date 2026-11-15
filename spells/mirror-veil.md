@@ -4,7 +4,7 @@
 - Casting cost: 160 Mana
 - Casting points: 160
 - Tome: Tome of the Astral Mirror
-- Granted by: [Masters of Antimagic](../world/free-cities.md) (free city), [Masters of Astral](../world/free-cities.md) (free city)
+- Granted by: [Masters of Antimagic](../world/free-cities.md) (free city, possible upgrade), [Masters of Astral](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Applies to: Shield Unit, Polearm Unit, Shock Unit, Fighter Unit, Skirmisher Unit, Magic Fighter Unit
 

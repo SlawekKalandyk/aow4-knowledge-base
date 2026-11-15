@@ -4,7 +4,7 @@
 - Casting cost: 80 Mana
 - Casting points: 35
 - Tome: Tome of Torment
-- Granted by: [Dreadful Vampires](../world/free-cities.md) (free city)
+- Granted by: [Dreadful Vampires](../world/free-cities.md) (free city, possible upgrade)
 - DLC: THRONESOFBLOOD
 
 Enemy units in a 1-hex radius:

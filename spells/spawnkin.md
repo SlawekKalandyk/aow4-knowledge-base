@@ -4,7 +4,7 @@
 - Casting cost: 150 Mana
 - Casting points: 150
 - Tome: Tome of the Horde
-- Granted by: [Masters of Demons](../world/free-cities.md) (free city)
+- Granted by: [Masters of Demons](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 
 Makes the target race smaller and more numerous, granting them:

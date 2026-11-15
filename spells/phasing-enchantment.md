@@ -4,7 +4,7 @@
 - Casting cost: 120 Mana
 - Casting points: 120
 - Tome: Tome of Teleportation
-- Granted by: [Masters of Astral](../world/free-cities.md) (free city), [Masters of Corruption](../world/free-cities.md) (free city), [Masters of the Ethereal](../world/free-cities.md) (free city)
+- Granted by: [Masters of Astral](../world/free-cities.md) (free city, possible upgrade), [Masters of Corruption](../world/free-cities.md) (free city, possible upgrade), [Masters of the Ethereal](../world/free-cities.md) (free city, possible upgrade)
 - DLC: Base
 - Applies to: Support Unit, Battle Mage Unit, Magic Fighter Unit
 

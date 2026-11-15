@@ -293,28 +293,6 @@ Conjured Weapon now lasts until the end of combat and gains:
 - +1 Defense
 - +1 Resistance
 
-## Reinforced Conjure Weapon
-
-(type normal; requires any of Conjure Animated Lava Hammer, Conjure Animated Shield, Conjure Animated Storm Glaive, Conjure Animated Ice Bow, Conjure Animated Lava Bow, Conjure Animated Hammer, Conjure Animated Storm Shield, Conjure Animated Ice Glaive; can't be taken with Sharpened Conjure Weapon; DLC GIANTKINGS)
-
-Conjured Weapon now lasts until the end of combat and gains:
-
-- +10 Hit Points
-- +2 Status Resistance
-- +1 Defense
-- +1 Resistance
-
-## Reinforced Conjure Weapon
-
-(type normal; requires any of Conjure Animated Lava Hammer, Conjure Animated Shield, Conjure Animated Storm Glaive, Conjure Animated Ice Bow, Conjure Animated Lava Bow, Conjure Animated Hammer, Conjure Animated Storm Shield, Conjure Animated Ice Glaive; can't be taken with Sharpened Conjure Weapon; DLC GIANTKINGS)
-
-Conjured Weapon now lasts until the end of combat and gains:
-
-- +10 Hit Points
-- +2 Status Resistance
-- +1 Defense
-- +1 Resistance
-
 ## Rune of Command: Fire
 
 (type normal; requires any of Rune of Power: Fire, Rune of Protection: Fire; DLC GIANTKINGS)

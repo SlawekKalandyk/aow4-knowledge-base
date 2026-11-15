@@ -6,51 +6,9 @@
 
 
 
-## Boots
-
-(DLC Base)
-
-
-
-## Boots
-
-(DLC Base)
-
-
-
-## Boots
-
-(DLC Base)
-
-
-
 ## Greaves
 
 (DLC ELDRITCHREALMS)
-
-
-
-## Greaves
-
-(DLC ELDRITCHREALMS)
-
-
-
-## Greaves
-
-(DLC Base)
-
-
-
-## Greaves
-
-(DLC Base)
-
-
-
-## Greaves
-
-(DLC Base)
 
 
 

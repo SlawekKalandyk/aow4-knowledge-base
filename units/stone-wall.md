@@ -16,7 +16,6 @@
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Immobilized**: This unit cannot move or use Movement abilities.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
-- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Status Effect Immunity: Morale**: This unit is Immune to Morale-type status effects.
 - **Status Effect Immunity: Soulbound**: Unit is immune to Soulbound and cannot be transformed into a Decaying Zombie by necromancy spells and abilities.
 

@@ -23,7 +23,6 @@ A Polearm Unit capable of pulling in and restraining opponents.
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
-- **Land Movement**: This unit can move over land hexes.
 - **Polearm Unit**: Specialists in taking out large threats and cavalry and can counter shock unit charges. Polearm Units have: ; First Strike; Charge Resistance; +40% damage against Cavalry and Large Target units.
 
 ## Rank-up rewards

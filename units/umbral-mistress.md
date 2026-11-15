@@ -23,7 +23,6 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Umbral Dissolution**: When this unit dies, it creates Umbral Taint around it.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
-- **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 
 ## Unit type traits
 

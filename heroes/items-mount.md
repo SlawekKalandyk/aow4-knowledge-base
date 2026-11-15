@@ -171,15 +171,6 @@ Unit has:
 - Very Fast Movement.
 - The Cavalry unit type.
 
-## Skeleton Horse Mount
-
-(Tier I; DLC THRONESOFBLOOD)
-
-Unit has:
-
-- Very Fast Movement.
-- The Cavalry unit type.
-
 ## Stag Mount
 
 (Tier I; DLC Base)

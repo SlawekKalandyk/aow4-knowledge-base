@@ -160,13 +160,6 @@ Increases unit upkeep by 20 Mana.
 
 - **Critical Rune**: Unit has +15% Critical Hit Chance.
 
-## Critical Rune
-
-(type signature; DLC GIANTKINGS)
-
-
-- **Critical Rune**: Unit has +15% Critical Hit Chance.
-
 ## Curse to Undeath
 
 (type signature; DLC THRONESOFBLOOD)
@@ -174,13 +167,6 @@ Increases unit upkeep by 20 Mana.
 
 - **Curse to Undeath** (damage 10 Frost, accuracy Always Hits, range 6, full action): Enemy units in a 2-hex radius: ; Sustain damage.; Gain 2 Status Vulnerability for 3 Turns.; Become Soulbound until end of combat. Cooldown: 3 Turns Requires: Magic, Debuff
 - **Soulbound Anguish**: At the start of the turn, enemy units with Soulbound sustain 8 Frost Damage.
-
-## Damage Rune
-
-(type signature; DLC GIANTKINGS)
-
-
-- **Damage Rune**: Unit deals +15% damage.
 
 ## Damage Rune
 
@@ -204,13 +190,6 @@ Increases unit upkeep by 20 Mana.
 - **Dark Sacrament** (damage 20 Blight, accuracy Always Hits, range 4, single-use action): Target corpse explodes and all enemy units in a 2-hex radius from it sustain damage. Diseased: Base 120% chance of inflicting Diseased for 3 Turns. Decaying: Base 120% chance of inflicting Decaying for 3 Turns. Cooldown: 1 Turns Requires: Magic, Debuff
 - **Undead Servants**: At the start of combat, conjure a Zombie.
 - **Increased Upkeep**: Upkeep increases by 10 Gold.
-
-## Dispelling Rune
-
-(type signature; DLC GIANTKINGS)
-
-
-- **Dispelling Rune**: At the start of the turn, dispel 1 Negative Status Effect.
 
 ## Dispelling Rune
 
@@ -465,13 +444,6 @@ Increases unit upkeep by 10 Mana.
 
 - **Gravemarch** (accuracy Always Hits, range 6, full action): Conjure 4 corpses of Tier I Thorned Skeleton units in a 1-hex radius. For the next 3 Turns, resurrect one random corpse on the battlefield under your control until the end of combat. Can only be used once per battle. Requires: Summoning
 - **Increased Upkeep**: Upkeep increases by 20 Gold.
-
-## Guard Rune
-
-(type signature; DLC GIANTKINGS)
-
-
-- **Guard Rune**: Unit has: ; +1 Defense; +1 Resistance
 
 ## Guard Rune
 
@@ -798,13 +770,6 @@ Increases unit upkeep by 20 Mana.
 
 - **Reflecting Rune**: This unit reflects 20% of the damage sustained by Melee attacks.
 
-## Reflecting Rune
-
-(type signature; DLC GIANTKINGS)
-
-
-- **Reflecting Rune**: This unit reflects 20% of the damage sustained by Melee attacks.
-
 ## Rosebound Noble
 
 (type signature; DLC THRONESOFBLOOD)
@@ -879,13 +844,6 @@ Bloodblight now spreads to 4 enemy units within 3 hexes.
 (type signature; requires Exsanguinate; DLC THRONESOFBLOOD)
 
 Exsanguinate now deals 50% of its damage to adjacent enemies which ignores 50% of enemy Defense and Resistance.
-
-## Vitality Rune
-
-(type signature; DLC GIANTKINGS)
-
-
-- **Vitality Rune**: Unit gains +15 Hit Points.
 
 ## Vitality Rune
 

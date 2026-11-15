@@ -18,7 +18,6 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Immobilized**: This unit cannot move or use Movement abilities.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
-- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Reinforced**: Unit has +3 Defense against Missile attacks.
 - **Status Effect Immunity: Morale**: This unit is Immune to Morale-type status effects.
 - **Status Effect Immunity: Soulbound**: Unit is immune to Soulbound and cannot be transformed into a Decaying Zombie by necromancy spells and abilities.

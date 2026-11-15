@@ -17,7 +17,6 @@
 - **Immobilized**: This unit cannot move or use Movement abilities.
 - **Lava Burst**: At the start of the turn, enemy units in a 2-hex radius: ; Sustain 15 Fire Damage.; Become Burning for 3 Turns.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
-- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Status Effect Immunity: Burning**: Unit is immune to Burning.
 - **Status Effect Immunity: Morale**: This unit is Immune to Morale-type status effects.
 - **Status Effect Immunity: Soulbound**: Unit is immune to Soulbound and cannot be transformed into a Decaying Zombie by necromancy spells and abilities.

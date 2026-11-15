@@ -17,7 +17,6 @@
 ## Passives
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
-- **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Disrupting Aura**: At the start of the turn, adjacent enemy units: ; Sustain 8 Physical Damage.; Have a base 90% chance of becoming Disrupted for 2 Turns.
 - **Draconic Rage**: When this unit's total Hit Points reach 60% or lower, it deals +30% damage.

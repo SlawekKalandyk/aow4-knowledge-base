@@ -18,7 +18,6 @@
 - **Immobilized**: This unit cannot move or use Movement abilities.
 - **Melee Mage**: Unit can use Magic and Support abilities while Engaged in Melee.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
-- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Status Effect Immunity: Morale**: This unit is Immune to Morale-type status effects.
 - **Status Effect Immunity: Soulbound**: Unit is immune to Soulbound and cannot be transformed into a Decaying Zombie by necromancy spells and abilities.
 

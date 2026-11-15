@@ -17,7 +17,6 @@
 - **Freezing Mist**: At the start of the turn, enemy units within 2 hexes: ; Sustain 15 Frost Damage.; Have a base 120% chance of becoming Chilled for 3 Turns.
 - **Immobilized**: This unit cannot move or use Movement abilities.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
-- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Status Effect Immunity: Frozen**: Unit is immune to Frozen.
 - **Status Effect Immunity: Morale**: This unit is Immune to Morale-type status effects.
 - **Status Effect Immunity: Soulbound**: Unit is immune to Soulbound and cannot be transformed into a Decaying Zombie by necromancy spells and abilities.

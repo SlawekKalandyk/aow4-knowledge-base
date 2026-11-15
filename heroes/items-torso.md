@@ -8,77 +8,11 @@
 
 ## Armor
 
-(DLC ELDRITCHREALMS)
-
-
-
-## Armor
-
-(DLC Base)
-
-
-
-## Armor
-
-(DLC Base)
-
-
-
-## Armor
-
-(DLC Base)
-
-
-
-## Armor
-
-(DLC Base)
-
-
-
-## Armor
-
-(DLC Base)
-
-
-
-## Armor
-
 (DLC Base)
 
 
 
 ## Cloak
-
-(DLC Base)
-
-
-
-## Cloak
-
-(DLC Base)
-
-
-
-## Cloak
-
-(DLC Base)
-
-
-
-## Cloak
-
-(DLC Base)
-
-
-
-## Robe
-
-(DLC Base)
-
-
-
-## Robe
 
 (DLC Base)
 

@@ -28,7 +28,6 @@
 
 - **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Cave Walk**: Moving through Cavern Floors costs 5 Move Points instead of 6. Moving through Fungus Fields costs 5 Move Points instead of 6. Moving through Mushroom Forests costs 6 Move Points instead of 8.
-- **Cave Walk**: Moving through Cavern Floors costs 5 Move Points instead of 6. Moving through Fungus Fields costs 5 Move Points instead of 6. Moving through Mushroom Forests costs 6 Move Points instead of 8.
 - **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.

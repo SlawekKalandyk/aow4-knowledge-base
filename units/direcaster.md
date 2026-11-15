@@ -20,7 +20,6 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Melee Mage**: Unit can use Magic and Support abilities while Engaged in Melee.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
-- **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 
 ## Unit type traits
 

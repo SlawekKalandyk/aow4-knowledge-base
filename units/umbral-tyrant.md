@@ -22,7 +22,6 @@
 - **Tyrant's Oversight**: At the start of each turn, all friendly units with Tyrant's Mark: ; Gain Strengthened for 3 Turns.; Heal 10 Temporary Hit Points.
 - **Tyrant's Retinue**: At the start of battle, summon 2 Splitterlings.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
-- **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 
 ## Unit type traits
 

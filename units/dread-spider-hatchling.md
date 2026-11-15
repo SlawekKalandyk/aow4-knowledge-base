@@ -18,7 +18,6 @@
 - **Status Effect Immunity: Immobilized**: Unit is immune to Immobilized.
 - **Status Effect Immunity: Slowed**: Unit is immune to Slowed.
 - **Swift**: This unit ignores the effects of Slowing terrain in combat.
-- **Swift**: This unit ignores the effects of Slowing terrain in combat.
 
 ## Unit type traits
 

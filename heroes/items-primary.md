@@ -7,13 +7,6 @@
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Armored Claw
-
-(DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Dragon Lord)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
 ## Axe
 
 (DLC PRIMALFURY; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
@@ -27,20 +20,6 @@
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Axe
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Bardiche
-
-(DLC RISEFROMRUIN; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Bardiche
 
@@ -97,62 +76,6 @@
 - **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Bow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
 ## Breachgun and Axe
 
 (DLC EMPIRESANDASHES; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
@@ -168,53 +91,6 @@
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 
-## Cestus
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Crossbow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Crossbow** (damage 30 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Crossbow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Crossbow** (damage 30 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Crossbow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Crossbow** (damage 30 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Crossbow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Crossbow** (damage 30 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Crossbow
-
-(DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Crossbow** (damage 30 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
 ## Crossbow
 
 (DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
@@ -229,51 +105,6 @@
 
 
 - **Melee Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Dragon Claw
-
-(DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
-
-
-- **Melee Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Dragon Claw
-
-(DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
-
-
-- **Melee Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Dragon Claw
-
-(DLC DRAGONLORDS; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight, Defender, Warrior; hero types: Dragon Lord)
-
-
-- **Melee Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Eldritch Relic
-
-(DLC ELDRITCHREALMS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Eldritch Sovereign; disables slots: Secondary)
-
-
-- **Mind Spike** (damage 14 Physical, accuracy 90%, range 8, full action): Deal damage to target unit. Unblockable Damage: Damage can not be reduced by Defense or Resistance. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Mind Rebuke** (damage 18 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Unblockable Damage: Damage can not be reduced by Defense or Resistance. Requires: Magic, Base, Single Shot
-
-## Eldritch Relic
-
-(DLC ELDRITCHREALMS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Eldritch Sovereign; disables slots: Secondary)
-
-
-- **Mind Spike** (damage 14 Physical, accuracy 90%, range 8, full action): Deal damage to target unit. Unblockable Damage: Damage can not be reduced by Defense or Resistance. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Mind Rebuke** (damage 18 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Unblockable Damage: Damage can not be reduced by Defense or Resistance. Requires: Magic, Base, Single Shot
-
-## Eldritch Relic
-
-(DLC ELDRITCHREALMS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Eldritch Sovereign; disables slots: Secondary)
-
-
-- **Mind Spike** (damage 14 Physical, accuracy 90%, range 8, full action): Deal damage to target unit. Unblockable Damage: Damage can not be reduced by Defense or Resistance. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Mind Rebuke** (damage 18 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Unblockable Damage: Damage can not be reduced by Defense or Resistance. Requires: Magic, Base, Single Shot
 
 ## Eldritch Relic
 
@@ -297,13 +128,6 @@
 
 - **Dagger Flurry** (damage 34 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Giant Axe
-
-(DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
-
-
-- **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
 ## Giant Axe
 
@@ -347,20 +171,6 @@
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Greataxe
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Greataxe
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
 ## Greatbow
 
 (DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
@@ -390,27 +200,6 @@
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Greathammer
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Greathammer
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Greathammer
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
 ## Greatmace
 
 (DLC THRONESOFBLOOD; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
@@ -419,13 +208,6 @@
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatmace
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Greatsword
 
 (DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
@@ -453,51 +235,6 @@
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Greatsword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Greatsword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Greatsword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Grimoire
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Steel Spike** (damage 16 Physical, accuracy 90%, range 8, full action): Deal damage to target unit. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Steel Rebuke** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Requires: Magic, Base, Single Shot
-
-## Grimoire
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Steel Spike** (damage 16 Physical, accuracy 90%, range 8, full action): Deal damage to target unit. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Steel Rebuke** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Requires: Magic, Base, Single Shot
-
-## Grimoire
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Steel Spike** (damage 16 Physical, accuracy 90%, range 8, full action): Deal damage to target unit. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Steel Rebuke** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Requires: Magic, Base, Single Shot
-
 ## Grimoire
 
 (DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
@@ -516,13 +253,6 @@
 ## Halberd
 
 (DLC EMPIRESANDASHES; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Halberd
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
@@ -556,48 +286,6 @@
 
 - **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Lance
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Lance
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Lance
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Lance
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Lance
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Lance
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
 ## Lithorite Orb
 
 (DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
@@ -612,28 +300,6 @@
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Mace
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Mace
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Magelock
-
-(DLC SILVERSEAS; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Fire Heavy Magelock** (damage 30 Physical, accuracy 100%, range 5, full action): Fire Heavy Magelock at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Snapshot Heavy Magelock** (damage 25 Physical, accuracy 80%, range 4, single-use action): Quickly fire Heavy Magelock at target enemy unit, with reduced accuracy and effectiveness. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
 
 ## Magelock
 
@@ -659,25 +325,9 @@
 - **Magic Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
 - **Fire Dart** (damage 16 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
 
-## Magic Strike Weapons
-
-(DLC Base; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Fire Dart** (damage 16 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
-
 ## Magical Orb
 
 (DLC WITCHOFTHEWAVES; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
 - **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
@@ -709,95 +359,7 @@
 
 ## Magical Orb
 
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
 (DLC ARCHONPROPHECY; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Magical Orb
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
 - **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
@@ -810,14 +372,6 @@
 
 - **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Obelisk
-
-(DLC GIANTKINGS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
-
-
-- **Obelisk Crash** (damage 20 Physical, accuracy Always Hits, range 4, single-use action): Deal damage to target unit. Adjacent enemy units to the target sustain 50% of the damage. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic
-- **Kick** (damage 20 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Obelisk
 
@@ -840,56 +394,6 @@
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Pike
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Pike
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Pike
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Pike
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Pike
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Pike
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Pistol and Sword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Fire Pistol** (damage 20 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
 
 ## Pistol and Sword
 
@@ -963,14 +467,6 @@
 
 ## Staff
 
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
 (DLC THRONESOFBLOOD; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
@@ -988,14 +484,6 @@
 ## Staff
 
 (DLC WAYSOFWAR; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
 - **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
@@ -1028,118 +516,6 @@
 ## Staff
 
 (DLC ARCHONPROPHECY; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC ARCHONPROPHECY; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC ARCHONPROPHECY; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC EMPIRESANDASHES; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff
-
-(DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
 - **Magic Blast** (damage 20 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
@@ -1189,68 +565,10 @@
 
 ## Sword
 
-(DLC RISEFROMRUIN; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Sword
-
 (DLC EMPIRESANDASHES; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Sword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Sword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Sword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Sword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Sword
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-
-## Sword and Crossbow
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Shoot Crossbow** (damage 24 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-
-## Sword and Crossbow
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Shoot Crossbow** (damage 24 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
 
 ## Sword and Crossbow
 
@@ -1329,20 +647,6 @@
 
 
 - **Charge Strike** (damage 23 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Warclaw
-
-(DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 23 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Warhammer
-
-(DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
-
-
-- **Swiping Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strike at enemy targets in a 1-hex cone. Requires: Melee, Base
 
 ## Warhammer
 
@@ -1518,13 +822,6 @@
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Bardiche
-
-(Tier I; DLC RISEFROMRUIN; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
 ## Berserker's Greataxe
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
@@ -1573,30 +870,6 @@
 ## Bow
 
 (Tier I; DLC WAYSOFWAR; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(Tier I; DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(Tier I; DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Bow
-
-(Tier I; DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
 - **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
@@ -1754,14 +1027,6 @@
 - **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Fire Orb
-
-(Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Fire Bolts** (damage 12 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
 ## Flaming Greatclub
 
 (Tier I; DLC WAYSOFWAR; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
@@ -1834,14 +1099,6 @@ Grants First Strike.
 
 Grants First Strike.
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Polearm: +40% damage to Cavalry and Large Target units. Requires: Melee, Base
-
-## Godir Bow
-
-(Tier I; DLC Base; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Shoot Bow** (damage 14 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Godir Bow
 
@@ -1928,20 +1185,6 @@ Grants First Strike.
 
 - **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Greatsword
-
-(Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Greatsword
-
-(Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
 ## Grimoire of Blight
 
 (Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
@@ -1973,14 +1216,6 @@ Grants First Strike.
 
 - **Lightning Spike** (damage 16 Lightning, accuracy 90%, range 8, full action): Deals damage to target unit. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
 - **Lightning Rebuke** (damage 20 Lightning, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Requires: Magic, Base, Single Shot
-
-## Grimoire of Spirit
-
-(Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Spirit Spike** (damage 16 Spirit, accuracy 90%, range 8, full action): Deals damage to target unit. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Spirit Rebuke** (damage 20 Spirit, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Requires: Magic, Base, Single Shot
 
 ## Grimoire of Spirit
 
@@ -2056,35 +1291,12 @@ Grants First Strike.
 
 - **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
-## Lance
-
-(Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
 ## Lance of Glory
 
 (Tier I; DLC HERALDOFGLORY; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
 - **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-
-## Lightning Orb
-
-(Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Lightning Bolts** (damage 12 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Lightning Orb
-
-(Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Lightning Bolts** (damage 12 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Lightning Orb
 
@@ -2242,22 +1454,6 @@ Grants First Strike.
 
 
 - **Blight Bolts** (damage 12 Blight, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Purging Staff
-
-(Tier I; DLC WAYSOFWAR; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Purging Blast** (damage 18 Spirit, accuracy 90%, range 4, single-use action): Target unit sustains damage and has 1 Positive Status Effect removed. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Purging Staff
-
-(Tier I; DLC WAYSOFWAR; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Purging Blast** (damage 18 Spirit, accuracy 90%, range 4, single-use action): Target unit sustains damage and has 1 Positive Status Effect removed. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Purging Staff
@@ -2447,22 +1643,6 @@ Grants First Strike.
 - **Lightning Blast** (damage 16 Lightning, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Electrified: Base 60% chance of inflicting Electrified for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
-## Staff of Lightning
-
-(Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Lightning Blast** (damage 16 Lightning, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Electrified: Base 60% chance of inflicting Electrified for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff of Lightning
-
-(Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Lightning Blast** (damage 16 Lightning, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Electrified: Base 60% chance of inflicting Electrified for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
 ## Staff of Necromancy
 
 (Tier I; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
@@ -2486,14 +1666,6 @@ Grants First Strike.
 
 
 - **Spirit Blast** (damage 16 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Sundered Defense: Base 90% chance of inflicting Sundered Defense for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-
-## Staff of Spirit
-
-(Tier I; DLC ARCHONPROPHECY; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
-
-
-- **Spirit Blast** (damage 16 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Blind: Base 90% chance of inflicting Blind for 1 Turn. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Staff of Spirit
@@ -2594,22 +1766,6 @@ Grants First Strike.
 ## Sword and Crossbow
 
 (Tier I; DLC RISEFROMRUIN; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Shoot Crossbow** (damage 24 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-
-## Sword and Crossbow
-
-(Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
-
-
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Shoot Crossbow** (damage 24 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-
-## Sword and Crossbow
-
-(Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base

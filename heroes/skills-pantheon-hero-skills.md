@@ -578,9 +578,3 @@ The caster gains:
 (type normal; DLC Base)
 
 Unit has + Retaliation Attack.
-
-## Vigilant
-
-(type normal; DLC Base)
-
-Unit has + Retaliation Attack.

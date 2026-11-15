@@ -22,7 +22,6 @@
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Land Movement**: This unit can move over land hexes.
 - **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
-- **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
 
 ## Rank-up rewards
 

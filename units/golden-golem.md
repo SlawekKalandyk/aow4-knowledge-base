@@ -17,7 +17,6 @@
 ## Passives
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
-- **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Fearless**: Unit cannot rout due to low morale.
 - **Golden Curse**: Enemy melee attackers have a base 60% chance of becoming Gilded.

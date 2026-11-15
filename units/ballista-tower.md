@@ -16,7 +16,6 @@
 - **Blight Immunity**: This unit is immune to Blight Damage.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
-- **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Status Effect Immunity: Soulbound**: Unit is immune to Soulbound and cannot be transformed into a Decaying Zombie by necromancy spells and abilities.
 
 ## Unit type traits

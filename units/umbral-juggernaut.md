@@ -19,7 +19,6 @@
 - **Splitterling Deathcall**: On death, summon 3 Splitterlings.
 - **Umbral Dissolution**: When this unit dies, it creates Umbral Taint around it.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
-- **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 - **Umbral Wake**: Unit creates Umbral Taint as it moves.
 
 ## Unit type traits

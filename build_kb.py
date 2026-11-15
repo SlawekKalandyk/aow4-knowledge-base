@@ -209,6 +209,11 @@ def table(headers, rows):
     return "\n".join(out)
 
 
+def unique(seq):
+    """Drop repeats, keep first-seen order (identical rendered entries carry no extra information)."""
+    return list(dict.fromkeys(seq))
+
+
 def dedupe(items):
     """Group records by id, dropping exact duplicates (ignoring resid)."""
     groups = defaultdict(list)
@@ -232,6 +237,10 @@ traits = [t for t in load("Traits") if (t.get("name") or t.get("id")) and t.get(
 units = [u for u in load("Units") if u.get("name") or u.get("id")]  # skip empty placeholder records
 spells = load("Spells")
 abilities = {a["slug"].lower(): a for a in load("Abilities")}
+# Deprecated unit records carry a "DEPRECATED UNIT!" passive: 9 retired units, and 3 stale Magma Spirit copies that
+# would otherwise shadow the live one.
+units = [u for u in units if not any("DEPRECATED" in (abilities.get(p["slug"].lower(), {}).get("name") or "")
+                                     for p in u.get("primary_passives", []) + u.get("secondary_passives", []))]
 hero_skills = load("HeroSkills")
 hero_items = load("HeroItems")
 structures = load("StructureUpgrades")
@@ -638,8 +647,7 @@ def build_units():
         if clean(u.get("description")):
             lines += ["", clean(u["description"])]
         for title, key in [("Abilities", "abilities"), ("Passives", "primary_passives"), ("Unit type traits", "secondary_passives")]:
-            ab = [ability_line(a["slug"]) for a in u.get(key, [])]
-            ab = [a for a in ab if a]
+            ab = unique(a for a in (ability_line(a["slug"]) for a in u.get(key, [])) if a)  # raw lists repeat some
             if ab:
                 lines += ["", f"## {title}", ""] + ab
         medals = []
@@ -900,8 +908,8 @@ def build_heroes():
     idx = []
     for g, items in sorted(groups.items()):
         f = f"skills-{slug(g)}.md"
-        idx.append(f"- [{g}]({f}) ({len(items)} skills)")
         lines = [f"# Hero skills: {g}", ""]
+        entries = []
         if g in classes:
             lines += ["\n\n".join(loc_text(classes[g].get("extraLookup"), "description_short", "description")), ""]
         for h in sorted(items, key=lambda h: h["name"]):
@@ -925,14 +933,16 @@ def build_heroes():
             if h.get("id") in ascended_tomes:
                 extra.append("granted by " + ", ".join(tome_ref(tome_by_name[n]) if n in tome_by_name else n
                                                        for n in ascended_tomes[h["id"]]))
-            lines.append(f"## {clean(h['name'])}\n\n" + (f"({'; '.join(extra)}; DLC {dlc(h)})\n\n" if extra else f"(DLC {dlc(h)})\n\n")
-                         + clean(h.get("description")))
+            entry = [f"## {clean(h['name'])}\n\n" + (f"({'; '.join(extra)}; DLC {dlc(h)})\n\n" if extra else f"(DLC {dlc(h)})\n\n")
+                     + clean(h.get("description"))]
             ab = [ability_line(a["slug"]) for a in h.get("abilities", []) if isinstance(a, dict) and a.get("slug")]
             ab = [a for a in ab if a]
             if ab:
-                lines.append("\n".join(ab))
-            lines.append("")
-        write(KB / "heroes" / f, "\n".join(lines))
+                entry.append("\n".join(ab))
+            entries.append("\n".join(entry + [""]))
+        entries = unique(entries)  # same skill copied into several trees renders identically
+        idx.append(f"- [{g}]({f}) ({len(entries)} skills)")
+        write(KB / "heroes" / f, "\n".join(lines + entries))
 
     slots = defaultdict(list)
     for it in hero_items:
@@ -940,8 +950,8 @@ def build_heroes():
             slots[it.get("slot") or "Other"].append(it)
     for slot_, items in sorted(slots.items()):
         f = f"items-{slug(slot_)}.md"
-        idx.append(f"- [{slot_} items]({f}) ({len(items)} items)")
         lines = [f"# Hero items: {slot_}", ""]
+        entries = []
         for it in sorted(items, key=lambda i: (i.get("tier_numerals", ""), i["name"])):
             meta = [it.get("tier", ""), f"DLC {dlc(it)}"]
             if it.get("hero_classes"):
@@ -950,13 +960,15 @@ def build_heroes():
                 meta.append("hero types: " + ", ".join(names(it["hero_types"])))
             if it.get("disabled_slots"):
                 meta.append("disables slots: " + ", ".join(names(it["disabled_slots"])))
-            lines.append(f"## {clean(it['name'])}\n\n({'; '.join(m for m in meta if m)})\n\n{clean(it.get('description'))}")
+            entry = [f"## {clean(it['name'])}\n\n({'; '.join(m for m in meta if m)})\n\n{clean(it.get('description'))}"]
             ab = [ability_line(a["slug"] if isinstance(a, dict) else a) for a in it.get("ability_slugs", [])]
             ab = [a for a in ab if a]
             if ab:
-                lines.append("\n".join(ab))
-            lines.append("")
-        write(KB / "heroes" / f, "\n".join(lines))
+                entry.append("\n".join(ab))
+            entries.append("\n".join(entry + [""]))
+        entries = unique(entries)  # base types per culture/hero type (Ring, Crown, ...) render identically
+        idx.append(f"- [{slot_} items]({f}) ({len(entries)} items)")
+        write(KB / "heroes" / f, "\n".join(lines + entries))
 
     lines = ["# Hero destinies", ""]
     for d in destinies:
@@ -994,8 +1006,10 @@ def build_empire():
 
     lines = ["# Governors (governance)", ""]
     for g in governance:
-        lines += [f"## {clean(g['name'])}", "", clean(g.get("screen_description"))]
-        lines += [f"- Level {l.get('level')}: {one_line(l.get('effect_description'))}" for l in g.get("level_data", [])]
+        # The description repeats level_data as a bullet list; keep only the text around that list.
+        desc = re.sub(r"<bulletlist>.*?</bulletlist>", "\n", g.get("screen_description") or "", flags=re.S)
+        lines += [f"## {clean(g['name'])}", "", clean(desc)]
+        lines += [f"- Renown level {l.get('level')}: {one_line(l.get('effect_description'))}" for l in g.get("level_data", [])]
         lines.append("")
     write(KB / "empire" / "governance.md", "\n".join(lines))
 
@@ -1047,19 +1061,21 @@ def build_empire():
     lines = ["# Item forge", "",
              "Needs = magic materials required to unlock it. Fits = item types the upgrade can go on (from the game's tag "
              "filter; 'lacks X' = the item must not carry tag X).", "", "## Item types", ""]
+    types = []
     for f in sorted(forge_types, key=lambda f: (f.get("slot", ""), f["name"])):
         needs = token_needs(f.get("unlock_requirements"))
-        lines.append(f"- **{clean(f['name'])}** ({f.get('slot', '')}, DLC {dlc(f)}{', needs ' + needs if needs else ''}): "
+        types.append(f"- **{clean(f['name'])}** ({f.get('slot', '')}, DLC {dlc(f)}{', needs ' + needs if needs else ''}): "
                      f"{one_line(f.get('description'))}")
-    lines += ["", "## Upgrades", ""]
+    lines += unique(types) + ["", "## Upgrades", ""]  # one record per culture/hero type, identical text
+    upgrades = []
     for f in sorted(forge_upgrades, key=lambda f: f["name"]):
         meta = [f"{f.get('point_cost')} pts", f"DLC {dlc(f)}"]
         if f.get("unlock_requirements"):
             meta.append("needs " + token_needs(f["unlock_requirements"]))
         if f.get("tag_filter"):
             meta.append("fits " + tag_filter(f["tag_filter"]))
-        lines.append(f"- **{clean(f['name'])}** ({', '.join(meta)}): {one_line(f.get('description'))}")
-    write(KB / "empire" / "item-forge.md", "\n".join(lines))
+        upgrades.append(f"- **{clean(f['name'])}** ({', '.join(meta)}): {one_line(f.get('description'))}")
+    write(KB / "empire" / "item-forge.md", "\n".join(lines + unique(upgrades)))
     write(KB / "empire" / "_index.md", "# Empire-wide systems\n\n"
           "- [Empire progression / empire skills](empire-progression.md)\n- [Governors](governance.md)\n"
           "- [City structures and upgrades](structures.md)\n- [Siege projects](siege-projects.md)\n- [Item forge](item-forge.md)")

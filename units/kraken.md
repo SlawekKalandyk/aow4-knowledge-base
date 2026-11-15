@@ -21,7 +21,6 @@
 - **Juggernaut**: This unit may crush non-Fortified obstacles.
 - **Low Maintenance**: Base Unit Upkeep reduced by -25%
 - **Status Effect Immunity: Burning**: Unit is immune to Burning.
-- **Status Effect Immunity: Burning**: Unit is immune to Burning.
 
 ## Unit type traits
 

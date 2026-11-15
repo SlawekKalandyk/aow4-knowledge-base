@@ -38,12 +38,6 @@
 
 ## Shield
 
-(DLC SILVERSEAS; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
 (DLC RISEFROMRUIN; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
@@ -51,84 +45,6 @@
 ## Shield
 
 (DLC ARCHONPROPHECY; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
-
-
-
-## Shield
-
-(DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
 

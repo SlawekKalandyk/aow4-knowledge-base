@@ -20,7 +20,6 @@
 - **Status Effect Immunity: Immobilized**: Unit is immune to Immobilized.
 - **Status Effect Immunity: Slowed**: Unit is immune to Slowed.
 - **Swift**: This unit ignores the effects of Slowing terrain in combat.
-- **Swift**: This unit ignores the effects of Slowing terrain in combat.
 
 ## Unit type traits
 
@@ -28,7 +27,6 @@
 - **Cave Walk**: Moving through Cavern Floors costs 5 Move Points instead of 6. Moving through Fungus Fields costs 5 Move Points instead of 6. Moving through Mushroom Forests costs 6 Move Points instead of 8.
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Forest Camouflage**: This unit cannot be detected when standing on Forest hexes.
-- **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
 - **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.

@@ -18,7 +18,6 @@
 
 - **Archonic Leadership**: While in the army, other Celestial units gain Led by Archon. Other units with Archonic Leadership do not receive Led by Archon.
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
-- **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Fearless**: Unit cannot rout due to low morale.
 - **Holy Aura**: - Adjacent friendly units have 2 Status Resistance.; Adjacent enemy units sustain 4 Spirit Damage at the end of the turn.

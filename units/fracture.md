@@ -17,7 +17,6 @@ A Fracture, byproduct of the experiments of the Unmakers.
 ## Passives
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
-- **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Disrupting Aura**: At the start of the turn, adjacent enemy units: ; Sustain 8 Physical Damage.; Have a base 90% chance of becoming Disrupted for 2 Turns.
 - **Mana Starved**: This unit: ; Gains Strengthened and Regeneration for 3 Turns: ; When it applies Disrupted and Mana Drain.; When hit by a Magic attack. ; Cannot have Unit Enchantments or Transformations.; Has Control Loss Immunity.
 - **Status Effect Immunity: Morale**: This unit is Immune to Morale-type status effects.

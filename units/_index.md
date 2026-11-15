@@ -74,7 +74,6 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 | [Pursuer](pursuer.md) | 1 | 55 | 0 | 0 | 80 Draft 60 Gold | Culture: Dark / Cult of Death; Culture: Dark / Cult of Tyranny | Base |
 | [Raider](raider.md) | 1 | 75 | 3 | 0 | 80 Draft 60 Gold | Culture: Nomad / Conquerors | RISEFROMRUIN |
 | [Scout](scout.md) | 1 | 45 | 0 | 0 | 60 Draft 50 Gold | Culture: Feudal / Aristocracy; Culture: Feudal / Monarchy | Base |
-| [Scout Unit](scout-unit.md) | 1 | 45 | 0 | 0 | 60 Draft 50 Gold |  | Base |
 | [Skeleton Archer](skeleton-archer.md) | 1 | 50 | 0 | 0 | 35 Draft 10 Souls |  | Base |
 | [Skeleton Mage](skeleton-mage.md) | 1 | 40 | 0 | 2 | 35 Draft 10 Souls |  | Base |
 | [Skeleton Militia](skeleton-militia.md) | 1 | 60 | 2 | 0 | 35 Draft 10 Souls |  | Base |
@@ -120,7 +119,6 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 | [Astral Keeper](astral-keeper.md) | 2 | 70 | 1 | 3 | 120 Draft 100 Gold |  | Base |
 | [Ballista](ballista.md) | 2 | 15 | 1 | 1 | 220 Draft 140 Gold |  | Base |
 | [Bannerman](bannerman.md) | 2 | 70 | 1 | 3 | 120 Draft 100 Gold | Culture: Feudal / Aristocracy; Culture: Feudal / Monarchy | Base |
-| [Battle Mage Unit](battle-mage-unit.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold |  | Base |
 | [Blessed Dragon](blessed-dragon.md) | 2 | 70 | 1 | 3 | 120 Draft 100 Gold |  | WAYSOFWAR |
 | [Blood Cultist](blood-cultist.md) | 2 | 55 | 0 | 2 | 120 Draft 100 Gold | Tome: Tome of the Blood Rite | THRONESOFBLOOD |
 | [Bolt Repeater](bolt-repeater.md) | 2 | 70 | 1 | 1 | 140 Draft 110 Gold |  | Base |
@@ -173,7 +171,6 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 | [Overseer](overseer.md) | 2 | 70 | 1 | 3 | 120 Draft 100 Gold | Culture: Reaver / Imperial | EMPIRESANDASHES |
 | [Plague Serpent](plague-serpent.md) | 2 | 70 | 2 | 2 | 120 Draft 100 Gold |  | Base |
 | [Polar Bear](polar-bear.md) | 2 | 80 | 2 | 0 | 120 Draft 100 Gold |  | EMPIRESANDASHES |
-| [Polearm Unit](polearm-unit.md) | 2 | 70 | 2 | 2 | 120 Draft 100 Gold |  | Base |
 | [Primal Charger](primal-charger.md) | 2 | 80 | 3 | 1 | 120 Draft 100 Gold | Culture: Primal / Ash Sabertooth; Culture: Primal / Dune Serpent; Culture: Primal / Glacial Mammoth; Culture: Primal / Mire Crocodile; Culture: Primal / Storm Crow; Culture: Primal / Sylvan Wolf; Culture: Primal / Tunneling Spider | PRIMALFURY |
 | [Primal Crocodile](primal-crocodile.md) | 2 | 70 | 2 | 2 | 120 Draft 100 Gold |  | PRIMALFURY |
 | [Primal Crow](primal-crow.md) | 2 | 60 | 1 | 1 | 120 Draft 100 Gold |  | PRIMALFURY |
@@ -185,23 +182,18 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 | [Pyremoth](pyremoth.md) | 2 | 55 | 0 | 2 | 120 Draft 100 Gold |  | GIANTKINGS |
 | [Pyromancer](pyromancer.md) | 2 | 55 | 0 | 2 | 120 Draft 100 Gold | Tome: Tome of Pyromancy | Base |
 | [Ram Warship](ram-warship.md) | 2 | 100 | 4 | 2 | 100 Draft 90 Gold |  | Base |
-| [Ranged Unit](ranged-unit.md) | 2 | 60 | 1 | 1 | 120 Draft 100 Gold |  | Base |
 | [Razorback](razorback.md) | 2 | 65 | 3 | 1 | 100 Draft 90 Gold |  | Base |
 | [Sapper](sapper.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold | Culture: Reaver / Federate | EMPIRESANDASHES |
 | [Scrap Hermit](scrap-hermit.md) | 2 | 80 | 6 | 1 | 120 Draft 100 Gold |  | EMPIRESANDASHES |
 | [Sealbearer](sealbearer.md) | 2 | 55 | 0 | 2 | 120 Draft 100 Gold | Culture: Oathsworn / Harmony; Culture: Oathsworn / Righteousness; Culture: Oathsworn / Strife | WAYSOFWAR |
 | [Shademaker](shademaker.md) | 2 | 65 | 1 | 1 | 120 Draft 100 Gold | Culture: Architect / Architects of Astral; Culture: Architect / Architects of Chaos; Culture: Architect / Architects of Materium; Culture: Architect / Architects of Nature; Culture: Architect / Architects of Order; Culture: Architect / Architects of Shadow | ARCHONPROPHECY |
-| [Shield Unit](shield-unit.md) | 2 | 80 | 3 | 1 | 120 Draft 100 Gold |  | Base |
-| [Shock Unit](shock-unit.md) | 2 | 70 | 2 | 2 | 120 Draft 100 Gold |  | Base |
 | [Shrieking Bat](shrieking-bat.md) | 2 | 65 | 1 | 1 | 120 Draft 100 Gold |  | THRONESOFBLOOD |
-| [Skirmisher Unit](skirmisher-unit.md) | 2 | 60 | 1 | 1 | 60 Draft 50 Gold |  | Base |
 | [Soother](soother.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold | Culture: Mystic / Attunement; Culture: Mystic / Potential; Culture: Mystic / Summoning | Base |
 | [Spellshield](spellshield.md) | 2 | 80 | 6 | 2 | 120 Draft 100 Gold | Culture: Mystic / Attunement; Culture: Mystic / Potential; Culture: Mystic / Summoning | Base |
 | [Steelshaper](steelshaper.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold | Culture: Industrious | Base |
 | [Stormscale Serpent](stormscale-serpent.md) | 2 | 70 | 2 | 2 | 120 Draft 100 Gold |  | Base |
 | [Strider](strider.md) | 2 | 65 | 1 | 1 | 120 Draft 100 Gold | Culture: Nomad / Conquerors; Culture: Nomad / Scavengers | RISEFROMRUIN |
 | [Sun Priest](sun-priest.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold | Culture: High | Base |
-| [Support Unit](support-unit.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold |  | Base |
 | [Tyrant Guard](tyrant-guard.md) | 2 | 80 | 3 | 1 | 120 Draft 100 Gold | Culture: Dark / Cult of Tyranny | Base |
 | [Vowkeeper](vowkeeper.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold | Culture: Oathsworn / Harmony; Culture: Oathsworn / Righteousness; Culture: Oathsworn / Strife | WAYSOFWAR |
 | [War Shaman](war-shaman.md) | 2 | 60 | 1 | 3 | 120 Draft 100 Gold | Culture: Barbarian | Base |
@@ -247,7 +239,6 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 | [Deep-Sea Nimu](deep-sea-nimu.md) | 3 | 80 | 2 | 4 | 220 Draft 140 Gold |  | Base |
 | [Dragoon](dragoon.md) | 3 | 90 | 4 | 2 | 220 Draft 140 Gold | Culture: Reaver / Imperial | EMPIRESANDASHES |
 | [Dread Spider Matriarch](dread-spider-matriarch.md) | 3 | 90 | 3 | 1 | 220 Draft 140 Gold |  | Base |
-| [Elya](elya.md) | 3 | 90 | 2 | 4 | 220 Draft 140 Mana |  | Base |
 | [Entwined Protector](entwined-protector.md) | 3 | 110 | 7 | 3 | 120 Draft 100 Gold |  | Base |
 | [Fire Wyvern](fire-wyvern.md) | 3 | 90 | 3 | 3 | 220 Draft 140 Gold |  | Base |
 | [Flesh Abomination](flesh-abomination.md) | 3 | 90 | 3 | 2 | 220 Draft 140 Gold |  | ELDRITCHREALMS |
@@ -269,7 +260,7 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 | [Longbow](longbow.md) | 3 | 85 | 2 | 2 | 220 Draft 140 Gold | Culture: Feudal / Monarchy | Base |
 | [Magelock Cannon](magelock-cannon.md) | 3 | 85 | 4 | 2 | 220 Draft 80 | Culture: Reaver / Federate; Culture: Reaver / Imperial | EMPIRESANDASHES |
 | [Mageslayer](mageslayer.md) | 3 | 90 | 3 | 3 | 220 Draft 140 Gold | Culture: Mercantile / Cartel | SILVERSEAS |
-| [Magma Spirit](magma-spirit.md) | 3 | 35 | 2 | 2 | 180 Draft 120 Gold |  | Base |
+| [Magma Spirit](magma-spirit.md) | 3 | 85 | 1 | 3 | 220 Draft 140 Gold |  | Base |
 | [Mammoth](mammoth.md) | 3 | 110 | 4 | 1 | 220 Draft 140 Gold |  | PRIMALFURY |
 | [Mistling](mistling.md) | 3 | 90 | 3 | 3 | 220 Draft 140 Gold |  | PRIMALFURY |
 | [Necrotic Spire](necrotic-spire.md) | 3 | 90 | 2 | 2 | 140 Draft 110 Gold |  | Base |

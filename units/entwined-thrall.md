@@ -24,7 +24,6 @@
 - **Evolve**: This unit will transform into a more powerful unit when it reaches Legendary rank. Evolving units can not be recruited at Legendary rank.
 - **Forest Camouflage**: This unit cannot be detected when standing on Forest hexes.
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
-- **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
 - **Plant**: A Plant unit with: ; +4 Lightning Protection; -4 Fire Protection; Forest Walk; +20% healing received in combat.
 - **Skirmisher Unit**: Cheap and swift units that are useful at Flanking and targeting lone enemies. Skirmisher units gain: ; Swift.; Slippery.

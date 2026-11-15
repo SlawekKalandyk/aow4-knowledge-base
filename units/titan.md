@@ -17,7 +17,6 @@
 ## Passives
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
-- **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Inspiring Killer**: This unit grants double the morale bonus to itself and its allies when killing an enemy.
 - **Rite of Atonement**: When this unit kills an enemy, there is a 60% chance that the killed unit turns into a Lesser Light Spirit under your control. If it survives combat, it evolves and can be kept for a Mana cost.

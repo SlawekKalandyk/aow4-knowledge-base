@@ -22,7 +22,6 @@
 
 - **Forest Camouflage**: This unit cannot be detected when standing on Forest hexes.
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
-- **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
 - **Plant**: A Plant unit with: ; +4 Lightning Protection; -4 Fire Protection; Forest Walk; +20% healing received in combat.
 - **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.

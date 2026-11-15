@@ -17,7 +17,6 @@
 - **Curse Eater**: At the start of each turn: ; Unit loses one random Negative Status Effect and heals 10 Temporary Hit Points from it.  Disabled if the unit is Burning.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
-- **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 
 ## Unit type traits
 

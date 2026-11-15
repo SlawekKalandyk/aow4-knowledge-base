@@ -18,7 +18,6 @@
 
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
-- **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Fearless**: Unit cannot rout due to low morale.
 - **Fey Guile**: At the end of its turn, if this unit is Obscured or in a Mist cloud, it gains a random Positive Status Effect.
 - **Juggernaut**: This unit may crush non-Fortified obstacles.

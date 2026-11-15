@@ -152,28 +152,28 @@ Hurl Ice Boulder gains a base 120% chance of inflicting Frozen for 1 Turn. If un
 (type normal; DLC GIANTKINGS)
 
 
-- **Hurl Boulder** (damage 25 Physical, accuracy Always Hits, range 6, single-use action): Deal damage to target unit. Slowed: Inflicts Slowed for 2 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Missile, Single Shot
+- **Hurl Boulder** (damage 25 Physical, accuracy Always Hits, range 6, single-use action): Deal damage to target unit. Slowed: Inflicts Slowed for 2 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Missile, Single Shot
 
 ## Hurl Flame
 
 (type normal; DLC GIANTKINGS)
 
 
-- **Hurl Flame** (damage 25 Fire, accuracy Always Hits, range 6, single-use action): Deal damage to target unit. Burning: Inflicts Burning for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Single Shot, Magic
+- **Hurl Flame** (damage 25 Fire, accuracy Always Hits, range 6, single-use action): Deal damage to target unit. Burning: Inflicts Burning for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Single Shot, Magic
 
 ## Hurl Ice Boulder
 
 (type normal; DLC GIANTKINGS)
 
 
-- **Hurl Ice Boulder** (damage 25 Frost, accuracy Always Hits, range 6, single-use action): Deal damage to target unit. Chilled: Inflict Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Missile, Single Shot
+- **Hurl Ice Boulder** (damage 25 Frost, accuracy Always Hits, range 6, single-use action): Deal damage to target unit. Chilled: Inflict Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Missile, Single Shot
 
 ## Hurl Lightning
 
 (type normal; DLC GIANTKINGS)
 
 
-- **Hurl Lightning** (damage 15 Lightning, accuracy Always Hits, range 6, single-use action): Deal damage to target unit and 2 other units within 2 hexes. Electrified: Inflicts Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Magic
+- **Hurl Lightning** (damage 15 Lightning, accuracy Always Hits, range 6, single-use action): Deal damage to target unit and 2 other units within 2 hexes. Electrified: Inflicts Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Magic
 
 ## Hurl Massive Flame
 

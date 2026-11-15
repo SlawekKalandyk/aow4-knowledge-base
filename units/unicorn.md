@@ -9,10 +9,10 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 12 Physical 12 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Dispel Positive Effects: Dispel 1 Positive Status Effect from the target. Requires: Melee, Base, Single Shot
-- **Phase** (accuracy Always Hits, range 6): Caster moves to target hex. Leaves 1 Action Point. Cooldown: 2 Turns Requires: Movement, Teleport
-- **Cleansing Touch** (accuracy Always Hits, range 1, free action): Target unit: ; Heals 10 Temporary Hit Points.; Removes 2 Negative Status Effects. Cooldown: 3 Turns Requires: Support
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 12 Physical 12 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Dispel Positive Effects: Dispel 1 Positive Status Effect from the target. Requires: Melee, Base, Single Shot
+- **Phase** (accuracy Always Hits, range 6): Caster moves to target hex. Leaves 1 Action Point. Cooldown: 2 Turns. Requires: Movement, Teleport
+- **Cleansing Touch** (accuracy Always Hits, range 1, free action): Target unit: Heals 10 Temporary Hit Points. Removes 2 Negative Status Effects. Cooldown: 3 Turns. Requires: Support
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -22,9 +22,9 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Cavalry**: This unit is mounted on an animal.
-- **Celestial**: Celestial unit with: ; +2 Spirit Protection; -4 Blight Protection.; -4 Frost Protection; Inspiring Killer; Control Loss Immunity
+- **Celestial**: Celestial unit with: +2 Spirit Protection; -4 Blight Protection. -4 Frost Protection; Inspiring Killer; Control Loss Immunity
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.

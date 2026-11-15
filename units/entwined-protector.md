@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 13 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Poisoned: Base 60% chance of inflicting Poisoned for 3 Turns. Requires: Melee, Base
-- **Healing Sap** (accuracy Always Hits, range 0, single-use action): On this hex and adjacent hexes: ; Friendly units heal +30 Temporary Hit Points.; Obscuring Flora is created.  This unit then enters Defense Mode. Can only be used once per battle. Requires: Support
-- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Healing Sap** (accuracy Always Hits, range 0, single-use action): On this hex and adjacent hexes: Friendly units heal +30 Temporary Hit Points. Obscuring Flora is created. This unit then enters Defense Mode. Can only be used once per battle. Requires: Support
+- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
@@ -23,8 +23,8 @@
 - **Forest Camouflage**: This unit cannot be detected when standing on Forest hexes.
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
-- **Plant**: A Plant unit with: ; +4 Lightning Protection; -4 Fire Protection; Forest Walk; +20% healing received in combat.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Plant**: A Plant unit with: +4 Lightning Protection; -4 Fire Protection; Forest Walk; +20% healing received in combat.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

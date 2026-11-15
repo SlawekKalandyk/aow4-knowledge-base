@@ -36,4 +36,4 @@ Build a grand Dungeon Underground, fill it with structures that will enrich you,
   - +3 Gold per adjacent Dungeon Province.
   - +1 Binding Essence per adjacent Dungeon Province
   - Counts as a Mine
-- Dungeoneering Conclave (Initial City Upgrade): - +5 Knowledge; Every Turn, a Province in the Domain of a City: ; Gains Dungeon. ; Gain +2 Production per adjacent Dungeon Province.; Counts as a Research Post.
+- Dungeoneering Conclave (Initial City Upgrade): +5 Knowledge; Every Turn, a Province in the Domain of a City: Gains Dungeon. Gain +2 Production per adjacent Dungeon Province. Counts as a Research Post.

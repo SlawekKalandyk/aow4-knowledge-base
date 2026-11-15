@@ -32,4 +32,4 @@ Open rifts to summon Fiends and burn the world in your wake.
   - Frenzy, increasing damage as they attack.
   - Cities of this race ignore the City Stability penalty from Chasm and Lava in their Domain.
 - [Summon Balor](../spells/summon-balor.md) ([World Map] Summon Spell): Target city loses 2 Population and spawns a Balor, a mythic unit that wreaks havoc on your foes.
-- Demon Gate (Initial City Upgrade): - Unlocks the production of various Infernal Fiend Units.; Unit deployment location.; Functions as a Teleporter.
+- Demon Gate (Initial City Upgrade): Unlocks the production of various Infernal Fiend Units. Unit deployment location. Functions as a Teleporter.

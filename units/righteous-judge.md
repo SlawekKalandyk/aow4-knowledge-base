@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 14 Physical 9 Spirit, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Sundered Defense: Base 90% chance of inflicting Sundered Defense for 3 Turns. Sundered Resistance: Base 90% chance of inflicting Sundered Resistance for 3 Turns. Requires: Melee, Base
-- **Righteous Judgment** (damage 32 Spirit, accuracy Always Hits, range 3, free action): Deal damage to the target unit. If the target is Condemned, then damage is doubled, otherwise the target becomes Condemned. Cooldown: 1 Turns Requires: Magic, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Righteous Judgment** (damage 32 Spirit, accuracy Always Hits, range 3, free action): Deal damage to the target unit. If the target is Condemned, then damage is doubled, otherwise the target becomes Condemned. Cooldown: 1 Turns. Requires: Magic, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,14 +21,14 @@
 - **Honorable**: This unit cannot make Flanking attacks.
 - **Inner Grace**: At the start of its turn, the unit gains Grace if it doesn't already have it.
 - **Inspiring Killer**: This unit grants double the morale bonus to itself and its allies when killing an enemy.
-- **Zeal**: - Attacks gain +2 Spirit Damage.; Deal +10% damage against Condemned units.  Effects are increased for Single Shot attacks.
+- **Zeal**: Attacks gain +2 Spirit Damage. Deal +10% damage against Condemned units. Effects are increased for Single Shot attacks.
 
 ## Unit type traits
 
-- **Celestial**: Celestial unit with: ; +2 Spirit Protection; -4 Blight Protection.; -4 Frost Protection; Inspiring Killer; Control Loss Immunity
-- **Dragon**: Dragon unit with: ; Draconic Rage
+- **Celestial**: Celestial unit with: +2 Spirit Protection; -4 Blight Protection. -4 Frost Protection; Inspiring Killer; Control Loss Immunity
+- **Dragon**: Dragon unit with: Draconic Rage
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

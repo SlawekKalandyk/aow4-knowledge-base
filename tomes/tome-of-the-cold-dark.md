@@ -45,4 +45,4 @@ Spread Arctic terrain throughout the world and envelop your units with its power
 - Arctic Farming (Tome Passive): Able to build Farms on Snow terrain.
   
   Farms on Snow terrain gain +5 Food if your race has Arctic Adaptation.
-- Frostspire (Initial City Upgrade): - +10 Knowledge.; +3 Knowledge per adjacent Snow or Ice Province.; Allows for the drafting of some Tier I, Tier II, and Tier III frost themed units.; Counts as a Research Post.
+- Frostspire (Initial City Upgrade): +10 Knowledge. +3 Knowledge per adjacent Snow or Ice Province. Allows for the drafting of some Tier I, Tier II, and Tier III frost themed units. Counts as a Research Post.

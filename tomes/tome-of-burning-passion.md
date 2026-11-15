@@ -30,4 +30,4 @@ Strengthen your units with Demonic wrath, seduce your enemies with fiendish lust
 - [Conjure Orb of Desire](../spells/conjure-orb-of-desire.md) ([Combat] Combat Summon Spell): Conjure an Orb of Desire on target hex that Taunts enemies and burns attackers.
   This summon lasts for 3 Turns.
 - [Temptress](../units/temptress.md) (Unit): A Magic Fighter Unit that can inflict Dominated on enemy units.
-- House of Passion (Initial City Upgrade): - +10 Draft.; +6 Gold per adjacent Farm.; Counts as a Quarry.
+- House of Passion (Initial City Upgrade): +10 Draft. +6 Gold per adjacent Farm. Counts as a Quarry.

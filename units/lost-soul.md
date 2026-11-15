@@ -12,7 +12,7 @@ Ghostly presences, bound to this world until their unfinished business is put to
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical 4 Spirit, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,11 +23,11 @@ Ghostly presences, bound to this world until their unfinished business is put to
 
 ## Unit type traits
 
-- **Amphibious**: This unit: ; Can enter water hexes without movement penalties or becoming Embarked.; Has faster movement over Rivers and Swamps.
-- **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
+- **Amphibious**: This unit: Can enter water hexes without movement penalties or becoming Embarked. Has faster movement over Rivers and Swamps.
+- **Ethereal**: An Ethereal unit with: +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: Bleeding; Diseased; Immobilized; Poisoned
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Land Movement**: This unit can move over land hexes.
-- **Undead**: An undead unit with: ; +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: ; Poisoned; Diseased
+- **Undead**: An undead unit with: +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: Poisoned; Diseased
 
 ## Rank-up rewards
 

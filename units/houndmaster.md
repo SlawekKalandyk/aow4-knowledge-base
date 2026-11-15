@@ -10,17 +10,17 @@
 ## Abilities
 
 - **Weak Point Shot** (damage 24 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Weak Point: Gains +25% damage against Marked units. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Unleash the Hounds**: At the start of battle, summon a War Hound Shock Unit that inflicts Marked and Bleeding with its attack.  Cannot benefit from Unit Enchantments.
+- **Unleash the Hounds**: At the start of battle, summon a War Hound Shock Unit that inflicts Marked and Bleeding with its attack. Cannot benefit from Unit Enchantments.
 
 ## Unit type traits
 
 - **Cavalry**: This unit is mounted on an animal.
 - **Land Movement**: This unit can move over land hexes.
-- **Ranged Unit**: An attack unit that takes out targets from afar. It is somewhat vulnerable. ; Its Accuracy is affected by Line of Sight.; Cannot fire its main ranged attack when Engaged in Melee.
+- **Ranged Unit**: An attack unit that takes out targets from afar. It is somewhat vulnerable. Its Accuracy is affected by Line of Sight. Cannot fire its main ranged attack when Engaged in Melee.
 
 ## Rank-up rewards
 

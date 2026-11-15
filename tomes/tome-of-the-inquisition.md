@@ -27,4 +27,4 @@ Hunt down those who do not agree with your authority. Inflict Condemned on enemi
   - Sustain 10 Spirit Damage.
   - Become Condemned until the end of battle.
 - [Inquisitor](../units/inquisitor.md) (Unit): Grants access to an aggressive Skirmisher Unit that can inflict Condemned and Stunned.
-- Tithe Collector (Initial City Upgrade): - +10 Gold.; +2 Gold per adjacent Farm or Forester.; Counts as a Mine.
+- Tithe Collector (Initial City Upgrade): +10 Gold. +2 Gold per adjacent Farm or Forester. Counts as a Mine.

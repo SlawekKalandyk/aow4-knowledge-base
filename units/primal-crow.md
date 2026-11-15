@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Lightning Bolts** (damage 10 Lightning, accuracy 90%, range 4, repeating action): Deal damage to target unit. Adjacent enemy units sustain 50% damage. Sundered Resistance: Inflict Sundered Resistance for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -22,10 +22,10 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
-- **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Ethereal**: An Ethereal unit with: +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: Bleeding; Diseased; Immobilized; Poisoned
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

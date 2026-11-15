@@ -9,14 +9,14 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Frenzy: Gains 2 Strengthened when landing a hit. Savage Strike: Deals an additional 8 Blight Damage on a critical hit. Requires: Melee, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Frenzy: Gains 2 Strengthened when landing a hit. Savage Strike: Deals an additional 8 Blight Damage on a critical hit. Requires: Melee, Base, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: Berserk; Steadfast
 - **Frenzy**: When this unit lands an attack, it gains a stack of Strengthened. Effects are increased for Single Shot attacks.
-- **Savage Strike**: When an attack triggers a critical hit, it deals: ; +4 Blight Damage.; +8 Blight Damage for Single Shot attacks.
+- **Savage Strike**: When an attack triggers a critical hit, it deals: +4 Blight Damage. +8 Blight Damage for Single Shot attacks.
 
 ## Unit type traits
 

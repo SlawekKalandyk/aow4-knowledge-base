@@ -8,7 +8,7 @@
 
 ## Abilities
 
-- **Manafuel Ward** (accuracy Always Hits, range 99, full action): While the Krazura Crystal is warding the Progenitor Golem. The Progenitor Golem cannot die and will heal for 20% of its maximum Hit Points at the end of each Turn.  Destroying the Krazura Crystal will break the ward. Can only be used once per battle. Requires: Support
+- **Manafuel Ward** (accuracy Always Hits, range 99, full action): While the Krazura Crystal is warding the Progenitor Golem. The Progenitor Golem cannot die and will heal for 20% of its maximum Hit Points at the end of each Turn. Destroying the Krazura Crystal will break the ward. Can only be used once per battle. Requires: Support
 
 ## Passives
 
@@ -22,7 +22,7 @@
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

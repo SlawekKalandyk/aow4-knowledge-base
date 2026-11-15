@@ -30,4 +30,4 @@ Harvest Souls from your enemies and create Undead creatures. Specialize in expen
 - Soul Harvest (Tome Passive): Gain Souls when enemies die in battle.
   
   Unlocks the ability to animate City Ruin and to animate Heroes in your crypt as your undead servants.
-- Soulwell (Initial City Upgrade): - +5 Souls.; +3 Mana per adjacent Research Post or Conduit.; Counts as a Research Post.
+- Soulwell (Initial City Upgrade): +5 Souls. +3 Mana per adjacent Research Post or Conduit. Counts as a Research Post.

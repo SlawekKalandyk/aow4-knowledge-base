@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Defense Mode: Braced Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Gains First Strike.; Gains unlimited Retaliation Attacks.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Defense Mode: Braced Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Gains First Strike. Gains unlimited Retaliation Attacks. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
@@ -19,7 +19,7 @@
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

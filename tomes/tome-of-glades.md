@@ -30,4 +30,4 @@ Create and protect forests. Specialize in healing and making use of forests.
   - Gain Forest on the Surface
   - Gain Mushroom Forest in the Underground.
 - Forest Preference (Tome Passive): Provinces with Forest or Mushroom Forest give +1 City Stability.
-- Sacred Meadow (Initial City Upgrade): - +10 Food.; +10 City Stability.; +5 Food and +5 City Stability per adjacent Conduit.; Grants Encouraged at start of next Combat to friendly Units on this hex, 5 Turn cooldown.; Counts as a Farm.
+- Sacred Meadow (Initial City Upgrade): +10 Food. +10 City Stability. +5 Food and +5 City Stability per adjacent Conduit. Grants Encouraged at start of next Combat to friendly Units on this hex, 5 Turn cooldown. Counts as a Farm.

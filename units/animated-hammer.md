@@ -9,8 +9,8 @@
 
 ## Abilities
 
-- **Tremor Melee Charge** (damage 18 Physical, accuracy 100%, range 1, single-use action): Deal damage in a 1-hex cone. ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Tremor Melee Charge** (damage 18 Physical, accuracy 100%, range 1, single-use action): Deal damage in a 1-hex cone. Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -20,8 +20,8 @@
 
 ## Unit type traits
 
-- **Construct**: A construct unit with: ; Reinforced; -4 Lightning Protection; 2 Spirit Protection.; Heartless; Control Loss Immunity; Immunity to: ; Bleeding; Diseased; Distracted; Poisoned
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
+- **Construct**: A construct unit with: Reinforced; -4 Lightning Protection; 2 Spirit Protection. Heartless; Control Loss Immunity; Immunity to: Bleeding; Diseased; Distracted; Poisoned
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
 - **Shock Unit**: An offensive unit specialized in disrupting the enemy line. A Shock Unit has a Charge attack, which counters Shield Units, but can be countered by Polearm Units.
 
 ## Rank-up rewards

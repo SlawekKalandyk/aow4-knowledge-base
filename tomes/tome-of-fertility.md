@@ -22,4 +22,4 @@ Thrive on the bountiful spoils of nature. Provide your empire with ample Food an
   - +2 Draft per Population
 - [Summon Nymph](../spells/summon-nymph.md) ([World Map] Summon Spell): Summons a Nymph onto the target world hex.
 - Grasslands Preference (Tome Passive): Provinces with Grassland give +1 City Stability.
-- Bountiful Fields (Initial City Upgrade): - +10 Food income.; Per adjacent Province with Grasslands or Fungal Fields: ; +3 Food.; +3 Mana. ; Counts as a Farm.
+- Bountiful Fields (Initial City Upgrade): +10 Food income. Per adjacent Province with Grasslands or Fungal Fields: +3 Food. +3 Mana. Counts as a Farm.

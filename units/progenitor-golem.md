@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Breach Bolt** (damage 18 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Deals 50% of the damage to adjacent enemies. Breaching: Ignore 50% of the target's Resistance. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Magical Upheaval** (accuracy Always Hits, range 0, full action): Up to 3 random enemies and their adjacent allies: ; Sustain 20 Lightning Damage damage.; Gain 2 Weakened.; Gain 2 Sundered Resistance. Cooldown: 3 Turns
+- **Magical Upheaval** (accuracy Always Hits, range 0, full action): Up to 3 random enemies and their adjacent allies: Sustain 20 Lightning Damage damage. Gain 2 Weakened. Gain 2 Sundered Resistance. Cooldown: 3 Turns
 - **Limited Seal** (accuracy Always Hits, range 6, full action): Target enemy unit has a base 120% chance of becoming Sealed. Cooldown: 4 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -26,9 +26,9 @@
 
 ## Unit type traits
 
-- **Construct**: A construct unit with: ; Reinforced; -4 Lightning Protection; 2 Spirit Protection.; Heartless; Control Loss Immunity; Immunity to: ; Bleeding; Diseased; Distracted; Poisoned
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Construct**: A construct unit with: Reinforced; -4 Lightning Protection; 2 Spirit Protection. Heartless; Control Loss Immunity; Immunity to: Bleeding; Diseased; Distracted; Poisoned
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 
 ## Rank-up rewards

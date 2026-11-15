@@ -10,19 +10,19 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Savage Strike: Deals an additional 4 Blight Damage on a critical hit. Requires: Melee, Base
-- **Shield Bash** (accuracy 100%, range 1, single-use action): Base 90% of target unit becoming Stunned. Enter Defense Mode after use. Cooldown: 2 Turns Requires: Debuff
-- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Shield Bash** (accuracy 100%, range 1, single-use action): Base 90% of target unit becoming Stunned. Enter Defense Mode after use. Cooldown: 2 Turns. Requires: Debuff
+- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
-- **Savage Strike**: When an attack triggers a critical hit, it deals: ; +4 Blight Damage.; +8 Blight Damage for Single Shot attacks.
+- **Savage Strike**: When an attack triggers a critical hit, it deals: +4 Blight Damage. +8 Blight Damage for Single Shot attacks.
 - **Shield Defense**: This unit has +3 Defense against non- Flanking attacks.
 
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
 - **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

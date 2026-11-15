@@ -22,4 +22,4 @@ This research is available to Rulers with the Dark culture.
 - [Mark of the Death Cult](../spells/mark-of-the-death-cult.md) ([World Map] Unit Enchantment): Grants non-Dark units:
   
   - Power from Death
-- Mausoleum (Initial City Upgrade): - +10 Knowledge income.; +3 Knowledge per adjacent Conduit.; Counts as a Research Post.
+- Mausoleum (Initial City Upgrade): +10 Knowledge income. +3 Knowledge per adjacent Conduit. Counts as a Research Post.

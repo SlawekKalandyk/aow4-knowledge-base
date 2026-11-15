@@ -86,15 +86,15 @@ A formidable Giant who harnesses the elemental force of the Fire, Rock, Storm, o
 
 ## Ruler subtypes
 
-- **Astral Dragon** (Dragon Lord, Astral 1, DLC DRAGONLORDS): - Astral dragon claw item; Gain an additional Astral Affinity point.; Breath and Claws deal Lightning Damage.
-- **Chaos Dragon** (Dragon Lord, Chaos 1, DLC DRAGONLORDS): - Chaos dragon claw item; Gain an additional Chaos Affinity point.; Breath and Claws deal Fire Damage.
-- **Materium Dragon** (Dragon Lord, Materium 1, DLC DRAGONLORDS): - Materium dragon claw item; Gain an additional Materium Affinity point.; Breath and Claws deal Physical Damage.
-- **Nature Dragon** (Dragon Lord, Nature 1, DLC DRAGONLORDS): - Nature dragon claw item; Gain an additional Nature Affinity point.; Breath and Claws deal Blight Damage.
-- **Order Dragon** (Dragon Lord, Order 1, DLC DRAGONLORDS): - Order dragon claw item; Gain an additional Order Affinity point.; Breath and Claws deal Spirit Damage.
-- **Shadow Dragon** (Dragon Lord, Shadow 1, DLC DRAGONLORDS): - Shadow dragon claw item; Gain an additional Shadow Affinity point.; Breath and Claws deal Frost Damage.
-- **Rock Giant King** (Giant King, DLC GIANTKINGS): - Capital city starts with Wizard tower item forge.; Has the Shape rock spell.; Provinces with Mountains or Stalagmites provide +3 Production.; Giant Kings are Herotrait governance giant governor rock.; Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
-- **Fire Giant King** (Giant King, DLC GIANTKINGS): - Capital city starts with Wizard tower item forge.; Has the Lava flow spell.; Can build Farm on Ashlands.; Provinces with Lava or Lava Chasms provide +2 Production and don't apply the extra City Stability penalty normally found in these.; Giant Kings are Herotrait governance giant governor fire.; Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
-- **Storm Giant King** (Giant King, DLC GIANTKINGS): - Capital city starts with Wizard tower item forge.; Has the Abrade mountain spell.; Provinces with Rivers or Water provide +2 Food and +1 Mana.; Giant Kings are Herotrait governance giant governor.; Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
-- **Frost Giant King** (Giant King, DLC GIANTKINGS): - Capital city starts with Wizard tower item forge.; Has the Summon ice runestele spell.; Can build Farm on Snow.; Provinces with Snow or Ice provide +2 Mana.; Giant Kings are Herotrait governance giant governor frost.; Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
-- **Elder Vampire Pureblood** (Elder Vampire, DLC THRONESOFBLOOD): - Has unique appearance options.
-- **Elder Vampire Hybrid** (Elder Vampire, DLC THRONESOFBLOOD): - Can be of any form.
+- **Astral Dragon** (Dragon Lord, Astral 1, DLC DRAGONLORDS): Astral dragon claw item; Gain an additional Astral Affinity point. Breath and Claws deal Lightning Damage.
+- **Chaos Dragon** (Dragon Lord, Chaos 1, DLC DRAGONLORDS): Chaos dragon claw item; Gain an additional Chaos Affinity point. Breath and Claws deal Fire Damage.
+- **Materium Dragon** (Dragon Lord, Materium 1, DLC DRAGONLORDS): Materium dragon claw item; Gain an additional Materium Affinity point. Breath and Claws deal Physical Damage.
+- **Nature Dragon** (Dragon Lord, Nature 1, DLC DRAGONLORDS): Nature dragon claw item; Gain an additional Nature Affinity point. Breath and Claws deal Blight Damage.
+- **Order Dragon** (Dragon Lord, Order 1, DLC DRAGONLORDS): Order dragon claw item; Gain an additional Order Affinity point. Breath and Claws deal Spirit Damage.
+- **Shadow Dragon** (Dragon Lord, Shadow 1, DLC DRAGONLORDS): Shadow dragon claw item; Gain an additional Shadow Affinity point. Breath and Claws deal Frost Damage.
+- **Rock Giant King** (Giant King, DLC GIANTKINGS): Capital city starts with Wizard tower item forge. Has the Shape rock spell. Provinces with Mountains or Stalagmites provide +3 Production. Giant Kings are Herotrait governance giant governor rock. Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
+- **Fire Giant King** (Giant King, DLC GIANTKINGS): Capital city starts with Wizard tower item forge. Has the Lava flow spell. Can build Farm on Ashlands. Provinces with Lava or Lava Chasms provide +2 Production and don't apply the extra City Stability penalty normally found in these. Giant Kings are Herotrait governance giant governor fire. Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
+- **Storm Giant King** (Giant King, DLC GIANTKINGS): Capital city starts with Wizard tower item forge. Has the Abrade mountain spell. Provinces with Rivers or Water provide +2 Food and +1 Mana. Giant Kings are Herotrait governance giant governor. Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
+- **Frost Giant King** (Giant King, DLC GIANTKINGS): Capital city starts with Wizard tower item forge. Has the Summon ice runestele spell. Can build Farm on Snow. Provinces with Snow or Ice provide +2 Mana. Giant Kings are Herotrait governance giant governor frost. Giant Kings have a 5 Mana Unit Upkeep and cannot equip Mount items.
+- **Elder Vampire Pureblood** (Elder Vampire, DLC THRONESOFBLOOD): Has unique appearance options.
+- **Elder Vampire Hybrid** (Elder Vampire, DLC THRONESOFBLOOD): Can be of any form.

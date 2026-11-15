@@ -25,4 +25,4 @@ Conjure otherworldly mists to protect and strengthen your units.
   
   - The Fey Blessing ability.
 - [Summon Mistling](../spells/summon-mistling.md) ([World Map] Summon Spell): Summons a Mistling, a Magic Fighter Unit with attacks that inflict random Negative Status Effects.
-- Feywater Pond (Initial City Upgrade): - Provinces in this city's domain become Misty.; +3 Mana per adjacent Forester.; Counts as a Conduit.
+- Feywater Pond (Initial City Upgrade): Provinces in this city's domain become Misty. +3 Mana per adjacent Forester. Counts as a Conduit.

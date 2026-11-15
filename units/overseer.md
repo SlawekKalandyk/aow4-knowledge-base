@@ -10,13 +10,13 @@
 ## Abilities
 
 - **Marking Blast** (damage 14 Fire, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Focused Aggression: +10% damage per stack of Marked on the target. Marked: Inflict Marked for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Subdue** (accuracy Always Hits, range 3, single-use action): 90% chance to link with and inflict Subdued. ; Target must be affected by Immobilized, Frozen, or Stunned.; Cannot affect Heroes or units with Control Loss Immunity.; This effect ends if the caster dies. Cooldown: 2 Turns Requires: Debuff
-- **Patch Up** (accuracy Always Hits, range 1, single-use action): Target friendly unit: ; Heals 45 Temporary Hit Points.  Enter Defense Mode after use. Cooldown: 2 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Subdue** (accuracy Always Hits, range 3, single-use action): 90% chance to link with and inflict Subdued. Target must be affected by Immobilized, Frozen, or Stunned. Cannot affect Heroes or units with Control Loss Immunity. This effect ends if the caster dies. Cooldown: 2 Turns. Requires: Debuff
+- **Patch Up** (accuracy Always Hits, range 1, single-use action): Target friendly unit: Heals 45 Temporary Hit Points. Enter Defense Mode after use. Cooldown: 2 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 
-- **Focused Aggression**: This unit's attacks gain: ; Ranged or Magic attacks: +10% damage per stack of Marked on the target.; Melee attacks inflict Marked.  Effects are increased for Single Shot attacks.
+- **Focused Aggression**: This unit's attacks gain: Ranged or Magic attacks: +10% damage per stack of Marked on the target. Melee attacks inflict Marked. Effects are increased for Single Shot attacks.
 
 ## Unit type traits
 

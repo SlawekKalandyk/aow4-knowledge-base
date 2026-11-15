@@ -11,8 +11,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 5 Physical 5 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Electrified: Base 30% chance of inflicting Electrified for 3 Turns. Requires: Melee, Base
-- **Electrified Defense** (damage 18 Lightning, accuracy Always Hits, range 0, single-use action): Adjacent enemy units: ; Sustain damage.; Have a base 60% chance of becoming Electrified for 3 Turns.  Enter Defense Mode. Cooldown: 1 Turns Requires: Magic
-- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Electrified Defense** (damage 18 Lightning, accuracy Always Hits, range 0, single-use action): Adjacent enemy units: Sustain damage. Have a base 60% chance of becoming Electrified for 3 Turns. Enter Defense Mode. Cooldown: 1 Turns. Requires: Magic
+- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
@@ -23,10 +23,10 @@
 
 ## Unit type traits
 
-- **Amphibious**: This unit: ; Can enter water hexes without movement penalties or becoming Embarked.; Has faster movement over Rivers and Swamps.
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Amphibious**: This unit: Can enter water hexes without movement penalties or becoming Embarked. Has faster movement over Rivers and Swamps.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Evolve**: This unit will transform into a more powerful unit when it reaches Legendary rank. Evolving units can not be recruited at Legendary rank.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

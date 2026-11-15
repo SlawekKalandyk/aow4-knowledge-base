@@ -9,8 +9,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Enhancing Symbiosis** (accuracy Always Hits, range 4, single-use action): Link to friendly unit. While linked, at the end of each Turn: ; Friendly unit gains 2 Strengthened.; This unit gains Bolstered Defense and Bolstered Resistance.
-- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Enhancing Symbiosis** (accuracy Always Hits, range 4, single-use action): Link to friendly unit. While linked, at the end of each Turn: Friendly unit gains 2 Strengthened. This unit gains Bolstered Defense and Bolstered Resistance.
+- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
@@ -21,8 +21,8 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 - **Water Movement**: This unit has Water Movement, which allows it to traverse the water at a Movement Cost of 4.
 
 ## Rank-up rewards

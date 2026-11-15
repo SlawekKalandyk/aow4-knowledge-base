@@ -11,8 +11,8 @@
 
 - **Steel Blast** (damage 14 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Sundered Defense: Base 90% chance of inflicting Sundered Defense for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Assign Bounty** (accuracy Always Hits, range 4, free action): Target enemy unit suffers Bounty until the end of combat. Cooldown: 2 Turns
-- **Endurance Potion** (accuracy Always Hits, range 4, single-use action): Target friendly unit: ; Heals +40 Temporary Hit Points.; Gains Defensive Masters for 1 Turns. Cooldown: 1 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Endurance Potion** (accuracy Always Hits, range 4, single-use action): Target friendly unit: Heals +40 Temporary Hit Points. Gains Defensive Masters for 1 Turns. Cooldown: 1 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Unit type traits
 

@@ -16,7 +16,7 @@ Compatible weapons:
 (type normal; requires any of Reckless Rage, Execute; can't be taken with Grim Executioner; DLC Base)
 
 
-- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: Berserk; Steadfast
 
 ## Bone Wyvern Keeper
 
@@ -30,14 +30,14 @@ Compatible weapons:
 (type normal; requires Keen Edge; can't be taken with Execute; DLC Base)
 
 
-- **Critical Momentum**: When this hero makes a Critical Hit it: ; Heals 10 Temporary Hit Points; Gains Hastened
+- **Critical Momentum**: When this hero makes a Critical Hit it: Heals 10 Temporary Hit Points; Gains Hastened
 
 ## Curse
 
 (type normal; DLC Base)
 
 
-- **Curse** (damage 10 Frost, accuracy Always Hits, range 1, free action): Curse target unit Sundered Defense: Inflict 2x Sundered Defense for 3 Turns. Sundered Resistance: Inflict 2x Sundered Resistance for 3 Turns. Weakened: Inflict 2x Weakened for 3 Turns. Cooldown: 3 Turns Requires: Debuff, Magic, Single Shot
+- **Curse** (damage 10 Frost, accuracy Always Hits, range 1, free action): Curse target unit. Sundered Defense: Inflict 2x Sundered Defense for 3 Turns. Sundered Resistance: Inflict 2x Sundered Resistance for 3 Turns. Weakened: Inflict 2x Weakened for 3 Turns. Cooldown: 3 Turns. Requires: Debuff, Magic, Single Shot
 
 ## Dark Ritual
 
@@ -119,7 +119,7 @@ The hero gains immunity to Diseased.
 (type normal; requires any of Fighting, Vigor; DLC Base)
 
 
-- **Infused Sweep** (damage 16 Physical, accuracy 100%, range 1, single-use action): Deal damage in a 1-hex cone. Sundered Defense: Inflict Sundered Defense for 3 Turns. Sundered Resistance: Inflict Sundered Resistance for 3 Turns. Cooldown: 2 Turns Requires: Debuff, Magic, Base
+- **Infused Sweep** (damage 16 Physical, accuracy 100%, range 1, single-use action): Deal damage in a 1-hex cone. Sundered Defense: Inflict Sundered Defense for 3 Turns. Sundered Resistance: Inflict Sundered Resistance for 3 Turns. Cooldown: 2 Turns. Requires: Debuff, Magic, Base
 
 ## Keen Edge
 
@@ -132,7 +132,7 @@ The hero gains immunity to Diseased.
 (type normal; requires any of Willbreaker, Warseeker; DLC Base)
 
 
-- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack.  Works once per Turn.
+- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack. Works once per Turn.
 
 ## Knight
 
@@ -169,21 +169,21 @@ Attacks and Debuff abilities:
 (type normal; DLC Base)
 
 
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support, Summoning
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: Friendly Undead corpse is revived with 60% of its total Hit Points. Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support, Summoning
 
 ## Reckless Rage
 
 (type normal; requires Sundering Strikes; can't be taken with Execute; DLC Base)
 
 
-- **Reckless Rage** (accuracy Always Hits, range 0, free action): Gain: ; +30% attack damage for 3 Turn; 1 Sundered Defense; 1 Sundered Resistance Can only be used once per battle.
+- **Reckless Rage** (accuracy Always Hits, range 0, free action): Gain: +30% attack damage for 3 Turn; 1 Sundered Defense; 1 Sundered Resistance. Can only be used once per battle.
 
 ## Second Wind
 
 (type normal; requires Knight; DLC Base)
 
 
-- **Second Wind** (accuracy Always Hits, range 0, free action): - +1 hex of movement for 1 Turn.; Slippery for 1 Turn.; Heal for 15 Temporary Hit Point.  This ability is reusable after each kill. Can only be used once per battle. Requires: Second Wind
+- **Second Wind** (accuracy Always Hits, range 0, free action): +1 hex of movement for 1 Turn. Slippery for 1 Turn. Heal for 15 Temporary Hit Point. This ability is reusable after each kill. Can only be used once per battle. Requires: Second Wind
 
 ## Soul Keeper
 
@@ -208,7 +208,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Vigor, Infused Sweep; can't be taken with Weakening Aura; DLC Base)
 
 
-- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
+- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale. Doesn't work on units with this ability.
 
 ## Undying Warrior
 
@@ -241,7 +241,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires Unyielding; can't be taken with Willbreaker; DLC Base)
 
 
-- **Warseeker**: When this unit kills an enemy: ; Gains Warseeker for 2 Turns.; This effect stacks up to 3 times.
+- **Warseeker**: When this unit kills an enemy: Gains Warseeker for 2 Turns. This effect stacks up to 3 times.
 
 ## Weakening Aura
 

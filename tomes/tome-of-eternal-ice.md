@@ -46,4 +46,4 @@ Embrace the power of frost and freeze your enemies while making your own units e
   - Sustain 20 Frost Damage.
   - Has a base 90% chance of becoming Frozen for 1 Turn. If resisted, gains Chilled for 3 Turns.
 - [Summon Ancient Hoarfrost Manta](../spells/summon-ancient-hoarfrost-manta.md) ([World Map] Summon Spell): Summon an Ancient Hoarfrost Manta, a Mythic Unit that supports your units as it freezes your enemies.
-- Permafrost Nexus (Initial City Upgrade): - +10 Knowledge; +7 Mana; In this city's domain: ; Provinces gain Whiteout.; 2 provinces per turn: ; Gain Snow and/or Ice.; Provinces with Water gain Ice.; Lose Chasm, Swamp, Ashlands, Sand, Cavern Floor, and Gloom. ; Counts as a Research Post.
+- Permafrost Nexus (Initial City Upgrade): +10 Knowledge; +7 Mana; In this city's domain: Provinces gain Whiteout. 2 provinces per turn: Gain Snow and/or Ice. Provinces with Water gain Ice. Lose Chasm, Swamp, Ashlands, Sand, Cavern Floor, and Gloom. Counts as a Research Post.

@@ -10,13 +10,13 @@
 ## Abilities
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Defensive Strike** (damage 26 Physical, accuracy 100%, range 1, single-use action): Strike at target unit and enter Defense Mode. Cooldown: 2 Turns Requires: Base, Melee, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defensive Strike** (damage 26 Physical, accuracy 100%, range 1, single-use action): Strike at target unit and enter Defense Mode. Cooldown: 2 Turns. Requires: Base, Melee, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **High Maintenance**: Base Unit Upkeep is increased by 2 Gold.
-- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: ; Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage  Effects are increased for Single Shot attacks.
+- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage. Effects are increased for Single Shot attacks.
 
 ## Unit type traits
 

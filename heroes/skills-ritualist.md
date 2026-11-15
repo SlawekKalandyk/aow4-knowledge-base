@@ -21,7 +21,7 @@ Protective Wildgrowth gains:
 (type normal; requires any of Feygrowth, Attuned Wildgrowth; DLC Base)
 
 
-- **Awaken Entwined** (accuracy Always Hits, range 4, single-use action): Target Flora Obstacle transforms into an Entwined Thrall unit under your control. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Summoning
+- **Awaken Entwined** (accuracy Always Hits, range 4, single-use action): Target Flora Obstacle transforms into an Entwined Thrall unit under your control. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Summoning
 
 ## Bolstering Support
 
@@ -36,14 +36,14 @@ Support abilities grant:
 (type normal; requires any of Fortifying Support, Regenerating Support; DLC Base)
 
 
-- **Deathward** (accuracy Always Hits, range 4, free action): Target friendly unit: ; Gains Heroic Stand for 1 Turn. Cooldown: 3 Turns Requires: Support
+- **Deathward** (accuracy Always Hits, range 4, free action): Target friendly unit: Gains Heroic Stand for 1 Turn. Cooldown: 3 Turns. Requires: Support
 
 ## Decompose
 
 (type normal; requires Restore Strength; DLC Base)
 
 
-- **Decompose** (accuracy Always Hits, range 4, free action): Destroy target corpse and create a Flora Obstacle on the target hex.  Friendly units in 2-hex radius: ; Gain 10 Temporary Hit Points.; Gain Regeneration for 3 Turns. Cooldown: 2 Turns Requires: Support
+- **Decompose** (accuracy Always Hits, range 4, free action): Destroy target corpse and create a Flora Obstacle on the target hex. Friendly units in 2-hex radius: Gain 10 Temporary Hit Points. Gain Regeneration for 3 Turns. Cooldown: 2 Turns. Requires: Support
 
 ## Distracting Wildgrowth
 
@@ -66,7 +66,7 @@ Improve Animate Flora:
 (type normal; requires Support Resistance II; DLC Base)
 
 
-- **Empowering Bond** (accuracy Always Hits, range 4, free action): Link with the target friendly unit, while active: ; Target gains +2 Retaliation Attacks, +30 Accuracy, and Frenzy. Cannot be used when within an enemy Zone of Control. Cooldown: 0 Turns Requires: Support
+- **Empowering Bond** (accuracy Always Hits, range 4, free action): Link with the target friendly unit, while active: Target gains +2 Retaliation Attacks, +30 Accuracy, and Frenzy. Cannot be used when within an enemy Zone of Control. Cooldown: 0 Turns. Requires: Support
 
 ## Enhanced Rejuvenation
 
@@ -149,7 +149,7 @@ Support abilities now heal targets for 10 Temporary Hit Points in addition to th
 (type normal; can't be taken with Protective Wildgrowth; DLC Base)
 
 
-- **Hostile Wildgrowth** (accuracy Always Hits, range 6, full action): Create Sharp flora in a 1-hex radius. Enemy units in the area of effect: ; Suffer 15 Physical Damage.; Have a base 90% chance of gaining Bleeding. Cooldown: 2 Turns Requires: Debuff
+- **Hostile Wildgrowth** (accuracy Always Hits, range 6, full action): Create Sharp flora in a 1-hex radius. Enemy units in the area of effect: Suffer 15 Physical Damage. Have a base 90% chance of gaining Bleeding. Cooldown: 2 Turns. Requires: Debuff
 
 ## Inner Grace
 
@@ -163,7 +163,7 @@ Support abilities now heal targets for 10 Temporary Hit Points in addition to th
 (type normal; requires any of Distracting Wildgrowth, Weakening Magic; DLC Base)
 
 
-- **Lifeseeder**: Attacks gain: ; 60% chance of inflicting Life Seed for 3 Turns.  Debuff abilities gain: ; Inflict Life Seed for 3 Turns  Effects are increased for Single Shot attacks.
+- **Lifeseeder**: Attacks gain: 60% chance of inflicting Life Seed for 3 Turns. Debuff abilities gain: Inflict Life Seed for 3 Turns. Effects are increased for Single Shot attacks.
 
 ## Living Wildgrowth
 
@@ -196,14 +196,14 @@ Summons gain:
 (type normal; requires any of Hardening Support, Decompose; can't be taken with Reincarnate; DLC Base)
 
 
-- **Polymorph** (accuracy Always Hits, range 4, single-use action): Target non-Hero Enemy: ; Base 90% chance of transforming into a Weakened Tier 1 animal for 1 Turn. Cooldown: 3 Turns Requires: Debuff
+- **Polymorph** (accuracy Always Hits, range 4, single-use action): Target non-Hero Enemy: Base 90% chance of transforming into a Weakened Tier 1 animal for 1 Turn. Cooldown: 3 Turns. Requires: Debuff
 
 ## Protective Wildgrowth
 
 (type normal; can't be taken with Hostile Wildgrowth; DLC Base)
 
 
-- **Protective Wildgrowth** (accuracy Always Hits, range 4, single-use action): Create Obscuring flora in a 1-hex radius. Create Mist in a 1-hex radius for 3 Turns. Enter Defense Mode after use. Cooldown: 2 Turns Requires: Support
+- **Protective Wildgrowth** (accuracy Always Hits, range 4, single-use action): Create Obscuring flora in a 1-hex radius. Create Mist in a 1-hex radius for 3 Turns. Enter Defense Mode after use. Cooldown: 2 Turns. Requires: Support
 
 ## Protector's Fury
 
@@ -234,21 +234,21 @@ Support abilities grant:
 (type normal; requires any of Decompose, Bolstering Support; can't be taken with Polymorph; DLC Base)
 
 
-- **Reincarnate** (accuracy Always Hits, range 4, single-use action): Target friendly corpse: ; Is revived.; Transforms into an animal of equivalent tier as the dead unit.; Remains after combat ends  Tier 5 units are reincarnated as tier 4 animals. Cooldown: 3 Turns Requires: Support
+- **Reincarnate** (accuracy Always Hits, range 4, single-use action): Target friendly corpse: Is revived. Transforms into an animal of equivalent tier as the dead unit. Remains after combat ends. Tier 5 units are reincarnated as tier 4 animals. Cooldown: 3 Turns. Requires: Support
 
 ## Rejuvenate
 
 (type normal; can't be taken with Restore; DLC Base)
 
 
-- **Rejuvenate** (accuracy Always Hits, range 4, single-use action): Target friendly units in a 1-hex radius: ; Heal for 15 Temporary Hit Points.; Have 1 Negative Status Effect removed. Cooldown: 2 Turns Requires: Support
+- **Rejuvenate** (accuracy Always Hits, range 4, single-use action): Target friendly units in a 1-hex radius: Heal for 15 Temporary Hit Points. Have 1 Negative Status Effect removed. Cooldown: 2 Turns. Requires: Support
 
 ## Restore
 
 (type normal; can't be taken with Rejuvenate; DLC Base)
 
 
-- **Restore** (accuracy Always Hits, range 4, single-use action): Target friendly unit: ; Heals for 30 Temporary Hit Points.; Has their Negative Status Effects removed. Cooldown: 2 Turns Requires: Support
+- **Restore** (accuracy Always Hits, range 4, single-use action): Target friendly unit: Heals for 30 Temporary Hit Points. Has their Negative Status Effects removed. Cooldown: 2 Turns. Requires: Support
 
 ## Restore Strength
 
@@ -267,21 +267,21 @@ Rejuvenate gains:
 (type normal; requires Natural Vitality; can't be taken with Rite of Restoration, Rite of Vigil; DLC Base)
 
 
-- **Rite of Fury** (accuracy Always Hits, range 0, full action): All friendly units gain: ; Hastened for 1 Turn. Cooldown: 3 Turns
+- **Rite of Fury** (accuracy Always Hits, range 0, full action): All friendly units gain: Hastened for 1 Turn. Cooldown: 3 Turns
 
 ## Rite of Restoration
 
 (type normal; requires Healing Mastery; can't be taken with Rite of Fury, Rite of Vigil; DLC Base)
 
 
-- **Rite of Restoration** (accuracy Always Hits, range 0, full action): All friendly units in combat: ; Heal for +20 Temporary Hit Points. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns
+- **Rite of Restoration** (accuracy Always Hits, range 0, full action): All friendly units in combat: Heal for +20 Temporary Hit Points. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns
 
 ## Rite of Vigil
 
 (type normal; requires Rooted Resistance; can't be taken with Rite of Fury, Rite of Restoration; DLC Base)
 
 
-- **Rite of Vigil** (accuracy Always Hits, range 0, full action): All friendly units gain: ; +1 Bolstered Defense for 3 Turns.; +1 Bolstered Resistance for 3 Turns. Cooldown: 3 Turns
+- **Rite of Vigil** (accuracy Always Hits, range 0, full action): All friendly units gain: +1 Bolstered Defense for 3 Turns. +1 Bolstered Resistance for 3 Turns. Cooldown: 3 Turns
 
 ## Rituals of Strength
 
@@ -300,7 +300,7 @@ Debuff abilities inflict:
 (type normal; requires Rituals of Strength; DLC Base)
 
 
-- **Rooted Resistance**: Hero gains: ; +2 Defense; Charge Resistance  When the unit enters Defense Mode these bonuses are given to adjacent allies.
+- **Rooted Resistance**: Hero gains: +2 Defense; Charge Resistance. When the unit enters Defense Mode these bonuses are given to adjacent allies.
 
 ## Spreading Wildgrowth
 

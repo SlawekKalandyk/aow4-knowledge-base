@@ -9,12 +9,12 @@
 
 ## Abilities
 
-- **Sweeping Charge** (damage 16 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Cleaves targets in a 1-hex cone for 20% of the attacks' damage.; Enter Defense Mode. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Sweeping Charge** (damage 16 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Cleaves targets in a 1-hex cone for 20% of the attacks' damage. Enter Defense Mode. Requires: Melee, Base
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Affinity Incarnate**: For each stack of Affinity Incarnate this unit gains damage based on their Empire's dominant Affinity: ; Order Affinity: +1 Spirit Damage; Chaos Affinity: +1 Fire Damage; Astral Affinity: +1 Lightning Damage; Materium Affinity: +1 Physical Damage; Nature Affinity: +1 Blight Damage; Shadow Affinity: +1 Frost Damage  Effects are increased for Single Shot attacks.
+- **Affinity Incarnate**: For each stack of Affinity Incarnate this unit gains damage based on their Empire's dominant Affinity: Order Affinity: +1 Spirit Damage; Chaos Affinity: +1 Fire Damage; Astral Affinity: +1 Lightning Damage; Materium Affinity: +1 Physical Damage; Nature Affinity: +1 Blight Damage; Shadow Affinity: +1 Frost Damage. Effects are increased for Single Shot attacks.
 - **Incarnate Fortitude**: This unit gains +5 Hit Points per stack of Affinity Incarnate.
 
 ## Unit type traits

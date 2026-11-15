@@ -11,7 +11,7 @@
 
 - **Magic Blast** (damage 12 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Sundered Defense: Base 90% chance of inflicting Sundered Defense for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Assign Bounty** (accuracy Always Hits, range 4, free action): Target enemy unit suffers Bounty until the end of combat. Cooldown: 2 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 

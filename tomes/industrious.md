@@ -22,4 +22,4 @@ This research is available to rulers with the Industrious culture. They speciali
 - Scout Prospecting (): When Industrious Scout Units stand within a friendly or neutral Province that contains a Cliff, Mountain or Stalagmite, the player that owns the Scout Unit can prospect the Province for Production or Gold rewards.
   
   Each Province can only be prospected once.
-- Builder's Quarters (Initial City Upgrade): - +15 Production income.; +5 Production per adjacent Quarry.; Counts as a Quarry.
+- Builder's Quarters (Initial City Upgrade): +15 Production income. +5 Production per adjacent Quarry. Counts as a Quarry.

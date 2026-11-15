@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Magic Strike** (damage 15 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Burning: Base 60% chance of inflicting Burning for 3 Turns. Requires: Magic, Base
-- **Fiery Shift** (accuracy Always Hits, range 3, free action): Move to target hex. Then all adjacent enemies gain Burning for 3 Turns. Cooldown: 2 Turns Requires: Movement, Teleport
-- **Infernal Ray** (damage 15 Fire, accuracy 100%, range 1, single-use action): In a 2-hex cone: ; Units sustain damage.; Units gain 2 Burning for 3 Turns.; Hexes are set On Fire  Deals double damage to obstacles. Breaching: Ignore 50% of the target's Resistance. Cooldown: 1 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Fiery Shift** (accuracy Always Hits, range 3, free action): Move to target hex. Then all adjacent enemies gain Burning for 3 Turns. Cooldown: 2 Turns. Requires: Movement, Teleport
+- **Infernal Ray** (damage 15 Fire, accuracy 100%, range 1, single-use action): In a 2-hex cone: Units sustain damage. Units gain 2 Burning for 3 Turns. Hexes are set On Fire. Deals double damage to obstacles. Breaching: Ignore 50% of the target's Resistance. Cooldown: 1 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -26,13 +26,13 @@
 
 ## Unit type traits
 
-- **Construct**: A construct unit with: ; Reinforced; -4 Lightning Protection; 2 Spirit Protection.; Heartless; Control Loss Immunity; Immunity to: ; Bleeding; Diseased; Distracted; Poisoned
+- **Construct**: A construct unit with: Reinforced; -4 Lightning Protection; 2 Spirit Protection. Heartless; Control Loss Immunity; Immunity to: Bleeding; Diseased; Distracted; Poisoned
 - **Desolate Walk**: Moving through Ashlands costs 5 Move Points instead of 6. Moving through Chasms costs 8 Move Points instead of 12.
-- **Infernal Fiend**: A Fiend unit with: ; +2 Fire Protection; -4 Frost Protection; -4 Spirit Protection; +15% Critical Hit Chance; Desolate Walk; Lava Walk
+- **Infernal Fiend**: A Fiend unit with: +2 Fire Protection; -4 Frost Protection; -4 Spirit Protection; +15% Critical Hit Chance; Desolate Walk; Lava Walk
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Lava Walk**: Allows the unit to traverse lava at a Movement Cost of 6.
-- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: ; Melee Mage.
+- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: Melee Mage.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 
 ## Rank-up rewards

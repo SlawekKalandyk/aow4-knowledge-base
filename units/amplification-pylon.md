@@ -11,7 +11,7 @@ Stationary tower that shoots enemies and amplifies spell damage.
 ## Abilities
 
 - **Lightning Blast** (damage 25 Lightning, accuracy 90%, range 6, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Requires: Base, Magic, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -27,7 +27,7 @@ Stationary tower that shoots enemies and amplifies spell damage.
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

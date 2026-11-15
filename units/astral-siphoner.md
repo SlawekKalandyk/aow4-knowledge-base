@@ -11,7 +11,7 @@
 
 - **Melee Single Strike** (damage 17 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Cosmic Spark: Deals 13 Lightning Damage, 13 Fire Damage, or 13 Frost Damage at random. Disrupted: Base 60% chance of draining all [World Map] Unit Enchantments from target for 2 Turns. Requires: Melee, Base, Single Shot
 - **Astral Pull** (accuracy 90%, range 4, single-use action): Pulls target unit to a hex adjacent to this one. Affected by Line of Sight rules. Cooldown: 3 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,9 +21,9 @@
 
 ## Unit type traits
 
-- **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
+- **Ethereal**: An Ethereal unit with: +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: Bleeding; Diseased; Immobilized; Poisoned
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 
 ## Rank-up rewards

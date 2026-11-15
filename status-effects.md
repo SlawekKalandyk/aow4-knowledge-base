@@ -3,97 +3,97 @@
 What each combat status effect does (in-game tooltip text). Same-name lines are variants.
 
 - **+1 Retaliation Attack**: This unit can perform +1 Retaliation Attack each turn.
-- **Absorbed Mind**: - +10 maximum Hit Points; +2 Resistance.; Stacks up to 5 times.
+- **Absorbed Mind**: +10 maximum Hit Points; +2 Resistance. Stacks up to 5 times.
 - **Abyssal Flames**: -2 Fire Protection
-- **Accelerated Movement**: This unit has: ; 48 maximum Move Points in the World Map.; 6 maximum Move Points in Combat.
-- **Accursed Sea Witch**: - +100 Hit Points; +3 Defense; +3 Resistance; +3 Status Resistance; +30% damage; Wail of the Lost; Fearless; Control Loss Immunity
-- **Afflicted**: When this unit is attacked, they have a base 90% chance of becoming inflicted with a Negative Status Effect based on the damage type: ; Bleeding from Physical Damage.; Burning from Fire Damage.; Condemned from Spirit Damage.; Electrified from Lightning Damage.; Poisoned from Blight Damage.; Chilled from Frost Damage.
+- **Accelerated Movement**: This unit has: 48 maximum Move Points in the World Map. 6 maximum Move Points in Combat.
+- **Accursed Sea Witch**: +100 Hit Points; +3 Defense; +3 Resistance; +3 Status Resistance; +30% damage; Wail of the Lost; Fearless; Control Loss Immunity
+- **Afflicted**: When this unit is attacked, they have a base 90% chance of becoming inflicted with a Negative Status Effect based on the damage type: Bleeding from Physical Damage. Burning from Fire Damage. Condemned from Spirit Damage. Electrified from Lightning Damage. Poisoned from Blight Damage. Chilled from Frost Damage.
 - **Aimed**: Grants +80% Accuracy.
-- **Ammunition: Incendiary Shot**: Next attack: ; Inflicts +5 Fire Damage.; Random hexes in the target Area gain On Fire
-- **Ammunition: Shrapnel Shot**: Next attack: ; Inflicts 3x Bleeding
-- **Ammunition: Sundering Shot**: Next attack: ; Inflicts 2x Sundered Defense.; Ignores 50% of the target's Defense
-- **Arcfire Weapons**: Unit's base attacks have: ; +2 Fire Damage.; +2 Lightning Damage.; A base 50% chance of inflicting Burning for 3 Turns.; A base 50% chance of inflicting Electrified for 3 Turns.
-- **Awakened**: - +3 Spirit Damage on attacks.; Activate any Dormant Traits.  Effects are increased for Single Shot attacks.
+- **Ammunition: Incendiary Shot**: Next attack: Inflicts +5 Fire Damage. Random hexes in the target Area gain On Fire
+- **Ammunition: Shrapnel Shot**: Next attack: Inflicts 3x Bleeding
+- **Ammunition: Sundering Shot**: Next attack: Inflicts 2x Sundered Defense. Ignores 50% of the target's Defense
+- **Arcfire Weapons**: Unit's base attacks have: +2 Fire Damage. +2 Lightning Damage. A base 50% chance of inflicting Burning for 3 Turns. A base 50% chance of inflicting Electrified for 3 Turns.
+- **Awakened**: +3 Spirit Damage on attacks. Activate any Dormant Traits. Effects are increased for Single Shot attacks.
 - **Awakened: Cleansing Light**: Support abilities dispel 1 Negative Status Effect from affected units.
 - **Awakened: Guardian**: Unit has +1 Retaliation Attack.
 - **Awakened: Radiant Light**: Base attacks have a 60% chance of inflicting Distracted.
 - **Awakened: Seeking Arrows**: Missile attacks have +1 Range.
-- **Awakened: Shield of Light**: - +1 Defense; +2 Resistance
+- **Awakened: Shield of Light**: +1 Defense; +2 Resistance
 - **Benevolent Blood Parasite**: On unit death, it spawns a Blood Maggot under the defender's control until end of combat.
-- **Berserk**: The unit: ; Is uncontrollable and always attacks the closest enemy target.; If no enemy is in range, it will attack its allies.; Is immune to Morale effects.; Damage penalties from Casualty are negated.
-- **Bleeding**: - Unit sustains 4 Physical Damage each Turns.; Stacks up to 5 times. Cannot affect Ethereal or Undead units.
-- **Blind**: - -50% Accuracy on Missile and Magic attacks.; One less Retaliation Attack.  Blind counters True Strike.
+- **Berserk**: The unit: Is uncontrollable and always attacks the closest enemy target. If no enemy is in range, it will attack its allies. Is immune to Morale effects. Damage penalties from Casualty are negated.
+- **Bleeding**: Unit sustains 4 Physical Damage each Turns. Stacks up to 5 times. Cannot affect Ethereal or Undead units.
+- **Blind**: -50% Accuracy on Missile and Magic attacks. One less Retaliation Attack. Blind counters True Strike.
 - **Blizzard**: -1 Frost Protection.
-- **Bloated**: - Parasitic Bloat deals an extra 5 Physical Damage.; Stacks up to 5 times.
+- **Bloated**: Parasitic Bloat deals an extra 5 Physical Damage. Stacks up to 5 times.
 - **Blood Empowerment**: The next attack this turn deals +50% damage.
-- **Blood Parasite**: - Unit sustains 4 Physical Damage each Turns.; Replaces and counts as Bleeding, but ignores Status Effect Immunity: Bleeding.; Stacks up to 5 times.  On unit death, it spawns a Blood Maggot under the opponent's control until end of combat.
+- **Blood Parasite**: Unit sustains 4 Physical Damage each Turns. Replaces and counts as Bleeding, but ignores Status Effect Immunity: Bleeding. Stacks up to 5 times. On unit death, it spawns a Blood Maggot under the opponent's control until end of combat.
 - **Blood Rite**: Unit has +40% damage for this turn.
-- **Blood of the Exarch**: Unit has: ; +20% damage.; +10% Critical Hit chance.; +25% Critical Hit damage.
-- **Bolstered Defense**: - 1 Defense.; Stacks up to 5 times.  Bolstered Defense counters Sundered Defense.
-- **Bolstered Resistance**: - 1 Resistance.; Stacks up to 5 times.  Bolstered Resistance counters Sundered Resistance.
-- **Bounty**: When this unit is slain, the unit that slew it gains 5 Experience per Unit tier of this unit.  Vulnerable to units with Bounty Hunter.
+- **Blood of the Exarch**: Unit has: +20% damage. +10% Critical Hit chance. +25% Critical Hit damage.
+- **Bolstered Defense**: 1 Defense. Stacks up to 5 times. Bolstered Defense counters Sundered Defense.
+- **Bolstered Resistance**: 1 Resistance. Stacks up to 5 times. Bolstered Resistance counters Sundered Resistance.
+- **Bounty**: When this unit is slain, the unit that slew it gains 5 Experience per Unit tier of this unit. Vulnerable to units with Bounty Hunter.
 - **Building Momentum**: This unit gains Empowering Momentum at the start of it's next turn.
 - **Bulwark**: Defense Mode grants 2 Defense and 2 Resistance.
-- **Burning**: - Unit sustains 4 Fire Damage each Turns.; Stacks up to 5 times.  Burning counters Wet, Chilled, and Frozen.
+- **Burning**: Unit sustains 4 Fire Damage each Turns. Stacks up to 5 times. Burning counters Wet, Chilled, and Frozen.
 - **Celestial Guardians**: Conjure 2 Tier III Archon units on combat start.
 - **Channel Power**: Magic attacks deal +50% damage.
-- **Chaos Brand**: When this unit dies, it turns into an Inferno Puppy under enemy control.  If the Puppy survives combat, it then Evolves and the enemy can pay Mana to keep it.
-- **Charge Resistance**: Unaffected by the bonus effects of Charge attacks.  Can be counteracted by using Heavy Charge Strike.
-- **Chilled**: - Unit sustains 2 Frost Damage each Turns.; Stacks up to 5 times, causing: ; Chilled to be removed.; Unit sustains 10 Frost Damage.; Unit becomes Frozen for 1 Turn.  Chilled counters Burning.
-- **Clinging Mist**: - Melee, Missile, and Magic attacks targeting this unit suffer -15% Accuracy.; Can stack up to 3 times.  Clinging Mist counters Marked
-- **Command: Retreat**: Unit has: ; Very Fast Movement; Slippery
+- **Chaos Brand**: When this unit dies, it turns into an Inferno Puppy under enemy control. If the Puppy survives combat, it then Evolves and the enemy can pay Mana to keep it.
+- **Charge Resistance**: Unaffected by the bonus effects of Charge attacks. Can be counteracted by using Heavy Charge Strike.
+- **Chilled**: Unit sustains 2 Frost Damage each Turns. Stacks up to 5 times, causing: Chilled to be removed. Unit sustains 10 Frost Damage. Unit becomes Frozen for 1 Turn. Chilled counters Burning.
+- **Clinging Mist**: Melee, Missile, and Magic attacks targeting this unit suffer -15% Accuracy. Can stack up to 3 times. Clinging Mist counters Marked
+- **Command: Retreat**: Unit has: Very Fast Movement; Slippery
 - **Condemned**: -3 Status Resistance
 - **Constricted**: This unit is Immobilized and takes 10 Physical at the end of its turn.
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Cosmic Resonance**: When a spell is cast in combat, gain +2 Protection according to the affinities of the spell.
-- **Counter Stance**: Unit has: ; First Strike; An extra Retaliation Attack; Defensive Masters.
-- **Critical Skirmisher**: - Critical Hits do +10% damage.; Stacks up to 5 times.
+- **Counter Stance**: Unit has: First Strike; An extra Retaliation Attack; Defensive Masters.
+- **Critical Skirmisher**: Critical Hits do +10% damage. Stacks up to 5 times.
 - **Cursed by Greed**: Whenever this unit takes damage, it has a base 30% chance of becoming Gilded for 1 Turn.
-- **Dagger of the Rite**: This unit ; Has +60% damage.; Has Resurgence; Dies at the end of the turn.
+- **Dagger of the Rite**: This unit; Has +60% damage. Has Resurgence; Dies at the end of the turn.
 - **Damage Deflection**: Reflects 50% of damage sustained back onto attackers.
-- **Damned**: When this unit dies: ; Has a 25% chance of summoning an Accursed Wisp for 3 Turn.; Chance increases by 15% for each stack of Ghostfire the unit has.  Cannot affect Infernal Fiends and Accursed Fiends.
-- **Decaying**: - Unit sustains 3 Blight Damage each Turns.; Unit receives -25% healing in combat.; Stacks up to 4 times.  Decaying counters Regeneration.
+- **Damned**: When this unit dies: Has a 25% chance of summoning an Accursed Wisp for 3 Turn. Chance increases by 15% for each stack of Ghostfire the unit has. Cannot affect Infernal Fiends and Accursed Fiends.
+- **Decaying**: Unit sustains 3 Blight Damage each Turns. Unit receives -25% healing in combat. Stacks up to 4 times. Decaying counters Regeneration.
 - **Decaying Dissolution**: When this unit dies, adjacent enemy units suffer 15 Blight Damage and 2x Decaying.
 - **Decreased Defense**: Due to the consequences of a narrative event, this unit has -1 Defense. This effect can stack.
 - **Defensive Masters**: Unit always enters Defense Mode at the end of its Turn.
-- **Demonic Satiation**: - +5 Hit Points.; Deals +2% damage.; Stacks up to 10 times.
-- **Demoralized**: - -5 Morale per stack.; Stacks up to 5 times.
+- **Demonic Satiation**: +5 Hit Points. Deals +2% damage. Stacks up to 10 times.
+- **Demoralized**: -5 Morale per stack. Stacks up to 5 times.
 - **Destructive Regrowth**: Unit has -2 Blight Protection.
-- **Devoured Power**: - Max Hit Points raised by 25.; Gains 1 stack of Strengthened.
-- **Dire Queen**: - The defending Colossal Penguin has +25 Hit Points per defending Dire Penguin at the start of combat.; Whenever a defending Dire Penguin dies, the defending Colossal Penguin loses 25 Hit Points.
-- **Diseased**: At the start of its turn, this unit: ; Suffers Weakened.; Suffers Poisoned.; Has a base 60% chance of inflicting Diseased on adjacent units.
-- **Dissonance**: When an enemy Overcharged Spell is cast, this unit suffers 4 Lightning Damage per stack and loses all stacks.  Can stack up to 5 times.
-- **Distracted**: All attacks targeting this unit are Flanking attacks.  Distracted counters Hyper-Awareness.
+- **Devoured Power**: Max Hit Points raised by 25. Gains 1 stack of Strengthened.
+- **Dire Queen**: The defending Colossal Penguin has +25 Hit Points per defending Dire Penguin at the start of combat. Whenever a defending Dire Penguin dies, the defending Colossal Penguin loses 25 Hit Points.
+- **Diseased**: At the start of its turn, this unit: Suffers Weakened. Suffers Poisoned. Has a base 60% chance of inflicting Diseased on adjacent units.
+- **Dissonance**: When an enemy Overcharged Spell is cast, this unit suffers 4 Lightning Damage per stack and loses all stacks. Can stack up to 5 times.
+- **Distracted**: All attacks targeting this unit are Flanking attacks. Distracted counters Hyper-Awareness.
 - **Dominated**: This unit is controlled by the opponent. If the effect lasts until the end of combat, the controller will have the option to spend Mana to keep the unit permanently.
 - **Doomed**: This unit dies at the end of this turn.
 - **Doomed**: This unit dies when this status effect expires.
-- **Draconic Catalyst**: When a Red Dragon has Draconic Rage, all attacking units have a 90% chance to suffer Burning every turn.  When a Blue Dragon has Draconic Rage, all attacking units have a 60% chance to get Frozen every turn.
+- **Draconic Catalyst**: When a Red Dragon has Draconic Rage, all attacking units have a 90% chance to suffer Burning every turn. When a Blue Dragon has Draconic Rage, all attacking units have a 60% chance to get Frozen every turn.
 - **Drained**: The hero has -1 Astral Affinity. This effect can stack.
 - **Duelist's Protection**: The duelist takes reduced damage from all units, except from the stack leader of the opposing army.
 - **Dungeon Hazard**: At the start of combat, this unit becomes Slowed for 3 Turn.
 - **Dwindling**: The hero has -1 Shadow Affinity. This effect can stack.
 - **Eldritch Rituals**: Unit deals +20% damage until the end of its next combat.
-- **Electrified**: - Unit sustains 4 Lightning Damage each Turns.; Stacks up to 5 times.
+- **Electrified**: Unit sustains 4 Lightning Damage each Turns. Stacks up to 5 times.
 - **Elemental Focus**: This hero gains +20% damage on its Magic attacks and abilities until it moves.
-- **Elemental Infusion**: Gain: ; +3 Defense; Adjacent enemy units suffer -3 Defense
-- **Elemental Infusion**: Gain: ; +3 Fire Protection; Adjacent enemy units suffer -3 Fire Protection
-- **Elemental Infusion**: Gain: ; +3 Frost Protection; Adjacent enemy units suffer -3 Frost Protection
-- **Elemental Infusion**: Gain: ; +3 Lightning Protection; Adjacent enemy units suffer -3 Lightning Protection
+- **Elemental Infusion**: Gain: +3 Defense; Adjacent enemy units suffer -3 Defense
+- **Elemental Infusion**: Gain: +3 Fire Protection; Adjacent enemy units suffer -3 Fire Protection
+- **Elemental Infusion**: Gain: +3 Frost Protection; Adjacent enemy units suffer -3 Frost Protection
+- **Elemental Infusion**: Gain: +3 Lightning Protection; Adjacent enemy units suffer -3 Lightning Protection
 - **Elevated**: The hero has +1 Order Affinity. This effect can stack.
-- **Ember Dust**: When this units sustains Fire Damage: ; This and adjacent friendly units sustain 10 Fire Damage.; Remove this effect.  If the unit is affected with Burning, the effect triggers immediately.
-- **Empower**: - Deals +40% damage.; Has Resurgence.  Unit dies when the timer expires.
+- **Ember Dust**: When this units sustains Fire Damage: This and adjacent friendly units sustain 10 Fire Damage. Remove this effect. If the unit is affected with Burning, the effect triggers immediately.
+- **Empower**: Deals +40% damage. Has Resurgence. Unit dies when the timer expires.
 - **Empowered**: The hero has +1 Shadow Affinity. This effect can stack.
 - **Encouraged**: 5 Morale per stack.
-- **Engaged by Levies**: Attacks from units with Federate Soldier gain: ; +20% Accuracy; +20% damage
-- **Enrapturing Domination**: This unit: ; Is Dominated; Is Berserk; Deals +20% damage
-- **Entwined**: Unit is Immobilized and sustains 12 Blight Damage each turn.  If this unit dies while under this effect, it transforms into an Entwined Thrall under enemy control.  If the Thrall survives combat, it then Evolves and the enemy can pay Mana to keep it.
-- **Evasion**: - Missile and Magic attacks targeting this unit suffer -10% Accuracy.; Stacks up to 5 times.  Evasion counters Marked.
+- **Engaged by Levies**: Attacks from units with Federate Soldier gain: +20% Accuracy; +20% damage
+- **Enrapturing Domination**: This unit: Is Dominated; Is Berserk; Deals +20% damage
+- **Entwined**: Unit is Immobilized and sustains 12 Blight Damage each turn. If this unit dies while under this effect, it transforms into an Entwined Thrall under enemy control. If the Thrall survives combat, it then Evolves and the enemy can pay Mana to keep it.
+- **Evasion**: Missile and Magic attacks targeting this unit suffer -10% Accuracy. Stacks up to 5 times. Evasion counters Marked.
 - **Exalted Champion**: Deals +100% damage.
 - **Faithful**: Base Unit Upkeep is reduced by 10%.
 - **Fallen**: The hero has -1 Order Affinity. This effect can stack.
-- **Fangir's Defense**: - +2 Defense; +2 Resistance; Stacks up to 10.; Stacks are removed at the start of the unit's Turn.
+- **Fangir's Defense**: +2 Defense; +2 Resistance; Stacks up to 10. Stacks are removed at the start of the unit's Turn.
 - **Fatigued**: The hero has -1 Materium Affinity. This effect can stack.
-- **Fervor**: Unit gains: ; +1 Status Resistance per stack.  Stacks up to 5 times.
+- **Fervor**: Unit gains: +1 Status Resistance per stack. Stacks up to 5 times.
 - **Final Ultimatum**: This unit is controlled by the opponent. If the opponent wins the combat and this unit survives, then the opponent will keep the unit.
 - **Fire Hex**: Until the end of combat, when this unit is dealt damage it has a 50% chance of sustaining an extra 8 Fire Damage.
 - **Fires of War**: Attacks gain +2 Fire Damage per stack. Stacks up to 5 times. Effects are increased for Single Shot attacks.
@@ -103,33 +103,33 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Focused Aim**: +50% Accuracy until the unit moves.
 - **Focused Hunt**: +20% Critical Hit Chance until the unit moves.
 - **Fortified Summons**: This unit has +10 Hit Point.
-- **Fortune**: - +10% Critical Hit Chance.; Stacks up to 3 times.  Fortune counters Misfortune.
+- **Fortune**: +10% Critical Hit Chance. Stacks up to 3 times. Fortune counters Misfortune.
 - **Frenzy**: When this unit lands an attack, it gains a stack of Strengthened. Effects are increased for Single Shot attacks.
 - **Frost Hex**: Until the end of combat, when this unit is dealt damage it has a 20% chance of becoming Frozen for 1 Turn.
-- **Frozen**: This unit cannot move or attack.  Frozen counters Burning.
+- **Frozen**: This unit cannot move or attack. Frozen counters Burning.
 - **Fumbling Despair**: On Fumble, this unit loses 10 Morale.
-- **Fury**: Target linked unit is inflicted with Insanity for 1 Turn.  Disables Gratitude and Surrender for this turn.
-- **Fury of the Ash Sabertooth**: Attacks: ; Gain +3 Fire Damage.; Deal 4 Fire Damage to another unit up to 2 hexes away.  Each attack removes a stack of this effect.
-- **Fury of the Dune Serpent**: Attacks: ; Gain +4 Physical Damage.; Inflict Blind for 1 Turn.  Each attack removes a stack of this effect.
-- **Fury of the Glacial Mammoth**: Attacks: ; Gain +4 Frost Damage.; Have a base 60% chance of inflicting Chilled.  Each attack removes a stack of this effect.
-- **Fury of the Mire Crocodile**: Attacks: ; Gain +3 Blight Damage.; Inflict Diseased.  Each attack removes a stack of this buff.
-- **Fury of the Storm Crow**: Attacks: ; Gain +3 Lightning Damage.; Deal 4 Lightning Damage to adjacent enemy units.  Each attack removes a stack of this effect.
-- **Fury of the Sylvan Wolf**: Attacks gain: ; +3 Spirit Damage.; +2 Spirit Damage per friendly unit adjacent to the target.  On attack lose a stack of this effect.
-- **Fury of the Tunneling Spider**: Attacks gain: ; +3 Blight Damage.; Life Steal.; Each attack removes a stack of this buff.
-- **Ghostfire**: - Unit sustains 2 Fire Damage and 2 Frost Damage each Turns.; Replaces and counts as Burning, but isn't removed by Frozen, Chilled, or Wet.; Stacks up to 5 times.
+- **Fury**: Target linked unit is inflicted with Insanity for 1 Turn. Disables Gratitude and Surrender for this turn.
+- **Fury of the Ash Sabertooth**: Attacks: Gain +3 Fire Damage. Deal 4 Fire Damage to another unit up to 2 hexes away. Each attack removes a stack of this effect.
+- **Fury of the Dune Serpent**: Attacks: Gain +4 Physical Damage. Inflict Blind for 1 Turn. Each attack removes a stack of this effect.
+- **Fury of the Glacial Mammoth**: Attacks: Gain +4 Frost Damage. Have a base 60% chance of inflicting Chilled. Each attack removes a stack of this effect.
+- **Fury of the Mire Crocodile**: Attacks: Gain +3 Blight Damage. Inflict Diseased. Each attack removes a stack of this buff.
+- **Fury of the Storm Crow**: Attacks: Gain +3 Lightning Damage. Deal 4 Lightning Damage to adjacent enemy units. Each attack removes a stack of this effect.
+- **Fury of the Sylvan Wolf**: Attacks gain: +3 Spirit Damage. +2 Spirit Damage per friendly unit adjacent to the target. On attack lose a stack of this effect.
+- **Fury of the Tunneling Spider**: Attacks gain: +3 Blight Damage. Life Steal. Each attack removes a stack of this buff.
+- **Ghostfire**: Unit sustains 2 Fire Damage and 2 Frost Damage each Turns. Replaces and counts as Burning, but isn't removed by Frozen, Chilled, or Wet. Stacks up to 5 times.
 - **Giant Slayer**: This unit deals +40% damage to Large Target units.
-- **Gilded**: This unit has the following effects: ; Stunned.; When this unit dies, the winner of the battle gains 20 Gold per unit Tier.
+- **Gilded**: This unit has the following effects: Stunned. When this unit dies, the winner of the battle gains 20 Gold per unit Tier.
 - **Go For The Kill**: Attacks deal +50% damage.
-- **Gorged**: - +2 Hit Points; Stacks up to 10 times.
+- **Gorged**: +2 Hit Points; Stacks up to 10 times.
 - **Gorgon's Curse**: When this expires, the unit will become Stunned.
 - **Gravecall**: A Zombie is summoned next to the Hero at the start of your Turn.
-- **Graven Strength**: Unit has: ; +20% damage.; +10 maximum Hit Points.
-- **Greater Empower**: - Deals +80% damage.; +3 Status Resistance.; Has Resurgence.  Unit dies when this effect's time expires.
-- **Hastened**: Unit has: ; +1 Combat Speed; An additional Retaliation Attack  Hastened counters Slowed
+- **Graven Strength**: Unit has: +20% damage. +10 maximum Hit Points.
+- **Greater Empower**: Deals +80% damage. +3 Status Resistance. Has Resurgence. Unit dies when this effect's time expires.
+- **Hastened**: Unit has: +1 Combat Speed; An additional Retaliation Attack. Hastened counters Slowed
 - **Haunted**: When this effect expires, any adjacent Sarcophagus obstacle is destroyed and summons a Skeleton Unit unit on the defender's side.
-- **Heroic Stand**: Unit has: ; Steadfast; Ignores the penalties from Casualties.
-- **Holy Aura**: - Adjacent friendly units have 2 Status Resistance.; Adjacent enemy units sustain 4 Spirit Damage at the end of the turn.
-- **Hyper-Awareness**: Unit is immune to Flanking  Hyper Awareness counters Distracted.
+- **Heroic Stand**: Unit has: Steadfast; Ignores the penalties from Casualties.
+- **Holy Aura**: Adjacent friendly units have 2 Status Resistance. Adjacent enemy units sustain 4 Spirit Damage at the end of the turn.
+- **Hyper-Awareness**: Unit is immune to Flanking. Hyper Awareness counters Distracted.
 - **Imbued**: The hero has +1 Astral Affinity. This effect can stack.
 - **Immobilized**: This unit cannot move or use Movement abilities.
 - **Increased Defense**: Due to the consequences of a narrative event, this unit has +1 Defense. This effect can stack.
@@ -141,31 +141,31 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Inexorable Cast**: Until the end of this Turn, all attacks and abilities ignore 10 Status Resistance and 50% of Resistance.
 - **Inexorable Cast**: Until the end of this Turn, all attacks and abilities ignore 10 Status Resistance.
 - **Infected**: When this unit dies, it will become a Decaying Zombie under the opponent's control until the end of combat.
-- **Infectious Insanity**: - Unit is inflicted with Insanity.; Attacks have a base 50% chance of inflicting Infectious Insanity.
-- **Infernal Might**: - Attacks have +1 Fire Damage.; Fiend units gain +3% critical chance.; Can stack up to 5 times.  Effects are increased for Single Shot attacks.
+- **Infectious Insanity**: Unit is inflicted with Insanity. Attacks have a base 50% chance of inflicting Infectious Insanity.
+- **Infernal Might**: Attacks have +1 Fire Damage. Fiend units gain +3% critical chance. Can stack up to 5 times. Effects are increased for Single Shot attacks.
 - **Infernal Rebirth**: When this unit dies, it turns into a Gremlin under the control of the caster of this effect.
-- **Insanity**: The unit: ; Is uncontrollable and always attacks the closest allied target.; If no ally is in range, it will attack its enemies.
+- **Insanity**: The unit: Is uncontrollable and always attacks the closest allied target. If no ally is in range, it will attack its enemies.
 - **Inspired**: The hero has +1 in all Affinities. This effect can stack.
 - **Invulnerable**: This unit is immune to all damage.
 - **Irradiant Flare**: At the start of combat, this unit has a 60% chance of becoming Mana Drained.
 - **Jinxed**: The hero has -1 Chaos Affinity. This effect can stack.
-- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack.  Works once per Turn.
+- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack. Works once per Turn.
 - **Lamenters' Song**: This unit enjoys a Morale bonus, delighted by the melody of the Lamenters.
 - **Lesser Spirit Shield**: When an attacker hits at melee range, the attacker sustains 6 Spirit Damage.
-- **Leverage**: The next Flanking attack against this unit: ; Deals +4 damage per stack.; Bypasses 2 Status Resistance per stack.; Stacks up to 5 times.  All stacks are lost after triggering.
-- **Ley Line Focus**: Until the unit moves it has: ; +30% damage; +2 Resistance.
-- **Life Seed**: When this unit dies, it heals a unit on the caster's side within 4 hexes by 15 Temporary Hit Points for each stack of Life Seed it has.  Life seed stacks up to 3 times.
+- **Leverage**: The next Flanking attack against this unit: Deals +4 damage per stack. Bypasses 2 Status Resistance per stack. Stacks up to 5 times. All stacks are lost after triggering.
+- **Ley Line Focus**: Until the unit moves it has: +30% damage; +2 Resistance.
+- **Life Seed**: When this unit dies, it heals a unit on the caster's side within 4 hexes by 15 Temporary Hit Points for each stack of Life Seed it has. Life seed stacks up to 3 times.
 - **Life Steal**: This unit's attacks heal it for 10 Temporary Hit Points when they hit. For repeating attacks only 5 Temporary Hit Points are healed.
 - **Lightning Torrent**: Unit has -1 Lightning Protection.
-- **Looted Power**: - +1 Defense and +1 Resistance.; Attacks inflict +20% damage.; Support abilities heal +20% Temporary Hit Points.; Stacks up to 5 times.
+- **Looted Power**: +1 Defense and +1 Resistance. Attacks inflict +20% damage. Support abilities heal +20% Temporary Hit Points. Stacks up to 5 times.
 - **Lowered Morale (Major)**: This unit has -20 Morale because of recent events.
 - **Lowered Morale (Minor)**: This unit has -10 Morale because of recent events.
 - **Lucky**: The hero has +1 Chaos Affinity. This effect can stack.
-- **Madness**: - Unit suffers from Insanity, becoming uncontrollable.; Unit sustains 5 Physical Damage each Turns.
+- **Madness**: Unit suffers from Insanity, becoming uncontrollable. Unit sustains 5 Physical Damage each Turns.
 - **Mana Drained**: Unit cannot use Magic, Support, and Debuff abilities.
-- **Mantle of the Blood Noble**: Unit: ; Has +5 Hit Points.; Receives +5% healing in combat.
-- **Mark of Shadow**: An enemy was slain, granting this unit: ; Slippery; Flanker
-- **Marked**: - -10% Evasion.; Stacks up to 5 times.  Marked counters Evasion and Clinging Mist.
+- **Mantle of the Blood Noble**: Unit: Has +5 Hit Points. Receives +5% healing in combat.
+- **Mark of Shadow**: An enemy was slain, granting this unit: Slippery; Flanker
+- **Marked**: -10% Evasion. Stacks up to 5 times. Marked counters Evasion and Clinging Mist.
 - **Marked for Evolution**: When this expires, this unit will transform into a greater Animal or Dragon unit.
 - **Master Skirmisher - Attacks Disabled**: This unit cannot attack.
 - **Mastered Focus**: +20% damage until the unit moves.
@@ -173,64 +173,64 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Materium Hardening**: This unit has +5 Hit Points per stack.
 - **Mercifully Returned**: This unit was resurrected and transformed into a Blessed Soul. It will rout when this effect expires.
 - **Mind-Controlled**: This unit is controlled by the opponent. If the effect lasts until the end of combat, the unit will die, unless its original owner wins.
-- **Misfortune**: - +15% Fumble chance.; Take 8 Physical Damage when fumbling.; Stacks up to 3 times.  Misfortune counters Fortune.
-- **Molten Fury**: - Base attack gains +2 Fire Damage per stack.; Molten Whirlwind gains +5 Fire Damage per stack.; Stacks up to 5 times.
-- **Momentum**: - +1 Defense.; +1 Resistance.; Attacks inflict +30% damage.; Support abilities heal +30% Temporary Hit Points.
-- **Morbid Sacrifice**: Until the end of their next combat, this unit has: ; +20 Hit Points; +15 Morale
-- **Mortal Blessing**: The death of another has granted this unit: ; +5 Hit Points; +2% Critical Hit Chance  Stacks up to 10 times.
+- **Misfortune**: +15% Fumble chance. Take 8 Physical Damage when fumbling. Stacks up to 3 times. Misfortune counters Fortune.
+- **Molten Fury**: Base attack gains +2 Fire Damage per stack. Molten Whirlwind gains +5 Fire Damage per stack. Stacks up to 5 times.
+- **Momentum**: +1 Defense. +1 Resistance. Attacks inflict +30% damage. Support abilities heal +30% Temporary Hit Points.
+- **Morbid Sacrifice**: Until the end of their next combat, this unit has: +20 Hit Points; +15 Morale
+- **Mortal Blessing**: The death of another has granted this unit: +5 Hit Points; +2% Critical Hit Chance. Stacks up to 10 times.
 - **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Nature Leeching**: The defending Horned God is leeching power from the surrounding nature. Each Turn, all Flora Obstacle obstacles within a 2-hex range are consumed, healing the Horned God +10 HP and granting 1 Strengthened for 3 Turns.
 - **Nature's Bounty**: Unit gains +15 max Hit Points and regenerates +15 Hit Points in neutral and friendly domain for the next 2 World Map Turns.
-- **Nature's Might**: - Base attacks have +1 Blight Damage; Can stack up to 5 times  Effects are increased for Single Shot attacks.
+- **Nature's Might**: Base attacks have +1 Blight Damage; Can stack up to 5 times. Effects are increased for Single Shot attacks.
 - **Necro Hex**: When this unit dies, it becomes a Decaying Zombie under the opponent's control until the end of combat.
 - **Obscured**: This unit is 40% harder to hit with Missile and ranged Magic attacks.
-- **Overcharged**: This unit has: ; +50% damage on attacks.; A 30% chance of suffering Stunned for 2 Turns after completing an attack action.
+- **Overcharged**: This unit has: +50% damage on attacks. A 30% chance of suffering Stunned for 2 Turns after completing an attack action.
 - **Pacified**: Unit cannot use Melee, Missile and Magic abilities.
 - **Pall of Gloom**: This unit has -1 Frost Protection and -1 Blight Protection.
 - **Phantasmal Ritual**: Unit has -2 Status Resistance until the end of the next combat.
-- **Poisoned**: - Unit sustains 4 Blight Damage each Turns.; Stacks up to 5 times. Cannot affect Ethereal or Undead units.  Poison counters Regeneration.
+- **Poisoned**: Unit sustains 4 Blight Damage each Turns. Stacks up to 5 times. Cannot affect Ethereal or Undead units. Poison counters Regeneration.
 - **Possessed**: This unit is uncontrollable and Berserk. If the effect lasts until the end of combat, the controller will have the option of spending Mana to keep the unit permanently.
 - **Prepared Charge**: This hero's first charge attack this Turn gains 20% damage.
 - **Prepared Shot**: Missile attacks do +20% more damage.
-- **Prepared Spell**: Magic attacks do +20% more damage.  Does not affect Magic Strikes.
+- **Prepared Spell**: Magic attacks do +20% more damage. Does not affect Magic Strikes.
 - **Prepared Strike**: Melee attacks and Magic Strikes do +20% more damage.
 - **Primal Exhaustion**: This unit has -1 Resistance, -1 Defense and deals -10% damage.
 - **Quickened Movement**: Due to the consequences of a narrative event, this unit has Fast Movement.
 - **Quickening Ritual**: Unit has Very Fast Movement.
-- **Quicksilver Basin**: This unit has visited Quicksilver Basin and temporarily gained: ; Fast Movement
-- **Rally**: - This unit gains 2 Morale at the end of its turn.; Stacks up to 5 times.  Rallying counters Remorse.
+- **Quicksilver Basin**: This unit has visited Quicksilver Basin and temporarily gained: Fast Movement
+- **Rally**: This unit gains 2 Morale at the end of its turn. Stacks up to 5 times. Rallying counters Remorse.
 - **Reaper**: Unit has +10 Hit Points per stack.
 - **Reckless Rage**: Melee attacks deal +30% damage.
-- **Refuged**: Unit is: ; Invulnerable; Stunned
-- **Regeneration**: This unit heals +6 Temporary Hit Points at the end of its turn in battle. Stacks up to 5 times.  Regeneration counters Poisoned and Decaying.
-- **Reinforced Conjure Weapon**: This unit has: ; +10 Hit Points; +2 Status Resistance; +1 Defense; +X Resistance
-- **Remorse**: - Lose -2 Morale at the end of the turn.; Stacks up to 5 times.  Remorse counters Rally.
+- **Refuged**: Unit is: Invulnerable; Stunned
+- **Regeneration**: This unit heals +6 Temporary Hit Points at the end of its turn in battle. Stacks up to 5 times. Regeneration counters Poisoned and Decaying.
+- **Reinforced Conjure Weapon**: This unit has: +10 Hit Points; +2 Status Resistance; +1 Defense; +X Resistance
+- **Remorse**: Lose -2 Morale at the end of the turn. Stacks up to 5 times. Remorse counters Rally.
 - **Requiem of the Damned**: At the start of combat, this unit has a 90% chance of suffering Ghostfire.
-- **Resilient Incarnation**: Per stack: ; +1 Defense, +1 Resistance
+- **Resilient Incarnation**: Per stack: +1 Defense, +1 Resistance
 - **Resurgence**: When the unit dies in combat, it is revived at the end of combat if its owner is victorious. Revived units are brought back with 50% of their maximum Hit Points.
-- **Retaliating Growths**: Unit has: ; A base 60% chance of inflicting Constricted for 1 Turn with its base Melee attacks.; Unlimited Retaliation Attacks.; Hyper-Awareness.; Defensive Masters.
+- **Retaliating Growths**: Unit has: A base 60% chance of inflicting Constricted for 1 Turn with its base Melee attacks. Unlimited Retaliation Attacks. Hyper-Awareness. Defensive Masters.
 - **Revels of Carnage**: Unit gains +100% Experience from combat.
 - **Revenant Whispers**: When attacked, conjure 3 Skeletons with Unholy Champion on the attacker's side.
 - **Revitalizing Rush**: At the start of the next combat, gain Hastened for 3 Turns.
-- **Rite of Fanaticism**: Until the end of its next combat, this unit has: ; Resurgence; Martyr
-- **Rite of Stoic Defense**: - +1 Defense; +1 Resistance
+- **Rite of Fanaticism**: Until the end of its next combat, this unit has: Resurgence; Martyr
+- **Rite of Stoic Defense**: +1 Defense; +1 Resistance
 - **Ritual of Somnia**: Has a base 90% chance of becoming Stunned for 2 Turns at the start of each battle.
-- **Rob**: Gain: ; +10 Gold per tier of the robbed unit.; +10 Morale.  Once robbed, a unit cannot be affected again for the rest of the combat.
-- **Scrying Sanctum**: This unit has visited a Scrying Sanctum and temporarily gained: ; Farsight; +1 on Missile and Magic attacks in Combat
-- **Sharpened Conjure Weapon**: This unit's attacks: ; Deal +20% damage.; Have a base 60% Frozen for 1 Turn.
-- **Sharpened Conjure Weapon**: This unit's attacks: ; Deal +20% damage.; Have a base 90% chance of inflicting Sundered Defense for 3 Turns.; Have a base 90% chance of inflicting Sundered Resistance for 3 Turns.
-- **Sharpened Conjure Weapon**: This unit's attacks: ; Deal +20% damage.; Inflict Burning for 3 Turns.
-- **Sharpened Conjure Weapon**: This unit's attacks: ; Deal +20% damage.; Inflict Electrified for 3 Turns.
+- **Rob**: Gain: +10 Gold per tier of the robbed unit. +10 Morale. Once robbed, a unit cannot be affected again for the rest of the combat.
+- **Scrying Sanctum**: This unit has visited a Scrying Sanctum and temporarily gained: Farsight; +1 on Missile and Magic attacks in Combat
+- **Sharpened Conjure Weapon**: This unit's attacks: Deal +20% damage. Have a base 60% Frozen for 1 Turn.
+- **Sharpened Conjure Weapon**: This unit's attacks: Deal +20% damage. Have a base 90% chance of inflicting Sundered Defense for 3 Turns. Have a base 90% chance of inflicting Sundered Resistance for 3 Turns.
+- **Sharpened Conjure Weapon**: This unit's attacks: Deal +20% damage. Inflict Burning for 3 Turns.
+- **Sharpened Conjure Weapon**: This unit's attacks: Deal +20% damage. Inflict Electrified for 3 Turns.
 - **Slaughter Empowerment**: +1 Hit Point and +1% damage. Stacks up to 50 times.
 - **Sleep of Oblivion**: Come back to life with 75% of their total Hit Points and are inflicted with Insanity.
-- **Slowed**: Unit has: ; -1 Combat Speed; One less Retaliation Attack  Slowed counters Hastened
+- **Slowed**: Unit has: -1 Combat Speed; One less Retaliation Attack. Slowed counters Hastened
 - **Slowed Movement**: Due to the consequences of a narrative event, this unit has Slow Movement.
 - **Sniper's Focus**: +1 Range until unit moves.
 - **Soaked**: Due to the consequences of a narrative event, this unit has Wet at the start of combat.
-- **Soothing Shrine**: This unit has visited a Soothing Shrine and temporarily gained: ; Faithful; Zeal
+- **Soothing Shrine**: This unit has visited a Soothing Shrine and temporarily gained: Faithful; Zeal
 - **Soul Overflow**: +20 maximum Hit Points until the end of battle.
-- **Soulbinders**: Unit has: ; A base 90% chance of inflicting Soulbound on attacks.; +10% damage against units that are Soulbound.  Effects are increased for Single Shot attacks.
-- **Soulbound**: - Souls gained from killing this unit are increased by 2.; When this unit dies, it has a 30% chance of becoming a Decaying Zombie under the opponent's control until the end of combat.
+- **Soulbinders**: Unit has: A base 90% chance of inflicting Soulbound on attacks. +10% damage against units that are Soulbound. Effects are increased for Single Shot attacks.
+- **Soulbound**: Souls gained from killing this unit are increased by 2. When this unit dies, it has a 30% chance of becoming a Decaying Zombie under the opponent's control until the end of combat.
 - **Spirit Summon Recharging**: Spirit Summon is unavailable.
 - **Spirit Summon: Astral**: Summon a Lesser Storm Spirit onto the target hex. This summon lasts for 3 Turns. Spirit Summons have a shared 3 Turns cooldown.
 - **Spirit Summon: Chaos**: Summon a Lesser Magma Spirit onto the target hex. This summon lasts for 3 Turns. Spirit Summons have a shared 3 Turns cooldown.
@@ -238,7 +238,7 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Spirit Summon: Nature**: Summon a Lesser Tide Spirit onto the target hex. This summon lasts for 3 Turns. Spirit Summons have a shared 3 Turns cooldown.
 - **Spirit Summon: Order**: Summon a Lesser Light Spirit onto the target hex. This summon lasts for 3 Turns. Spirit Summons have a shared 3 Turns cooldown.
 - **Spirit Summon: Shadow**: Summon a Lesser Snow Spirit onto the target hex. This summon lasts for 3 Turns. Spirit Summons have a shared 3 Turns cooldown.
-- **Sprinting**: This unit has: ; +1 hex of movement; Slippery; Fleeting; Swift
+- **Sprinting**: This unit has: +1 hex of movement; Slippery; Fleeting; Swift
 - **Stalwart**: 100% Morale loss resistance.
 - **Star Blades: Astral**: Attacks gain +1 Lightning Damage per stack. Single Shot attacks gain +2 Lightning Damage per stack.
 - **Star Blades: Chaos**: Attacks gain +1 Fire Damage per stack. Single Shot attacks gain +2 Fire Damage per stack.
@@ -246,50 +246,50 @@ What each combat status effect does (in-game tooltip text). Same-name lines are 
 - **Star Blades: Nature**: Attacks gain +1 Blight Damage per stack. Single Shot attacks gain +2 Blight Damage per stack.
 - **Star Blades: Order**: Attacks gain +1 Spirit Damage per stack. Single Shot attacks gain +2 Spirit Damage per stack.
 - **Star Blades: Shadow**: Attacks gain +1 Frost Damage per stack. Single Shot attacks gain +2 Frost Damage per stack.
-- **Static Charge**: Unit's attacks gain: ; +2 Lightning Damage.; Base 30% chance of inflicting Electrified for 3 Turns.  Effects are increased for Single Shot attacks.
+- **Static Charge**: Unit's attacks gain: +2 Lightning Damage. Base 30% chance of inflicting Electrified for 3 Turns. Effects are increased for Single Shot attacks.
 - **Static Shield**: Attackers have a base 30% chance of becoming Stunned.
 - **Status Effect Immunity: Slowed**: Unit is immune to Slowed.
-- **Status Protection**: - Gains 2 Status Resistance.; Stacks up to 5 times.  Status Protection counters Status Vulnerability.
-- **Status Vulnerability**: - Gains -2 Status Resistance.; Stacks up to 5 times.  Status Vulnerability counters Status Protection.
+- **Status Protection**: Gains 2 Status Resistance. Stacks up to 5 times. Status Protection counters Status Vulnerability.
+- **Status Vulnerability**: Gains -2 Status Resistance. Stacks up to 5 times. Status Vulnerability counters Status Protection.
 - **Steadfast**: This unit cannot have fewer than 1 Hit Point.
 - **Steeled**: The hero has +1 Materium Affinity. This effect can stack.
 - **Still as Stone**: +2 Defense and + 2 Resistance until the start of the next turn or until the unit moves.
-- **Stone Skin**: Unit has: ; +3 Defense; +3 Resistance; -3 Spirit Protection
+- **Stone Skin**: Unit has: +3 Defense; +3 Resistance; -3 Spirit Protection
 - **Stoneshard Recycling**: While the Primordial Bloodback is alive, whenever a defending Lithorine Tier 1 - Tier 3 Unit dies, if there is another Lithorine Corpse on the map, resurrect that one as a Lithorine unit that is 1 tier higher than the Lithorine unit that just died.
-- **Stormstance**: - This unit has 1 Defense and 1 Resistance.; Lost when this unit enters Windstance.
-- **Strengthened**: - +10% damage.; Stacks up to 5 times.  Strengthened counters Weakened.
+- **Stormstance**: This unit has 1 Defense and 1 Resistance. Lost when this unit enters Windstance.
+- **Strengthened**: +10% damage. Stacks up to 5 times. Strengthened counters Weakened.
 - **Stunned**: This unit cannot use actions or movement.
 - **Subdued**: This unit is Subdued by an enemy. It cannot use actions or movement. This unit is Captured if the caster is victorious. This effect ends if the caster dies.
-- **Sundered Defense**: - -1 Defense; Stacks up to 10 times.  Sundered Defense counters Bolstered Defense.
-- **Sundered Resistance**: - -1 Resistance; Stacks up to 10 times.  Sundered Resistance counters Bolstered Resistance.
-- **Surrender**: Target linked unit suffers: ; -20 Morale; 3 Sundered Defense for 3 Turns; 3 Sundered Resistance for 3 Turns  Disables Fury and Gratitude for this turn.
-- **Thrilling Domination**: - This unit is Berserk.; This unit is controlled by the opponent. If the effect lasts until the end of combat, the controller will have the option to spend Mana to keep the unit permanently.
+- **Sundered Defense**: -1 Defense; Stacks up to 10 times. Sundered Defense counters Bolstered Defense.
+- **Sundered Resistance**: -1 Resistance; Stacks up to 10 times. Sundered Resistance counters Bolstered Resistance.
+- **Surrender**: Target linked unit suffers: -20 Morale; 3 Sundered Defense for 3 Turns; 3 Sundered Resistance for 3 Turns. Disables Fury and Gratitude for this turn.
+- **Thrilling Domination**: This unit is Berserk. This unit is controlled by the opponent. If the effect lasts until the end of combat, the controller will have the option to spend Mana to keep the unit permanently.
 - **Tireless Retaliation**: Unit has unlimited Retaliation Attacks.
-- **Torment**: When the unit uses an ability: ; It sustains 8 Frost Damage.; Loses 4 Morale.; Loses one stack of this effect.; Stacks up to 5 times.  Torment counters Grace.
+- **Torment**: When the unit uses an ability: It sustains 8 Frost Damage. Loses 4 Morale. Loses one stack of this effect. Stacks up to 5 times. Torment counters Grace.
 - **Traumatized**: The hero has -1 in all Affinities. This effect can stack.
-- **True Strike**: Attacks cannot miss.  True Strike counters Blind.
+- **True Strike**: Attacks cannot miss. True Strike counters Blind.
 - **Tyrant's Mark**: Unit has Hastened.
-- **Umbran Exile**: When this effect expires: ; This unit sustains 30 Frost Damage.; Damage is halved if there is an adjacent friendly unit.
-- **Unholy Champion**: Unit has: ; +50% damage; Undying; Armor of Despair
+- **Umbran Exile**: When this effect expires: This unit sustains 30 Frost Damage. Damage is halved if there is an adjacent friendly unit.
+- **Unholy Champion**: Unit has: +50% damage; Undying; Armor of Despair
 - **Universal Camouflage**: This unit cannot be seen on the World Map.
 - **Vigilant**: Unit has +1 Retaliation Attack.
-- **Virtuous Spirit**: Unit: ; Ignores 50% of Casualties.; Has +1 Defense.; Has +1 Resistance.
-- **Visions of Death**: At the end of the turn, this unit: ; Sustains 15 Physical Damage.; Loses -10 Morale.; Has a Decaying Zombie spawn adjacent to them.
+- **Virtuous Spirit**: Unit: Ignores 50% of Casualties. Has +1 Defense. Has +1 Resistance.
+- **Visions of Death**: At the end of the turn, this unit: Sustains 15 Physical Damage. Loses -10 Morale. Has a Decaying Zombie spawn adjacent to them.
 - **Visions of Woe**: There is a 100% chance that this unit will Fumble its attacks.
-- **Volatile Charge**: On expiration this unit and adjacent friendly units: ; Sustain 8 Physical Damage; Sustain 8 Lightning Damage
+- **Volatile Charge**: On expiration this unit and adjacent friendly units: Sustain 8 Physical Damage; Sustain 8 Lightning Damage
 - **Volatile Summon**: When this unit dies, it deals 8 Physical Damage and 8 Lightning Damage to all adjacent enemy units.
 - **Warrior's Fury**: This unit's attacks do +2 Fire Damage. Effects are increased for Single Shot attacks.
 - **Warrior's Fury (Adherent)**: This unit's attacks do +3 Fire Damage. Effects are increased for Single Shot attacks.
 - **Warrior's Fury (Devotee)**: This unit's attacks do +4 Fire Damage. Effects are increased for Single Shot attacks.
 - **Warrior's Fury (Paragon)**: This unit's attacks do +5 Fire Damage. Effects are increased for Single Shot attacks.
-- **Warseeker**: This unit gains: ; +10% damage on their attacks.; +10 maximum Hit Points.  Stacks up to 3 times.
+- **Warseeker**: This unit gains: +10% damage on their attacks. +10 maximum Hit Points. Stacks up to 3 times.
 - **Water Walk**: Unit doesn't embark when in water.
-- **Weakened**: - Deals -10% damage.; Stacks up to 5 times.  Weakened counters Strengthened.
-- **Well Supplied**: This unit has: ; +10 Maximum Hit Points.; +20% healing received in Combat.
-- **Wet**: Unit has: ; -2 Lightning Protection; -2 Frost Protection; 2 Fire Protection  Wet counters Burning
-- **Whiteout**: Units in this province have: ; -2 Status Resistance.; At the start of each turn in combat, have a base 60% chance of becoming Chilled for 3 Turns.  Units with Frozen or Chilled Immunity are not affected.
-- **Windstance**: - This unit has Slippery and Swift.; Lost when this unit enters Stormstance.
+- **Weakened**: Deals -10% damage. Stacks up to 5 times. Weakened counters Strengthened.
+- **Well Supplied**: This unit has: +10 Maximum Hit Points. +20% healing received in Combat.
+- **Wet**: Unit has: -2 Lightning Protection; -2 Frost Protection; 2 Fire Protection. Wet counters Burning
+- **Whiteout**: Units in this province have: -2 Status Resistance. At the start of each turn in combat, have a base 60% chance of becoming Chilled for 3 Turns. Units with Frozen or Chilled Immunity are not affected.
+- **Windstance**: This unit has Slippery and Swift. Lost when this unit enters Stormstance.
 - **Withered**: The hero has -1 Nature Affinity. This effect can stack.
-- **Ydgaard's Trade**: Unit: ; Has -20 maximum Hit Points.; Base attacks have a base 60% chance of inflicting Gilded for 1 Turn.; Grants +50 Gold per World Map Turn.
+- **Ydgaard's Trade**: Unit: Has -20 maximum Hit Points. Base attacks have a base 60% chance of inflicting Gilded for 1 Turn. Grants +50 Gold per World Map Turn.
 - **Yearning for the Song**: This unit suffers a Morale loss, yearning for the melody of the Lamenters.
-- **Zeal**: - Attacks gain +2 Spirit Damage.; Deal +10% damage against Condemned units.  Effects are increased for Single Shot attacks.
+- **Zeal**: Attacks gain +2 Spirit Damage. Deal +10% damage against Condemned units. Effects are increased for Single Shot attacks.

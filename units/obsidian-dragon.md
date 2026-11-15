@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Melee Strike** (damage 19 Physical 13 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Electrified: Inflicts Electrified for 3 Turns. Requires: Melee, Base
-- **Tail Swipe** (damage 39 Physical, accuracy 100%, range 1, single-use action): Attacks 3 adjacent units and removes their Defense Mode and Retaliation Attack. Enter Defense Mode after use. Cooldown: 1 Turns Requires: Melee
-- **Lightning Breath** (damage 40 Lightning, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 5-hex line. Stunned: Base 60% chance of inflicting Stunned for 1 Turn. Electrified: Inflicts Electrified for 3 Turns. Cooldown: 2 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Tail Swipe** (damage 39 Physical, accuracy 100%, range 1, single-use action): Attacks 3 adjacent units and removes their Defense Mode and Retaliation Attack. Enter Defense Mode after use. Cooldown: 1 Turns. Requires: Melee
+- **Lightning Breath** (damage 40 Lightning, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 5-hex line. Stunned: Base 60% chance of inflicting Stunned for 1 Turn. Electrified: Inflicts Electrified for 3 Turns. Cooldown: 2 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -22,18 +22,18 @@
 - **Fearless**: Unit cannot rout due to low morale.
 - **High Maintenance**: Base Unit Upkeep increased by 50%
 - **Juggernaut**: This unit may crush non-Fortified obstacles.
-- **Lightning Aura**: At the start of the turn, adjacent enemy units: ; Sustain 8 Lightning Damage.; Become inflicted with Electrified for 3 Turns.
+- **Lightning Aura**: At the start of the turn, adjacent enemy units: Sustain 8 Lightning Damage. Become inflicted with Electrified for 3 Turns.
 - **Natural Regeneration**: Heals 10% of its maximum Hit Points as Temporary Hit Points at the end of its turn in combat, though not more than the unit started combat with. Heals 10 Hit Points at the start of your turn on the world map.
 - **Siege Breaker**: When part of a besieging army, this unit contributes +1 Fortification Damage.
-- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
+- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale. Doesn't work on units with this ability.
 - **Truesight**: Unit can see invisible or camouflaged units within its vision range.
 
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Dragon**: Dragon unit with: ; Draconic Rage
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Dragon**: Dragon unit with: Draconic Rage
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 
 ## Rank-up rewards

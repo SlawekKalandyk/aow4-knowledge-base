@@ -30,4 +30,4 @@ Inflict and exploit the Immobilized status effect and strike fear into your enem
   - Gain Demoralizer
   - Attacks deal +20% damage against Immobilized or Frozen targets.
 - [Priest of the Weave](../units/priest-of-the-weave.md) (Unit): A Support Unit that can rebirth dead units as spiders and transfer negative effects from friendly units to enemies.
-- Spider's Nest (Initial City Upgrade): - +20 Food.; +5 Draft per adjacent Forester or Forest.; Unlocks various Spider units.; Counts as a Forester.
+- Spider's Nest (Initial City Upgrade): +20 Food. +5 Draft per adjacent Forester or Forest. Unlocks various Spider units. Counts as a Forester.

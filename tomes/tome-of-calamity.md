@@ -40,4 +40,4 @@ Bring calamity to the realm and burn your enemies in cold Ghostfire.
   - Have a 50% base chance of becoming Frozen for 1 Turn.
   - Gain 2 stacks of Ghostfire for 3 Turns.
 - [Summon Calamity Dragon](../spells/summon-calamity-dragon.md) ([World Map] Summon Spell): Target owned non-ruined Province turns to Ruins and Desolate terrain and then summons a Calamity Dragon, a Mythic Unit unit with strong offensive capabilities.
-- Accursed Shrine (Initial City Upgrade): - When placed, alter terrain into Desolate.; Per adjacent Ruin province gain: ; +3 Draft; +3 Food; +3 Gold; +3 Knowledge; +3 Mana; +3 Production ; Allows the drafting of Accursed Ogre, Accursed Blade, and Accursed Trickster; Counts as a Conduit.
+- Accursed Shrine (Initial City Upgrade): When placed, alter terrain into Desolate. Per adjacent Ruin province gain: +3 Draft; +3 Food; +3 Gold; +3 Knowledge; +3 Mana; +3 Production; Allows the drafting of Accursed Ogre, Accursed Blade, and Accursed Trickster; Counts as a Conduit.

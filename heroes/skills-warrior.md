@@ -23,7 +23,7 @@ Compatible weapons:
 (type normal; requires any of Reckless Rage, Execute; can't be taken with Grim Executioner; DLC Base)
 
 
-- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage**: When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: Berserk; Steadfast
 
 ## Brutal Charge
 
@@ -46,7 +46,7 @@ If the hero uses a charge attack after moving, then it:
 (type normal; requires any of Fighting, Vigor; DLC Base)
 
 
-- **Cleaving Sweep** (damage 20 Physical, accuracy 100%, range 1, single-use action): Deal damage to units in a 1-hex cone. Cooldown: 2 Turns Requires: Melee, Base
+- **Cleaving Sweep** (damage 20 Physical, accuracy 100%, range 1, single-use action): Deal damage to units in a 1-hex cone. Cooldown: 2 Turns. Requires: Melee, Base
 
 ## Committed Charge
 
@@ -59,7 +59,7 @@ If the hero uses a Charge attack after moving, they gain +1 Retaliation Attack.
 (type normal; requires Keen Edge; can't be taken with Execute, Reckless Rage; DLC Base)
 
 
-- **Critical Momentum**: When this hero makes a Critical Hit it: ; Heals 10 Temporary Hit Points; Gains Hastened
+- **Critical Momentum**: When this hero makes a Critical Hit it: Heals 10 Temporary Hit Points; Gains Hastened
 
 ## Defense
 
@@ -129,7 +129,7 @@ If the hero uses a Charge attack after moving, they enter Defense Mode.
 (type normal; requires any of Willbreaker, Warseeker; DLC Base)
 
 
-- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack.  Works once per Turn.
+- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack. Works once per Turn.
 
 ## Knight
 
@@ -149,7 +149,7 @@ If this hero is not Engaged in Melee when its turn starts, then its next charge 
 (type normal; requires any of Vigor, Sundering Strikes; can't be taken with Critical Momentum, Execute; DLC Base)
 
 
-- **Reckless Rage** (accuracy Always Hits, range 0, free action): Gain: ; +30% attack damage for 3 Turn; 1 Sundered Defense; 1 Sundered Resistance Can only be used once per battle.
+- **Reckless Rage** (accuracy Always Hits, range 0, free action): Gain: +30% attack damage for 3 Turn; 1 Sundered Defense; 1 Sundered Resistance. Can only be used once per battle.
 
 ## Relentless Charge
 
@@ -162,7 +162,7 @@ If the hero uses a Charge attack after moving, they now inflict 2x Sundered Defe
 (type normal; requires any of Knight, Berserker; DLC Base)
 
 
-- **Second Wind** (accuracy Always Hits, range 0, free action): - +1 hex of movement for 1 Turn.; Slippery for 1 Turn.; Heal for 15 Temporary Hit Point.  This ability is reusable after each kill. Can only be used once per battle. Requires: Second Wind
+- **Second Wind** (accuracy Always Hits, range 0, free action): +1 hex of movement for 1 Turn. Slippery for 1 Turn. Heal for 15 Temporary Hit Point. This ability is reusable after each kill. Can only be used once per battle. Requires: Second Wind
 
 ## Sundering Strikes
 
@@ -224,7 +224,7 @@ If the hero uses a Charge attack after moving, they now have a base 90% chance o
 (type normal; requires any of Unyielding, Vigor, Brutal Parry; can't be taken with Willbreaker; DLC Base)
 
 
-- **Warseeker**: When this unit kills an enemy: ; Gains Warseeker for 2 Turns.; This effect stacks up to 3 times.
+- **Warseeker**: When this unit kills an enemy: Gains Warseeker for 2 Turns. This effect stacks up to 3 times.
 
 ## Weakening Charge
 

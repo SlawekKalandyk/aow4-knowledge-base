@@ -10,12 +10,12 @@
 ## Abilities
 
 - **Shoot Bow** (damage 8 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Mire Crocodile's Boon: Gain 1 stack of Rising Fury on use. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **Farsight**: The unit has +1 vision range.
-- **Mire Crocodile's Boon**: Unit is blessed by the Mire Crocodile: ; It gains a Rising Fury stack when attacking.; At 3 stacks, these turn into stacks of Fury of the Mire Crocodile. The unit's base attacks: ; Gain +3 Blight Damage.; Inflict Diseased. ; Each attack removes a stack of Fury of the Mire Crocodile.
+- **Mire Crocodile's Boon**: Unit is blessed by the Mire Crocodile: It gains a Rising Fury stack when attacking. At 3 stacks, these turn into stacks of Fury of the Mire Crocodile. The unit's base attacks: Gain +3 Blight Damage. Inflict Diseased. Each attack removes a stack of Fury of the Mire Crocodile.
 - **Status Effect Immunity: Diseased**: Unit is immune to Diseased.
 
 ## Unit type traits

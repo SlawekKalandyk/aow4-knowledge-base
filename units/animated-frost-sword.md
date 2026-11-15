@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Melee Strike** (damage 6 Physical 6 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -20,9 +20,9 @@
 
 ## Unit type traits
 
-- **Construct**: A construct unit with: ; Reinforced; -4 Lightning Protection; 2 Spirit Protection.; Heartless; Control Loss Immunity; Immunity to: ; Bleeding; Diseased; Distracted; Poisoned
+- **Construct**: A construct unit with: Reinforced; -4 Lightning Protection; 2 Spirit Protection. Heartless; Control Loss Immunity; Immunity to: Bleeding; Diseased; Distracted; Poisoned
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
 
 ## Rank-up rewards
 

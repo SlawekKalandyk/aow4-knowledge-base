@@ -9,13 +9,13 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Mire Crocodile's Boon: Gain 2 stacks of Rising Fury on use. Requires: Melee, Base, Single Shot
-- **Cleaving Charge** (damage 14 Physical, accuracy 100%, range 1, single-use action): Attacks units in a 1-hex cone. Momentum: +20% damage per hex traveled, up to 3 hexes. Mire Crocodile's Boon: Gain 2 stacks of Rising Fury on use. Cooldown: 1 Turns Requires: Melee
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Mire Crocodile's Boon: Gain 2 stacks of Rising Fury on use. Requires: Melee, Base, Single Shot
+- **Cleaving Charge** (damage 14 Physical, accuracy 100%, range 1, single-use action): Attacks units in a 1-hex cone. Momentum: +20% damage per hex traveled, up to 3 hexes. Mire Crocodile's Boon: Gain 2 stacks of Rising Fury on use. Cooldown: 1 Turns. Requires: Melee
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Mire Crocodile's Boon**: Unit is blessed by the Mire Crocodile: ; It gains a Rising Fury stack when attacking.; At 3 stacks, these turn into stacks of Fury of the Mire Crocodile. The unit's base attacks: ; Gain +3 Blight Damage.; Inflict Diseased. ; Each attack removes a stack of Fury of the Mire Crocodile.
+- **Mire Crocodile's Boon**: Unit is blessed by the Mire Crocodile: It gains a Rising Fury stack when attacking. At 3 stacks, these turn into stacks of Fury of the Mire Crocodile. The unit's base attacks: Gain +3 Blight Damage. Inflict Diseased. Each attack removes a stack of Fury of the Mire Crocodile.
 - **Status Effect Immunity: Diseased**: Unit is immune to Diseased.
 
 ## Unit type traits

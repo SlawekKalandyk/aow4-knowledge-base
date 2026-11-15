@@ -47,7 +47,7 @@ Grants +1 Defense.
 (Tier II; DLC Base)
 
 
-- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
+- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale. Doesn't work on units with this ability.
 
 ## Helm of the Warrior
 
@@ -77,7 +77,7 @@ Grants +1 Defense.
 (Tier III; DLC Base)
 
 Grants +1 Resistance.
-- **Circlet of Mind Protection**: - Grants Control Loss Immunity.; Morale loss is reduced by 50%.
+- **Circlet of Mind Protection**: Grants Control Loss Immunity. Morale loss is reduced by 50%.
 
 ## Crown of Ruin
 

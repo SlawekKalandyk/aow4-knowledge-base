@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical 3 Spirit, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Smite** (damage 20 Spirit 10 Physical, accuracy 100%, range 1, single-use action): Deal damage to target unit. Enter Defense Mode. Cooldown: 2 Turns Requires: Melee, Base, Single Shot
-- **Lay on Hands** (accuracy Always Hits, range 1, single-use action): Target friendly unit: ; Heals for 30 Temporary Hit Points.; Gains 2 Status Protection for 3 Turns. Cooldown: 3 Turns Requires: Support
-- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Smite** (damage 20 Spirit 10 Physical, accuracy 100%, range 1, single-use action): Deal damage to target unit. Enter Defense Mode. Cooldown: 2 Turns. Requires: Melee, Base, Single Shot
+- **Lay on Hands** (accuracy Always Hits, range 1, single-use action): Target friendly unit: Heals for 30 Temporary Hit Points. Gains 2 Status Protection for 3 Turns. Cooldown: 3 Turns. Requires: Support
+- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
@@ -22,7 +22,7 @@
 
 - **Land Movement**: This unit can move over land hexes.
 - **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

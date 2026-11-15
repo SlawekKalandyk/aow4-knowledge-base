@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Melee Strike** (damage 14 Blight, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Diseased: Inflict Diseased for 3 Turns. Thrashing: +25% damage per attack until the end of the turn. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,10 +23,10 @@
 
 ## Unit type traits
 
-- **Amphibious**: This unit: ; Can enter water hexes without movement penalties or becoming Embarked.; Has faster movement over Rivers and Swamps.
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
-- **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Amphibious**: This unit: Can enter water hexes without movement penalties or becoming Embarked. Has faster movement over Rivers and Swamps.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Ethereal**: An Ethereal unit with: +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: Bleeding; Diseased; Immobilized; Poisoned
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 - **Swamp Walk**: Moving through Swamps costs 6 Move Points instead of 8.

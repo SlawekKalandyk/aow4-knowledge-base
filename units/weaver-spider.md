@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Shoot Web** (damage 12 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Immobilized: Base 30% chance of inflicting Immobilized for 1 Turn. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,13 +21,13 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Cave Walk**: Moving through Cavern Floors costs 5 Move Points instead of 6. Moving through Fungus Fields costs 5 Move Points instead of 6. Moving through Mushroom Forests costs 6 Move Points instead of 8.
 - **Evolve**: This unit will transform into a more powerful unit when it reaches Legendary rank. Evolving units can not be recruited at Legendary rank.
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
-- **Ranged Unit**: An attack unit that takes out targets from afar. It is somewhat vulnerable. ; Its Accuracy is affected by Line of Sight.; Cannot fire its main ranged attack when Engaged in Melee.
-- **Spider**: A spider unit with: ; Swift; Forest Walk; Cave Walk; Immunity to: ; Slowed; Immobilized
+- **Ranged Unit**: An attack unit that takes out targets from afar. It is somewhat vulnerable. Its Accuracy is affected by Line of Sight. Cannot fire its main ranged attack when Engaged in Melee.
+- **Spider**: A spider unit with: Swift; Forest Walk; Cave Walk; Immunity to: Slowed; Immobilized
 
 ## Rank-up rewards
 

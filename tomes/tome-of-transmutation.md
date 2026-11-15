@@ -24,4 +24,4 @@ Change physical substances using vast amounts of mana. Specialize in debuffing e
   
   - Bolstered Resistance, increasing their resistance to magical damage.
   - Status Protection, reducing the chance that the unit will be affected by Negative Status Effects.
-- Transmutation Circle (Initial City Upgrade): - Once built, can replicate the effects and income of a Magic Material.; Counts as a Mine.
+- Transmutation Circle (Initial City Upgrade): Once built, can replicate the effects and income of a Magic Material. Counts as a Mine.

@@ -9,8 +9,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Piercing: Ignore 50% of the target's Defense. Gather Metal: On hit, this unit gains 5 Temporary Hit Points and has a 60% chance of gaining Bolstered Defense. Requires: Melee, Base
-- **Acid Spray** (damage 14 Blight, accuracy Always Hits, range 1, single-use action): Units in a 2-hex cone: ; Sustain damage.; Gain 2 Sundered Defense. Cooldown: 2 Turns Requires: Magic
-- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Acid Spray** (damage 14 Blight, accuracy Always Hits, range 1, single-use action): Units in a 2-hex cone: Sustain damage. Gain 2 Sundered Defense. Cooldown: 2 Turns. Requires: Magic
+- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
@@ -20,9 +20,9 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Land Movement**: This unit can move over land hexes.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

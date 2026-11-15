@@ -8,8 +8,8 @@
 
 ## Abilities
 
-- **Magic Shield** (accuracy Always Hits, range 4, single-use action): Target friendly unit gains: ; 2 Grace; 2 Status Protection for 3 Turns. Requires: Support
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Magic Shield** (accuracy Always Hits, range 4, single-use action): Target friendly unit gains: 2 Grace; 2 Status Protection for 3 Turns. Requires: Support
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,7 +23,7 @@
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

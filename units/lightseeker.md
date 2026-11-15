@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Shoot Bow** (damage 7 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 

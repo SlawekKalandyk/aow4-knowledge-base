@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Decaying: Base 30% chance of inflicting Decaying for 3 Turns. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,7 +21,7 @@
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Land Movement**: This unit can move over land hexes.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
-- **Undead**: An undead unit with: ; +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: ; Poisoned; Diseased
+- **Undead**: An undead unit with: +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: Poisoned; Diseased
 
 ## Rank-up rewards
 

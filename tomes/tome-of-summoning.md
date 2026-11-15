@@ -22,4 +22,4 @@ Call forth, control, and enhance Magic Origin units.
 - [Arcane Bond](../spells/arcane-bond.md) ([Combat] Debuff Spell): Target enemy Magic Origin unit has a base 90% chance of becoming Dominated for 2 Turns.
   
   If unsuccessful, deals 30 Lightning Damage instead.
-- Summoning Well (Initial City Upgrade): - +10 Mana.; +2 Mana and +2 Knowledge per adjacent Conduit or Research Post.; [Combat] Combat Summon Spells in the domain cost -50% less mana.; Counts as a Conduit.
+- Summoning Well (Initial City Upgrade): +10 Mana. +2 Mana and +2 Knowledge per adjacent Conduit or Research Post. [Combat] Combat Summon Spells in the domain cost -50% less mana. Counts as a Conduit.

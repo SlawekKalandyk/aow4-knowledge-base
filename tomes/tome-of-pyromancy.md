@@ -32,4 +32,4 @@ Specialize in high Fire Damage by inflicting and exploiting Burning.
   - +10% damage against targets that are Burning.
   
   Effects are increased for Single Shot attacks.
-- Ritual Pyre (Initial City Upgrade): - +10 Mana income.; +3 Mana per adjacent Forester.; Allows the drafting of Inferno Puppies.; Counts as a Forester.
+- Ritual Pyre (Initial City Upgrade): +10 Mana income. +3 Mana per adjacent Forester. Allows the drafting of Inferno Puppies. Counts as a Forester.

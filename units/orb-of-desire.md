@@ -9,12 +9,12 @@
 ## Abilities
 
 - **Taunt** (accuracy Always Hits, range 4, single-use action): Target enemy unit has a base 120% chance of becoming Taunted for 2 Turns. Requires: Debuff
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **All-round Awareness**: Immune to Flanking
-- **Blazing Aura**: At the end of the turn, adjacent enemy units: ; Sustain 4 Fire Damage.; Have a base 60% chance of becoming Burning for 3 Turns.
+- **Blazing Aura**: At the end of the turn, adjacent enemy units: Sustain 4 Fire Damage. Have a base 60% chance of becoming Burning for 3 Turns.
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
 - **Fiery Reflection**: Damage taken is reflected back to the attacker as Fire Damage.
 - **Immobilized**: This unit cannot move or use Movement abilities.
@@ -26,7 +26,7 @@
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

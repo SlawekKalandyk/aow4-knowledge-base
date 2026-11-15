@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical 10 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Requires: Melee, Base
-- **Phantom Charge** (damage 25 Lightning, accuracy 100%, range 1, single-use action): Deal damage in a 6-hex line. Stunned: Base 70% chance of inflicting Stunned for 1 Turn. Momentum: +20% damage per hex traveled, up to 3 hexes. Cooldown: 2 Turns Requires: Melee
-- **Captive Glamor** (accuracy Always Hits, range 4, leave-one action): - Target damaged unit has a chance of becoming Dominated until the end of combat.; Chance increases with the targets' missing health. Cooldown: 3 Turns Requires: Debuff
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Phantom Charge** (damage 25 Lightning, accuracy 100%, range 1, single-use action): Deal damage in a 6-hex line. Stunned: Base 70% chance of inflicting Stunned for 1 Turn. Momentum: +20% damage per hex traveled, up to 3 hexes. Cooldown: 2 Turns. Requires: Melee
+- **Captive Glamor** (accuracy Always Hits, range 4, leave-one action): Target damaged unit has a chance of becoming Dominated until the end of combat. Chance increases with the targets' missing health. Cooldown: 3 Turns. Requires: Debuff
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -20,13 +20,13 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Fearless**: Unit cannot rout due to low morale.
 - **Fey Guile**: At the end of its turn, if this unit is Obscured or in a Mist cloud, it gains a random Positive Status Effect.
-- **Presence of Gales**: While this unit is in combat, all friendly units gain: ; Wind Barrier
+- **Presence of Gales**: While this unit is in combat, all friendly units gain: Wind Barrier
 
 ## Unit type traits
 
-- **Fey**: A Fey unit with: ; +4 Spirit Protection; -4 Blight Protection; Fey Guile; The ability to ignore: ; Vision penalties from Misty.; Accuracy penalties from Clinging Mist.
+- **Fey**: A Fey unit with: +4 Spirit Protection; -4 Blight Protection; Fey Guile; The ability to ignore: Vision penalties from Misty. Accuracy penalties from Clinging Mist.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

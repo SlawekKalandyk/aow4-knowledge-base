@@ -15,7 +15,7 @@ Compatible weapons:
 (type normal; requires any of Defense, Warded Armor; DLC Base)
 
 
-- **Adaptive Armor**: Once per Turn, when this unit is damaged by Magic attacks or spells it gains: ; Bolstered Resistance; Status Protection
+- **Adaptive Armor**: Once per Turn, when this unit is damaged by Magic attacks or spells it gains: Bolstered Resistance; Status Protection
 
 ## Aggressive Push
 
@@ -141,7 +141,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires Shieldbearer; can't be taken with Resistant Vanguard; DLC Base)
 
 
-- **Offensive Vanguard**: This unit is adjacent to a friendly Hero with Offensive Formation Attacks deal +10% more damage.
+- **Offensive Vanguard**: This unit is adjacent to a friendly Hero with Offensive Formation. Attacks deal +10% more damage.
 
 ## Pure Defense
 
@@ -154,14 +154,14 @@ When entering Defense Mode, this unit and all adjacent allies dispel 1 Negative 
 (type normal; requires any of Leaden Blows, Frontline Fighter; DLC Base)
 
 
-- **Pushing Attack** (damage 30 Physical, accuracy Always Hits, range 1, single-use action): Strike the target enemy unit, knocking them back and dealing damage. Enter Defense Mode after use. Push Back: Target is pushed back by 1 hex. Cooldown: 1 Turns Requires: Melee, Single Shot
+- **Pushing Attack** (damage 30 Physical, accuracy Always Hits, range 1, single-use action): Strike the target enemy unit, knocking them back and dealing damage. Enter Defense Mode after use. Push Back: Target is pushed back by 1 hex. Cooldown: 1 Turns. Requires: Melee, Single Shot
 
 ## Rallying Cry
 
 (type normal; requires any of Greater Fighting, Greater Vigor; DLC Base)
 
 
-- **Rallying Cry** (accuracy Always Hits, range 0, single-use action): The caster and adjacent friendly units gain: ; Rally for 3 Turn.; +2 Bolstered Defense for 3 Turn.; +2 Bolstered Resistance for 3 Turn.; Vigilant. - This unit then enters Defense Mode. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
+- **Rallying Cry** (accuracy Always Hits, range 0, single-use action): The caster and adjacent friendly units gain: Rally for 3 Turn. +2 Bolstered Defense for 3 Turn. +2 Bolstered Resistance for 3 Turn. Vigilant. -. This unit then enters Defense Mode. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
 
 ## Reflecting Defense
 
@@ -228,7 +228,7 @@ When entering Defense Mode, this unit and all adjacent allies receive +2 Defense
 (type normal; DLC Base)
 
 
-- **Taunt** (accuracy Always Hits, range 4, free action): Target enemy unit is inflicted with a base 90% chance of becoming Taunted for 2 Turns. Cooldown: 1 Turns Requires: Debuff
+- **Taunt** (accuracy Always Hits, range 4, free action): Target enemy unit is inflicted with a base 90% chance of becoming Taunted for 2 Turns. Cooldown: 1 Turns. Requires: Debuff
 
 ## Tireless Retaliator
 

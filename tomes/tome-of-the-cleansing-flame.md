@@ -37,4 +37,4 @@ Utilize the zeal of your troops to bathe the battlefield in cleansing flame that
   - Create Cleansing Flames on the target hex for 3 Turns
   
   Effects are increased for Single Shot attacks.
-- Pyreshrine (Initial City Upgrade): - +15 Gold.; +5 Draft per adjacent Forester.; Units produced in this city gain Faithful.; Flameherald's Consecration is added to all battles in this domain.; Counts as a Forester.
+- Pyreshrine (Initial City Upgrade): +15 Gold. +5 Draft per adjacent Forester. Units produced in this city gain Faithful. Flameherald's Consecration is added to all battles in this domain. Counts as a Forester.

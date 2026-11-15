@@ -9,7 +9,7 @@
 
 ## Abilities
 
-- **Fire Cannon** (damage 40 Physical, accuracy 90%, range 3-12, full action): Units in a 3-hex line: ; Sustain damage.; Have their Defense Mode canceled and Retaliation Attacks removed. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Requires: Missile, Base
+- **Fire Cannon** (damage 40 Physical, accuracy 90%, range 3-12, full action): Units in a 3-hex line: Sustain damage. Have their Defense Mode canceled and Retaliation Attacks removed. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Requires: Missile, Base
 
 ## Passives
 
@@ -24,9 +24,9 @@
 
 ## Unit type traits
 
-- **Amphibious**: This unit: ; Can enter water hexes without movement penalties or becoming Embarked.; Has faster movement over Rivers and Swamps.
+- **Amphibious**: This unit: Can enter water hexes without movement penalties or becoming Embarked. Has faster movement over Rivers and Swamps.
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Siegecraft**: Normally only accessible during Siege battles. Often required construction.
 
 ## Rank-up rewards

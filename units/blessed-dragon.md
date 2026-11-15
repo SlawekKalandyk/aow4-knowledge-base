@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Spirit Blast** (damage 16 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Graceful Rain** (accuracy Always Hits, range 4, single-use action): Friendly units in a 1-hex radius: ; Heal 15 Temporary Hit Points.; Gain 1 Grace. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Graceful Rain** (accuracy Always Hits, range 4, single-use action): Friendly units in a 1-hex radius: Heal 15 Temporary Hit Points. Gain 1 Grace. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 
@@ -23,10 +23,10 @@
 
 ## Unit type traits
 
-- **Celestial**: Celestial unit with: ; +2 Spirit Protection; -4 Blight Protection.; -4 Frost Protection; Inspiring Killer; Control Loss Immunity
-- **Dragon**: Dragon unit with: ; Draconic Rage
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Celestial**: Celestial unit with: +2 Spirit Protection; -4 Blight Protection. -4 Frost Protection; Inspiring Killer; Control Loss Immunity
+- **Dragon**: Dragon unit with: Draconic Rage
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Support Unit**: A defensive specialist that supports friendly units from afar and protects them from magical attacks. A Support unit has Defense Mode: Warding.
 

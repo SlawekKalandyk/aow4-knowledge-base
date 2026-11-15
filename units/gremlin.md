@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Magic Strike** (damage 13 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Behind You!** (damage 20 Fire, accuracy 90%, range 4, single-use action): Target unit: ; Sustains damage.; Turns 180 degrees.; Has their Defense Mode canceled and removes Retaliation Attacks, unless the target has Charge Resistance. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Single Shot, Base, Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Behind You!** (damage 20 Fire, accuracy 90%, range 4, single-use action): Target unit: Sustains damage. Turns 180 degrees. Has their Defense Mode canceled and removes Retaliation Attacks, unless the target has Charge Resistance. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Single Shot, Base, Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -24,10 +24,10 @@
 ## Unit type traits
 
 - **Desolate Walk**: Moving through Ashlands costs 5 Move Points instead of 6. Moving through Chasms costs 8 Move Points instead of 12.
-- **Infernal Fiend**: A Fiend unit with: ; +2 Fire Protection; -4 Frost Protection; -4 Spirit Protection; +15% Critical Hit Chance; Desolate Walk; Lava Walk
+- **Infernal Fiend**: A Fiend unit with: +2 Fire Protection; -4 Frost Protection; -4 Spirit Protection; +15% Critical Hit Chance; Desolate Walk; Lava Walk
 - **Land Movement**: This unit can move over land hexes.
 - **Lava Walk**: Allows the unit to traverse lava at a Movement Cost of 6.
-- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: ; Melee Mage.
+- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: Melee Mage.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Tiny**: Unit is very small, making it 20% harder to hit by Missile and ranged Magic attacks.
 

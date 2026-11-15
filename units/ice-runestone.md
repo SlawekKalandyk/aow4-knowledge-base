@@ -8,13 +8,13 @@
 
 ## Abilities
 
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **All-round Awareness**: Immune to Flanking
 - **Control Loss Immunity**: Immune to effects that make you lose control of a unit, such as Berserk and Dominated. Also grants immunity to being Captured.
-- **Freezing Mist**: At the start of the turn, enemy units within 2 hexes: ; Sustain 15 Frost Damage.; Have a base 120% chance of becoming Chilled for 3 Turns.
+- **Freezing Mist**: At the start of the turn, enemy units within 2 hexes: Sustain 15 Frost Damage. Have a base 120% chance of becoming Chilled for 3 Turns.
 - **Immobilized**: This unit cannot move or use Movement abilities.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Status Effect Immunity: Frozen**: Unit is immune to Frozen.
@@ -24,7 +24,7 @@
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

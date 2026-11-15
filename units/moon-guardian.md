@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Magic Strike** (damage 10 Lightning 10 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Moon and Shadow** (damage 22 Lightning 22 Frost, accuracy Always Hits, range 6, full action): - Target enemy unit sustains damage.; Then friendly units in a 2-hex radius of the target: ; Gain 3 Evasion for 3 Turns.; Have 2 Negative Status Effects removed. Cooldown: 2 Turns Requires: Magic, Support
-- **Riddle of Night** (accuracy Always Hits, range 6, free action): Target enemy unit has a base 90% chance of gaining 1 of the following: ; Frozen for 1 Turn.; Insanity for 1 Turn.; 3 Electrified for 3 Turns.; 2 Misfortune for 3 Turns. Cooldown: 0 Turns Requires: Debuff
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Moon and Shadow** (damage 22 Lightning 22 Frost, accuracy Always Hits, range 6, full action): Target enemy unit sustains damage. Then friendly units in a 2-hex radius of the target: Gain 3 Evasion for 3 Turns. Have 2 Negative Status Effects removed. Cooldown: 2 Turns. Requires: Magic, Support
+- **Riddle of Night** (accuracy Always Hits, range 6, free action): Target enemy unit has a base 90% chance of gaining 1 of the following: Frozen for 1 Turn. Insanity for 1 Turn. 3 Electrified for 3 Turns. 2 Misfortune for 3 Turns. Cooldown: 0 Turns. Requires: Debuff
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -25,9 +25,9 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 
 ## Rank-up rewards

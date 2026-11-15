@@ -10,12 +10,12 @@
 ## Abilities
 
 - **Frost Blast** (damage 14 Frost, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Weakened: Base 90% chance of inflicting Weakened for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **Farsight**: The unit has +1 vision range.
-- **Observant**: At the end of this unit's turn, enemy units in a 4-hex range of this unit: ; Suffer Leverage.  Disabled if this unit is Engaged in Melee.
+- **Observant**: At the end of this unit's turn, enemy units in a 4-hex range of this unit: Suffer Leverage. Disabled if this unit is Engaged in Melee.
 
 ## Unit type traits
 

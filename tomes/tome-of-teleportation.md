@@ -18,4 +18,4 @@ Exploit spatial magic to its full potential. Strategically reposition your units
   That unit heals +30 Temporary Hit Points and has all Negative Status Effects removed.
 - [Summon Phase Beast](../spells/summon-phase-beast.md) ([World Map] Summon Spell): Summons a Phase Beast onto the target world hex.
 - [Mass Recall](../spells/mass-recall.md) ([World Map] World Spell): Makes target friendly army teleport back to the nearest owned city.
-- Chrono Gate (Initial City Upgrade): - +3 Mana per adjacent Conduit or Research Post.; +3 Knowledge per adjacent Conduit or Research Post.; Grants Evasion to visiting Armies until their next combat.; Functions as a Teleporter.
+- Chrono Gate (Initial City Upgrade): +3 Mana per adjacent Conduit or Research Post. +3 Knowledge per adjacent Conduit or Research Post. Grants Evasion to visiting Armies until their next combat. Functions as a Teleporter.

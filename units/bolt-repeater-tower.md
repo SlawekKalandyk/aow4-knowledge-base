@@ -8,8 +8,8 @@
 
 ## Abilities
 
-- **Great Bolt** (damage 10 Physical, accuracy 90%, range 3-12, repeating action): Deals damage in a 1-hex radius. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Great Bolt** (damage 10 Physical, accuracy 90%, range 3-12, repeating action): Deals damage in a 1-hex radius. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 

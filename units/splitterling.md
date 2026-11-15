@@ -10,11 +10,11 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Curse Eater**: At the start of each turn: ; Unit loses one random Negative Status Effect and heals 10 Temporary Hit Points from it.  Disabled if the unit is Burning.
+- **Curse Eater**: At the start of each turn: Unit loses one random Negative Status Effect and heals 10 Temporary Hit Points from it. Disabled if the unit is Burning.
 - **Non-Vital**: Non-Vital units are destroyed if only Non-Vital allies remain.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 
@@ -23,7 +23,7 @@
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Land Movement**: This unit can move over land hexes.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
-- **Umbral Demon**: An Umbral Demon unit with: ; -2 Fire Protection; -2 Spirit Protection; Curse Eater; Immunity to Umbral Malady
+- **Umbral Demon**: An Umbral Demon unit with: -2 Fire Protection; -2 Spirit Protection; Curse Eater; Immunity to Umbral Malady
 
 ## Rank-up rewards
 

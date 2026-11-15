@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Melee Strike** (damage 13 Spirit, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Fury of the Sylvan Wolf: +2 Spirit Damage per friendly unit adjacent to the target. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -22,11 +22,11 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
-- **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Ethereal**: An Ethereal unit with: +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: Bleeding; Diseased; Immobilized; Poisoned
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

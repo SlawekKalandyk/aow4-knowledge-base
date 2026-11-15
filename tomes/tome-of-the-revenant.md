@@ -30,4 +30,4 @@ Raise an army of corrupted and undead Archons and use their knowledge to make yo
 - Soul Harvest (Tome Passive): Gain Souls when enemies die in battle.
   
   Unlocks the ability to animate City Ruin and to animate Heroes in your crypt as your undead servants.
-- Necropolis (Initial City Upgrade): - +8 Soul; +2 Soul per adjacent Research Post.; Allows the drafting of Skeletons, Corrupt Souls and Undead Titans.; Counts as a Research Post.
+- Necropolis (Initial City Upgrade): +8 Soul; +2 Soul per adjacent Research Post. Allows the drafting of Skeletons, Corrupt Souls and Undead Titans. Counts as a Research Post.

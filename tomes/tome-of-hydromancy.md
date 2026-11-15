@@ -30,4 +30,4 @@ Rush your allies, manipulate your enemies, and inflict the Wet status effect.
   - Dispel 1 status effect.
 - [Summon Lesser Tide Spirit](../spells/summon-lesser-tide-spirit.md) ([World Map] Summon Spell): Summons a Lesser Tide Spirit on target hex.
 - [Flowbinder Archer](../units/flowbinder-archer.md) (Unit): Ranged Unit that inflicts Wet and Immobilized on its enemies.
-- Meditation Fountain (Initial City Upgrade): - +5 Knowledge; +5 Mana Per adjacent owned province with River or Ocean:; +1 Knowledge; +1 Mana; Counts as a Research Post
+- Meditation Fountain (Initial City Upgrade): +5 Knowledge; +5 Mana. Per adjacent owned province with River or Ocean: +1 Knowledge; +1 Mana; Counts as a Research Post

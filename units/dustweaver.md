@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Blinding Blast** (damage 14 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Blind: Base 90% chance of inflicting Blind for 1 Turn. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Recovering Windpull** (accuracy Always Hits, range 4, single-use action): Target friendly unit: ; Heals for 20 Temporary Hit Points.; Loses all Negative Status Effects.; Teleports to an adjacent space. Cooldown: 2 Turns Requires: Support
-- **Distributing Wind** (accuracy Always Hits, range 4, free action): Remove the target Loot marker to grant a friendly unit within 4 hexes: ; Looted Power; 15 Temporary Hit Point Cooldown: 1 Turns
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Recovering Windpull** (accuracy Always Hits, range 4, single-use action): Target friendly unit: Heals for 20 Temporary Hit Points. Loses all Negative Status Effects. Teleports to an adjacent space. Cooldown: 2 Turns. Requires: Support
+- **Distributing Wind** (accuracy Always Hits, range 4, free action): Remove the target Loot marker to grant a friendly unit within 4 hexes: Looted Power; 15 Temporary Hit Point. Cooldown: 1 Turns
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 

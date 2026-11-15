@@ -13,12 +13,12 @@ A Battle Mage with offensive chain lightning magic.
 ## Abilities
 
 - **Lightning Bolts** (damage 12 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Electrifying Arc** (damage 20 Lightning, accuracy Always Hits, range 6, full action): Target enemy unit and 2 others within 3 hexes are dealt damage. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Electrifying Arc** (damage 20 Lightning, accuracy Always Hits, range 6, full action): Target enemy unit and 2 others within 3 hexes are dealt damage. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Unit type traits
 
-- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. ; Their Accuracy is affected by Line of Sight.; Cannot use their main Magic attacks when Engaged in Melee.
+- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. Their Accuracy is affected by Line of Sight. Cannot use their main Magic attacks when Engaged in Melee.
 - **Land Movement**: This unit can move over land hexes.
 - **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
 

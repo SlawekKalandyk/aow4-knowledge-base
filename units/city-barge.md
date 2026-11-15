@@ -8,8 +8,8 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 18 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 18 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -18,7 +18,7 @@
 
 ## Unit type traits
 
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
 - **Settler Unit**: A civilian unit that seeks a location to settle into a city.
 
 ## Rank-up rewards

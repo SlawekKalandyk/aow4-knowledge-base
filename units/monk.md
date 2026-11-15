@@ -11,10 +11,10 @@ Monk
 
 ## Abilities
 
-- **Magic Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Combo: Third attack in a turn deals 12 Spirit Damage to the target and adjacent enemies Requires: Magic, Base
-- **Meditate** (accuracy Always Hits, range 0, single-use action): This unit: ; Heals 25 Temporary Hit Points.; Has 2 Negative Status Effects dispelled.; Enters Defense Mode. Cooldown: 2 Turns Requires: Support
-- **Leap** (accuracy Always Hits, range 2, free action): Jumps to target location. Cooldown: 1 Turns Requires: Movement
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Magic Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Combo: Third attack in a turn deals 12 Spirit Damage to the target and adjacent enemies. Requires: Magic, Base
+- **Meditate** (accuracy Always Hits, range 0, single-use action): This unit: Heals 25 Temporary Hit Points. Has 2 Negative Status Effects dispelled. Enters Defense Mode. Cooldown: 2 Turns. Requires: Support
+- **Leap** (accuracy Always Hits, range 2, free action): Jumps to target location. Cooldown: 1 Turns. Requires: Movement
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,7 +23,7 @@ Monk
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
-- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: ; Melee Mage.
+- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: Melee Mage.
 
 ## Rank-up rewards
 

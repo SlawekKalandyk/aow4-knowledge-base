@@ -19,4 +19,4 @@ Become a prosperous empire and gain large amounts of gold with new infrastructur
   
   - +2 Resistance.
   - +1 Gold per Population in their Cities.
-- Bazaar of Wonders (Initial City Upgrade): - +10 Gold.; +5 Gold per unique adjacent Province Improvement.; Counts as a Mine.
+- Bazaar of Wonders (Initial City Upgrade): +10 Gold. +5 Gold per unique adjacent Province Improvement. Counts as a Mine.

@@ -9,8 +9,8 @@
 
 ## Abilities
 
-- **Detonate and Devastate** (damage 15 Physical 15 Fire, accuracy Always Hits, range 1, single-use action): Unit detonates itself. In a 1-hex radius: ; Units sustain damage.; All obstacles are destroyed.; Sets hexes On Fire. Burning: Inflicts Burning for 3 Turns.
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Detonate and Devastate** (damage 15 Physical 15 Fire, accuracy Always Hits, range 1, single-use action): Unit detonates itself. In a 1-hex radius: Units sustain damage. All obstacles are destroyed. Sets hexes On Fire. Burning: Inflicts Burning for 3 Turns.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -24,7 +24,7 @@
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Construct**: A construct unit with: ; Reinforced; -4 Lightning Protection; 2 Spirit Protection.; Heartless; Control Loss Immunity; Immunity to: ; Bleeding; Diseased; Distracted; Poisoned
+- **Construct**: A construct unit with: Reinforced; -4 Lightning Protection; 2 Spirit Protection. Heartless; Control Loss Immunity; Immunity to: Bleeding; Diseased; Distracted; Poisoned
 - **Land Movement**: This unit can move over land hexes.
 - **Siegecraft**: Normally only accessible during Siege battles. Often required construction.
 

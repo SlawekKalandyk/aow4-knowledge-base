@@ -10,13 +10,13 @@
 ## Abilities
 
 - **Steel Blast** (damage 16 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Strength From Steel** (accuracy Always Hits, range 4, single-use action): Target friendly unit loses all stacks of Bolstered Defense and Bolstered Resistance. For each stack lost: ; Heals +8 Temporary Hit Points.; Gains 1 Strengthened. Cooldown: 1 Turns Requires: Support
-- **Grant Defense** (accuracy Always Hits, range 4, free action): Target friendly unit: ; Gains 2 Bolstered Defense Cooldown: 2 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Strength From Steel** (accuracy Always Hits, range 4, single-use action): Target friendly unit loses all stacks of Bolstered Defense and Bolstered Resistance. For each stack lost: Heals +8 Temporary Hit Points. Gains 1 Strengthened. Cooldown: 1 Turns. Requires: Support
+- **Grant Defense** (accuracy Always Hits, range 4, free action): Target friendly unit: Gains 2 Bolstered Defense. Cooldown: 2 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 
-- **Bolstering**: Once per turn this unit gains: ; Bolstered Defense when hit by a Melee or Missile attack.; Bolstered Resistance when hit by a Magic attack.
+- **Bolstering**: Once per turn this unit gains: Bolstered Defense when hit by a Melee or Missile attack. Bolstered Resistance when hit by a Magic attack.
 
 ## Unit type traits
 

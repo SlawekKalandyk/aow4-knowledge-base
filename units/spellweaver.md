@@ -9,9 +9,9 @@
 
 ## Abilities
 
-- **Rift Bolts** (damage 7 Lightning 7 Frost, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Dissonant: Inflict a stack of Dissonance Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Dissonant Weave** (damage 8 Lightning 8 Frost, accuracy Always Hits, range 6, full action): Target enemy unit sustains damage. This effect then cascades to adjacent units and is repeated. Dissonant: Inflict a stack of Dissonance Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Rift Bolts** (damage 7 Lightning 7 Frost, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Dissonant: Inflict a stack of Dissonance. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
+- **Dissonant Weave** (damage 8 Lightning 8 Frost, accuracy Always Hits, range 6, full action): Target enemy unit sustains damage. This effect then cascades to adjacent units and is repeated. Dissonant: Inflict a stack of Dissonance. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -19,7 +19,7 @@
 
 ## Unit type traits
 
-- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. ; Their Accuracy is affected by Line of Sight.; Cannot use their main Magic attacks when Engaged in Melee.
+- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. Their Accuracy is affected by Line of Sight. Cannot use their main Magic attacks when Engaged in Melee.
 - **Land Movement**: This unit can move over land hexes.
 - **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
 

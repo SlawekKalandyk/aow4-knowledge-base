@@ -35,4 +35,4 @@ Gain control over the infernal domain of Gluttony, making your units harder to k
   - Becomes Distracted for 1 Turn.
   - Has a base 90% chance of becoming Stunned for 1 Turn.
 - [Summon Gluttonous Imp](../spells/summon-gluttonous-imp.md) ([World Map] Summon Spell): Summon a Gluttonous Imp on target hex.
-- Hungering Maw (Initial City Upgrade): - 10% of Food is converted to Mana.; When victorious in battle, this city gains 25 Food.; Counts as a Farm.
+- Hungering Maw (Initial City Upgrade): 10% of Food is converted to Mana. When victorious in battle, this city gains 25 Food. Counts as a Farm.

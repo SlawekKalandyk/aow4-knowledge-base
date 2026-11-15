@@ -7,7 +7,7 @@
 
 ## Effects
 
-- At the start of water combat, a random water themed unit joins you in battle. ; Tier of the unit is based on the Throne City tier.
+- At the start of water combat, a random water themed unit joins you in battle. Tier of the unit is based on the Throne City tier.
 - Enables drafting of various water themed units in cities for a reduced price.
 
 ## Starting bonus

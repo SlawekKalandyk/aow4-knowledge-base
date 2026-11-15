@@ -26,7 +26,7 @@
 (DLC RISEFROMRUIN; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Blowpipe
 
@@ -34,7 +34,7 @@
 
 
 - **Shoot Blowgun** (damage 14 Physical, accuracy 90%, range 3, repeating action): Fires ranged projectiles at target enemy unit. Ignores cover and unit penalties. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Disengaging Shot** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to target unit and jump back 3 hexes. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Disengaging Shot** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to target unit and jump back 3 hexes. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Bow
 
@@ -82,7 +82,7 @@
 
 
 - **Magic Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Fire Breachgun** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone Cooldown: 2 Turns Requires: Magic, Base
+- **Fire Breachgun** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone. Cooldown: 2 Turns. Requires: Magic, Base
 
 ## Cestus
 
@@ -119,7 +119,7 @@
 (DLC WAYSOFWAR; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Flaming Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains +5 Fire Damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Flaming Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains +5 Fire Damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Floating Daggers
 
@@ -134,7 +134,7 @@
 (DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
-- **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
+- **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
 ## Giant Hunter Hero Origin
 
@@ -162,14 +162,14 @@
 (DLC PRIMALFURY; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greataxe
 
 (DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatbow
 
@@ -184,56 +184,56 @@
 (DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greathammer
 
 (DLC ELDRITCHREALMS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greathammer
 
 (DLC ARCHONPROPHECY; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatmace
 
 (DLC THRONESOFBLOOD; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatmace
 
 (DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatsword
 
 (DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatsword
 
 (DLC WAYSOFWAR; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatsword
 
 (DLC SILVERSEAS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Grimoire
 
@@ -277,14 +277,14 @@
 (DLC HERALDOFGLORY; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Lance
 
 (DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Lithorite Orb
 
@@ -323,7 +323,7 @@
 
 
 - **Magic Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Fire Dart** (damage 16 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Fire Dart** (damage 16 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Magical Orb
 
@@ -401,7 +401,7 @@
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Fire Pistol** (damage 20 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Fire Pistol** (damage 20 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Polearm
 
@@ -600,7 +600,7 @@
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Throw Net** (damage 22 Physical, accuracy Always Hits, range 4, single-use action): Deals damage to target unit. Immobilized: Base 90% chance of inflicting Immobilized for 1 Turn. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Throw Net** (damage 22 Physical, accuracy Always Hits, range 4, single-use action): Deals damage to target unit. Immobilized: Base 90% chance of inflicting Immobilized for 1 Turn. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Sword and Throwing Daggers
 
@@ -624,7 +624,7 @@
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Whip Lash** (damage 34 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Whip Lash** (damage 34 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Sword and Whip
 
@@ -632,7 +632,7 @@
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Whip Lash** (damage 34 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Whip Lash** (damage 34 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Trident
 
@@ -646,7 +646,7 @@
 (DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 23 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 23 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Warhammer
 
@@ -668,7 +668,7 @@
 (Tier I; DLC ARCHONPROPHECY; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Architect Orb of Blight
 
@@ -820,14 +820,14 @@
 (Tier I; DLC RISEFROMRUIN; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Berserker's Greataxe
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## Blood Orb
 
@@ -843,14 +843,14 @@
 
 
 - **Shoot Blowgun** (damage 14 Physical, accuracy 90%, range 3, repeating action): Fires ranged projectiles at target enemy unit. Ignores cover and unit penalties. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Disengaging Shot** (damage 26 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to target unit and jump back 3 hexes. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Disengaging Shot** (damage 26 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to target unit and jump back 3 hexes. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Bone Giant Axe
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
-- **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
+- **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
 ## Bone Obelisk
 
@@ -889,7 +889,7 @@
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Fire Breachgun** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone Cooldown: 2 Turns Requires: Magic, Base
+- **Fire Breachgun** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone. Cooldown: 2 Turns. Requires: Magic, Base
 
 ## Captain's Cutlass
 
@@ -937,7 +937,7 @@
 
 - **Frost Blast** (damage 16 Frost, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Staff of Frost^n: 30% chance of inflicting Frozen. Inflicts Chilled instead if resisted. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Freezing Blast** (damage 20 Frost, accuracy Always Hits, range 6, full action): Target unit: ; Sustains damage.; Has a base 60% chance of becoming Frozen for 1 Turn. If unsuccessful, inflict Chilled.  Adjacent enemy units: ; Sustain 50% of the damage.; Become Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Debuff, Magic
+- **Freezing Blast** (damage 20 Frost, accuracy Always Hits, range 6, full action): Target unit: Sustains damage. Has a base 60% chance of becoming Frozen for 1 Turn. If unsuccessful, inflict Chilled. Adjacent enemy units: Sustain 50% of the damage. Become Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Debuff, Magic
 
 ## Cutlass
 
@@ -1002,15 +1002,15 @@
 
 - **Blight Blast** (damage 16 Blight, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Poisoned: Base 60% chance of inflicting Poisoned for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Sap Strength** (accuracy Always Hits, range 6, leave-one action): Enemy units in a 1-hex radius: ; Have a base 90% chance of receiving 3 stacks of Weakened for 3 Turns.  The caster gains: ; Strengthened for 3 Turns for each enemy affected. Cooldown: 2 Turns Requires: Debuff
+- **Sap Strength** (accuracy Always Hits, range 6, leave-one action): Enemy units in a 1-hex radius: Have a base 90% chance of receiving 3 stacks of Weakened for 3 Turns. The caster gains: Strengthened for 3 Turns for each enemy affected. Cooldown: 2 Turns. Requires: Debuff
 
 ## Earthshaker's Hammer
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-- **Quake** (damage 12 Physical, accuracy Always Hits, range 0, single-use action): Enemy units in a 2-hex radius sustain damage. Enter Defense Mode. Immobilized: Base 50% chance of inflicting Immobilized for 1 Turn. Cooldown: 1 Turns Requires: Magic
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Quake** (damage 12 Physical, accuracy Always Hits, range 0, single-use action): Enemy units in a 2-hex radius sustain damage. Enter Defense Mode. Immobilized: Base 50% chance of inflicting Immobilized for 1 Turn. Cooldown: 1 Turns. Requires: Magic
 
 ## Feudal Longsword
 
@@ -1032,7 +1032,7 @@
 (Tier I; DLC WAYSOFWAR; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Flaming Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains +5 Fire Damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Flaming Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains +5 Fire Damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Floating Daggers
 
@@ -1063,28 +1063,28 @@
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
-- **Heavy Charge Strike** (damage 12 Physical 12 Frost, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
+- **Heavy Charge Strike** (damage 12 Physical 12 Frost, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
 ## Giant Axe (12 Physical 12 Fire)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
-- **Heavy Charge Strike** (damage 12 Physical 12 Fire, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
+- **Heavy Charge Strike** (damage 12 Physical 12 Fire, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
 ## Giant Axe (24 Physical)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
-- **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
+- **Heavy Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
 ## Giant Axe (12 Physical 12 Lightning)
 
 (Tier I; DLC GIANTKINGS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Storm Giant King, Frost Giant King, Fire Giant King, Rock Giant King; disables slots: Secondary)
 
 
-- **Heavy Charge Strike** (damage 12 Physical 12 Lightning, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base
+- **Heavy Charge Strike** (damage 12 Physical 12 Lightning, accuracy 100%, range 1, single-use action): A Heavy Charge attack that hits enemy units in a 2-hex line: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Requires: Melee, Base
 
 ## Giantslayer's Spear
 
@@ -1113,14 +1113,14 @@ Grants First Strike.
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 60% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Base 60% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## Godir Greataxe (variant 2 of 2)
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## Godir Sword
 
@@ -1141,49 +1141,49 @@ Grants First Strike.
 (Tier I; DLC PRIMALFURY; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## Greataxe
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## Greathammer
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatsword
 
 (Tier I; DLC WAYSOFWAR; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatsword (21 Physical)
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatsword (11 Physical 10 Spirit)
 
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 11 Physical 10 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 11 Physical 10 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Greatsword
 
 (Tier I; DLC SILVERSEAS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Grimoire of Blight
 
@@ -1244,7 +1244,7 @@ Grants First Strike.
 (Tier I; DLC THRONESOFBLOOD; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## High Scimitar
 
@@ -1289,14 +1289,14 @@ Grants First Strike.
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Lance of Glory
 
 (Tier I; DLC HERALDOFGLORY; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Lightning Orb
 
@@ -1345,7 +1345,7 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Combo: Third attack in a turn deals an extra 60% damage to the target and adjacent enemies. Requires: Melee, Base
-- **Leap** (accuracy Always Hits, range 2, free action): Jumps to target location. Cooldown: 2 Turns Requires: Movement
+- **Leap** (accuracy Always Hits, range 2, free action): Jumps to target location. Cooldown: 2 Turns. Requires: Movement
 
 ## Mystic Mace
 
@@ -1359,7 +1359,7 @@ Grants First Strike.
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Sundered Resistance: Base 90% chance of inflicting Sundered Resistance for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Sundered Resistance: Base 90% chance of inflicting Sundered Resistance for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## Nomad Bow
 
@@ -1415,7 +1415,7 @@ Grants First Strike.
 
 - **Death Bolts** (damage 6 Blight 6 Frost, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: Friendly Undead corpse is revived with 60% of its total Hit Points. Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
 
 ## Orb of the Far Traveler
 
@@ -1438,7 +1438,7 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Fire Pistol** (damage 20 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Fire Pistol** (damage 20 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Pistol and Sword
 
@@ -1446,7 +1446,7 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Fire Pistol** (damage 20 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Fire Pistol** (damage 20 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Poison Orb
 
@@ -1538,7 +1538,7 @@ Grants First Strike.
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Fatal Strikes: Damage increases as the target loses health, up to +50%. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Fatal Strikes: Damage increases as the target loses health, up to +50%. Requires: Melee, Base, Single Shot
 
 ## Spear
 
@@ -1650,7 +1650,7 @@ Grants First Strike.
 
 - **Death Blast** (damage 8 Blight 8 Frost, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: Friendly Undead corpse is revived with 60% of its total Hit Points. Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Support
 
 ## Staff of Spirit
 
@@ -1691,7 +1691,7 @@ Grants First Strike.
 
 - **Fire Blast** (damage 16 Fire, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Burning: Base 60% chance of inflicting Burning for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Summon Primal Sabertooth** (accuracy Always Hits, range 1, full action): - Summon a Primal Sabertooth onto target hex.; When summoned on favored terrain gains Frenzy.  This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Summoning
+- **Summon Primal Sabertooth** (accuracy Always Hits, range 1, full action): Summon a Primal Sabertooth onto target hex. When summoned on favored terrain gains Frenzy. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Summoning
 
 ## Staff of the Dune Serpent
 
@@ -1700,7 +1700,7 @@ Grants First Strike.
 
 - **Steel Blast** (damage 16 Physical, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Bleeding: Base 60% chance of inflicting Bleeding for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Summon Primal Serpent** (accuracy Always Hits, range 1, full action): - Summon a Primal Serpent onto target hex.; When summoned on favored terrain gains Frenzy.  This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Summoning
+- **Summon Primal Serpent** (accuracy Always Hits, range 1, full action): Summon a Primal Serpent onto target hex. When summoned on favored terrain gains Frenzy. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Summoning
 
 ## Staff of the Glacial Mammoth
 
@@ -1709,7 +1709,7 @@ Grants First Strike.
 
 - **Frost Blast** (damage 16 Frost, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Slowed: Base 60% chance of inflicting Slowed for 2 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Summon Primal Mammoth** (accuracy Always Hits, range 1, full action): - Summon a Primal Mammoth onto target hex.; When summoned on favored terrain gains Frenzy.  This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Summoning
+- **Summon Primal Mammoth** (accuracy Always Hits, range 1, full action): Summon a Primal Mammoth onto target hex. When summoned on favored terrain gains Frenzy. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Summoning
 
 ## Staff of the Mire Crocodile
 
@@ -1718,7 +1718,7 @@ Grants First Strike.
 
 - **Blight Blast** (damage 16 Blight, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Poisoned: Base 60% chance of inflicting Poisoned for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Summon Primal Crocodile** (accuracy Always Hits, range 1, full action): - Summon a Primal Crocodile onto target hex.; When summoned on favored terrain gains Frenzy.  This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Summoning
+- **Summon Primal Crocodile** (accuracy Always Hits, range 1, full action): Summon a Primal Crocodile onto target hex. When summoned on favored terrain gains Frenzy. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Summoning
 
 ## Staff of the Storm Crow
 
@@ -1727,7 +1727,7 @@ Grants First Strike.
 
 - **Lightning Blast** (damage 16 Lightning, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Electrified: Base 60% chance of inflicting Electrified for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Summon Primal Crow** (accuracy Always Hits, range 1, full action): - Summon a Primal Crow onto target hex.; When summoned on favored terrain gains Frenzy.  This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Summoning
+- **Summon Primal Crow** (accuracy Always Hits, range 1, full action): Summon a Primal Crow onto target hex. When summoned on favored terrain gains Frenzy. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Summoning
 
 ## Staff of the Sylvan Wolf
 
@@ -1736,7 +1736,7 @@ Grants First Strike.
 
 - **Spirit Blast** (damage 16 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Blind: Base 90% chance of inflicting Blind for 1 Turn. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Summon Primal Wolf** (accuracy Always Hits, range 1, full action): - Summon a Primal Wolf onto target hex.; When summoned on favored terrain gains Frenzy.  This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Summoning
+- **Summon Primal Wolf** (accuracy Always Hits, range 1, full action): Summon a Primal Wolf onto target hex. When summoned on favored terrain gains Frenzy. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Summoning
 
 ## Staff of the Tunneling Spider
 
@@ -1745,7 +1745,7 @@ Grants First Strike.
 
 - **Blight Blast** (damage 16 Blight, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Poisoned: Base 60% chance of inflicting Poisoned for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Summon Primal Spider** (accuracy Always Hits, range 1, full action): - Summon a Primal Spider onto target hex.; When summoned on favored terrain gains Frenzy.  This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Summoning
+- **Summon Primal Spider** (accuracy Always Hits, range 1, full action): Summon a Primal Spider onto target hex. When summoned on favored terrain gains Frenzy. This summon lasts for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Summoning
 
 ## Staff of the Wanderer
 
@@ -1754,7 +1754,7 @@ Grants First Strike.
 
 - **Cosmic Blast** (damage 5 Lightning 5 Fire 5 Frost, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Cosmic Rescue** (accuracy Always Hits, range 4, leave-one action): Heal target friendly unit for 10 Temporary Hit Points and teleport it to an adjacent space. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
+- **Cosmic Rescue** (accuracy Always Hits, range 4, leave-one action): Heal target friendly unit for 10 Temporary Hit Points and teleport it to an adjacent space. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
 
 ## Sword
 
@@ -1785,7 +1785,7 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Throw Net** (damage 22 Physical, accuracy Always Hits, range 4, single-use action): Deals damage to target unit. Immobilized: Base 90% chance of inflicting Immobilized for 1 Turn. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Throw Net** (damage 22 Physical, accuracy Always Hits, range 4, single-use action): Deals damage to target unit. Immobilized: Base 90% chance of inflicting Immobilized for 1 Turn. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Sword and Staff of Blight
 
@@ -1793,7 +1793,7 @@ Grants First Strike.
 
 
 - **Magic Strike** (damage 12 Blight, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Blight Dart** (damage 16 Blight, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Blight Dart** (damage 16 Blight, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Sword and Staff of Fire
 
@@ -1801,7 +1801,7 @@ Grants First Strike.
 
 
 - **Magic Strike** (damage 12 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Fire Dart** (damage 16 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Fire Dart** (damage 16 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Sword and Staff of Frost
 
@@ -1809,7 +1809,7 @@ Grants First Strike.
 
 
 - **Magic Strike** (damage 12 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Frost Dart** (damage 16 Frost, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Frost Dart** (damage 16 Frost, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Sword and Staff of Lightning
 
@@ -1817,7 +1817,7 @@ Grants First Strike.
 
 
 - **Magic Strike** (damage 12 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Lightning Dart** (damage 16 Lightning, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Lightning Dart** (damage 16 Lightning, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Sword and Staff of Spirit
 
@@ -1825,7 +1825,7 @@ Grants First Strike.
 
 
 - **Magic Strike** (damage 12 Spirit, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Spirit Dart** (damage 16 Spirit, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Spirit Dart** (damage 16 Spirit, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Sword and Staff of Steel
 
@@ -1833,7 +1833,7 @@ Grants First Strike.
 
 
 - **Magic Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
-- **Steel Dart** (damage 16 Physical, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Steel Dart** (damage 16 Physical, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Sword and Throwing Daggers
 
@@ -1849,7 +1849,7 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Bleeding: Base 60% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base
-- **Whip Lash** (damage 30 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Bleeding: Inflicts Bleeding for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Whip Lash** (damage 30 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Bleeding: Inflicts Bleeding for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Tempest Orb
 
@@ -1858,7 +1858,7 @@ Grants First Strike.
 
 - **Lightning Bolts** (damage 10 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Electrified: Base 60% chance of inflicting Electrified for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Tempest's Chorus**: The first time each turn an enemy gains Electrified they sustain an extra 12 Lightning Damage.  Removed if this unit leaves the battle.
+- **Tempest's Chorus**: The first time each turn an enemy gains Electrified they sustain an extra 12 Lightning Damage. Removed if this unit leaves the battle.
 
 ## Titan's Greatbow
 
@@ -1881,7 +1881,7 @@ Grants First Strike.
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 19 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Requires: Melee, Base, Single Shot
 - **Umbral Wake**: Unit creates Umbral Taint as it moves.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 
@@ -1892,7 +1892,7 @@ Grants First Strike.
 
 - **Frost Blast** (damage 16 Frost, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Hysteria Storm** (accuracy Always Hits, range 3, full action): Enemy units in a 1-hex radius have a base 60% chance of being: ; Teleported up to 3 hexes.; Inflicted with Insanity for 1 Turn. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Debuff
+- **Hysteria Storm** (accuracy Always Hits, range 3, full action): Enemy units in a 1-hex radius have a base 60% chance of being: Teleported up to 3 hexes. Inflicted with Insanity for 1 Turn. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Debuff
 
 ## Umbral Sword
 
@@ -1900,7 +1900,7 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Pull** (damage 20 Physical, accuracy Always Hits, range 3, single-use action): Target unit: ; Sustains damage.; Has a base 90% chance of: ; Being pulled to an adjacent space.; Becoming Constricted for 1 Turn. Cannot be used when within an enemy Zone of Control. Requires: Melee, Debuff, Single Shot
+- **Pull** (damage 20 Physical, accuracy Always Hits, range 3, single-use action): Target unit: Sustains damage. Has a base 90% chance of: Being pulled to an adjacent space. Becoming Constricted for 1 Turn. Cannot be used when within an enemy Zone of Control. Requires: Melee, Debuff, Single Shot
 
 ## Vampire Sword (variant 1 of 2)
 
@@ -1929,42 +1929,42 @@ Grants First Strike.
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
-- **Charge Strike** (damage 23 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 23 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Warclaw (12 Physical 11 Lightning)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
-- **Charge Strike** (damage 12 Physical 11 Lightning, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 12 Physical 11 Lightning, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Warclaw (12 Physical 11 Blight)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
-- **Charge Strike** (damage 12 Physical 11 Blight, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 12 Physical 11 Blight, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Warclaw (12 Physical 11 Spirit)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
-- **Charge Strike** (damage 12 Physical 11 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 12 Physical 11 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Warclaw (12 Physical 11 Frost)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
-- **Charge Strike** (damage 12 Physical 11 Frost, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 12 Physical 11 Frost, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Warclaw (12 Physical 11 Fire)
 
 (Tier I; DLC DRAGONLORDS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Dragon Lord)
 
 
-- **Charge Strike** (damage 12 Physical 11 Fire, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 12 Physical 11 Fire, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Warhammer (6 Physical 6 Frost)
 
@@ -2014,7 +2014,7 @@ Grants First Strike.
 (Tier II; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 14 Spirit 10 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Undead Slayer: Base attacks deal +40% damage to Undead units. Fiend Slayer: Base attacks deal +40% damage to Fiend units. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 14 Spirit 10 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Undead Slayer: Base attacks deal +40% damage to Undead units. Fiend Slayer: Base attacks deal +40% damage to Fiend units. Requires: Melee, Base, Single Shot
 - **Undead Slayer**: Base attacks deal +40% damage to Undead units.
 
 ## Dwarven Hammer
@@ -2022,7 +2022,7 @@ Grants First Strike.
 (Tier II; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Taunted: Base 60% chance of inflicting Taunted for 2 Turns. Push Back: Target is pushed back by 1 hex. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Taunted: Base 60% chance of inflicting Taunted for 2 Turns. Push Back: Target is pushed back by 1 hex. Requires: Melee, Base, Single Shot
 
 ## Eagle Bow
 
@@ -2072,21 +2072,21 @@ Grants +20% Accuracy.
 
 - **Blight Blast** (damage 16 Blight, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Flying Staff**: Gain Flying movement.  Blocked by [World Map] Race Transformations that remove mounts.
+- **Flying Staff**: Gain Flying movement. Blocked by [World Map] Race Transformations that remove mounts.
 
 ## Frost Greataxe
 
 (Tier II; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 13 Frost 12 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 13 Frost 12 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 
 ## Giant's Bane
 
 (Tier II; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Giant Slayer: Deal +40% damage against creatures with Large Target. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Giant Slayer: Deal +40% damage against creatures with Large Target. Requires: Melee, Base, Single Shot
 
 ## Heavy Crossbow
 
@@ -2146,7 +2146,7 @@ Grants First Strike.
 (Tier II; DLC SILVERSEAS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Water Bolts** (damage 11 Physical, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Wet: Inflicts Wet Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
+- **Water Bolts** (damage 11 Physical, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Wet: Inflicts Wet. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Whirlwind Blade
@@ -2154,8 +2154,8 @@ Grants First Strike.
 (Tier II; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 25 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-- **Whirlwind Strike** (damage 27 Physical, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent units. Cooldown: 2 Turns Requires: Melee, Base
+- **Charge Strike** (damage 25 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Whirlwind Strike** (damage 27 Physical, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent units. Cooldown: 2 Turns. Requires: Melee, Base
 
 ## Ash and Omen
 
@@ -2163,14 +2163,14 @@ Grants First Strike.
 
 
 - **Magic Strike** (damage 6 Lightning 6 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Ghostfire: Base 60% chance of inflicting Ghostfire for 3 Turns. Electrified: Base 60% chance of inflicting Electrified for 3 Turns. Requires: Magic, Base
-- **Arcfire Dart** (damage 8 Lightning 8 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Ghostfire: Base 90% chance of inflicting Ghostfire for 3 Turns. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Arcfire Dart** (damage 8 Lightning 8 Fire, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Ghostfire: Base 90% chance of inflicting Ghostfire for 3 Turns. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Bloody Edge
 
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 25 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bloody Edge^N: Critical Hits deal +50% damage and have a +50% chance to trigger. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 25 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bloody Edge^N: Critical Hits deal +50% damage and have a +50% chance to trigger. Requires: Melee, Base, Single Shot
 
 ## Corruption Orb
 
@@ -2209,8 +2209,8 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 6 Physical 5 Blight 5 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Ghostfire: Base 60% chance of inflicting Ghostfire for 3 Turns. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Requires: Melee, Base
-- **Fire Pistol** (damage 10 Physical 9 Blight 9 Frost, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Ghostfire: Base 90% chance of inflicting Ghostfire for 3 Turns. Piercing: Ignore 50% of the target's Defense. Ember Dust: Base 60% chance of inflicting Ember Dust. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
-- **Wail of the Banshee** (damage 10 Frost, accuracy Always Hits, range 0, single-use action): Enemy units within a 2-hex radius sustain damage and have a base 90% chance of: ; Having their Morale reduced by -10.; Becoming 2 Weakened. Cooldown: 2 Turns Requires: Debuff, Magic
+- **Fire Pistol** (damage 10 Physical 9 Blight 9 Frost, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Ghostfire: Base 90% chance of inflicting Ghostfire for 3 Turns. Piercing: Ignore 50% of the target's Defense. Ember Dust: Base 60% chance of inflicting Ember Dust. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
+- **Wail of the Banshee** (damage 10 Frost, accuracy Always Hits, range 0, single-use action): Enemy units within a 2-hex radius sustain damage and have a base 90% chance of: Having their Morale reduced by -10. Becoming 2 Weakened. Cooldown: 2 Turns. Requires: Debuff, Magic
 
 ## Ember Lash
 
@@ -2218,14 +2218,14 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 10 Physical 8 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Burning: Base 60% chance of inflicting Burning for 3 Turns. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Requires: Melee, Base
-- **Whip Lash** (damage 28 Physical 14 Fire, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Burning: Base 90% chance of inflicting Burning for 3 Turns. Ember Dust: Base 60% chance of inflicting Ember Dust. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Whip Lash** (damage 28 Physical 14 Fire, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Burning: Base 90% chance of inflicting Burning for 3 Turns. Ember Dust: Base 60% chance of inflicting Ember Dust. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Excessive Force
 
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Heavy Charge Strike** (damage 27 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack: ; Gains 30% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Stunned: Base 60% chance of inflicting Stunned for 1 Turn. Push Back: Target is pushed back by 1 hex. Requires: Melee, Base, Single Shot
+- **Heavy Charge Strike** (damage 27 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack: Gains 30% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Stunned: Base 60% chance of inflicting Stunned for 1 Turn. Push Back: Target is pushed back by 1 hex. Requires: Melee, Base, Single Shot
 
 ## Fork of the Sea
 
@@ -2233,14 +2233,14 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 9 Physical 9 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Polearm: +40% damage to Cavalry and Large Target units. Requires: Melee, Base
-- **Whirlwind Strike** (damage 17 Physical 17 Lightning, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent units. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Polearm: +40% damage to Cavalry and Large Target units. Cooldown: 2 Turns Requires: Melee, Base
+- **Whirlwind Strike** (damage 17 Physical 17 Lightning, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent units. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Polearm: +40% damage to Cavalry and Large Target units. Cooldown: 2 Turns. Requires: Melee, Base
 
 ## Green Lance
 
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Charge Strike** (damage 13 Blight 12 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Poisoned: Base 90% chance of inflicting Poisoned for 3 Turns. Decaying: Base 90% chance of inflicting Decaying for 3 Turns. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 13 Blight 12 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Poisoned: Base 90% chance of inflicting Poisoned for 3 Turns. Decaying: Base 90% chance of inflicting Decaying for 3 Turns. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Requires: Melee, Base, Single Shot
 
 ## Laughing Daggers
 
@@ -2285,8 +2285,8 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 8 Physical 8 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Requires: Melee, Base
-- **Fire Pistol** (damage 14 Physical 14 Fire, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Ember Dust: Base 60% chance of inflicting Ember Dust. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
-- **Pierce Shot** (damage 14 Fire 12 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all targets in a 4-hex line from this unit. Piercing: Ignore 50% of the target's Defense. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Cooldown: 3 Turns Requires: Missile, Base
+- **Fire Pistol** (damage 14 Physical 14 Fire, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Ember Dust: Base 60% chance of inflicting Ember Dust. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
+- **Pierce Shot** (damage 14 Fire 12 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all targets in a 4-hex line from this unit. Piercing: Ignore 50% of the target's Defense. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Cooldown: 3 Turns. Requires: Missile, Base
 
 ## Parley (variant 2 of 2)
 
@@ -2294,7 +2294,7 @@ Grants First Strike.
 
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Requires: Melee, Base
-- **Fire Breachgun** (damage 28 Fire, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Cooldown: 2 Turns Requires: Magic, Base
+- **Fire Breachgun** (damage 28 Fire, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Cooldown: 2 Turns. Requires: Magic, Base
 
 ## Ricochet Crossbow
 
@@ -2318,10 +2318,10 @@ Grants First Strike.
 
 
 - **Steel Spike** (damage 24 Physical, accuracy 90%, range 8, full action): Deals damage to target unit. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
-- **Whirlwind** (damage 16 Physical, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent enemies and displaces them up to 2 hexes. Cooldown: 1 Turns Requires: Magic
-- **Dirge of Sorrows** (accuracy Always Hits, range 4, single-use action): Target friendly unit: ; Heals 30 Temporary Hit Points.; Has 2 Negative Status Effects dispelled.  Then adjacent enemy units: ; Gain 1 Ghostfire for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Support
-- **Song of Carnage** (accuracy Always Hits, range 0, single-use action): This unit and adjacent friendly units gain: ; 2 Strengthened.; 2 Fortune; Hastened Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
-- **Song of Revelry** (accuracy Always Hits, range 0, single-use action): This unit and adjacent friendly units gain: ; 3 Rally.; 20 Temporary Hit Points Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
+- **Whirlwind** (damage 16 Physical, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent enemies and displaces them up to 2 hexes. Cooldown: 1 Turns. Requires: Magic
+- **Dirge of Sorrows** (accuracy Always Hits, range 4, single-use action): Target friendly unit: Heals 30 Temporary Hit Points. Has 2 Negative Status Effects dispelled. Then adjacent enemy units: Gain 1 Ghostfire for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Support
+- **Song of Carnage** (accuracy Always Hits, range 0, single-use action): This unit and adjacent friendly units gain: 2 Strengthened. 2 Fortune; Hastened. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
+- **Song of Revelry** (accuracy Always Hits, range 0, single-use action): This unit and adjacent friendly units gain: 3 Rally. 20 Temporary Hit Points. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
 
 ## Smoldering Axe
 
@@ -2364,14 +2364,14 @@ Magic attacks:
 
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **The Avenger**: When a friendly unit dies, this unit gains:; Strengthened for 3 Turns.; Fortune for 3 Turns.; Hastened for 1 Turn.
+- **The Avenger**: When a friendly unit dies, this unit gains: Strengthened for 3 Turns. Fortune for 3 Turns. Hastened for 1 Turn.
 
 ## The Executioner
 
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 28 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. The Executioner^N: Chance to kill Tier I-III units instantly. Chance increases by the amount of health the target is missing. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 28 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. The Executioner^N: Chance to kill Tier I-III units instantly. Chance increases by the amount of health the target is missing. Requires: Melee, Base, Single Shot
 
 ## Tidewave
 
@@ -2387,7 +2387,7 @@ Magic attacks:
 
 
 - **Melee Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Remorse: Base 90% chance of inflicting Remorse for 3 Turns. Torment: Base 120% chance of inflicting Torment until the end of combat. Requires: Melee, Base
-- **Whip Lash** (damage 30 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Bleeding: Inflicts Bleeding for 3 Turns. Remorse: Base 90% chance of inflicting Remorse for 3 Turns. Torment: Base 120% chance of inflicting Torment until the end of combat. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Whip Lash** (damage 30 Physical, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Bleeding: Inflicts Bleeding for 3 Turns. Remorse: Base 90% chance of inflicting Remorse for 3 Turns. Torment: Base 120% chance of inflicting Torment until the end of combat. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Trident
 
@@ -2403,7 +2403,7 @@ Grants First Strike.
 
 - **Shoot Bow** (damage 10 Physical 8 Lightning, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Pierce Shot** (damage 15 Physical 12 Lightning, accuracy Always Hits, range 1, single-use action): Deal damage to all targets in a 4-hex line from this unit. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Cooldown: 3 Turns Requires: Missile, Base
+- **Pierce Shot** (damage 15 Physical 12 Lightning, accuracy Always Hits, range 1, single-use action): Deal damage to all targets in a 4-hex line from this unit. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Cooldown: 3 Turns. Requires: Missile, Base
 
 ## Archon's Deliverance
 
@@ -2411,7 +2411,7 @@ Grants First Strike.
 
 Summons a Lightbringer next to this Hero at the start of battle.
 This summon lasts for Turns.
-- **Charge Strike** (damage 15 Physical 15 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 15 Physical 15 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 - **Call Lightbringer**: Summons a Lightbringer next to this Hero at the start of battle. This summon lasts for 3 Turns.
 
 ## Censer of Concord
@@ -2421,14 +2421,14 @@ This summon lasts for Turns.
 
 - **Spirit Blast** (damage 26 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Pacified: Base 90% chance of inflicting Pacified for 1 Turn. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Pacifying Breath** (accuracy Always Hits, range 6, full action): Enemy units in a 1-hex radius: ; Have a base 120% chance of gaining Pacified for 1 Turn. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns Requires: Debuff
+- **Pacifying Breath** (accuracy Always Hits, range 6, full action): Enemy units in a 1-hex radius: Have a base 120% chance of gaining Pacified for 1 Turn. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns. Requires: Debuff
 
 ## Chaos Orb
 
 (Tier IV; DLC Base; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Chaos** (damage 9 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Chaos Orb^n: - Deals the same amount of damage in another random damage type.; Grants a base 90% chance of inflicting a random status effect. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
+- **Chaos** (damage 9 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Chaos Orb^n: Deals the same amount of damage in another random damage type. Grants a base 90% chance of inflicting a random status effect. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Codex of the Cosmos
@@ -2438,7 +2438,7 @@ This summon lasts for Turns.
 
 - **Cosmos Spike** (damage 5 Physical 5 Blight 5 Lightning 5 Fire 5 Spirit 5 Frost, accuracy 90%, range 8, full action): Deals damage to target unit. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
 - **Cosmos Rebuke** (damage 6 Physical 6 Blight 6 Lightning 6 Fire 6 Spirit 6 Frost, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Requires: Magic, Base, Single Shot
-- **Cosmos Mastery**: For each Affinity at or above 5 enchanted units gain: ; +2 damage of the main channel associated with that affinity.; +2 protection of the main channel associated with that affinity.
+- **Cosmos Mastery**: For each Affinity at or above 5 enchanted units gain: +2 damage of the main channel associated with that affinity. +2 protection of the main channel associated with that affinity.
 
 ## Damned Saber and Staff
 
@@ -2446,7 +2446,7 @@ This summon lasts for Turns.
 
 
 - **Magic Strike** (damage 10 Fire 10 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Ghostfire: Base 90% chance of inflicting Ghostfire for 3 Turns. Damned Saber and Staff^n: On unit kill with this weapon, conjure an Accursed Wisp for 3 Turns. Requires: Magic, Base
-- **Ghostfire Dart** (damage 15 Fire 15 Frost, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Ghostfire: Inflicts Ghostfire for 3 Turns. Damned Saber and Staff^n: On unit kill with this weapon, conjure an Accursed Wisp for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base, Single Shot
+- **Ghostfire Dart** (damage 15 Fire 15 Frost, accuracy 90%, range 3, single-use action): Unleashes a magical dart at target enemy. Ghostfire: Inflicts Ghostfire for 3 Turns. Damned Saber and Staff^n: On unit kill with this weapon, conjure an Accursed Wisp for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base, Single Shot
 
 ## Eternal Goldseeker's Pickaxe
 
@@ -2464,7 +2464,7 @@ This summon lasts for Turns.
 - **Spirit Blast** (damage 26 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 - **Inner Grace**: At the start of its turn, the unit gains Grace if it doesn't already have it.
-- **Eternal Grace** (accuracy Always Hits, range 6, full action): All friendly units in a 2-hex radius: ; Heal +25 Temporary Hit Points.; Gain 2 stacks of Grace. Cooldown: 2 Turns Requires: Support
+- **Eternal Grace** (accuracy Always Hits, range 6, full action): All friendly units in a 2-hex radius: Heal +25 Temporary Hit Points. Gain 2 stacks of Grace. Cooldown: 2 Turns. Requires: Support
 
 ## Eternal Lithorite Orb
 
@@ -2497,7 +2497,7 @@ This summon lasts for Turns.
 (Tier IV; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Heavy Charge Strike** (damage 28 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack: ; Gains 30% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Stunned: Base 90% chance of inflicting Stunned for 1 Turn. Godbreaker^N: Deal 50% damage to units in a 1-hex cone behind the target. Requires: Melee, Base, Single Shot
+- **Heavy Charge Strike** (damage 28 Physical, accuracy 100%, range 1, single-use action): A Heavy Charge attack: Gains 30% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Stunned: Base 90% chance of inflicting Stunned for 1 Turn. Godbreaker^N: Deal 50% damage to units in a 1-hex cone behind the target. Requires: Melee, Base, Single Shot
 
 ## Inferno Orb
 
@@ -2506,7 +2506,7 @@ This summon lasts for Turns.
 
 - **Fire Bolts** (damage 18 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Burning: Inflicts Burning for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Combust** (damage 10 Fire, accuracy Always Hits, range 3, single-use action): - Target enemy unit sustains damage.; Increases by 10 Fire Damage for each Burning the target has. Cooldown: 2 Turns Requires: Magic
+- **Combust** (damage 10 Fire, accuracy Always Hits, range 3, single-use action): Target enemy unit sustains damage. Increases by 10 Fire Damage for each Burning the target has. Cooldown: 2 Turns. Requires: Magic
 
 ## Kingsblade
 
@@ -2522,7 +2522,7 @@ This summon lasts for Turns.
 
 
 - **Melee Strike** (damage 18 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Sundered Defense: Base 60% chance of inflicting Sundered Defense for 3 Turns. Stunned: Base 30% chance of inflicting Stunned for 1 Turn. Marked: Base 60% chance of inflicting Marked for 3 Turns. Requires: Melee, Base
-- **Fire Pistol** (damage 32 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Sundered Defense: Base 90% chance of inflicting Sundered Defense for 3 Turns. Stunned: Base 60% chance of inflicting Stunned for 1 Turn. Piercing: Ignore 50% of the target's Defense. Marked: Base 90% chance of inflicting Marked for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Fire Pistol** (damage 32 Physical, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Sundered Defense: Base 90% chance of inflicting Sundered Defense for 3 Turns. Stunned: Base 60% chance of inflicting Stunned for 1 Turn. Piercing: Ignore 50% of the target's Defense. Marked: Base 90% chance of inflicting Marked for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Melenis's Glaive
 
@@ -2538,7 +2538,7 @@ Units killed with this weapon turn into Zombies under your control until the end
 
 
 - **Melee Strike** (damage 18 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Ember Dust: Third strike has a base 90% chance of inflicting Ember Dust. Requires: Melee, Base
-- **Fire Pistol** (damage 18 Physical 18 Fire, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot
+- **Fire Pistol** (damage 18 Physical 18 Fire, accuracy 90%, range 3, single-use action): Fire Magelock Pistol at target unit. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot
 
 ## Shivermist
 
@@ -2546,7 +2546,7 @@ Units killed with this weapon turn into Zombies under your control until the end
 
 
 - **Melee Strike** (damage 10 Physical 10 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Frozen: Base 60% chance of inflicting Frozen for 1 Turn. If unsuccessful, inflicts Chilled. Polearm: +40% damage to Cavalry and Large Target units. Umbral Demon Slayer: Base attacks deal +40% damage to Umbral Demon units. Shivermist^N: Units killed with this weapon transform into a weakened Ice Spider until the end of battle. Requires: Melee, Base
-- **Frost Aura**: At the start of the turn, adjacent enemy units: ; Sustain 8 Frost Damage.; Become inflicted with Chilled for 3 Turns.
+- **Frost Aura**: At the start of the turn, adjacent enemy units: Sustain 8 Frost Damage. Become inflicted with Chilled for 3 Turns.
 
 ## Skypiercer
 
@@ -2561,7 +2561,7 @@ Units killed with this weapon turn into Zombies under your control until the end
 (Tier IV; DLC SILVERSEAS; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 12 Physical 12 Lightning, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Area Damage - Line: Damages units in a 3-hex line. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 12 Physical 12 Lightning, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Area Damage - Line: Damages units in a 3-hex line. Requires: Melee, Base, Single Shot
 
 ## Staff of Inioch
 
@@ -2577,7 +2577,7 @@ Units killed with this weapon turn into Zombies under your control until the end
 (Tier IV; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 15 Physical 15 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. The Anathema^N: Grants a chance of killing creatures of Magic Origin instantly. Chance increases on targets with lower Hit Points. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 15 Physical 15 Spirit, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. The Anathema^N: Grants a chance of killing creatures of Magic Origin instantly. Chance increases on targets with lower Hit Points. Requires: Melee, Base, Single Shot
 
 ## The Great Blue
 
@@ -2586,14 +2586,14 @@ Units killed with this weapon turn into Zombies under your control until the end
 
 - **Lightning Bolts** (damage 18 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Tidal Wave** (damage 24 Physical, accuracy Always Hits, range 1, single-use action): Deals damage and pushes units away in a 2-hex cone. Wet: Inflicts Wet Cooldown: 2 Turns Requires: Magic
+- **Tidal Wave** (damage 24 Physical, accuracy Always Hits, range 1, single-use action): Deals damage and pushes units away in a 2-hex cone. Wet: Inflicts Wet. Cooldown: 2 Turns. Requires: Magic
 
 ## The Maddening Waves
 
 (Tier IV; DLC SILVERSEAS; classes: Battlesaint, Warlock, Elementalist, Ritualist; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Water Bolts** (damage 15 Physical, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Insanity: Base 30% chance of inflicting Insanity for 1 Turn. Wet: Inflicts Wet Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
+- **Water Bolts** (damage 15 Physical, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Insanity: Base 30% chance of inflicting Insanity for 1 Turn. Wet: Inflicts Wet. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## The Magekiller
@@ -2612,7 +2612,7 @@ Units killed with this weapon turn into Zombies under your control until the end
 
 - **Shoot Bow** (damage 11 Physical 9 Lightning, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Status Vulnerability: Base 90% chance of inflicting Status Vulnerability for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
 - **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
-- **Tidal Wave** (damage 24 Physical, accuracy Always Hits, range 1, single-use action): Deals damage and pushes units away in a 2-hex cone. Wet: Inflicts Wet Cooldown: 2 Turns Requires: Magic
+- **Tidal Wave** (damage 24 Physical, accuracy Always Hits, range 1, single-use action): Deals damage and pushes units away in a 2-hex cone. Wet: Inflicts Wet. Cooldown: 2 Turns. Requires: Magic
 
 ## Trident of the Silver Seas
 
@@ -2620,7 +2620,7 @@ Units killed with this weapon turn into Zombies under your control until the end
 
 
 - **Melee Strike** (damage 10 Physical 10 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Wet: Base 90% chance of inflicting Wet for 3 Turns. Cannot affect Ethereal units. Polearm: +40% damage to Cavalry and Large Target units. Requires: Melee, Base
-- **Tidal Wave** (damage 24 Physical, accuracy Always Hits, range 1, single-use action): Deals damage and pushes units away in a 2-hex cone. Wet: Inflicts Wet Cooldown: 2 Turns Requires: Magic
+- **Tidal Wave** (damage 24 Physical, accuracy Always Hits, range 1, single-use action): Deals damage and pushes units away in a 2-hex cone. Wet: Inflicts Wet. Cooldown: 2 Turns. Requires: Magic
 
 ## Trueshot
 
@@ -2635,8 +2635,8 @@ Units killed with this weapon turn into Zombies under your control until the end
 (Tier IV; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 
-- **Charge Strike** (damage 20 Spirit 10 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Undead Slayer: Base attacks deal +40% damage to Undead units. Fiend Slayer: Base attacks deal +40% damage to Fiend units. Umbral Demon Slayer: Base attacks deal +40% damage to Umbral Demon units. Requires: Melee, Base, Single Shot
-- **Embolden Allies** (accuracy Always Hits, range 0, single-use action): Friendly units within a 2-hex radius gain, for 3 Turns: ; 3 Rally.; 2 Strengthened.  Enter Defense Mode. Cooldown: 3 Turns Requires: Support
+- **Charge Strike** (damage 20 Spirit 10 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Undead Slayer: Base attacks deal +40% damage to Undead units. Fiend Slayer: Base attacks deal +40% damage to Fiend units. Umbral Demon Slayer: Base attacks deal +40% damage to Umbral Demon units. Requires: Melee, Base, Single Shot
+- **Embolden Allies** (accuracy Always Hits, range 0, single-use action): Friendly units within a 2-hex radius gain, for 3 Turns: 3 Rally. 2 Strengthened. Enter Defense Mode. Cooldown: 3 Turns. Requires: Support
 - **Undead Slayer**: Base attacks deal +40% damage to Undead units.
 
 ## Yaka's Fury
@@ -2644,4 +2644,4 @@ Units killed with this weapon turn into Zombies under your control until the end
 (Tier IV; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
 
 Grants immunity to Burning.
-- **Charge Strike** (damage 15 Physical 14 Fire, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Yaka's Fury^N: - Sets affected tiles on fire.; Affects targets in a 3-hex line for 50% effectiveness. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 15 Physical 14 Fire, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Yaka's Fury^N: Sets affected tiles on fire. Affects targets in a 3-hex line for 50% effectiveness. Requires: Melee, Base, Single Shot

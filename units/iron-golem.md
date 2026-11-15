@@ -13,7 +13,7 @@ Highly defensive Shield Unit that is resistant to \\> and protects allies from t
 ## Abilities
 
 - **Melee Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Defense Mode: Protective Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense; All adjacent friendly units gain +3 Status Resistance.
+- **Defense Mode: Protective Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense; All adjacent friendly units gain +3 Status Resistance.
 
 ## Passives
 
@@ -25,9 +25,9 @@ Highly defensive Shield Unit that is resistant to \\> and protects allies from t
 
 ## Unit type traits
 
-- **Construct**: A construct unit with: ; Reinforced; -4 Lightning Protection; 2 Spirit Protection.; Heartless; Control Loss Immunity; Immunity to: ; Bleeding; Diseased; Distracted; Poisoned
+- **Construct**: A construct unit with: Reinforced; -4 Lightning Protection; 2 Spirit Protection. Heartless; Control Loss Immunity; Immunity to: Bleeding; Diseased; Distracted; Poisoned
 - **Land Movement**: This unit can move over land hexes.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

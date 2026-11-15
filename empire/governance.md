@@ -14,7 +14,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 1: Each Quarry grants +5 Production
 - Renown level 2: City Structures cost -20% less Gold
 - Renown level 3: Each Quarry grants +1 Binding Fragments
-- Renown level 4: City Structures grant +2 Gold in addition to their normal effects Enable drafting of Frost Giant units
+- Renown level 4: City Structures grant +2 Gold in addition to their normal effects. Enable drafting of Frost Giant units
 
 ## Giant King Governor (Rock Giant)
 
@@ -22,7 +22,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 1: Each Quarry grants +5 Production
 - Renown level 2: City Structures cost -20% less Gold
 - Renown level 3: Each Quarry grants +1 Binding Fragments
-- Renown level 4: City Structures grant +2 Gold in addition to their normal effects Enable drafting of Rock Giant units
+- Renown level 4: City Structures grant +2 Gold in addition to their normal effects. Enable drafting of Rock Giant units
 
 ## Giant King Governor (Fire Giant)
 
@@ -30,7 +30,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 1: Each Quarry grants +5 Production
 - Renown level 2: City Structures cost -20% less Gold
 - Renown level 3: Each Quarry grants +1 Binding Fragments
-- Renown level 4: City Structures grant +2 Gold in addition to their normal effects Enable drafting of Fire Giant units
+- Renown level 4: City Structures grant +2 Gold in addition to their normal effects. Enable drafting of Fire Giant units
 
 ## Giant King Governor (Storm Giant)
 
@@ -38,7 +38,7 @@ While Governor, the governed city gains benefits based on the Renown level of th
 - Renown level 1: Each Quarry grants +5 Production
 - Renown level 2: City Structures cost -20% less Gold
 - Renown level 3: Each Quarry grants +1 Binding Fragments
-- Renown level 4: City Structures grant +2 Gold in addition to their normal effects Enable drafting of Storm Giant units
+- Renown level 4: City Structures grant +2 Gold in addition to their normal effects. Enable drafting of Storm Giant units
 
 ## Trollkin Governor
 
@@ -69,10 +69,10 @@ While Governor, the governed city gains benefits based on the Renown level of th
 While Governor, the governed city gains benefits based on the Renown level of this Hero:
 
 In addition each renown level grants +5 Combat Casting Points and +5 World Map Casting Points.
-- Renown level 1: Each Special Province Improvement grants +5 Mana +5 Combat Casting Points +5 World Map Casting Points
-- Renown level 2: Each Conduit or Research Post grants +5 City Stability +5 Combat Casting Points +5 World Map Casting Points
-- Renown level 3: Each Population grants +2 Knowledge +5 Combat Casting Points +5 World Map Casting Points
-- Renown level 4: +10% more Mana income +5 Combat Casting Points +5 World Map Casting Points
+- Renown level 1: Each Special Province Improvement grants +5 Mana. +5 Combat Casting Points. +5 World Map Casting Points
+- Renown level 2: Each Conduit or Research Post grants +5 City Stability. +5 Combat Casting Points. +5 World Map Casting Points
+- Renown level 3: Each Population grants +2 Knowledge. +5 Combat Casting Points. +5 World Map Casting Points
+- Renown level 4: +10% more Mana income. +5 Combat Casting Points. +5 World Map Casting Points
 
 ## Champion Governor
 

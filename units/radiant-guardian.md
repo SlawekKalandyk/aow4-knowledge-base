@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical 4 Spirit, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Radiant Transposition** (damage 8 Spirit, accuracy Always Hits, range 4, single-use action): Swap position with a friendly unit and enter Defense Mode. Enemies adjacent to the unit: ; Sustain damage.; Have a base 60% chance of becoming Pacified for 1. Turn. Cooldown: 2 Turns Requires: Magic, Debuff, Teleport, Movement
-- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
+- **Radiant Transposition** (damage 8 Spirit, accuracy Always Hits, range 4, single-use action): Swap position with a friendly unit and enter Defense Mode. Enemies adjacent to the unit: Sustain damage. Have a base 60% chance of becoming Pacified for 1. Turn. Cooldown: 2 Turns. Requires: Magic, Debuff, Teleport, Movement
+- **Defense Mode: Shield Wall**: This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
 
 ## Passives
 
@@ -24,12 +24,12 @@
 
 ## Unit type traits
 
-- **Celestial**: Celestial unit with: ; +2 Spirit Protection; -4 Blight Protection.; -4 Frost Protection; Inspiring Killer; Control Loss Immunity
-- **Dragon**: Dragon unit with: ; Draconic Rage
+- **Celestial**: Celestial unit with: +2 Spirit Protection; -4 Blight Protection. -4 Frost Protection; Inspiring Killer; Control Loss Immunity
+- **Dragon**: Dragon unit with: Draconic Rage
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
-- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: ; Shield Defense.; Defense Mode: Shield Wall.
+- **Shield Unit**: Great at blocking enemies and protecting allies against physical attacks. A Shield unit gains: Shield Defense. Defense Mode: Shield Wall.
 
 ## Rank-up rewards
 

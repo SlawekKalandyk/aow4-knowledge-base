@@ -22,5 +22,5 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Grant +15 City Stability.
   - Allow a Sylvan Wolf Temple to be built.
-- Sylvan Megalith (Initial City Upgrade): - +6 Draft per adjacent Forest Province; Counts as a Conduit.
+- Sylvan Megalith (Initial City Upgrade): +6 Draft per adjacent Forest Province; Counts as a Conduit.
 - Avatar of the Sylvan Wolf (Hero Skill):

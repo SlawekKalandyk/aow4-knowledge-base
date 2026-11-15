@@ -10,7 +10,7 @@
 ## Abilities
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Bleeding: Base 60% chance of inflicting Bleeding for 3 Turns. Life Steal: Attacks heal 5 Temporary Hit Points. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -19,11 +19,11 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
 - **Tiny**: Unit is very small, making it 20% harder to hit by Missile and ranged Magic attacks.
-- **Undead**: An undead unit with: ; +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: ; Poisoned; Diseased
+- **Undead**: An undead unit with: +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: Poisoned; Diseased
 
 ## Rank-up rewards
 

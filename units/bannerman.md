@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Banner Smite** (damage 14 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Sundered Defense: Base 60% chance of inflicting Sundered Defense for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Soothing Standard** (accuracy Always Hits, range 1, single-use action): Target friendly unit gains: ; +25 Temporary Hit Points; 10 Morale  Enter Defense Mode after use. Cooldown: 1 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Soothing Standard** (accuracy Always Hits, range 1, single-use action): Target friendly unit gains: +25 Temporary Hit Points; 10 Morale. Enter Defense Mode after use. Cooldown: 1 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 

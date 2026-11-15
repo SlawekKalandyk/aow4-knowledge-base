@@ -224,7 +224,7 @@ Melee and Missile attacks now deal +10% damage.
 (type normal; can't be taken with Snapshot, Sniper Shot; DLC Base)
 
 
-- **Scatter Shot** (damage 18 Physical, accuracy Always Hits, range 4, single-use action): Deals damage in a 1-hex radius. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Missile, Base
+- **Scatter Shot** (damage 18 Physical, accuracy Always Hits, range 4, single-use action): Deals damage in a 1-hex radius. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Missile, Base
 
 ## Skirmisher Training
 
@@ -240,21 +240,21 @@ The hero gains:
 (type normal; requires Ranger 2; DLC Base)
 
 
-- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points. Works once per battle. Doesn't work when Embarked.
 
 ## Snapshot
 
 (type normal; can't be taken with Scatter Shot, Sniper Shot; DLC Base)
 
 
-- **Snapshot** (damage 16 Physical, accuracy 90%, range 4, free action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base
+- **Snapshot** (damage 16 Physical, accuracy 90%, range 4, free action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base
 
 ## Sniper Shot
 
 (type normal; can't be taken with Snapshot, Scatter Shot; DLC Base)
 
 
-- **Sniper Shot** (damage 40 Physical, accuracy 90%, range 6, full action): Fire a ranged attack at the target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Missile, Base, Single Shot
+- **Sniper Shot** (damage 40 Physical, accuracy 90%, range 6, full action): Fire a ranged attack at the target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Missile, Base, Single Shot
 
 ## Sniper's Focus
 

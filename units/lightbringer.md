@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Spirit Bolts** (damage 12 Spirit, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Condemned: Base 90% chance of inflicting Condemned until the end of battle. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Convert** (accuracy Always Hits, range 3, single-use action): Base 90% chance of making target non-Hero enemy unit become Dominated, if unsuccessful, the unit sustains 15 Spirit Damage instead.  The unit enters Defense Mode after use. Cooldown: 3 Turns Requires: Debuff
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Convert** (accuracy Always Hits, range 3, single-use action): Base 90% chance of making target non-Hero enemy unit become Dominated, if unsuccessful, the unit sustains 15 Spirit Damage instead. The unit enters Defense Mode after use. Cooldown: 3 Turns. Requires: Debuff
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,9 +21,9 @@
 
 ## Unit type traits
 
-- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. ; Their Accuracy is affected by Line of Sight.; Cannot use their main Magic attacks when Engaged in Melee.
-- **Celestial**: Celestial unit with: ; +2 Spirit Protection; -4 Blight Protection.; -4 Frost Protection; Inspiring Killer; Control Loss Immunity
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. Their Accuracy is affected by Line of Sight. Cannot use their main Magic attacks when Engaged in Melee.
+- **Celestial**: Celestial unit with: +2 Spirit Protection; -4 Blight Protection. -4 Frost Protection; Inspiring Killer; Control Loss Immunity
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 
 ## Rank-up rewards

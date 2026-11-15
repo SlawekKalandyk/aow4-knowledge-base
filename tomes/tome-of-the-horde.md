@@ -25,4 +25,4 @@ Turn your cheapest units into large, deadly armies. Specialize in summoning and 
   
   - 2 stacks of Strengthened.
 - [Houndmaster](../units/houndmaster.md) (Unit): A Ranged Unit that summons a War Hound to debilitate enemies.
-- Mob Camp (Initial City Upgrade): - +7 Food.; +7 Draft.; Unit deployment location.; Tier I Units are cheaper by 20%.; Counts as a Forester.
+- Mob Camp (Initial City Upgrade): +7 Food. +7 Draft. Unit deployment location. Tier I Units are cheaper by 20%. Counts as a Forester.

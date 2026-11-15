@@ -24,4 +24,4 @@ Summon Celestial allies and ascend your units to the ranks of the Archons.
   
   This transformation is incompatible with Umbral Flesh and Gloom Strider.
 - [Summon Astra](../spells/summon-astra.md) ([World Map] Summon Spell): Summon an Astra Mythic Unit, an Angel unit with strong attacks and healing abilities.
-- Archon Gate (Initial City Upgrade): - +20 City Stability; Unit deployment location.; Allows the drafting of Titans.; Functions as a Teleporter.
+- Archon Gate (Initial City Upgrade): +20 City Stability; Unit deployment location. Allows the drafting of Titans. Functions as a Teleporter.

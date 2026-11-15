@@ -25,4 +25,4 @@ Rile up your fanatic population for a common goal. Use units with Zeal and infli
   - Sustains 15 Spirit Damage.
   - Becomes Condemned until the end of battle.
 - [Summon Zealot](../spells/summon-zealot.md) ([World Map] Summon Spell): Summons a Zealot onto the target world hex. A Zealot is a reckless Fighter Unit that is advantageous against Condemned units.
-- Circle of Zealotry (Initial City Upgrade): - +10 Draft per positive or negative level of alignment.; +2 City Stability per adjacent Province Improvement.; Unit deployment location.; Counts as a Quarry.
+- Circle of Zealotry (Initial City Upgrade): +10 Draft per positive or negative level of alignment. +2 City Stability per adjacent Province Improvement. Unit deployment location. Counts as a Quarry.

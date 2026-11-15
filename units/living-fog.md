@@ -13,7 +13,7 @@ A being from the void whose attacks cannot be blocked and that makes mortals go 
 
 - **Mind Strike** (damage 17 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Insanity: Base 60% chance of inflicting Insanity for 1 Turn. Unblockable Damage: Damage can not be reduced by Defense or Resistance. Requires: Melee, Base
 - **Call the Void** (accuracy Always Hits, range 2, single-use action): Conjure a Devouring Void hazard in a 1-hex radius that lasts for 2 Turns. Cooldown: 2 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -26,9 +26,9 @@ A being from the void whose attacks cannot be blocked and that makes mortals go 
 
 ## Unit type traits
 
-- **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Ethereal**: An Ethereal unit with: +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: Bleeding; Diseased; Immobilized; Poisoned
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

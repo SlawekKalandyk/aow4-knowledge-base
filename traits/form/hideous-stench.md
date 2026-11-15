@@ -7,7 +7,7 @@
 
 ## Effects
 
-- Adjacent enemies without this trait suffer: ; -2 Resistance; -2 Status Resistance
+- Adjacent enemies without this trait suffer: -2 Resistance; -2 Status Resistance
 
 ## Description
 

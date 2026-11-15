@@ -9,9 +9,9 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical 8 Blight, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Blind: Base 60% chance of inflicting Blind for 1 Turn. Requires: Melee, Base
-- **Jump** (accuracy Always Hits, range 3, leave-one action): Jumps to target location. Cooldown: 2 Turns Requires: Movement
-- **Web** (damage 24 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: ; Sustain damage.; Become Slowed for 1 Turn Immobilized: Base 90% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns Requires: Missile
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Jump** (accuracy Always Hits, range 3, leave-one action): Jumps to target location. Cooldown: 2 Turns. Requires: Movement
+- **Web** (damage 24 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: Sustain damage. Become Slowed for 1 Turn. Immobilized: Base 90% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns. Requires: Missile
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,14 +23,14 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Cave Walk**: Moving through Cavern Floors costs 5 Move Points instead of 6. Moving through Fungus Fields costs 5 Move Points instead of 6. Moving through Mushroom Forests costs 6 Move Points instead of 8.
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Forest Camouflage**: This unit cannot be detected when standing on Forest hexes.
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
-- **Spider**: A spider unit with: ; Swift; Forest Walk; Cave Walk; Immunity to: ; Slowed; Immobilized
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
+- **Spider**: A spider unit with: Swift; Forest Walk; Cave Walk; Immunity to: Slowed; Immobilized
 - **Underground Camouflage**: This unit cannot be detected when standing on Underground Cave hexes.
 
 ## Rank-up rewards

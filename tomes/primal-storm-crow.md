@@ -22,5 +22,5 @@ This research is available to rulers with the Primal culture. They specialize in
   
   - Grant +15 City Stability.
   - Allow a Storm Crow Temple to be built.
-- Storm Megalith (Initial City Upgrade): - +4 Mana per adjacent Grassland Province.; Counts as a Conduit.
+- Storm Megalith (Initial City Upgrade): +4 Mana per adjacent Grassland Province. Counts as a Conduit.
 - Avatar of the Storm Crow (Hero Skill):

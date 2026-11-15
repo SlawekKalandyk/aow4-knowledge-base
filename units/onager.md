@@ -10,7 +10,7 @@ An mobile siege engine that can hurl projectiles over large distances. But may b
 
 ## Abilities
 
-- **Catapult** (damage 20 Physical, accuracy 90%, range 3-12, full action): Deals damage to a target over a long range. Ignores line of sight penalties. Cooldown: 1 Turns Starts on cooldown Requires: Missile, Base
+- **Catapult** (damage 20 Physical, accuracy 90%, range 3-12, full action): Deals damage to a target over a long range. Ignores line of sight penalties. Cooldown: 1 Turns. Starts on cooldown. Requires: Missile, Base
 
 ## Passives
 
@@ -23,7 +23,7 @@ An mobile siege engine that can hurl projectiles over large distances. But may b
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Siegecraft**: Normally only accessible during Siege battles. Often required construction.
 
 ## Rank-up rewards

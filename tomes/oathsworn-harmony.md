@@ -19,4 +19,4 @@ This research is available to rulers with the Oathsworn culture. They specialize
   - First Strike
   - An extra Retaliation Attack
   - Defensive Masters
-- School of Contemplation (Initial City Upgrade): - +7 Mana; +7 Knowledge; +3 Knowledge per adjacent Conduit or Research Post.; Counts as a Conduit.
+- School of Contemplation (Initial City Upgrade): +7 Mana; +7 Knowledge; +3 Knowledge per adjacent Conduit or Research Post. Counts as a Conduit.

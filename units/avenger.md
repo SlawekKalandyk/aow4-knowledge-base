@@ -9,13 +9,13 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-- **Helmsplitter** (damage 50 Physical, accuracy 100%, range 1, full action): Deals damage to target unit. Piercing: Ignore 50% of the target's Defense. Cooldown: 2 Turns Requires: Melee, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Helmsplitter** (damage 50 Physical, accuracy 100%, range 1, full action): Deals damage to target unit. Piercing: Ignore 50% of the target's Defense. Cooldown: 2 Turns. Requires: Melee, Base, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: ; Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage  Effects are increased for Single Shot attacks.
+- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage. Effects are increased for Single Shot attacks.
 - **Paragon of Righteousness**: At Paragon level Devotion, gain the Radiant Slash ability.
 
 ## Unit type traits

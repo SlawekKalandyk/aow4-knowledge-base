@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Magic Strike** (damage 11 Blight 11 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Mist Slayer: +2 Blight Damage and +2 Frost Damage per Clinging Mist on target. Requires: Magic, Base
-- **Misty Lunge** (damage 22 Blight 22 Frost, accuracy Always Hits, range 4, leave-one action): Teleport towards and damage target enemy. Then spread Mist on and around the target. Cooldown: 1 Turns Requires: Teleport, Movement, Single Shot, Magic, Base
-- **Pained Cry** (damage 15 Frost, accuracy Always Hits, range 0, free action): Enemies in a 2-hex radius: ; Sustain damage.; If targets have Clinging Mist:; Sustain an extra 15 Frost Damage.; They have a base 90% chance of becoming Stunned for 1 Turn. Cooldown: 2 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Misty Lunge** (damage 22 Blight 22 Frost, accuracy Always Hits, range 4, leave-one action): Teleport towards and damage target enemy. Then spread Mist on and around the target. Cooldown: 1 Turns. Requires: Teleport, Movement, Single Shot, Magic, Base
+- **Pained Cry** (damage 15 Frost, accuracy Always Hits, range 0, free action): Enemies in a 2-hex radius: Sustain damage. If targets have Clinging Mist: Sustain an extra 15 Frost Damage. They have a base 90% chance of becoming Stunned for 1 Turn. Cooldown: 2 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -27,9 +27,9 @@
 
 ## Unit type traits
 
-- **Fey**: A Fey unit with: ; +4 Spirit Protection; -4 Blight Protection; Fey Guile; The ability to ignore: ; Vision penalties from Misty.; Accuracy penalties from Clinging Mist.
+- **Fey**: A Fey unit with: +4 Spirit Protection; -4 Blight Protection; Fey Guile; The ability to ignore: Vision penalties from Misty. Accuracy penalties from Clinging Mist.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 
 ## Rank-up rewards

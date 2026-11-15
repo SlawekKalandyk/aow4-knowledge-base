@@ -21,4 +21,4 @@ This research is available to Rulers with the Nomad culture. They specialize in 
 - [Chimes of Momentum](../spells/chimes-of-momentum.md) ([World Map] Unit Enchantment): Grant non-Culture units:
   
   - Empowering Momentum
-- Warcamp (Initial City Upgrade): - +15 Draft.; Pillaging adjacent provinces takes -1 Turn.; Friendly units in this and adjacent provinces gain +15 Hit Point regeneration per World Map Turn.; Counts as a Forester.
+- Warcamp (Initial City Upgrade): +15 Draft. Pillaging adjacent provinces takes -1 Turn. Friendly units in this and adjacent provinces gain +15 Hit Point regeneration per World Map Turn. Counts as a Forester.

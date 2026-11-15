@@ -10,8 +10,8 @@ A stationary tentacle that constricts nearby targets in its reach.
 
 ## Abilities
 
-- **Melee Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Constricting: - Base 60% chance of inflicting Constricted for 1 Turn.; If unsuccessful, inflicts Status Vulnerability. Requires: Melee, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Melee Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Constricting: Base 60% chance of inflicting Constricted for 1 Turn. If unsuccessful, inflicts Status Vulnerability. Requires: Melee, Base
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -19,7 +19,7 @@ A stationary tentacle that constricts nearby targets in its reach.
 
 ## Unit type traits
 
-- **Amphibious**: This unit: ; Can enter water hexes without movement penalties or becoming Embarked.; Has faster movement over Rivers and Swamps.
+- **Amphibious**: This unit: Can enter water hexes without movement penalties or becoming Embarked. Has faster movement over Rivers and Swamps.
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 

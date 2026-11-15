@@ -37,4 +37,4 @@ Revel in the power of Dragons and let their flames empower your people.
   - Young Golden Dragon
   
   These units may Evolve into Adult Dragons.
-- Wyvern Eyrie (Initial City Upgrade): - +10 Gold.; +5 Gold per adjacent Farm Province.; Unlocks the production of various Wyvern Units. Alignment influences which Wyverns can be drafted.; Counts as a Mine.
+- Wyvern Eyrie (Initial City Upgrade): +10 Gold. +5 Gold per adjacent Farm Province. Unlocks the production of various Wyvern Units. Alignment influences which Wyverns can be drafted. Counts as a Mine.

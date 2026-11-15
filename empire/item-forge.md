@@ -18,7 +18,7 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Trinket** (Miscellaneous, DLC Base): Can be infused with Passive Infusions that are often good on the world map.
 - **Wand** (Miscellaneous, DLC ELDRITCHREALMS): Can be infused with an Ability Infusion.
 - **Wand** (Miscellaneous, DLC Base): Can be infused with an Ability Infusion.
-- **Armored Claw** (Primary, DLC DRAGONLORDS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive or defensive capabilities of the item.  Grants Shield Defense and Defense Mode: Shield Wall.  Can only be equipped by Dragon Lord Heroes.
+- **Armored Claw** (Primary, DLC DRAGONLORDS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive or defensive capabilities of the item. Grants Shield Defense and Defense Mode: Shield Wall. Can only be equipped by Dragon Lord Heroes.
 - **Axe** (Primary, DLC PRIMALFURY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Axe** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Bardiche** (Primary, DLC RISEFROMRUIN): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
@@ -31,14 +31,14 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Breachgun and Axe** (Primary, DLC EMPIRESANDASHES): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Cestus** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Crossbow** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
-- **Dragon Claw** (Primary, DLC DRAGONLORDS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Can only be equipped by Dragon Lord Heroes.
-- **Eldritch Relic** (Primary, DLC ELDRITCHREALMS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Can only be equipped by Eldritch Sovereign Heroes.
+- **Dragon Claw** (Primary, DLC DRAGONLORDS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Can only be equipped by Dragon Lord Heroes.
+- **Eldritch Relic** (Primary, DLC ELDRITCHREALMS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Can only be equipped by Eldritch Sovereign Heroes.
 - **Feudal Longsword** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Flaming Greatclub** (Primary, DLC WAYSOFWAR): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Floating Daggers** (Primary, DLC THRONESOFBLOOD): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
-- **Giant Axe** (Primary, DLC GIANTKINGS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Can only be equipped by Giant King Heroes.
-- **Giant Hunter Hero Origin** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
-- **Glaive** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Giant Axe** (Primary, DLC GIANTKINGS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Can only be equipped by Giant King Heroes.
+- **Giant Hunter Hero Origin** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Glaive** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
 - **Goldseeker's Pickaxe** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Greataxe** (Primary, DLC PRIMALFURY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Greataxe** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
@@ -52,9 +52,9 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Greatsword** (Primary, DLC WAYSOFWAR): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Greatsword** (Primary, DLC SILVERSEAS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Grimoire** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
-- **Halberd** (Primary, DLC RISEFROMRUIN): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
-- **Halberd** (Primary, DLC EMPIRESANDASHES): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
-- **Halberd** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Halberd** (Primary, DLC RISEFROMRUIN): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Halberd** (Primary, DLC EMPIRESANDASHES): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Halberd** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
 - **Javelin** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Lance** (Primary, DLC HERALDOFGLORY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Lance** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
@@ -70,25 +70,25 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Magical Orb** (Primary, DLC COSMICWANDERER): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Magical Orb** (Primary, DLC ARCHONPROPHECY): Magical Orb
 - **Magma Orb** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
-- **Obelisk** (Primary, DLC GIANTKINGS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Can only be equipped by Giant King Heroes.
-- **Pike** (Primary, DLC WAYSOFWAR): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
-- **Pike** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Obelisk** (Primary, DLC GIANTKINGS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Can only be equipped by Giant King Heroes.
+- **Pike** (Primary, DLC WAYSOFWAR): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Pike** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
 - **Pistol and Sword** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
-- **Polearm** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Polearm** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
 - **Shatterblades** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Short Spear** (Primary, DLC SILVERSEAS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Short Spear** (Primary, DLC ARCHONPROPHECY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
-- **Spear** (Primary, DLC PRIMALFURY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
-- **Staff** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC ELDRITCHREALMS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC PRIMALFURY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC THRONESOFBLOOD): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC COSMICWANDERER): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC WAYSOFWAR): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC SILVERSEAS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC EMPIRESANDASHES): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC RISEFROMRUIN): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
-- **Staff** (Primary, DLC ARCHONPROPHECY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities.  Grants Defense Mode: Warding.
+- **Spear** (Primary, DLC PRIMALFURY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Staff** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC ELDRITCHREALMS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC PRIMALFURY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC THRONESOFBLOOD): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC COSMICWANDERER): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC WAYSOFWAR): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC SILVERSEAS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC EMPIRESANDASHES): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC RISEFROMRUIN): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
+- **Staff** (Primary, DLC ARCHONPROPHECY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive and support capabilities. Grants Defense Mode: Warding.
 - **Sword** (Primary, DLC RISEFROMRUIN): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Sword** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Sword** (Primary, DLC ELDRITCHREALMS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
@@ -104,9 +104,9 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Sword and Throwing Daggers** (Primary, DLC WAYSOFWAR): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Sword and Whip** (Primary, DLC THRONESOFBLOOD): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Sword and Whip** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
-- **Trident** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
-- **Warclaw** (Primary, DLC DRAGONLORDS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Can only be equipped by Dragon Lord Heroes.
-- **Warhammer** (Primary, DLC GIANTKINGS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.  Can only be equipped by Giant King Heroes.
+- **Trident** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Grants First Strike, Charge Resistance, Cavalry Slayer, and Giant Slayer.
+- **Warclaw** (Primary, DLC DRAGONLORDS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Can only be equipped by Dragon Lord Heroes.
+- **Warhammer** (Primary, DLC GIANTKINGS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Can only be equipped by Giant King Heroes.
 - **Ring** (Ring, DLC ELDRITCHREALMS): Can be infused with Passive Infusions that give combat properties.
 - **Ring** (Ring, DLC Base): Can be infused with Passive Infusions that give combat properties.
 - **Shield** (Secondary, DLC ELDRITCHREALMS): Can be infused with Passive Infusions that increase survivability and reflect damage to attackers and Active Infusions that changes the Defense Mode.
@@ -129,11 +129,11 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **+1 Defense** (1 pts, DLC Base, fits all of (lacks Exclusive Defense, any of (Armored Claw, Item Type Armor))): Defense reduces damage from Melee and Missile attacks.
 - **+1 Resistance** (1 pts, DLC Base, fits all of (lacks Exclusive Resistance, any of (Armored Claw, Item Type Armor))): Resistance reduces damage from Magic attacks and Combat Spells.
 - **+1 Status Resistance** (1 pts, DLC Base, fits all of (lacks Exclusive Status Resistance, any of (Ring, Item Type Armor, Armored Claw))): Status Resistance reduces the chance that a unit will be affected by Negative Status Effects.
-- **+10 Hit Points** (2 pts, DLC Base, needs 1 Archon Blood, fits all of (lacks Exclusive HP, any of (Item Type Armor, Armored Claw))): - Hit Points represent the amount of damage a Unit can sustain before it dies.; Most units will take Casualties as their Hit Points drop.
+- **+10 Hit Points** (2 pts, DLC Base, needs 1 Archon Blood, fits all of (lacks Exclusive HP, any of (Item Type Armor, Armored Claw))): Hit Points represent the amount of damage a Unit can sustain before it dies. Most units will take Casualties as their Hit Points drop.
 - **+10% Accuracy** (1 pts, DLC Base, fits all of (Head, lacks Exclusive Accuracy)): +10% Accuracy on Magic and Missile attacks.
 - **+10% Critical Hit Chance** (1 pts, DLC Base, fits all of (Item Type Weapon, lacks Exclusive Crit Chance)): Base attacks have a +10% Critical Hit Chance.
 - **+10% Magic Damage** (1 pts, DLC Base, needs 1 Astral Dew, fits all of (Torso, lacks Exclusive Torso Magic Damage)): Damage of Magic attacks is increased by +10%.
-- **+15 Hit Points** (3 pts, DLC Base, needs 2 Archon Blood, fits all of (lacks Exclusive HP, any of (Item Type Armor, Armored Claw))): - Hit Points represent the amount of damage a Unit can sustain before it dies.; Most units will take Casualties as their Hit Points drop.
+- **+15 Hit Points** (3 pts, DLC Base, needs 2 Archon Blood, fits all of (lacks Exclusive HP, any of (Item Type Armor, Armored Claw))): Hit Points represent the amount of damage a Unit can sustain before it dies. Most units will take Casualties as their Hit Points drop.
 - **+1 Range** (1 pts, DLC Base, needs 1 Focus Crystals, fits all of (lacks Breachgun, Magic Melee Ranged)): Base Missile and Magic attacks gains +1 Range.
 - **+1 Range** (2 pts, DLC Base, needs 1 Focus Crystals, fits all of (any of (Ranged Physical, Melee Ranged, Magic), lacks Breachgun)): Base Missile and Magic attacks gains +1 Range.
 - **+2 Blight Protection** (1 pts, DLC Base, needs 1 Silvertongue Fruit, fits all of (lacks Exclusive Blight Resistance, any of (Ring, Item Type Armor, Armored Claw))): Blight Protection reduces Blight Damage.
@@ -159,7 +159,7 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **+4 Lightning Protection** (2 pts, DLC Base, needs 2 Astral Dew, fits all of (lacks Exclusive Lightning Resistance, any of (Item Type Armor, Ring, Armored Claw))): Lightning Protection reduces Lightning Damage.
 - **+4 Spirit Protection** (2 pts, DLC Base, needs 2 Rainbow Clover, fits all of (lacks Exclusive Spirit Resistance, any of (Ring, Item Type Armor, Armored Claw))): Spirit Protection reduces Spirit Damage.
 - **+40% Critical Hit Damage** (2 pts, DLC Base, needs 2 Fireforge Stone, fits all of (Item Type Weapon, lacks Exclusive Crit Damage)): Base attacks deal +40% damage on Critical Hits.
-- **+5 Hit Points** (1 pts, DLC Base, fits all of (lacks Exclusive HP, any of (Item Type Armor, Armored Claw))): - Hit Points represent the amount of damage a Unit can sustain before it dies.; Most units will take Casualties as their Hit Points drop.
+- **+5 Hit Points** (1 pts, DLC Base, fits all of (lacks Exclusive HP, any of (Item Type Armor, Armored Claw))): Hit Points represent the amount of damage a Unit can sustain before it dies. Most units will take Casualties as their Hit Points drop.
 - **+6 Blight Protection** (3 pts, DLC Base, needs 3 Silvertongue Fruit, fits all of (lacks Exclusive Blight Resistance, any of (Ring, Item Type Armor, Armored Claw))): Blight Protection reduces Blight Damage.
 - **+6 Fire Protection** (3 pts, DLC Base, needs 3 Fireforge Stone, fits all of (lacks Exclusive Fire Resistance, any of (Ring, Item Type Armor, Armored Claw))): Fire Protection reduces Fire Damage.
 - **+6 Frost Protection** (3 pts, DLC Base, needs 3 Archon Blood, fits all of (lacks Exclusive Frost Resistance, any of (Ring, Item Type Armor, Armored Claw))): Frost Protection reduces Frost Damage.
@@ -168,32 +168,32 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Animal Slayer** (1 pts, DLC Base, fits all of (Item Type Weapon, lacks Exclusive Slayer)): Base attacks deal +40% damage to Animal units.
 - **Animate Flora** (1 pts, DLC Base, needs 2 Haste Berries, fits any of (Staff, Grimoire)): 
 - **Animate Flora** (3 pts, DLC Base, needs 2 Haste Berries, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
-- **Arcfire Damage** (1 pts, DLC DRAGONLORDS, needs 2 Fireforge Stone, fits Warclaw): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC DRAGONLORDS, needs 2 Fireforge Stone, fits Armored Claw): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +2 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC ELDRITCHREALMS, needs 2 Fireforge Stone, fits Eldritch Relic): Change damage to mixed Fire Damage and Lightning Damage.  +4 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC DRAGONLORDS, needs 2 Fireforge Stone, fits Dragon Claw): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +2 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Magelock): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +2 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Crossbow): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Bow): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Polearm): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Lance): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits One Handed): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +2 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Grimoire): Change damage to mixed Fire Damage and Lightning Damage.  +4 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Greatbow): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC GIANTKINGS, needs 2 Fireforge Stone, fits Obelisk): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +4 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC GIANTKINGS, needs 2 Fireforge Stone, fits Warhammer): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +4 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC GIANTKINGS, needs 2 Fireforge Stone, fits Giant Axe): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage.  +3 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to mixed Fire Damage and Lightning Damage.  +2 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Staff): Change damage to mixed Fire Damage and Lightning Damage.  +4 damage per Item Tier.
-- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits any of (Magical Orb, Orb Fire Lightning)): Change damage to mixed Fire Damage and Lightning Damage.  +2 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC DRAGONLORDS, needs 2 Fireforge Stone, fits Warclaw): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC DRAGONLORDS, needs 2 Fireforge Stone, fits Armored Claw): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +2 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC ELDRITCHREALMS, needs 2 Fireforge Stone, fits Eldritch Relic): Change damage to mixed Fire Damage and Lightning Damage. +4 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC DRAGONLORDS, needs 2 Fireforge Stone, fits Dragon Claw): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +2 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Magelock): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +2 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Crossbow): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Bow): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Polearm): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Lance): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits One Handed): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +2 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Grimoire): Change damage to mixed Fire Damage and Lightning Damage. +4 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Greatbow): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC GIANTKINGS, needs 2 Fireforge Stone, fits Obelisk): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +4 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC GIANTKINGS, needs 2 Fireforge Stone, fits Warhammer): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +4 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC GIANTKINGS, needs 2 Fireforge Stone, fits Giant Axe): Change damage to mixed Physical Damage, Fire Damage, and Lightning Damage. +3 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to mixed Fire Damage and Lightning Damage. +2 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits Staff): Change damage to mixed Fire Damage and Lightning Damage. +4 damage per Item Tier.
+- **Arcfire Damage** (1 pts, DLC Base, needs 2 Fireforge Stone, fits any of (Magical Orb, Orb Fire Lightning)): Change damage to mixed Fire Damage and Lightning Damage. +2 damage per Item Tier.
 - **Area Damage - Blast** (3 pts, DLC Base, needs 3 Fireforge Stone, fits all of (Item Type Weapon, lacks Exclusive Targeter Modifier)): Base attacks deal -20% damage, but deal 30% of their damage to all units in a 1-hex radius.
 - **Area Damage - Cascade** (3 pts, DLC Base, needs 3 Tranquility Pool, fits all of (Item Type Weapon, lacks Exclusive Targeter Modifier)): Base attacks deal -40% damage but 30% of the damage is dealt to all enemy units connected to the target.
 - **Area Damage - Chain** (2 pts, DLC Base, needs 3 Haste Berries, fits all of (Item Type Weapon, lacks Exclusive Targeter Modifier)): Base attacks deal 30% of their damage to a random unit within 3 hexes.
 - **Area Damage - Line** (3 pts, DLC Base, needs 3 Focus Crystals, fits all of (Item Type Weapon, lacks Exclusive Targeter Modifier)): Base attacks deal -20% damage, but deal damage to units in a 3-hex line.
 - **Army Maintenance** (2 pts, DLC Base, needs 2 Silvertongue Fruit, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Units in the army cost -10% base Unit Upkeep.
-- **Army Recuperation** (3 pts, DLC Base, needs 1 Rainbow Clover, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): All units in the army heal +5 Hit Points every World Map Turn.  Does not stack.
+- **Army Recuperation** (3 pts, DLC Base, needs 1 Rainbow Clover, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): All units in the army heal +5 Hit Points every World Map Turn. Does not stack.
 - **Army Trainer** (2 pts, DLC Base, needs 1 Silvertongue Fruit, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Units in the army gain +20% Experience.
 - **Army: Umbral Malady Immunity** (2 pts, DLC ELDRITCHREALMS, needs 1 Void Stones, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): While this unit is the leader of the army, units gain Umbral Malady Immunity
 - **Assassin's Strike** (2 pts, DLC Base, needs 1 Archon Blood, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): 
@@ -203,29 +203,29 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Attunement: Fortune** (3 pts, DLC Base, needs 2 Tranquility Pool, fits any of (Head, Torso, Legs)): 
 - **Attunement: Star Blades** (3 pts, DLC Base, needs 1 Tranquility Pool, fits any of (Head, Torso, Legs)): 
 - **Aura of Disease** (4 pts, DLC Base, needs 3 Silvertongue Fruit, fits Ring): At the end of this unit's turn, adjacent enemy units have a base % chance of becoming Diseased.
-- **Berserker's Rage** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
-- **Berserker's Rage** (3 pts, DLC Base, needs 1 Fireforge Stone, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: ; Berserk; Steadfast
+- **Berserker's Rage** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: Berserk; Steadfast
+- **Berserker's Rage** (3 pts, DLC Base, needs 1 Fireforge Stone, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When this unit's total Hit Points reach 33% or lower, it gains for 1 Turn: Berserk; Steadfast
 - **Bless** (1 pts, DLC Base, needs 1 Archon Blood, fits any of (Staff, any of (Instrument, Wand))): 
-- **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Blight Damage.  +3 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Blight Damage.  +2 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Blight Damage.  +4 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Blight Damage.  +2 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Blight Damage.  +3 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Blight Damage.  +4 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Blight Damage.  +3 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Blight Damage.  +4 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Blight Damage.  +4 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Blight Damage.  +3 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Blight Damage.  +2 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Blight Damage.  +2 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Blight Damage.  +4 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Staff): Change damage to Blight Damage.  +4 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Blight)): Change damage to Blight Damage.  +2 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Blight Damage.  +4 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Blight Damage.  +2 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Blight Damage.  +2 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Blight Damage.  +3 damage per Item Tier.
-- **Blight Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Blight Damage.  +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Blight Damage. +3 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Blight Damage. +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Blight Damage. +4 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Blight Damage. +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Blight Damage. +3 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Blight Damage. +4 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Blight Damage. +3 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Blight Damage. +4 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Blight Damage. +4 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Blight Damage. +3 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Blight Damage. +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Blight Damage. +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Blight Damage. +4 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Staff): Change damage to Blight Damage. +4 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Blight)): Change damage to Blight Damage. +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Blight Damage. +4 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Blight Damage. +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Blight Damage. +2 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Blight Damage. +3 damage per Item Tier.
+- **Blight Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Blight Damage. +2 damage per Item Tier.
 - **Blood Sigil** (2 pts, DLC THRONESOFBLOOD, needs 1 Blood Glass, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Attack and Debuff abilities ignore 1 Status Resistance per stack of Bleeding on the target.
 - **Bolstering Defense** (2 pts, DLC Base, needs 1 Arcanium Ore, fits any of (Item Type Armor, Torso)): 
 - **Bolstering Regeneration** (4 pts, DLC Base, needs 2 Archon Blood, fits any of (Item Type Armor, Torso)): 
@@ -242,10 +242,10 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Conjure Animal** (2 pts, DLC Base, needs 1 Haste Berries, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Construct Slayer** (1 pts, DLC Base, needs 2 Arcanium Ore, fits all of (Item Type Weapon, lacks Exclusive Slayer)): Base attacks deal +40% damage to Construct units.
 - **Consume Chaos** (1 pts, DLC Base, needs 3 Fireforge Stone, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): 
-- **Cosmic Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage.  +3 damage per Item Tier.
-- **Cosmic Damage** (1 pts, DLC Base, fits Grimoire): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage.  +3 damage per Item Tier.
-- **Cosmic Damage** (1 pts, DLC Base, needs 2 Astral Dew, fits Staff): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage.  +3 damage per Item Tier.
-- **Cosmic Damage** (1 pts, DLC Base, needs 2 Astral Dew, fits Magical Orb): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage.  +3 damage per Item Tier.
+- **Cosmic Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage. +3 damage per Item Tier.
+- **Cosmic Damage** (1 pts, DLC Base, fits Grimoire): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage. +3 damage per Item Tier.
+- **Cosmic Damage** (1 pts, DLC Base, needs 2 Astral Dew, fits Staff): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage. +3 damage per Item Tier.
+- **Cosmic Damage** (1 pts, DLC Base, needs 2 Astral Dew, fits Magical Orb): Change damage to mixed Fire Damage, Lightning Damage, and Frost Damage. +3 damage per Item Tier.
 - **Cosmic Rescue** (1 pts, DLC COSMICWANDERER, needs 1 Astral Dew, fits any of (Staff, Grimoire)): 
 - **Cosmic Rescue** (2 pts, DLC COSMICWANDERER, needs 1 Astral Dew, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Crowmaster** (2 pts, DLC Base, fits Bow): At the start of battle, summon Grimbeak Crows.
@@ -254,31 +254,31 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Damage Reflection 20%** (2 pts, DLC Base, fits all of (lacks Exclusive Damage Reflection, any of (Shield, Armored Claw))): 
 - **Damage Reflection 30%** (3 pts, DLC Base, needs 1 Focus Crystals, fits all of (lacks Exclusive Damage Reflection, any of (Shield, Armored Claw))): 
 - **Damage Reflection 40%** (4 pts, DLC Base, needs 3 Focus Crystals, fits all of (lacks Exclusive Damage Reflection, any of (Shield, Armored Claw))): 
-- **Death Damage** (1 pts, DLC DRAGONLORDS, needs 2 Archon Blood, fits Warclaw): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC DRAGONLORDS, needs 2 Archon Blood, fits Armored Claw): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +2 damage per Item Tier.
-- **Death Damage** (1 pts, DLC ELDRITCHREALMS, needs 2 Archon Blood, fits Eldritch Relic): Change damage to mixed Frost Damage and Blight Damage.  +4 damage per Item Tier.
-- **Death Damage** (1 pts, DLC DRAGONLORDS, needs 2 Archon Blood, fits Dragon Claw): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +2 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Magelock): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +2 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Crossbow): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Bow): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Polearm): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Lance): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits One Handed): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +2 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Grimoire): Change damage to mixed Frost Damage and Blight Damage.  +4 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Greatbow): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC GIANTKINGS, needs 2 Archon Blood, fits Obelisk): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +4 damage per Item Tier.
-- **Death Damage** (1 pts, DLC GIANTKINGS, needs 2 Archon Blood, fits Warhammer): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +4 damage per Item Tier.
-- **Death Damage** (1 pts, DLC GIANTKINGS, needs 2 Archon Blood, fits Giant Axe): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage.  +3 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to mixed Frost Damage and Blight Damage.  +2 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Staff): Change damage to mixed Frost Damage and Blight Damage.  +4 damage per Item Tier.
-- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits any of (Magical Orb, Orb Blight Frost)): Change damage to mixed Frost Damage and Blight Damage.  +2 damage per Item Tier.
-- **Death Surge** (3 pts, DLC SILVERSEAS, needs 3 Pale Tidebloom, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When this unit kills another, cooldowns are reduced by 1 Turns.  Can only trigger once per turn.
-- **Defense Mode: Nullify** (4 pts, DLC Base, needs 1 Astral Dew, 1 Arcanium Ore, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.; Enemy units adjacent to this unit suffer Disrupted for 1 Turn.
-- **Defense Mode: Protective Wall** (2 pts, DLC Base, needs 1 Tranquility Pool, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense; All adjacent friendly units gain +3 Status Resistance.
-- **Defense Mode: Shield Wall** (1 pts, DLC Base, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.
-- **Defense Mode: Stone Wall** (3 pts, DLC Base, needs 1 Arcanium Ore, 1 Fireforge Stone, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Defense.; The unit gains Stone Skin until the end of the turn.; The unit heals 15 Temporary Hit Points.
+- **Death Damage** (1 pts, DLC DRAGONLORDS, needs 2 Archon Blood, fits Warclaw): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC DRAGONLORDS, needs 2 Archon Blood, fits Armored Claw): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +2 damage per Item Tier.
+- **Death Damage** (1 pts, DLC ELDRITCHREALMS, needs 2 Archon Blood, fits Eldritch Relic): Change damage to mixed Frost Damage and Blight Damage. +4 damage per Item Tier.
+- **Death Damage** (1 pts, DLC DRAGONLORDS, needs 2 Archon Blood, fits Dragon Claw): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +2 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Magelock): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +2 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Crossbow): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Bow): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Polearm): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Lance): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits One Handed): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +2 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Grimoire): Change damage to mixed Frost Damage and Blight Damage. +4 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Greatbow): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC GIANTKINGS, needs 2 Archon Blood, fits Obelisk): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +4 damage per Item Tier.
+- **Death Damage** (1 pts, DLC GIANTKINGS, needs 2 Archon Blood, fits Warhammer): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +4 damage per Item Tier.
+- **Death Damage** (1 pts, DLC GIANTKINGS, needs 2 Archon Blood, fits Giant Axe): Change damage to mixed Physical Damage, Frost Damage, and Blight Damage. +3 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to mixed Frost Damage and Blight Damage. +2 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits Staff): Change damage to mixed Frost Damage and Blight Damage. +4 damage per Item Tier.
+- **Death Damage** (1 pts, DLC Base, needs 2 Archon Blood, fits any of (Magical Orb, Orb Blight Frost)): Change damage to mixed Frost Damage and Blight Damage. +2 damage per Item Tier.
+- **Death Surge** (3 pts, DLC SILVERSEAS, needs 3 Pale Tidebloom, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When this unit kills another, cooldowns are reduced by 1 Turns. Can only trigger once per turn.
+- **Defense Mode: Nullify** (4 pts, DLC Base, needs 1 Astral Dew, 1 Arcanium Ore, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense. Enemy units adjacent to this unit suffer Disrupted for 1 Turn.
+- **Defense Mode: Protective Wall** (2 pts, DLC Base, needs 1 Tranquility Pool, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense; All adjacent friendly units gain +3 Status Resistance.
+- **Defense Mode: Shield Wall** (1 pts, DLC Base, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense.
+- **Defense Mode: Stone Wall** (3 pts, DLC Base, needs 1 Arcanium Ore, 1 Fireforge Stone, fits any of (Shield, Item Type Armor, Armored Claw)): This unit ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Defense. The unit gains Stone Skin until the end of the turn. The unit heals 15 Temporary Hit Points.
 - **Defensive Masters** (4 pts, DLC Base, needs 2 Haste Berries, fits any of (Shield, Item Type Armor, Armored Claw)): Unit always enters Defense Mode at the end of its Turn.
 - **Demolisher** (1 pts, DLC Base, needs 1 Arcanium Ore, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): This unit's attacks damage Fortified obstacles.
 - **Dirge of the Damned** (2 pts, DLC SILVERSEAS, needs 1 Pale Tidebloom, fits any of (Staff, Grimoire)): 
@@ -302,55 +302,55 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Finger of Death** (4 pts, DLC Base, needs 3 Archon Blood, fits any of (Staff, Magic Melee Ranged)): 
 - **Finger of Death** (5 pts, DLC Base, needs 3 Archon Blood, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Fire Breath** (5 pts, DLC Base, needs 3 Fireforge Stone, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
-- **Fire Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Fire Damage.  +3 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Fire Damage.  +2 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Fire Damage.  +4 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Fire Damage.  +2 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Fire Damage.  +3 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Fire Damage.  +4 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Fire Damage.  +3 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Fire Damage.  +4 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Fire Damage.  +4 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Fire Damage.  +3 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Fire Damage.  +2 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Fire Damage.  +2 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Fire Damage.  +4 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Staff): Change damage to Fire Damage.  +4 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Fire)): Change damage to Fire Damage.  +2 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Fire Damage.  +4 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Fire Damage.  +2 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Fire Damage.  +2 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Fire Damage.  +3 damage per Item Tier.
-- **Fire Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Fire Damage.  +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Fire Damage. +3 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Fire Damage. +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Fire Damage. +4 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Fire Damage. +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Fire Damage. +3 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Fire Damage. +4 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Fire Damage. +3 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Fire Damage. +4 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Fire Damage. +4 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Fire Damage. +3 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Fire Damage. +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Fire Damage. +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Fire Damage. +4 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Staff): Change damage to Fire Damage. +4 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Fire)): Change damage to Fire Damage. +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Fire Damage. +4 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Fire Damage. +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Fire Damage. +2 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Fire Damage. +3 damage per Item Tier.
+- **Fire Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Fire Damage. +2 damage per Item Tier.
 - **Flamestrike** (2 pts, DLC Base, needs 1 Fireforge Stone, fits any of (Staff, Magic Melee Ranged)): 
 - **Flamestrike** (3 pts, DLC Base, needs 1 Fireforge Stone, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Flanker** (2 pts, DLC Base, needs 1 Archon Blood, fits Ring): Unit deals +25% damage when Flanking.
-- **Flying Staff** (2 pts, DLC Base, fits Staff): Gain Flying movement.  Blocked by [World Map] Race Transformations that remove mounts.
-- **Freezing Blast** (1 pts, DLC Base, fits Staff): Target unit: ; Sustains damage.; Has a base 60% chance of becoming Frozen for 1 Turn. If unsuccessful, inflict Chilled.  Adjacent enemy units: ; Sustain 50% of the damage.; Become Chilled for 3 Turns.
+- **Flying Staff** (2 pts, DLC Base, fits Staff): Gain Flying movement. Blocked by [World Map] Race Transformations that remove mounts.
+- **Freezing Blast** (1 pts, DLC Base, fits Staff): Target unit: Sustains damage. Has a base 60% chance of becoming Frozen for 1 Turn. If unsuccessful, inflict Chilled. Adjacent enemy units: Sustain 50% of the damage. Become Chilled for 3 Turns.
 - **Freezing Blast** (1 pts, DLC Base, needs 1 Archon Blood, fits any of (Staff, Magic Melee Ranged)): 
 - **Freezing Blast** (2 pts, DLC Base, needs 1 Archon Blood, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Frenzy** (2 pts, DLC Base, needs 1 Haste Berries, fits Item Type Weapon): When this unit lands a base attack, it gains a stack of Strengthened. Effects are increased for Single Shot attacks.
 - **Frost Breath** (5 pts, DLC Base, needs 3 Archon Blood, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
-- **Frost Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Frost Damage.  +3 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Frost Damage.  +2 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Frost Damage.  +4 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Frost Damage.  +2 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Frost Damage.  +3 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Frost Damage.  +4 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Frost Damage.  +3 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Frost Damage.  +4 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Frost Damage.  +4 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Frost Damage.  +3 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Frost Damage.  +2 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Frost Damage.  +2 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Frost Damage.  +4 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Staff): Change damage to Frost Damage.  +4 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Frost)): Change damage to Frost Damage.  +2 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Frost Damage.  +4 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Frost Damage.  +2 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Frost Damage.  +2 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Frost Damage.  +3 damage per Item Tier.
-- **Frost Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Frost Damage.  +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Frost Damage. +3 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Frost Damage. +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Frost Damage. +4 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Frost Damage. +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Frost Damage. +3 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Frost Damage. +4 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Frost Damage. +3 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Frost Damage. +4 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Frost Damage. +4 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Frost Damage. +3 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Frost Damage. +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Frost Damage. +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Frost Damage. +4 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Staff): Change damage to Frost Damage. +4 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Frost)): Change damage to Frost Damage. +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Frost Damage. +4 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Frost Damage. +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Frost Damage. +2 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Frost Damage. +3 damage per Item Tier.
+- **Frost Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Frost Damage. +2 damage per Item Tier.
 - **Giant Hunter** (1 pts, DLC Base, fits any of (One Handed, Polearm, Melee Ranged, Dragon Claw, Armored Claw, Warhammer, Giant Axe, Obelisk, Magic Melee Ranged)): Gain Fortune whenever this unit strikes a unit with Large Target.
 - **Giant Slayer** (2 pts, DLC Base, needs 2 Haste Berries, fits all of (Item Type Weapon, lacks Exclusive Slayer)): Base attacks deal +40% damage to Large Target units.
 - **Gilded** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): The third strike in a turn has a base 60% chance of inflicting Gilded for 1 Turn.
@@ -433,9 +433,9 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Innate Spell Jammer** (4 pts, DLC Base, needs 1 Astral Dew, 1 Silvertongue Fruit, 1 Tranquility Pool, fits any of (Other Item, Amulet)): 
 - **Inner Grace** (2 pts, DLC Base, needs 1 Archon Blood, 1 Arcanium Ore, fits any of (Shield, Item Type Armor)): 
 - **Inspiring Killer** (1 pts, DLC Base, needs 1 Silvertongue Fruit, fits Ring): 
-- **Inspiring Presence** (1 pts, DLC Base, fits any of (Shield, Item Type Armor)): While in combat, this and all other friendly units have a +25% modifier to positive Morale gain.  This effect doesn't stack.
-- **Inspiring Presence** (3 pts, DLC Base, needs 1 Rainbow Clover, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): While in combat, this and all other friendly units have a +25% modifier to positive Morale gain.  This effect doesn't stack.
-- **Intimidating Aura** (2 pts, DLC Base, fits any of (Shield, Item Type Armor)): At the end of this unit's turn, adjacent enemy units have a base 90% chance of losing -5 Morale.  Doesn't work on units with this ability or Terrifying Aura.
+- **Inspiring Presence** (1 pts, DLC Base, fits any of (Shield, Item Type Armor)): While in combat, this and all other friendly units have a +25% modifier to positive Morale gain. This effect doesn't stack.
+- **Inspiring Presence** (3 pts, DLC Base, needs 1 Rainbow Clover, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): While in combat, this and all other friendly units have a +25% modifier to positive Morale gain. This effect doesn't stack.
+- **Intimidating Aura** (2 pts, DLC Base, fits any of (Shield, Item Type Armor)): At the end of this unit's turn, adjacent enemy units have a base 90% chance of losing -5 Morale. Doesn't work on units with this ability or Terrifying Aura.
 - **Inversion** (1 pts, DLC Base, needs 2 Focus Crystals, fits any of (Staff, Grimoire)): 
 - **Inversion** (2 pts, DLC Base, needs 2 Focus Crystals, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Juggernaut** (1 pts, DLC Base, needs 1 Arcanium Ore, fits any of (Item Type Armor, Legs)): 
@@ -448,26 +448,26 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Life Steal** (2 pts, DLC Base, needs 1 Archon Blood, fits any of (Two Handed Heavy, Warclaw)): Attacks heal 10 Temporary Hit Points.
 - **Life Steal** (2 pts, DLC Base, needs 1 Archon Blood, fits any of (One Handed, Polearm, Melee Ranged, Dragon Claw, Armored Claw, Warhammer, Giant Axe, Obelisk, Magic Melee Ranged)): Attacks heal 5 Temporary Hit Points.
 - **Lifedrinker** (2 pts, DLC THRONESOFBLOOD, needs 1 Blood Glass, fits any of (Item Type Armor, Torso)): 
-- **Lightning Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Lightning Damage.  +3 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Lightning Damage.  +2 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Lightning Damage.  +4 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Lightning Damage.  +2 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Lightning Damage.  +3 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Lightning Damage.  +4 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Lightning Damage.  +3 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Lightning Damage.  +4 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Lightning Damage.  +4 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Lightning Damage.  +3 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Lightning Damage.  +2 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Lightning Damage.  +2 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Lightning Damage.  +4 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Staff): Change damage to Lightning Damage.  +4 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Lightning)): Change damage to Lightning Damage.  +2 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Lightning Damage.  +4 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Lightning Damage.  +2 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Lightning Damage.  +2 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Lightning Damage.  +3 damage per Item Tier.
-- **Lightning Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Lightning Damage.  +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Lightning Damage. +3 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Lightning Damage. +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Lightning Damage. +4 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Lightning Damage. +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Lightning Damage. +3 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Lightning Damage. +4 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Lightning Damage. +3 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Lightning Damage. +4 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Lightning Damage. +4 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Lightning Damage. +3 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Lightning Damage. +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Lightning Damage. +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Lightning Damage. +4 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Staff): Change damage to Lightning Damage. +4 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Lightning)): Change damage to Lightning Damage. +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Lightning Damage. +4 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Lightning Damage. +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Lightning Damage. +2 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Lightning Damage. +3 damage per Item Tier.
+- **Lightning Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Lightning Damage. +2 damage per Item Tier.
 - **Lightning Strike** (2 pts, DLC Base, needs 1 Focus Crystals, fits any of (Staff, Magic Melee Ranged)): 
 - **Lightning Strike** (3 pts, DLC Base, needs 1 Focus Crystals, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Magic Missile** (1 pts, DLC Base, fits any of (Staff, Magic Melee Ranged)): 
@@ -482,26 +482,26 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Mirror Veil** (2 pts, DLC Base, needs 1 Focus Crystals, 1 Tranquility Pool, fits any of (Shield, Item Type Armor)): 
 - **Overcharge Cast** (4 pts, DLC Base, needs 1 Astral Dew, 1 Haste Berries, fits any of (Staff, Grimoire)): 
 - **Pass Through** (2 pts, DLC Base, needs 3 Astral Dew, fits any of (Item Type Armor, Legs)): This unit can move through obstacles. Does not function when the unit is in a transport.
-- **Physical Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to Physical Damage.  +3 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to Physical Damage.  +2 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Physical Damage.  +4 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to Physical Damage.  +2 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Lance): Change damage to Physical Damage.  +3 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Physical Damage.  +4 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Fire)): Change damage to Physical Damage.  +2 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Staff): Change damage to Physical Damage.  +4 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Greatbow): Change damage to Physical Damage.  +3 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to Physical Damage.  +4 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to Physical Damage.  +4 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to Physical Damage.  +3 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Physical Damage.  +2 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to Physical Damage.  +2 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Magelock): Change damage to Physical Damage.  +4 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Crossbow): Change damage to Physical Damage.  +4 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Bow): Change damage to Physical Damage.  +2 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits Polearm): Change damage to Physical Damage.  +2 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to Physical Damage.  +3 damage per Item Tier.
-- **Physical Damage** (1 pts, DLC Base, fits One Handed): Change damage to Physical Damage.  +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to Physical Damage. +3 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to Physical Damage. +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Physical Damage. +4 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to Physical Damage. +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Lance): Change damage to Physical Damage. +3 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Physical Damage. +4 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Fire)): Change damage to Physical Damage. +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Staff): Change damage to Physical Damage. +4 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Greatbow): Change damage to Physical Damage. +3 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to Physical Damage. +4 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to Physical Damage. +4 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to Physical Damage. +3 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Physical Damage. +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to Physical Damage. +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Magelock): Change damage to Physical Damage. +4 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Crossbow): Change damage to Physical Damage. +4 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Bow): Change damage to Physical Damage. +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits Polearm): Change damage to Physical Damage. +2 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to Physical Damage. +3 damage per Item Tier.
+- **Physical Damage** (1 pts, DLC Base, fits One Handed): Change damage to Physical Damage. +2 damage per Item Tier.
 - **Pierce Shot** (1 pts, DLC Base, needs 1 Arcanium Ore, fits any of (Ranged Physical, Ranged Physical, Melee Ranged)): Deal damage to all targets in a 4-hex line from this unit.
 - **Plant Slayer** (1 pts, DLC Base, needs 2 Fireforge Stone, fits all of (Item Type Weapon, lacks Exclusive Slayer)): Base attacks deal +40% damage to Plant units.
 - **Poison Darts** (1 pts, DLC Base, needs 1 Silvertongue Fruit, fits any of (Staff, Magic Melee Ranged)): 
@@ -510,32 +510,32 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Polymorph** (4 pts, DLC Base, needs 3 Haste Berries, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Power Cleave** (2 pts, DLC Base, needs 1 Arcanium Ore, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): 
 - **Provoke** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): 
-- **Pull** (2 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): Target unit: ; Sustains damage.; Has a base 90% chance of: ; Being pulled to an adjacent space.; Becoming Constricted for 1 Turn.
+- **Pull** (2 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): Target unit: Sustains damage. Has a base 90% chance of: Being pulled to an adjacent space. Becoming Constricted for 1 Turn.
 - **Pull Shot** (1 pts, DLC Base, needs 1 Arcanium Ore, fits any of (Ranged Physical, Ranged Physical, Melee Ranged)): Deal damage to target unit and pull them adjacent to this unit if able.
 - **Push Back** (1 pts, DLC Base, needs 2 Arcanium Ore, fits all of (lacks Exclusive Displacement, any of (Two Handed Heavy, Warclaw))): Target is pushed back by 1 hex.
 - **Putrid Breath** (5 pts, DLC Base, needs 3 Silvertongue Fruit, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Quake** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Enemy units in a 2-hex radius sustain damage. Enter Defense Mode.
-- **Radiant Damage** (1 pts, DLC DRAGONLORDS, needs 2 Rainbow Clover, fits Warclaw): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC DRAGONLORDS, needs 2 Rainbow Clover, fits Armored Claw): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +2 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC ELDRITCHREALMS, needs 2 Rainbow Clover, fits Eldritch Relic): Change damage to mixed Fire Damage and Spirit Damage.  +4 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC DRAGONLORDS, needs 2 Rainbow Clover, fits Dragon Claw): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +2 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Magelock): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +2 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Crossbow): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Bow): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Polearm): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Lance): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits One Handed): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +2 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Grimoire): Change damage to mixed Fire Damage and Spirit Damage.  +4 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Greatbow): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC GIANTKINGS, needs 2 Rainbow Clover, fits Obelisk): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +4 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC GIANTKINGS, needs 2 Rainbow Clover, fits Warhammer): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +4 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC GIANTKINGS, needs 2 Rainbow Clover, fits Giant Axe): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage.  +3 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to mixed Fire Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Staff): Change damage to mixed Fire Damage and Spirit Damage.  +4 damage per Item Tier.
-- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits any of (Magical Orb, Orb Fire Spirit)): Change damage to mixed Fire Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Raise Undead** (1 pts, DLC Base, fits Magical Orb): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie.
+- **Radiant Damage** (1 pts, DLC DRAGONLORDS, needs 2 Rainbow Clover, fits Warclaw): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC DRAGONLORDS, needs 2 Rainbow Clover, fits Armored Claw): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +2 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC ELDRITCHREALMS, needs 2 Rainbow Clover, fits Eldritch Relic): Change damage to mixed Fire Damage and Spirit Damage. +4 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC DRAGONLORDS, needs 2 Rainbow Clover, fits Dragon Claw): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +2 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Magelock): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +2 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Crossbow): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Bow): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Polearm): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Lance): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits One Handed): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +2 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Grimoire): Change damage to mixed Fire Damage and Spirit Damage. +4 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Greatbow): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC GIANTKINGS, needs 2 Rainbow Clover, fits Obelisk): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +4 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC GIANTKINGS, needs 2 Rainbow Clover, fits Warhammer): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +4 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC GIANTKINGS, needs 2 Rainbow Clover, fits Giant Axe): Change damage to mixed Physical Damage, Fire Damage, and Spirit Damage. +3 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to mixed Fire Damage and Spirit Damage. +2 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits Staff): Change damage to mixed Fire Damage and Spirit Damage. +4 damage per Item Tier.
+- **Radiant Damage** (1 pts, DLC Base, needs 2 Rainbow Clover, fits any of (Magical Orb, Orb Fire Spirit)): Change damage to mixed Fire Damage and Spirit Damage. +2 damage per Item Tier.
+- **Raise Undead** (1 pts, DLC Base, fits Magical Orb): Target: Friendly Undead corpse is revived with 60% of its total Hit Points. Non-Undead corpse is raised as a Zombie.
 - **Raise Undead** (1 pts, DLC Base, needs 1 Archon Blood, fits any of (Staff, Grimoire)): 
 - **Raise Undead** (2 pts, DLC Base, needs 1 Archon Blood, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Rampant Fire** (1 pts, DLC Base, fits any of (Magical Orb, Staff)): Target hex becomes On Fire for 3 Turns.
@@ -554,23 +554,23 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Rune of Creation: Frost** (3 pts, DLC GIANTKINGS, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Rune of Creation: Rock** (3 pts, DLC GIANTKINGS, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Rune of Creation: Storm** (3 pts, DLC GIANTKINGS, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
-- **Rune of Power: Fire** (2 pts, DLC GIANTKINGS, fits all of (any of (Magelock, Staff, Crossbow, Greatsword, Greathammer, Lance, Greataxe, Eldritch Relic, Grimoire), lacks Exclusive Burning)): Base attacks have: ; +4 Fire Damage; A base 90% chance of inflicting Burning.
-- **Rune of Power: Fire** (2 pts, DLC GIANTKINGS, fits all of (any of (Polearm, Bow, Magical Orb, Melee Ranged, One Handed, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged), lacks Exclusive Burning)): Base attacks have: ; +2 Fire Damage; A base 60% chance of inflicting Burning.
-- **Rune of Power: Frost** (2 pts, DLC GIANTKINGS, fits all of (any of (Magelock, Staff, Crossbow, Greatsword, Greathammer, Lance, Greataxe, Eldritch Relic, Grimoire), lacks Exclusive Burning)): Base attacks have: ; +4 Frost Damage.; A base 90% chance of inflicting Chilled.
-- **Rune of Power: Frost** (2 pts, DLC GIANTKINGS, fits all of (any of (Polearm, Bow, Magical Orb, Melee Ranged, One Handed, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged), lacks Exclusive Burning)): Base attacks have: ; +2 Frost Damage.; A base 60% chance of inflicting Chilled.
-- **Rune of Power: Rock** (2 pts, DLC GIANTKINGS, fits all of (any of (Magelock, Staff, Crossbow, Greatsword, Greathammer, Lance, Greataxe, Eldritch Relic, Warclaw, Grimoire), lacks Exclusive Bleeding)): Base attacks have: ; +4 Physical Damage; A base 90% chance of inflicting Bleeding.
-- **Rune of Power: Rock** (2 pts, DLC GIANTKINGS, fits all of (any of (Polearm, Bow, Magical Orb, Melee Ranged, One Handed, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged), lacks Exclusive Bleeding)): Base attacks have: ; +2 Physical Damage; A base 60% chance of inflicting Bleeding.
-- **Rune of Power: Storm** (2 pts, DLC GIANTKINGS, fits any of (Two Handed Heavy, Crossbow, Magelock, Staff, Eldritch Relic, Warclaw, Grimoire)): Base attacks have: ; +4 Lightning Damage; A base 90% chance of inflicting Electrified.
-- **Rune of Power: Storm** (2 pts, DLC GIANTKINGS, fits any of (One Handed, Melee Ranged, Polearm, Bow, Magical Orb, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged)): Base attacks have: ; +2 Lightning Damage; A base 60% chance of inflicting Electrified.
-- **Rune of Protection: Fire** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: ; +1 Resistance; +3 Fire Protection; Status Effect Immunity: Burning
-- **Rune of Protection: Frost** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: ; +1 Resistance; +3 Frost Protection; Status Effect Immunity: Frozen
-- **Rune of Protection: Rock** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: ; +1 Defense; +2 Physical Protection; Status Effect Immunity: Bleeding
-- **Rune of Protection: Storm** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: ; +1 Resistance; +3 Lightning Protection; Status Effect Immunity: Electrified
-- **Sap Strength** (1 pts, DLC Base, fits Staff): Enemy units in a 1-hex radius: ; Have a base % chance of receiving 2 stacks of Weakened for 3 Turns.  The caster gains: ; Strengthened for 3 Turns for each enemy affected.
+- **Rune of Power: Fire** (2 pts, DLC GIANTKINGS, fits all of (any of (Magelock, Staff, Crossbow, Greatsword, Greathammer, Lance, Greataxe, Eldritch Relic, Grimoire), lacks Exclusive Burning)): Base attacks have: +4 Fire Damage; A base 90% chance of inflicting Burning.
+- **Rune of Power: Fire** (2 pts, DLC GIANTKINGS, fits all of (any of (Polearm, Bow, Magical Orb, Melee Ranged, One Handed, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged), lacks Exclusive Burning)): Base attacks have: +2 Fire Damage; A base 60% chance of inflicting Burning.
+- **Rune of Power: Frost** (2 pts, DLC GIANTKINGS, fits all of (any of (Magelock, Staff, Crossbow, Greatsword, Greathammer, Lance, Greataxe, Eldritch Relic, Grimoire), lacks Exclusive Burning)): Base attacks have: +4 Frost Damage. A base 90% chance of inflicting Chilled.
+- **Rune of Power: Frost** (2 pts, DLC GIANTKINGS, fits all of (any of (Polearm, Bow, Magical Orb, Melee Ranged, One Handed, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged), lacks Exclusive Burning)): Base attacks have: +2 Frost Damage. A base 60% chance of inflicting Chilled.
+- **Rune of Power: Rock** (2 pts, DLC GIANTKINGS, fits all of (any of (Magelock, Staff, Crossbow, Greatsword, Greathammer, Lance, Greataxe, Eldritch Relic, Warclaw, Grimoire), lacks Exclusive Bleeding)): Base attacks have: +4 Physical Damage; A base 90% chance of inflicting Bleeding.
+- **Rune of Power: Rock** (2 pts, DLC GIANTKINGS, fits all of (any of (Polearm, Bow, Magical Orb, Melee Ranged, One Handed, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged), lacks Exclusive Bleeding)): Base attacks have: +2 Physical Damage; A base 60% chance of inflicting Bleeding.
+- **Rune of Power: Storm** (2 pts, DLC GIANTKINGS, fits any of (Two Handed Heavy, Crossbow, Magelock, Staff, Eldritch Relic, Warclaw, Grimoire)): Base attacks have: +4 Lightning Damage; A base 90% chance of inflicting Electrified.
+- **Rune of Power: Storm** (2 pts, DLC GIANTKINGS, fits any of (One Handed, Melee Ranged, Polearm, Bow, Magical Orb, Dragon Claw, Armored Claw, Warhammer, Greatbow, Giant Axe, Obelisk, Magic Melee Ranged)): Base attacks have: +2 Lightning Damage; A base 60% chance of inflicting Electrified.
+- **Rune of Protection: Fire** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: +1 Resistance; +3 Fire Protection; Status Effect Immunity: Burning
+- **Rune of Protection: Frost** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: +1 Resistance; +3 Frost Protection; Status Effect Immunity: Frozen
+- **Rune of Protection: Rock** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: +1 Defense; +2 Physical Protection; Status Effect Immunity: Bleeding
+- **Rune of Protection: Storm** (2 pts, DLC GIANTKINGS, fits any of (Head, Torso, Legs)): Gain: +1 Resistance; +3 Lightning Protection; Status Effect Immunity: Electrified
+- **Sap Strength** (1 pts, DLC Base, fits Staff): Enemy units in a 1-hex radius: Have a base % chance of receiving 2 stacks of Weakened for 3 Turns. The caster gains: Strengthened for 3 Turns for each enemy affected.
 - **Seduce** (3 pts, DLC Base, needs 2 Silvertongue Fruit, fits any of (Staff, Grimoire)): 
 - **Seduce** (4 pts, DLC Base, needs 2 Silvertongue Fruit, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Siege Master** (2 pts, DLC Base, needs 2 Arcanium Ore, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): Grants Siege Breaker to all units in the army.
-- **Slip Away** (1 pts, DLC Base, needs 1 Astral Dew, fits any of (Item Type Armor, Legs)): When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away** (1 pts, DLC Base, needs 1 Astral Dew, fits any of (Item Type Armor, Legs)): When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points. Works once per battle. Doesn't work when Embarked.
 - **Slip Away** (2 pts, DLC Base, needs 1 Astral Dew, fits Ring): 
 - **Slippery** (1 pts, DLC Base, needs 1 Tranquility Pool, fits any of (Item Type Armor, Legs)): This unit does not trigger Opportunity Attack.
 - **Song of Carnage** (2 pts, DLC Base, needs 2 Fireforge Stone, fits any of (Staff, Grimoire)): 
@@ -579,26 +579,26 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Song of Revelry** (3 pts, DLC Base, needs 2 Fireforge Stone, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **Spawn Hatchling** (1 pts, DLC Base, fits any of (Staff, Grimoire)): 
 - **Spawn Hatchling** (2 pts, DLC Base, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
-- **Spirit Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Spirit Damage.  +3 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Spirit Damage.  +4 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Spirit Damage.  +3 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Spirit Damage.  +4 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Spirit Damage.  +3 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Spirit Damage.  +4 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Spirit Damage.  +4 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Spirit Damage.  +3 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Spirit Damage.  +2 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Spirit Damage.  +4 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Staff): Change damage to Spirit Damage.  +4 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Spirit)): Change damage to Spirit Damage.  +2 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Spirit Damage.  +4 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Spirit Damage.  +2 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Spirit Damage.  +3 damage per Item Tier.
-- **Spirit Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Spirit Damage.  +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC DRAGONLORDS, fits Warclaw): Change damage to mixed Physical Damage and Spirit Damage. +3 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC DRAGONLORDS, fits Armored Claw): Change damage to mixed Physical Damage and Spirit Damage. +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC ELDRITCHREALMS, fits Eldritch Relic): Change damage to Spirit Damage. +4 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC DRAGONLORDS, fits Dragon Claw): Change damage to mixed Physical Damage and Spirit Damage. +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Lance): Change damage to mixed Physical Damage and Spirit Damage. +3 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Grimoire): Change damage to Spirit Damage. +4 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Greatbow): Change damage to mixed Physical Damage and Spirit Damage. +3 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC GIANTKINGS, fits Obelisk): Change damage to mixed Physical Damage and Spirit Damage. +4 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC GIANTKINGS, fits Warhammer): Change damage to mixed Physical Damage and Spirit Damage. +4 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC GIANTKINGS, fits Giant Axe): Change damage to mixed Physical Damage and Spirit Damage. +3 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits all of (any of (Magic Melee Ranged, Magical Orb), lacks Not Dual Weapon)): Change damage to Spirit Damage. +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits all of (any of (Melee Ranged, Physical Ranged hero archetype, One Handed), lacks Not One Handed)): Change damage to mixed Physical Damage and Spirit Damage. +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Magelock): Change damage to mixed Physical Damage and Spirit Damage. +4 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Staff): Change damage to Spirit Damage. +4 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits any of (Magical Orb, Orb Spirit)): Change damage to Spirit Damage. +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Crossbow): Change damage to mixed Physical Damage and Spirit Damage. +4 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Bow): Change damage to mixed Physical Damage and Spirit Damage. +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits Polearm): Change damage to mixed Physical Damage and Spirit Damage. +2 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits any of (Greatsword, Greathammer, Greataxe)): Change damage to mixed Physical Damage and Spirit Damage. +3 damage per Item Tier.
+- **Spirit Damage** (1 pts, DLC Base, fits One Handed): Change damage to mixed Physical Damage and Spirit Damage. +2 damage per Item Tier.
 - **Splitterling Infection** (3 pts, DLC ELDRITCHREALMS, needs 2 Void Stones, fits Item Type Weapon): Units killed with this weapon transform into Splitterlings until the end of battle.
 - **Static Shield** (4 pts, DLC Base, needs 3 Astral Dew, fits all of (lacks Exclusive Damage Reflection, any of (Shield, Armored Claw))): 
 - **Stunning Flash** (2 pts, DLC Base, needs 1 Astral Dew, fits any of (Staff, Magic Melee Ranged)): 
@@ -628,8 +628,8 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Support - Status Protection** (1 pts, DLC Base, needs 1 Tranquility Pool, fits any of (Staff, Grimoire)): Support abilities also provide +1 Status Protection.
 - **Support - Strengthened** (2 pts, DLC Base, needs 1 Fireforge Stone, fits any of (Staff, Grimoire)): Support abilities also provide +1 Strengthened.
 - **Swift** (1 pts, DLC Base, needs 1 Haste Berries, fits any of (Item Type Armor, Legs)): This unit ignores the effects of Slowing terrain in combat.
-- **Tempest's Chorus** (2 pts, DLC WITCHOFTHEWAVES, needs 2 Astral Dew, fits any of (Magical Orb, Grimoire)): The first time each turn an enemy gains Electrified they sustain an extra 12 Lightning Damage.  Removed if this unit leaves the battle.
-- **Terrifying Aura** (3 pts, DLC Base, needs 2 Archon Blood, fits Ring): At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
+- **Tempest's Chorus** (2 pts, DLC WITCHOFTHEWAVES, needs 2 Astral Dew, fits any of (Magical Orb, Grimoire)): The first time each turn an enemy gains Electrified they sustain an extra 12 Lightning Damage. Removed if this unit leaves the battle.
+- **Terrifying Aura** (3 pts, DLC Base, needs 2 Archon Blood, fits Ring): At the end of this unit's turn, adjacent enemy units lose -5 Morale. Doesn't work on units with this ability.
 - **Tracker's Mark** (1 pts, DLC Base, needs 1 Focus Crystals, fits any of (Staff, Grimoire)): 
 - **Tracker's Mark** (1 pts, DLC Base, needs 1 Focus Crystals, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
 - **True Damage** (3 pts, DLC ELDRITCHREALMS, needs 3 Void Stones, fits Item Type Weapon): Base attacks deal -35% damage, but ignore all Defense and Resistance.
@@ -639,9 +639,9 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Umbral Malady Immunity** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): This unit is immune to Umbral Malady.
 - **Umbral Wake** (1 pts, DLC Base, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): Unit creates Umbral Taint as it moves.
 - **Undead Slayer** (1 pts, DLC Base, needs 2 Tranquility Pool, fits all of (Item Type Weapon, lacks Exclusive Slayer)): Base attacks deal +40% damage to Undead units.
-- **Undying** (5 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When killed, this unit will revive with 50% of its total Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Undying** (5 pts, DLC Base, needs 2 Archon Blood, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): When killed, this unit will revive with 50% of its total Hit Points: After 2 Combat Turns. If side is victorious in battle. Can only be triggered once per battle.
 - **Universal Camouflage** (1 pts, DLC Base, needs 1 Silvertongue Fruit, fits Ring): This unit cannot be seen on the World Map.
-- **Unleash the Hounds** (3 pts, DLC Base, needs 2 Haste Berries, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): At the start of battle, summon a War Hound Shock Unit that inflicts Marked and Bleeding with its attack.  Cannot benefit from Unit Enchantments.
+- **Unleash the Hounds** (3 pts, DLC Base, needs 2 Haste Berries, fits all of (any of (Other Item, Amulet), lacks Exclusive Single Upgrade)): At the start of battle, summon a War Hound Shock Unit that inflicts Marked and Bleeding with its attack. Cannot benefit from Unit Enchantments.
 - **Unyielding** (5 pts, DLC Base, needs 3 Tranquility Pool, fits Ring): 
 - **Very Fast Movement** (2 pts, DLC Base, needs 2 Haste Berries, fits all of (Legs, lacks Exclusive Movement Speed)): Unit has 6 Combat Speed.
 - **Vicious Killer** (1 pts, DLC Base, needs 1 Archon Blood, fits Ring): 
@@ -649,7 +649,7 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Volatile Summon** (1 pts, DLC Base, fits any of (Magical Orb, Staff)): Units summoned by this unit gain Volatile Summon.
 - **Wail of the Banshee** (1 pts, DLC SILVERSEAS, needs 1 Pale Tidebloom, fits any of (Staff, Magic Melee Ranged)): 
 - **Wail of the Banshee** (2 pts, DLC SILVERSEAS, needs 1 Pale Tidebloom, fits all of (any of (Wand, Instrument), lacks Exclusive Single Upgrade)): 
-- **Wail of the Banshee** (1 pts, DLC Base, needs 1 Archon Blood, 1 Tranquility Pool, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): Enemy units within a 2-hex radius sustain damage and have a base 90% chance of: ; Having their Morale reduced by -10.; Becoming 2 Weakened.
+- **Wail of the Banshee** (1 pts, DLC Base, needs 1 Archon Blood, 1 Tranquility Pool, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): Enemy units within a 2-hex radius sustain damage and have a base 90% chance of: Having their Morale reduced by -10. Becoming 2 Weakened.
 - **Warded** (2 pts, DLC Base, needs 1 Astral Dew, fits any of (Shield, Item Type Armor, Armored Claw)): 
 - **Weakening Aura** (2 pts, DLC Base, needs 2 Tranquility Pool, fits Ring): At the end of the turn inflict Weakened to adjacent enemies.
 - **Whirlwind** (2 pts, DLC Base, needs 2 Haste Berries, fits any of (One Handed, Two Handed Heavy, Polearm, Ranged Physical, Melee Ranged, Dragon Claw, Armored Claw, Warclaw, Warhammer, Giant Axe, Cestus)): 

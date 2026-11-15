@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Sundering Blast** (damage 16 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Sundered Defense: Base 90% chance of inflicting Sundered Defense for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Patch Up** (accuracy Always Hits, range 1, single-use action): Target friendly unit: ; Heals 45 Temporary Hit Points.  Enter Defense Mode after use. Cooldown: 2 Turns Requires: Support
-- **Demolition Blast** (accuracy Always Hits, range 4, single-use action): Damage the target destructible obstacle: ; Target and adjacent obstacles suffer: ; 30 Physical Damage ; Adjacent units suffer: ; 10 Physical Damage; 90% chance of inflicting Sundered Defense. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Magic
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Patch Up** (accuracy Always Hits, range 1, single-use action): Target friendly unit: Heals 45 Temporary Hit Points. Enter Defense Mode after use. Cooldown: 2 Turns. Requires: Support
+- **Demolition Blast** (accuracy Always Hits, range 4, single-use action): Damage the target destructible obstacle: Target and adjacent obstacles suffer: 30 Physical Damage; Adjacent units suffer: 10 Physical Damage; 90% chance of inflicting Sundered Defense. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Magic
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Unit type traits
 

@@ -19,14 +19,14 @@
 (type normal; DLC ELDRITCHREALMS)
 
 
-- **Delirium** (accuracy Always Hits, range 6, full action): Target enemy unit has a base 90% chance of being inflicted with: ; Insanity for 1 Turn.; 5 Sundered Defense for 3 Turns.; 5 Sundered Resistance for 3 Turns. Cooldown: 4 Turns Requires: Debuff
+- **Delirium** (accuracy Always Hits, range 6, full action): Target enemy unit has a base 90% chance of being inflicted with: Insanity for 1 Turn. 5 Sundered Defense for 3 Turns. 5 Sundered Resistance for 3 Turns. Cooldown: 4 Turns. Requires: Debuff
 
 ## Desperate Anguish
 
 (type normal; requires Eldritch Caster I; DLC ELDRITCHREALMS)
 
 
-- **Desperate Anguish** (accuracy Always Hits, range 6, full action): Target enemy unit has a base 90% chance of: ; Losing -30 Morale.; Becoming Stunned for 1 Turn.  If unsuccessful, target loses -15 Morale instead. Cooldown: 4 Turns Requires: Debuff
+- **Desperate Anguish** (accuracy Always Hits, range 6, full action): Target enemy unit has a base 90% chance of: Losing -30 Morale. Becoming Stunned for 1 Turn. If unsuccessful, target loses -15 Morale instead. Cooldown: 4 Turns. Requires: Debuff
 
 ## Eldritch Caster I
 
@@ -51,14 +51,14 @@ Gain:
 (type normal; DLC ELDRITCHREALMS)
 
 
-- **Eldritch Phase** (accuracy Always Hits, range 3, free action): Teleport to target hex. Cooldown: 2 Turns Requires: Movement, Teleport
+- **Eldritch Phase** (accuracy Always Hits, range 3, free action): Teleport to target hex. Cooldown: 2 Turns. Requires: Movement, Teleport
 
 ## Eldritch Phase II
 
 (type normal; requires Eldritch Phase I; DLC ELDRITCHREALMS)
 
 
-- **Greater Eldritch Phase** (accuracy Always Hits, range 6, free action): Teleport to target hex. Cooldown: 2 Turns Requires: Movement, Teleport
+- **Greater Eldritch Phase** (accuracy Always Hits, range 6, free action): Teleport to target hex. Cooldown: 2 Turns. Requires: Movement, Teleport
 
 ## Eldritch Rituals
 
@@ -110,4 +110,4 @@ Gain:
 (type normal; requires Eldritch Caster II; DLC ELDRITCHREALMS)
 
 
-- **Tentacled Escape**: When the unit dies in combat, it escapes to the void instead and returns at the end of combat if its side is victorious.  Unit is brought back with 50% of their maximum Hit Points.
+- **Tentacled Escape**: When the unit dies in combat, it escapes to the void instead and returns at the end of combat if its side is victorious. Unit is brought back with 50% of their maximum Hit Points.

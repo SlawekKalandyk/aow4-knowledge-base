@@ -34,4 +34,4 @@ Dominate the seas with highly mobile skirmishers, use explosive Ember Dust, and 
   - Have a base 90% chance of becoming Blind for 1 Turn.
   - Become inflicted with Ember Dust.
 - [Swashbuckler](../units/swashbuckler.md) (Unit): Fast and mobile unit that can apply Ember Dust.
-- Pirate Haven (Initial City Upgrade): - +15 Gold; +4 Gold per adjacent owned Ocean Province.; Pillaging a Province grants the city +15 City Stability for 10 Turns.; Counts as a Mine.
+- Pirate Haven (Initial City Upgrade): +15 Gold; +4 Gold per adjacent owned Ocean Province. Pillaging a Province grants the city +15 City Stability for 10 Turns. Counts as a Mine.

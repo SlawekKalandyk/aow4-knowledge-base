@@ -271,7 +271,7 @@ Unit gains:
 
 - Very Fast Movement.
 - Cavalry unit type.
-- **Pestilent Escape** (damage 8 Physical 8 Blight, accuracy Always Hits, range 3, single-use action): Adjacent enemy units sustain damage. Then this unit moves to target hex and enters Defense Mode. Weakened: Base 60% chance of inflicting Weakened for 3 Turns. Cooldown: 2 Turns Requires: Movement, Magic
+- **Pestilent Escape** (damage 8 Physical 8 Blight, accuracy Always Hits, range 3, single-use action): Adjacent enemy units sustain damage. Then this unit moves to target hex and enters Defense Mode. Weakened: Base 60% chance of inflicting Weakened for 3 Turns. Cooldown: 2 Turns. Requires: Movement, Magic
 
 ## Dire Bear Mount
 
@@ -292,7 +292,7 @@ Unit has:
 
 - Very Fast Movement.
 - The Cavalry unit type.
-- **Web** (damage 28 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: ; Sustain damage.; Become Slowed for 1 Turn Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns Requires: Missile
+- **Web** (damage 28 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: Sustain damage. Become Slowed for 1 Turn. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns. Requires: Missile
 
 ## Eagle Mount
 
@@ -314,7 +314,7 @@ Unit gains:
 - Cavalry unit type.
 - Large Target.
 - **Juggernaut**: This unit may crush non-Fortified obstacles.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 
 ## Fractured Eagle Mount
 
@@ -366,7 +366,7 @@ Unit gains:
 - Cavalry unit type.
 - Large Target.
 - **Juggernaut**: This unit may crush non-Fortified obstacles.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 
 ## Inferno Hound Mount
 
@@ -388,7 +388,7 @@ Unit gains:
 - Cavalry unit type.
 - Large Target.
 - **Juggernaut**: This unit may crush non-Fortified obstacles.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 
 ## Nightmare Mount
 
@@ -480,7 +480,7 @@ Unit has:
 
 - Very Fast Movement.
 - The Cavalry unit type.
-- **Phase** (accuracy Always Hits, range 6): Caster moves to target hex. Leaves 1 Action Point. Cooldown: 2 Turns Requires: Movement, Teleport
+- **Phase** (accuracy Always Hits, range 6): Caster moves to target hex. Leaves 1 Action Point. Cooldown: 2 Turns. Requires: Movement, Teleport
 
 ## Weaver Spider Mount
 
@@ -490,7 +490,7 @@ Unit has:
 
 - Very Fast Movement.
 - The Cavalry unit type.
-- **Web** (damage 28 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: ; Sustain damage.; Become Slowed for 1 Turn Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns Requires: Missile
+- **Web** (damage 28 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: Sustain damage. Become Slowed for 1 Turn. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns. Requires: Missile
 
 ## Bone Wyvern Mount
 
@@ -522,8 +522,8 @@ Unit has:
 
 - Very Fast Movement.
 - The Cavalry unit type.
-- **Mana Drain Touch** (damage 8 Physical, accuracy Always Hits, range 1, free action): Target enemy unit: ; Sustains damage.; Becomes Mana Drained for 1 Turn.  On hit, all other friendly units with Mana Starved gain Strengthened and Regeneration for 3 Turns. Cooldown: 3 Turns Requires: Debuff, Magic
-- **Phase** (accuracy Always Hits, range 6): Caster moves to target hex. Leaves 1 Action Point. Cooldown: 2 Turns Requires: Movement, Teleport
+- **Mana Drain Touch** (damage 8 Physical, accuracy Always Hits, range 1, free action): Target enemy unit: Sustains damage. Becomes Mana Drained for 1 Turn. On hit, all other friendly units with Mana Starved gain Strengthened and Regeneration for 3 Turns. Cooldown: 3 Turns. Requires: Debuff, Magic
+- **Phase** (accuracy Always Hits, range 6): Caster moves to target hex. Leaves 1 Action Point. Cooldown: 2 Turns. Requires: Movement, Teleport
 
 ## Frost Wyvern Mount
 
@@ -555,8 +555,8 @@ Unit has:
 
 - Very Fast Movement.
 - The Cavalry unit type.
-- **Jump** (accuracy Always Hits, range 3, leave-one action): Jumps to target location. Cooldown: 2 Turns Requires: Movement
-- **Web** (damage 28 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: ; Sustain damage.; Become Slowed for 1 Turn Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns Requires: Missile
+- **Jump** (accuracy Always Hits, range 3, leave-one action): Jumps to target location. Cooldown: 2 Turns. Requires: Movement
+- **Web** (damage 28 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: Sustain damage. Become Slowed for 1 Turn. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 3 Turns. Requires: Missile
 
 ## Obsidian Wyvern Mount
 
@@ -588,7 +588,7 @@ Unit has:
 
 - Very Fast Movement.
 - The Cavalry unit type.
-- **Barbed Webs** (damage 24 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: ; Sustain damage.; Become Slowed for 1 Turn. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Life Steal: Attacks heal 10 Temporary Hit Points. Cooldown: 3 Turns Requires: Missile
+- **Barbed Webs** (damage 24 Physical, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: Sustain damage. Become Slowed for 1 Turn. Bleeding: Base 90% chance of inflicting Bleeding for 3 Turns. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Life Steal: Attacks heal 10 Temporary Hit Points. Cooldown: 3 Turns. Requires: Missile
 
 ## White Wolf Mount
 
@@ -600,7 +600,7 @@ Unit gains:
 - Cavalry unit type.
 - Pack Hunter.
 - 2 Frost Protection
-- **Enfeebling Howl** (damage 21 Frost, accuracy Always Hits, range 1, single-use action): Enemy units in a 2-hex cone sustain damage and gain 1 stack of Weakened. Cooldown: 2 Turns Requires: Magic
+- **Enfeebling Howl** (damage 21 Frost, accuracy Always Hits, range 1, single-use action): Enemy units in a 2-hex cone sustain damage and gain 1 stack of Weakened. Cooldown: 2 Turns. Requires: Magic
 
 ## Severing Golem Mount
 
@@ -613,5 +613,5 @@ Unit gains:
 - Dispelling Field
 - +2 Resistance.
 - +2 Status Resistance.
-- **Magical Disruption** (accuracy Always Hits, range 0, full action): Up to 5 random enemies: ; Sustain 30 Frost Damage.; Have a base 90% chance of becoming Disrupted. Cooldown: 3 Turns
-- **Dispelling Field** (accuracy Always Hits, range 0, free action): - Each friendly unit within 2 hexes has one of their Negative Status Effects dispelled.; For each unit that had a status dispelled this way this unit gains: ; Strengthened for 3 Turns.; Status Protection for 3 Turns. Cooldown: 1 Turns
+- **Magical Disruption** (accuracy Always Hits, range 0, full action): Up to 5 random enemies: Sustain 30 Frost Damage. Have a base 90% chance of becoming Disrupted. Cooldown: 3 Turns
+- **Dispelling Field** (accuracy Always Hits, range 0, free action): Each friendly unit within 2 hexes has one of their Negative Status Effects dispelled. For each unit that had a status dispelled this way this unit gains: Strengthened for 3 Turns. Status Protection for 3 Turns. Cooldown: 1 Turns

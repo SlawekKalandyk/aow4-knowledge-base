@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Eternal's Blast** (damage 17 Physical 17 Lightning, accuracy Always Hits, range 16, single-use action): Deal damage to units in a 1-hex radius. Volatile Charge: Base 120% chance of inflicting Volatile Charge for 2 Turns. Requires: Base, Magic
-- **Crystallize Essence** (accuracy Always Hits, range 16, single-use action): Revive target non-Lithorine non-Hero unit as a Lithorine of its Tier.  If victorious in combat, units revived can be kept for a Mana cost. Cooldown: 4 Turns
-- **Essence Pull** (damage 22 Physical 22 Lightning, accuracy Always Hits, range 16, single-use action): Target unit sustains damage. All enemy units within a 2-hex radius are pulled towards the target. Immobilized: Base 120% chance of inflicting Immobilized for 1 Turn. Cooldown: 2 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Crystallize Essence** (accuracy Always Hits, range 16, single-use action): Revive target non-Lithorine non-Hero unit as a Lithorine of its Tier. If victorious in combat, units revived can be kept for a Mana cost. Cooldown: 4 Turns
+- **Essence Pull** (damage 22 Physical 22 Lightning, accuracy Always Hits, range 16, single-use action): Target unit sustains damage. All enemy units within a 2-hex radius are pulled towards the target. Immobilized: Base 120% chance of inflicting Immobilized for 1 Turn. Cooldown: 2 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -24,8 +24,8 @@
 ## Unit type traits
 
 - **Elemental**: An Elemental unit with immunity to Bleeding.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 
 ## Rank-up rewards

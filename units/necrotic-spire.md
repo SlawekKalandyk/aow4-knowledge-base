@@ -10,7 +10,7 @@ A defensive structure that heals and buffs nearby friendly Undead units.
 
 ## Abilities
 
-- **Summon Decaying Zombie** (accuracy Always Hits, range 10, full action): Target non-Zombie corpse is resurrected as a Decaying Zombie on your side. Cooldown: 2 Turns Starts on cooldown: 1 Turns Requires: Support
+- **Summon Decaying Zombie** (accuracy Always Hits, range 10, full action): Target non-Zombie corpse is resurrected as a Decaying Zombie on your side. Cooldown: 2 Turns. Starts on cooldown: 1 Turns. Requires: Support
 
 ## Passives
 
@@ -24,7 +24,7 @@ A defensive structure that heals and buffs nearby friendly Undead units.
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

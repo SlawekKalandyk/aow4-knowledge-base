@@ -10,12 +10,12 @@
 ## Abilities
 
 - **Shoot Bow** (damage 6 Physical, accuracy 90%, range 4, repeating action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **Farsight**: The unit has +1 vision range.
-- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: ; Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage  Effects are increased for Single Shot attacks.
+- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage. Effects are increased for Single Shot attacks.
 - **Retreat Expert**: When retreating from battle, this unit returns 2 turns faster and it is never fatal.
 
 ## Unit type traits

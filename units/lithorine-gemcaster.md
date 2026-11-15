@@ -11,9 +11,9 @@
 ## Abilities
 
 - **Crystal Bolts** (damage 8 Physical 8 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Sundered Defense: Base 60% chance of inflicting Sundered Defense for 3 Turns. Sundered Resistance: Base 60% chance of inflicting Sundered Resistance for 3 Turns. Volatile Charge: Base 60% chance of inflicting Volatile Charge for 2 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Gemstream** (damage 12 Physical 12 Lightning, accuracy Always Hits, range 1, single-use action): Deal damage to units in a 5-hex long 3-hex wide line. Volatile Charge: Base 90% chance of inflicting Volatile Charge for 2 Turns. Cooldown: 2 Turns Requires: Magic
+- **Gemstream** (damage 12 Physical 12 Lightning, accuracy Always Hits, range 1, single-use action): Deal damage to units in a 5-hex long 3-hex wide line. Volatile Charge: Base 90% chance of inflicting Volatile Charge for 2 Turns. Cooldown: 2 Turns. Requires: Magic
 - **Reactive Flicker** (accuracy Always Hits, range 6, free action): End Volatile Charge on target unit triggering its effects. Cannot be used when within an enemy Zone of Control. Cooldown: 0 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,7 +21,7 @@
 
 ## Unit type traits
 
-- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. ; Their Accuracy is affected by Line of Sight.; Cannot use their main Magic attacks when Engaged in Melee.
+- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. Their Accuracy is affected by Line of Sight. Cannot use their main Magic attacks when Engaged in Melee.
 - **Elemental**: An Elemental unit with immunity to Bleeding.
 - **Land Movement**: This unit can move over land hexes.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.

@@ -29,7 +29,7 @@ Grants a +5% Critical Hit Chance.
 (Tier I; DLC Base)
 
 
-- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points.  Works once per battle. Doesn't work when Embarked.
+- **Slip Away**: When this unit's Hit Points are reduced to zero, it is displaced by 3 hexes and heals +15 Temporary Hit Points. Works once per battle. Doesn't work when Embarked.
 
 ## Ring of Flanking
 
@@ -109,7 +109,7 @@ Grants Life Steal
 
 
 - **Frenzy**: When this unit lands an attack, it gains a stack of Strengthened. Effects are increased for Single Shot attacks.
-- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack.  Works once per Turn.
+- **Killing Momentum**: Unit regains 1 Action Point when killing another unit with a Magic, Melee, or Missile attack. Works once per Turn.
 
 ## Ring of Deflection
 

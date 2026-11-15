@@ -27,4 +27,4 @@ Master legions of constructs, fighting in uncannily synchronized formations, com
   - Has 2 Negative Status Effects dispelled.
   - This effect then applies to adjacent friendly Construct or Linked Mind units and is repeated.
 - [Bronze Golem](../units/bronze-golem.md) (Unit): A Polearm Unit capable of inflicting Weakened.
-- Worker Construct Nexus (Initial City Upgrade): - +10 Production.; +3 Food per adjacent Farm.; +3 Production per adjacent Quarry or Forester.; +3 Mana per adjacent Conduit.; +3 Knowledge per adjacent Research Post.; +3 Gold per adjacent Mine.; Counts as a Quarry.
+- Worker Construct Nexus (Initial City Upgrade): +10 Production. +3 Food per adjacent Farm. +3 Production per adjacent Quarry or Forester. +3 Mana per adjacent Conduit. +3 Knowledge per adjacent Research Post. +3 Gold per adjacent Mine. Counts as a Quarry.

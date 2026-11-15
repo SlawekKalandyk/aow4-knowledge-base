@@ -10,11 +10,11 @@
 ## Abilities
 
 - **Magic Bolts** (damage 10 Lightning, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Affinity Incarnate**: For each stack of Affinity Incarnate this unit gains damage based on their Empire's dominant Affinity: ; Order Affinity: +1 Spirit Damage; Chaos Affinity: +1 Fire Damage; Astral Affinity: +1 Lightning Damage; Materium Affinity: +1 Physical Damage; Nature Affinity: +1 Blight Damage; Shadow Affinity: +1 Frost Damage  Effects are increased for Single Shot attacks.
+- **Affinity Incarnate**: For each stack of Affinity Incarnate this unit gains damage based on their Empire's dominant Affinity: Order Affinity: +1 Spirit Damage; Chaos Affinity: +1 Fire Damage; Astral Affinity: +1 Lightning Damage; Materium Affinity: +1 Physical Damage; Nature Affinity: +1 Blight Damage; Shadow Affinity: +1 Frost Damage. Effects are increased for Single Shot attacks.
 - **Farsight**: The unit has +1 vision range.
 - **Survey Materials**: This unit can survey Provinces that contain Magic Materials. This rewards Wonderstone.
 

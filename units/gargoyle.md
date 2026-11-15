@@ -10,13 +10,13 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-- **Defense Mode: Turn to Stone**: This unit ends its turn and goes into Defense Mode: ; Unit gains Stone Skin.; Unit heals +15 Temporary Hit Points.; Extends the unit's Zone of Control to all adjacent hexes.; Unit becomes immune to Flanking.
+- **Charge Strike** (damage 21 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Defense Mode: Turn to Stone**: This unit ends its turn and goes into Defense Mode: Unit gains Stone Skin. Unit heals +15 Temporary Hit Points. Extends the unit's Zone of Control to all adjacent hexes. Unit becomes immune to Flanking.
 
 ## Unit type traits
 
 - **Elemental**: An Elemental unit with immunity to Bleeding.
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mountain Camouflage**: This unit cannot be detected on Mountains hexes.
 - **Shock Unit**: An offensive unit specialized in disrupting the enemy line. A Shock Unit has a Charge attack, which counters Shield Units, but can be countered by Polearm Units.

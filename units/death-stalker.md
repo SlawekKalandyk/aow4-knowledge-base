@@ -10,14 +10,14 @@
 ## Abilities
 
 - **Melee Single Strike** (damage 28 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Decaying: Base 120% chance of inflicting 2x Decaying for 3 Turns. Requires: Melee, Base, Single Shot
-- **Death Stalk** (damage 30 Physical, accuracy Always Hits, range 3, single-use action): Jump onto the target enemy unit, knocking them back, then enter Defense Mode. Death Stalk: Damage increases based on target's lost Hit Points Can only be used once per battle. Requires: Single Shot, Base, Melee
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Death Stalk** (damage 30 Physical, accuracy Always Hits, range 3, single-use action): Jump onto the target enemy unit, knocking them back, then enter Defense Mode. Death Stalk: Damage increases based on target's lost Hit Points. Can only be used once per battle. Requires: Single Shot, Base, Melee
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **Blessed End**: On Kill, gain +1 additional Mortal Blessing until the end of combat
 - **Fatebringer**: +5% damage for each stack of Mortal Blessing
-- **Power from Death**: Whenever a unit dies: ; Gain +1 Mortal Blessing; If this unit struck the killing blow +1 additional Mortal Blessing
+- **Power from Death**: Whenever a unit dies: Gain +1 Mortal Blessing; If this unit struck the killing blow +1 additional Mortal Blessing
 - **Slippery**: This unit does not trigger Opportunity Attack.
 
 ## Unit type traits

@@ -11,9 +11,9 @@
 
 - **Radiant Spike** (damage 33 Spirit, accuracy 90%, range 8, full action): Damage target unit, adjacent enemies take 50% damage. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base, Single Shot
 - **Radiant Rebuke** (damage 22 Spirit, accuracy Always Hits, range 1, single-use action): Deal damage to adjacent unit. Requires: Magic, Base, Single Shot
-- **Rain of Prosperity** (accuracy Always Hits, range 0, full action): All friendly units: ; Gain Grace; Loses one random Negative Status Effect Cooldown: 2 Turns Requires: Support
-- **Bestow Mask of Prosperity** (accuracy Always Hits, range 6, single-use action): Link to target friendly unit: ; Damage sustained by the linked unit is dealt to this unit as well with a 50% reduction.; At the start of each turn, this unit and the linked unit gain Grace.  While active, gain Recall Mask of Prosperity. Requires: Support
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Rain of Prosperity** (accuracy Always Hits, range 0, full action): All friendly units: Gain Grace; Loses one random Negative Status Effect. Cooldown: 2 Turns. Requires: Support
+- **Bestow Mask of Prosperity** (accuracy Always Hits, range 6, single-use action): Link to target friendly unit: Damage sustained by the linked unit is dealt to this unit as well with a 50% reduction. At the start of each turn, this unit and the linked unit gain Grace. While active, gain Recall Mask of Prosperity. Requires: Support
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -26,10 +26,10 @@
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Celestial**: Celestial unit with: ; +2 Spirit Protection; -4 Blight Protection.; -4 Frost Protection; Inspiring Killer; Control Loss Immunity
-- **Dragon**: Dragon unit with: ; Draconic Rage
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Celestial**: Celestial unit with: +2 Spirit Protection; -4 Blight Protection. -4 Frost Protection; Inspiring Killer; Control Loss Immunity
+- **Dragon**: Dragon unit with: Draconic Rage
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

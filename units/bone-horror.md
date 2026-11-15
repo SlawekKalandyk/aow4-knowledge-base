@@ -11,9 +11,9 @@ This amalgamation of reanimated corpses has the sole purpose of killing your foe
 
 ## Abilities
 
-- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Charge Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
 - **Consume Corpse** (accuracy Always Hits, range 1, free action): Consumes target corpse and heals +30 Temporary Hit Points. Cooldown: 1 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -26,10 +26,10 @@ This amalgamation of reanimated corpses has the sole purpose of killing your foe
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Shock Unit**: An offensive unit specialized in disrupting the enemy line. A Shock Unit has a Charge attack, which counters Shield Units, but can be countered by Polearm Units.
-- **Undead**: An undead unit with: ; +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: ; Poisoned; Diseased
+- **Undead**: An undead unit with: +2 Frost Protection; +2 Blight Protection; -4 Spirit Protection; -4 Fire Protection; Heartless; Immunity to: Poisoned; Diseased
 
 ## Rank-up rewards
 

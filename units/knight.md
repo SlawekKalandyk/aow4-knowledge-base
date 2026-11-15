@@ -9,9 +9,9 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 27 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Requires: Melee, Base, Single Shot
-- **Knight's Challenge** (accuracy Always Hits, range 6, free action): Challenge a Target Unit; while challenged: ; This unit does 50% more damage to the target.; The target does 50% less damage to this unit. Can only be used once per battle. Requires: Debuff
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 27 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Requires: Melee, Base, Single Shot
+- **Knight's Challenge** (accuracy Always Hits, range 6, free action): Challenge a Target Unit; while challenged: This unit does 50% more damage to the target. The target does 50% less damage to this unit. Can only be used once per battle. Requires: Debuff
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 

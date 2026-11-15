@@ -22,4 +22,4 @@ Specialize in siegecraft, expertly crafted weapons, and Golems.
 - Construct Bolt Repeaters (Siege Project): At the start of the battle, gain 2 Bolt Repeater units on the attacker's side until the end of battle.
   - Bolt Repeaters are immobile Siegecraft Units with long range area of effect attacks that are repeating, unlike Onagers.
   - Only one type of Siegecraft unit can be brought into Combat.
-- Golem Mine (Initial City Upgrade): - +10 Gold.; +5 Production per adjacent Quarry.; Spawns an Iron Golem on the owner's side for Combat in this Domain.; Counts as a Mine.
+- Golem Mine (Initial City Upgrade): +10 Gold. +5 Production per adjacent Quarry. Spawns an Iron Golem on the owner's side for Combat in this Domain. Counts as a Mine.

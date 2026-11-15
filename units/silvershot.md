@@ -11,17 +11,17 @@
 
 - **Shoot Arquebus** (damage 28 Physical, accuracy 80%, range 5, single-use action): Quickly shoot at target enemy unit, with reduced accuracy and effectiveness. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
 - **Silver Bullet Shot** (damage 40 Physical, accuracy 80%, range 6, full action): Fire a powerful silver bullet at the target. Giant Slayer: Deal +40% damage against creatures with Large Target. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Steady Aim**: If this unit is not Engaged in Melee when its turn starts, then its attacks gain: ; +50% Accuracy; +20% damage  This effect is lost if the unit moves.
+- **Steady Aim**: If this unit is not Engaged in Melee when its turn starts, then its attacks gain: +50% Accuracy; +20% damage. This effect is lost if the unit moves.
 
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
 - **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
-- **Ranged Unit**: An attack unit that takes out targets from afar. It is somewhat vulnerable. ; Its Accuracy is affected by Line of Sight.; Cannot fire its main ranged attack when Engaged in Melee.
+- **Ranged Unit**: An attack unit that takes out targets from afar. It is somewhat vulnerable. Its Accuracy is affected by Line of Sight. Cannot fire its main ranged attack when Engaged in Melee.
 
 ## Rank-up rewards
 

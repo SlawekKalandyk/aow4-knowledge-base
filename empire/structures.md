@@ -9,7 +9,7 @@
 
 ## Abbey
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Faith](../tomes/tome-of-faith.md) (tier 1)
 
 - +10 Knowledge
@@ -19,9 +19,9 @@
 
 ## Academy
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 1 Research Post
+(cost 170 Gold 450 Production; DLC Base) Requires: 1 Research Post
 - Built after: Arcane Institute
-- Boost requirements: - Build 1 Forester; Build 2 Quarry
+- Boost requirements: Build 1 Forester; Build 2 Quarry
 
 +20 Knowledge income
 
@@ -34,7 +34,7 @@ Contributes +1 Arcane Inspiration to a random spell each Turn.
 
 ## Accursed Grave
 
-(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Conduit) Requires: - Annexed Water Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Conduit) Requires: Annexed Water Province. City Tier II.
 - Unlocked by: [Tome of the Damned](../tomes/tome-of-the-damned.md) (tier 2)
 
 - +15 Mana
@@ -48,7 +48,7 @@ Contributes +1 Arcane Inspiration to a random spell each Turn.
 
 ## Accursed Shrine
 
-(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Calamity](../tomes/tome-of-calamity.md) (tier 4)
 
 - When placed, alter terrain into Desolate.
@@ -90,7 +90,7 @@ For each tier of Monument built in the empire, the city gains:
 
 ## Alchemist's Lab
 
-(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Research Post) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Alchemy](../tomes/tome-of-alchemy.md) (tier 1)
 
 - +10 Knowledge.
@@ -99,7 +99,7 @@ For each tier of Monument built in the empire, the city gains:
 
 ## Altar of Marching Gloom
 
-(cost 60 Gold 130 Production; DLC ELDRITCHREALMS; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC ELDRITCHREALMS; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Eldritch Pact](../tomes/eldritch-pact.md) (tier 0)
 
 - +10 Mana income.
@@ -132,7 +132,7 @@ For each tier of Monument built in the empire, the city gains:
 
 (cost 50 Gold 130 Production; DLC Base)
 - Built after: Palisade Walls and City Tier II
-- Boost requirements: - Build 1 Conduit; Build 1 Quarry
+- Boost requirements: Build 1 Conduit; Build 1 Quarry
 
 Battlement Structure
 
@@ -140,7 +140,7 @@ Battlement Structure
 
 (cost 100 Gold 250 Production; DLC Base)
 - Built after: Library
-- Boost requirements: - Build 1 Forester; Build 1 Quarry
+- Boost requirements: Build 1 Forester; Build 1 Quarry
 
 +15 Knowledge income
 
@@ -148,14 +148,14 @@ Battlement Structure
 
 (cost 50 Gold 130 Production; DLC Base)
 - Built after: Palisade Walls and City Tier II
-- Boost requirements: - Build 1 Forester; Build 1 Quarry
+- Boost requirements: Build 1 Forester; Build 1 Quarry
 
 Battlement Structure
 
 ## Architect Institute
 
 (cost 100 Gold 250 Production; DLC ARCHONPROPHECY)
-- Boost requirements: - Build 1 Forester; Build 1 Quarry
+- Boost requirements: Build 1 Forester; Build 1 Quarry
 - Culture building (aow4db site's hand-made culture map, not game data): [Architect](../cultures/architect.md), replaces Arcane Institute; built after Magitectural Archive
 
 - +10 Production income
@@ -163,7 +163,7 @@ Battlement Structure
 
 ## Archon Gate
 
-(cost 170 Gold 450 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Teleporter) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Teleporter) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Archon](../tomes/tome-of-the-archon.md) (tier 4)
 
 - +20 City Stability
@@ -173,7 +173,7 @@ Battlement Structure
 
 ## Armory
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 2 Foresters
+(cost 170 Gold 450 Production; DLC Base) Requires: 2 Foresters
 - Built after: Blacksmith
 - Boost requirements: Build 3 Quarry
 
@@ -200,7 +200,7 @@ A Tower Structure that grants the city Bolt Repeater Towers during siege combat.
 
 ## Ash Megalith
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Primal - Ash Sabertooth](../tomes/primal-ash-sabertooth.md) (tier 0)
 
 - +6 Gold per adjacent Ashland Province.
@@ -236,7 +236,7 @@ Astral Spells are 10% cheaper.
 
 ## Astral Manalith
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Mystic - School of Summoning](../tomes/mystic-school-of-summoning.md) (tier 0)
 
 - +10 Mana income.
@@ -255,7 +255,7 @@ Astral Spells are 10% cheaper.
 
 (cost 85 Gold 200 Production; DLC Base)
 - Built after: Stone Walls
-- Boost requirements: - Build 1 Forester; Build 2 Quarry
+- Boost requirements: Build 1 Forester; Build 2 Quarry
 
 Tower Structure
 
@@ -279,7 +279,7 @@ Can only be built in cities of another race.
 
 ## Basalt Excavation
 
-(cost 100 Gold 250 Production; DLC Base) Requires: - 2 Lava improvement provinces
+(cost 100 Gold 250 Production; DLC Base) Requires: 2 Lava improvement provinces
 - Built after: Mineral Extractor
 - Boost requirements: Build 1 Quarry
 
@@ -287,7 +287,7 @@ Can only be built in cities of another race.
 
 ## Basilica of Lamentation
 
-(cost 100 Gold 250 Production; DLC THRONESOFBLOOD; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC THRONESOFBLOOD; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Torment](../tomes/tome-of-torment.md) (tier 3)
 
 - +10 Mana income.
@@ -309,7 +309,7 @@ Grants 2 Bastions on the defender's side when fighting a defensive Siege.
 
 (cost 170 Gold 450 Production; DLC Base)
 - Built after: Tavern
-- Boost requirements: - Build 1 Quarry; Build 2 Farm
+- Boost requirements: Build 1 Quarry; Build 2 Farm
 
 - +40 City Stability income
 - Grants Bathhouse: XP Bonus to every Unit produced in this City.
@@ -325,7 +325,7 @@ Grants 2 Bastions on the defender's side when fighting a defensive Siege.
 
 ## Bazaar of Wonders
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Golden Realm](../tomes/tome-of-the-golden-realm.md) (tier 4)
 
 - +10 Gold.
@@ -346,7 +346,7 @@ Ruined Beacon of Unity
 
 (cost 280 Gold 750 Production; DLC Base)
 - Built after: Ballista Towers
-- Boost requirements: - Build 1 Conduit; Build 2 Quarry
+- Boost requirements: Build 1 Conduit; Build 2 Quarry
 
 Support Structure
 
@@ -375,7 +375,7 @@ For each Trade Route connecting this city to a Foreign City, the city gains:
 
 ## Blood Altar
 
-(cost 60 Gold 130 Production; DLC THRONESOFBLOOD; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC THRONESOFBLOOD; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Blood Rite](../tomes/tome-of-the-blood-rite.md) (tier 1)
 
 - +15 Draft income.
@@ -385,7 +385,7 @@ For each Trade Route connecting this city to a Foreign City, the city gains:
 
 ## Bountiful Fields
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Fertility](../tomes/tome-of-fertility.md) (tier 2)
 
 - +10 Food income.
@@ -398,7 +398,7 @@ For each Trade Route connecting this city to a Foreign City, the city gains:
 
 ## Builder's Quarters
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Industrious](../tomes/industrious.md) (tier 0)
 
 - +15 Production income.
@@ -409,7 +409,7 @@ For each Trade Route connecting this city to a Foreign City, the city gains:
 
 (cost 100 Gold 250 Production; DLC Base)
 - Built after: Palisade Walls and City Tier II
-- Boost requirements: - Build 1 Quarry; Build 1 Mine
+- Boost requirements: Build 1 Quarry; Build 1 Mine
 
 Support Structure
 
@@ -417,7 +417,7 @@ Support Structure
 
 (cost 280 Gold 750 Production; DLC Base)
 - Built after: Trade Bazaar
-- Boost requirements: - Build 4 Mine; Build 2 Conduit
+- Boost requirements: Build 4 Mine; Build 2 Conduit
 
 - +1 Trade Route capacity
 - Trade Routes cost -20% less to establish in this city.
@@ -426,7 +426,7 @@ Mutually exclusive with Taxation Offices.
 
 ## Carnival of Flesh
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Revelry](../tomes/tome-of-revelry.md) (tier 2)
 
 - +5 Food.
@@ -443,13 +443,13 @@ Mutually exclusive with Taxation Offices.
 
 (cost 140 Gold 300 Production; DLC Base)
 - Built after: Ballista Towers and City Tier IV
-- Boost requirements: - Build 1 Forester; Build 2 Quarry
+- Boost requirements: Build 1 Forester; Build 2 Quarry
 
 Tower Structure
 
 ## Central Quarry
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Rock](../tomes/tome-of-rock.md) (tier 1)
 
 - +15 Production.
@@ -476,7 +476,7 @@ Undead units drafted in this city gain Natural Regeneration.
 
 ## Channeling Tower
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Evocation](../tomes/tome-of-evocation.md) (tier 1)
 
 - +10 Mana.
@@ -504,7 +504,7 @@ Chaos Spells are 10% cheaper.
 
 ## Chrono Gate
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Teleporter) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Teleporter) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Teleportation](../tomes/tome-of-teleportation.md) (tier 3)
 
 - +3 Mana per adjacent Conduit or Research Post.
@@ -514,7 +514,7 @@ Chaos Spells are 10% cheaper.
 
 ## Circle of Zealotry
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Zeal](../tomes/tome-of-zeal.md) (tier 1)
 
 - +10 Draft per positive or negative level of alignment.
@@ -524,7 +524,7 @@ Chaos Spells are 10% cheaper.
 
 ## Clay Forge
 
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Quarry) Requires: - Annexed Underground Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Quarry) Requires: Annexed Underground Land Province. City Tier II.
 - Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
 
 - +5 Production per adjacent Dungeon Province.
@@ -597,7 +597,7 @@ Battlement Structure
 
 ## Dark Forge
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Dark - Cult of Tyranny](../tomes/dark-cult-of-tyranny.md) (tier 0)
 
 - +10 Gold.
@@ -606,7 +606,7 @@ Battlement Structure
 
 ## Demon Gate
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Teleporter) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Teleporter) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Demon Gate](../tomes/tome-of-the-demon-gate.md) (tier 4)
 
 - Unlocks the production of various Infernal Fiend Units.
@@ -624,7 +624,7 @@ Every Turn, 2 Surface Provinces in the city's Domain, or up to 2 provinces away,
 
 (cost 100 Gold 250 Production; DLC Base)
 - Built after: Trade Post
-- Boost requirements: - Build 2 Mine; Build 2 Forester
+- Boost requirements: Build 2 Mine; Build 2 Forester
 
 For each Trade Route connecting this city to a Foreign City, the city gains:
 
@@ -634,7 +634,7 @@ Mutually exclusive with Outpost Supply Hub.
 
 ## Doomdepth Trench
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Doomherald](../tomes/tome-of-the-doomherald.md) (tier 2)
 
 - -5 City Stability.
@@ -645,7 +645,7 @@ Mutually exclusive with Outpost Supply Hub.
 
 ## Dune Megalith
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Primal - Dune Serpent](../tomes/primal-dune-serpent.md) (tier 0)
 
 - +4 Gold per adjacent Sand Province.
@@ -662,7 +662,7 @@ Annexed Provinces with a Dune Serpent Den and Surface Provinces within a radius 
 
 ## Dungeoneering Conclave
 
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Research Post) Requires: - Annexed Underground Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Research Post) Requires: Annexed Underground Land Province. City Tier II.
 - Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
 
 - +5 Knowledge
@@ -682,7 +682,7 @@ Cannot suffer additional breaches through Siege Project
 
 ## Estate Hall
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 2 Farms
+(cost 170 Gold 450 Production; DLC Base) Requires: 2 Farms
 - Built after: Granary
 - Boost requirements: Build 3 Forester
 
@@ -709,7 +709,7 @@ Cannot suffer additional breaches through Siege Project
 
 ## Excavated Ley Line
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Terramancy](../tomes/tome-of-terramancy.md) (tier 3)
 
 - +5 Production.
@@ -729,7 +729,7 @@ Cannot suffer additional breaches through Siege Project
 
 ## Farmers' Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 4 Farms
+(cost 280 Gold 750 Production; DLC Base) Requires: 4 Farms
 - Built after: Estate Hall
 - Boost requirements: Build 4 Forester
 
@@ -737,7 +737,7 @@ Cannot suffer additional breaches through Siege Project
 
 ## Farmstead
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Farm) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Farm) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Feudal - Aristocracy](../tomes/feudal-aristocracy.md) (tier 0), [Feudal - Monarchy](../tomes/feudal-monarchy.md) (tier 0)
 
 - +15 Food income.
@@ -746,7 +746,7 @@ Cannot suffer additional breaches through Siege Project
 
 ## Fey Woods
 
-(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Forester) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Sprite](../tomes/tome-of-the-sprite.md) (tier 1)
 
 - +10 Food.
@@ -756,7 +756,7 @@ Cannot suffer additional breaches through Siege Project
 
 ## Feywater Pond
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Fey Mists](../tomes/tome-of-fey-mists.md) (tier 2)
 
 - Provinces in this city's domain become Misty.
@@ -765,7 +765,7 @@ Cannot suffer additional breaches through Siege Project
 
 ## Fishmonger
 
-(cost 100 Gold 250 Production; DLC Base) Requires: - 2 Water provinces
+(cost 100 Gold 250 Production; DLC Base) Requires: 2 Water provinces
 - Built after: Shipyard
 - Boost requirements: Build 2 Forester
 
@@ -775,7 +775,7 @@ Cannot suffer additional breaches through Siege Project
 
 (cost 170 Gold 450 Production; DLC Base)
 - Built after: Trade Quarters
-- Boost requirements: - Build 3 Mine; Build 2 Farm
+- Boost requirements: Build 3 Mine; Build 2 Farm
 
 For each Trade Route connecting this city to a Free City or Outpost, the city gains:
 
@@ -798,7 +798,7 @@ For each Trade Route connecting to or from this city, the city gains:
 
 ## Forager's Market
 
-(cost 60 Gold 130 Production; DLC Base) Requires: - 1 Hut
+(cost 60 Gold 130 Production; DLC Base) Requires: 1 Hut
 - Boost requirements: Build 3 Hut
 
 - +5 Food income
@@ -806,7 +806,7 @@ For each Trade Route connecting to or from this city, the city gains:
 
 ## Forest of Stakes
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Barbarian](../tomes/barbarian.md) (tier 0)
 
 - +7 Food income.
@@ -817,7 +817,7 @@ For each Trade Route connecting to or from this city, the city gains:
 
 ## Forester's Guild
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 3 Forester
+(cost 170 Gold 450 Production; DLC Base) Requires: 3 Forester
 - Boost requirements: Build 4 Forester
 
 - +15 Food income
@@ -835,7 +835,7 @@ For each Trade Route connecting to or from this city, the city gains:
 
 ## Frostspire
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Cold Dark](../tomes/tome-of-the-cold-dark.md) (tier 3)
 
 - +10 Knowledge.
@@ -856,7 +856,7 @@ For each Trade Route connecting to or from this city, the city gains:
 
 ## Garden of Bliss
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Farm) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Paradise](../tomes/tome-of-paradise.md) (tier 4)
 
 - +15 City Stability.
@@ -875,7 +875,7 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 
 ## Glacial Megalith
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Primal - Glacial Mammoth](../tomes/primal-glacial-mammoth.md) (tier 0)
 
 - +6 Production per adjacent Snow Province.
@@ -892,7 +892,7 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 
 ## Glyph Tower
 
-(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Abjuration](../tomes/tome-of-abjuration.md) (tier 1)
 
 - +10 City Stability
@@ -906,7 +906,7 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 
 ## Golem Mine
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Artificing](../tomes/tome-of-artificing.md) (tier 2)
 
 - +10 Gold.
@@ -924,7 +924,7 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 
 ## Grand Bazaar
 
-(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Sand Stalkers](../tomes/tome-of-the-sand-stalkers.md) (tier 2)
 
 - +7 Gold income.
@@ -946,7 +946,7 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 
 ## Grand Wharf
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 3 Water provinces
+(cost 170 Gold 450 Production; DLC Base) Requires: 3 Water provinces
 - Built after: Fishmonger
 - Boost requirements: Build 3 Forester
 
@@ -963,7 +963,7 @@ Annexed Provinces with a Glacial Mammoth Den and Provinces within a radius equal
 
 ## Great Foundry
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Crucible](../tomes/tome-of-the-crucible.md) (tier 4)
 
 - +10 Gold.
@@ -1064,7 +1064,7 @@ Tower Structure
 
 ## Herbalist
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Roots](../tomes/tome-of-roots.md) (tier 1)
 
 - +5 Food.
@@ -1130,7 +1130,7 @@ The city loses 10% of its Gold income, and gains double that amount as Food and 
 
 ## House of Passion
 
-(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Quarry) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Burning Passion](../tomes/tome-of-burning-passion.md) (tier 2)
 
 - +10 Draft.
@@ -1139,7 +1139,7 @@ The city loses 10% of its Gold income, and gains double that amount as Food and 
 
 ## Hungering Maw
 
-(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Farm) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Gluttony](../tomes/tome-of-gluttony.md) (tier 1)
 
 - 10% of Food is converted to Mana.
@@ -1156,7 +1156,7 @@ The city loses 10% of its Gold income, and gains double that amount as Food and 
 
 ## Imperial Warfactory
 
-(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Reaver - Imperial](../tomes/reaver-imperial.md) (tier 0)
 
 - +10 Production.
@@ -1246,7 +1246,7 @@ Buy Now is 25% cheaper and can be used 2 times per World Map Turn.
 
 ## Mages' Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 2 Conduits
+(cost 280 Gold 750 Production; DLC Base) Requires: 2 Conduits
 - Built after: Monolith
 - Boost requirements: Build 4 Quarry
 
@@ -1293,7 +1293,7 @@ Ruins of a Magic Victory structure
 
 ## Masonic Hall
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 2 Quarries
+(cost 170 Gold 450 Production; DLC Base) Requires: 2 Quarries
 - Built after: Stonemason
 - Boost requirements: Build 3 Farm
 
@@ -1330,7 +1330,7 @@ Materium Spells are 10% cheaper.
 
 ## Mausoleum
 
-(cost 130 Production 1; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 130 Production 1; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Dark - Cult of Death](../tomes/dark-cult-of-death.md) (tier 0)
 
 - +10 Knowledge income.
@@ -1339,7 +1339,7 @@ Materium Spells are 10% cheaper.
 
 ## Meditation Fountain
 
-(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Research Post) Requires: - Annexed Water or Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Research Post) Requires: Annexed Water or Land Province. City Tier II.
 - Unlocked by: [Tome of Hydromancy](../tomes/tome-of-hydromancy.md) (tier 1)
 
 - +5 Knowledge
@@ -1351,7 +1351,7 @@ Per adjacent owned province with River or Ocean:
 
 ## Merchants' Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 2 Mines
+(cost 280 Gold 750 Production; DLC Base) Requires: 2 Mines
 - Built after: Mint
 - Boost requirements: Build 4 Farm
 
@@ -1369,7 +1369,7 @@ Per adjacent owned province with River or Ocean:
 
 ## Mineral Extractor
 
-(cost 60 Gold 130 Production; DLC Base) Requires: - 1 Lava improvement provinces
+(cost 60 Gold 130 Production; DLC Base) Requires: 1 Lava improvement provinces
 - Boost requirements: Build 1 Quarry
 
 - +5 Gold income
@@ -1377,7 +1377,7 @@ Per adjacent owned province with River or Ocean:
 
 ## Mint
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 1 Mine
+(cost 170 Gold 450 Production; DLC Base) Requires: 1 Mine
 - Built after: Market
 - Boost requirements: Build 3 Farm
 
@@ -1394,7 +1394,7 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 
 ## Mire Megalith
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Primal - Mire Crocodile](../tomes/primal-mire-crocodile.md) (tier 0)
 
 - +6 Food per adjacent Swamp Province.
@@ -1402,7 +1402,7 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 
 ## Mob Camp
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Horde](../tomes/tome-of-the-horde.md) (tier 1)
 
 - +7 Food.
@@ -1413,7 +1413,7 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 
 ## Monastery
 
-(cost 60 Gold 130 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Discipline](../tomes/tome-of-discipline.md) (tier 1)
 
 - 10 City Stability.
@@ -1427,7 +1427,7 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 
 ## Monolith
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 1 Conduit
+(cost 170 Gold 450 Production; DLC Base) Requires: 1 Conduit
 - Built after: Mana Obelisk
 - Boost requirements: Build 3 Quarry
 
@@ -1435,7 +1435,7 @@ Annexed Provinces with a Mire Crocodile Den and Provinces within a radius equal 
 
 ## Monument I: Foundation
 
-(cost 250 Production 200; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 250 Production 200; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 - Architect units gain +1 Affinity Incarnate.
@@ -1448,7 +1448,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument II: Sanctum (Shadow Affinity)
 
-(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1462,7 +1462,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument II: Sanctum (Nature Affinity)
 
-(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1476,7 +1476,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument II: Sanctum (Materium Affinity)
 
-(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1490,7 +1490,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument II: Sanctum (Astral Affinity)
 
-(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1504,7 +1504,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument II: Sanctum (Chaos Affinity)
 
-(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1518,7 +1518,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument II: Sanctum (Order Affinity)
 
-(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 450 Production 300; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1532,7 +1532,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument III: Zenith (variant 1 of 6)
 
-(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1548,7 +1548,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument III: Zenith (variant 2 of 6)
 
-(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1564,7 +1564,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument III: Zenith (variant 3 of 6)
 
-(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1580,7 +1580,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument III: Zenith (variant 4 of 6)
 
-(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1596,7 +1596,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument III: Zenith (variant 5 of 6)
 
-(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1612,7 +1612,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument III: Zenith (variant 6 of 6)
 
-(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 750 Production 400; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1628,7 +1628,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument IV: Apex (variant 1 of 6)
 
-(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1645,7 +1645,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument IV: Apex (variant 2 of 6)
 
-(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1662,7 +1662,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument IV: Apex (variant 3 of 6)
 
-(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1679,7 +1679,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument IV: Apex (variant 4 of 6)
 
-(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1696,7 +1696,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument IV: Apex (variant 5 of 6)
 
-(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1713,7 +1713,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Monument IV: Apex (variant 6 of 6)
 
-(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: - Annexed Land Province.; City Tier II.
+(cost 1300 Production 600; DLC ARCHONPROPHECY; province/sector upgrade) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Architect](../tomes/architect.md) (tier 0)
 
 Upgrades the Monument:
@@ -1737,7 +1737,7 @@ Your Empire may only gain up to 4 Affinity Incarnate from Monuments.
 
 ## Mystic Abbey
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Mystic - School of Attunement](../tomes/mystic-school-of-attunement.md) (tier 0)
 
 - +10 Mana income.
@@ -1765,7 +1765,7 @@ Nature Spells are 10% cheaper.
 
 ## Necropolis
 
-(cost 280 Gold 750 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+(cost 280 Gold 750 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Research Post) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Revenant](../tomes/tome-of-the-revenant.md) (tier 4)
 
 - +8 Soul
@@ -1787,7 +1787,7 @@ Tower Structure
 
 ## Obsidian Weaponsmith
 
-(cost 170 Gold 450 Production; DLC Base) Requires: - 3 Lava improvement provinces
+(cost 170 Gold 450 Production; DLC Base) Requires: 3 Lava improvement provinces
 - Built after: Basalt Excavation
 - Boost requirements: Build 3 Quarry
 
@@ -1816,7 +1816,7 @@ Order Spells are 10% cheaper.
 
 (cost 100 Gold 250 Production; DLC Base)
 - Built after: Trade Post
-- Boost requirements: - Build 2 Mine; Build 2 Forester
+- Boost requirements: Build 2 Mine; Build 2 Forester
 
 Outposts connected to this city by Trade Routes grant:
 
@@ -1866,7 +1866,7 @@ Adds a Peacebringer unit to all fights in this domain.
 
 ## Permafrost Nexus
 
-(cost 280 Gold 750 Production; DLC SILVERSEAS; province/sector upgrade; category: Research Post) Requires: - Annexed Water or Land Province.; City Tier II.
+(cost 280 Gold 750 Production; DLC SILVERSEAS; province/sector upgrade; category: Research Post) Requires: Annexed Water or Land Province. City Tier II.
 - Unlocked by: [Tome of Eternal Ice](../tomes/tome-of-eternal-ice.md) (tier 4)
 
 - +10 Knowledge
@@ -1885,13 +1885,13 @@ Adds a Peacebringer unit to all fights in this domain.
 ## Pirate Cannon Towers
 
 (cost 85 Gold 200 Production; DLC Base)
-- Boost requirements: - Build 1 Forester; Build 2 Quarry
+- Boost requirements: Build 1 Forester; Build 2 Quarry
 
 Tower Structure
 
 ## Pirate Haven
 
-(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Mine) Requires: - Annexed Water Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC SILVERSEAS; province/sector upgrade; category: Mine) Requires: Annexed Water Province. City Tier II.
 - Unlocked by: [Tome of Piracy](../tomes/tome-of-piracy.md) (tier 2)
 
 - +15 Gold
@@ -1927,7 +1927,7 @@ Can only be built in the Throne City.
 
 ## Privateers Camp
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Mercantile - Cartel](../tomes/mercantile-cartel.md) (tier 0)
 
 - +15 Gold.
@@ -1937,7 +1937,7 @@ Can only be built in the Throne City.
 
 ## Pyreshrine
 
-(cost 100 Gold 250 Production; DLC ELDRITCHREALMS; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC ELDRITCHREALMS; province/sector upgrade; category: Forester) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Cleansing Flame](../tomes/tome-of-the-cleansing-flame.md) (tier 3)
 
 - +15 Gold.
@@ -1970,7 +1970,7 @@ While this city shares a border with another Empire or Free City:
 
 ## Reaver Manufactorum
 
-(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Reaver - Federated](../tomes/reaver-federated.md) (tier 0)
 
 - +10 Gold.
@@ -1979,7 +1979,7 @@ While this city shares a border with another Empire or Free City:
 
 ## Resonance Fields
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Amplification](../tomes/tome-of-amplification.md) (tier 3)
 
 - +5 Mana.
@@ -2000,7 +2000,7 @@ While this city shares a border with the Throne City or is the Throne City gain:
 
 ## Ritual Pyre
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Forester) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Pyromancy](../tomes/tome-of-pyromancy.md) (tier 1)
 
 - +10 Mana income.
@@ -2074,7 +2074,7 @@ While this city shares a border with the Throne City or is the Throne City gain:
 
 ## Ruler's Statue
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Exaltation](../tomes/tome-of-exaltation.md) (tier 4)
 
 - Can only be built once in your Throne City.
@@ -2085,7 +2085,7 @@ While this city shares a border with the Throne City or is the Throne City gain:
 
 ## Runecarver's Camp
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Quarry) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Enchantment](../tomes/tome-of-enchantment.md) (tier 1)
 
 - +15 Draft.
@@ -2095,7 +2095,7 @@ While this city shares a border with the Throne City or is the Throne City gain:
 
 ## Sacred Meadow
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Farm) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Glades](../tomes/tome-of-glades.md) (tier 2)
 
 - +10 Food.
@@ -2116,7 +2116,7 @@ While this city shares a border with the Throne City or is the Throne City gain:
 
 ## Sanctuary
 
-(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Sanctuary](../tomes/tome-of-sanctuary.md) (tier 3)
 
 - +15 Mana.
@@ -2144,7 +2144,7 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 
 ## Scavenging Camp
 
-(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Nomad - Scavengers](../tomes/nomad-scavengers.md) (tier 0)
 
 - +10 Gold.
@@ -2153,15 +2153,15 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 
 ## Scholars Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 2 Research Posts
+(cost 280 Gold 750 Production; DLC Base) Requires: 2 Research Posts
 - Built after: Academy
-- Boost requirements: - Build 2 Forester; Build 2 Quarry
+- Boost requirements: Build 2 Forester; Build 2 Quarry
 
 +10 Knowledge income per Research Post:
 
 ## School of Contemplation
 
-(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Oathsworn - Harmony](../tomes/oathsworn-harmony.md) (tier 0)
 
 - +7 Mana
@@ -2171,7 +2171,7 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 
 ## School of Cryomancy
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Cryomancy](../tomes/tome-of-cryomancy.md) (tier 1)
 
 - +8 Knowledge.
@@ -2180,7 +2180,7 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 
 ## School of Discipline
 
-(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Oathsworn - Righteousness](../tomes/oathsworn-righteousness.md) (tier 0)
 
 - +7 Mana
@@ -2190,7 +2190,7 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 
 ## School of Mastery
 
-(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Oathsworn - Strife](../tomes/oathsworn-strife.md) (tier 0)
 
 - +7 Mana
@@ -2200,7 +2200,7 @@ Allows this Sanctuary Outpost to annex an additional Province. Can only be done 
 
 ## Seafarers' Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 4 Fisheries
+(cost 280 Gold 750 Production; DLC Base) Requires: 4 Fisheries
 - Built after: Grand Wharf
 - Boost requirements: Build 4 Forester
 
@@ -2314,7 +2314,7 @@ Shadow Spells are 10% cheaper.
 
 ## Shipyard
 
-(cost 60 Gold 130 Production; DLC Base) Requires: - 1 Water provinces
+(cost 60 Gold 130 Production; DLC Base) Requires: 1 Water provinces
 - Boost requirements: Build 1 Forester
 
 +10 Gold income
@@ -2338,7 +2338,7 @@ Shadow Spells are 10% cheaper.
 
 ## Shrine of Prosperity
 
-(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 280 Gold 750 Production; DLC WAYSOFWAR; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Prosperity](../tomes/tome-of-prosperity.md) (tier 4)
 
 - +3 City Stability per adjacent Farm or Forester.
@@ -2366,7 +2366,7 @@ Shadow Spells are 10% cheaper.
 
 ## Silent Barracks
 
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Quarry) Requires: - Annexed Underground Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Quarry) Requires: Annexed Underground Land Province. City Tier II.
 - Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
 
 - +1 Fortification Health per adjacent Dungeon Province.
@@ -2376,7 +2376,7 @@ Shadow Spells are 10% cheaper.
 
 ## Smiths' Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 4 Foresters
+(cost 280 Gold 750 Production; DLC Base) Requires: 4 Foresters
 - Built after: Armory
 - Boost requirements: Build 4 Quarry
 
@@ -2416,7 +2416,7 @@ This city's Governor gains Soulvault Meditation.
 
 ## Soulwell
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Necromancy](../tomes/tome-of-necromancy.md) (tier 1)
 
 - +5 Souls.
@@ -2425,7 +2425,7 @@ This city's Governor gains Soulvault Meditation.
 
 ## Spell Arcanist Library
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Mystic - School of Potential](../tomes/mystic-school-of-potential.md) (tier 0)
 
 - +10 Knowledge income.
@@ -2434,7 +2434,7 @@ This city's Governor gains Soulvault Meditation.
 
 ## Spell Jammer
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Enemies cannot target World Map Spells in this Domain.
 - Enemy Spells cost +100% Combat Casting Points in Combat in Domain.
 - -10 Mana.
@@ -2442,7 +2442,7 @@ This city's Governor gains Soulvault Meditation.
 
 ## Spider's Nest
 
-(cost 170 Gold 450 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC SECRETSOFTHEARCHMAGES; province/sector upgrade; category: Forester) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Weaver](../tomes/tome-of-the-weaver.md) (tier 3)
 
 - +20 Food.
@@ -2502,7 +2502,7 @@ Annexed Provinces with a Storm Crow Den and Surface Provinces within a radius eq
 
 ## Storm Megalith
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Primal - Storm Crow](../tomes/primal-storm-crow.md) (tier 0)
 
 - +4 Mana per adjacent Grassland Province.
@@ -2530,7 +2530,7 @@ Requires an Ocean Province Improvement in order to build.
 
 ## Summoning Well
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Summoning](../tomes/tome-of-summoning.md) (tier 2)
 
 - +10 Mana.
@@ -2540,7 +2540,7 @@ Requires an Ocean Province Improvement in order to build.
 
 ## Sunshrine
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Research Post) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [High](../tomes/high.md) (tier 0)
 
 - +10 Knowledge income.
@@ -2550,7 +2550,7 @@ Requires an Ocean Province Improvement in order to build.
 
 ## Sylvan Megalith
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Primal - Sylvan Wolf](../tomes/primal-sylvan-wolf.md) (tier 0)
 
 - +6 Draft per adjacent Forest Province
@@ -2576,7 +2576,7 @@ Annexed Provinces with a Sylvan Wolf Den and Surface Provinces within a radius e
 
 (cost 280 Gold 750 Production; DLC Base)
 - Built after: Trade Bazaar
-- Boost requirements: - Build 4 Mine; Build 2 Conduit
+- Boost requirements: Build 4 Mine; Build 2 Conduit
 
 For each Trade Route connecting this city:
 
@@ -2616,7 +2616,7 @@ A Province Improvement which enables an Army to teleport from one teleporter to 
 
 ## Temple of the Prophet
 
-(cost 100 Gold 250 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC ARCHONPROPHECY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Prophecies](../tomes/tome-of-prophecies.md) (tier 3)
 
 - +15 Mana.
@@ -2667,7 +2667,7 @@ Can only be built in the Throne City.
 
 ## Tithe Collector
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Inquisition](../tomes/tome-of-the-inquisition.md) (tier 2)
 
 - +10 Gold.
@@ -3057,7 +3057,7 @@ For each unowned Foreign Trade Route connecting to this city:
 
 ## Trade District
 
-(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Mercantile - Barony](../tomes/mercantile-barony.md) (tier 0)
 
 - +10 Gold
@@ -3103,7 +3103,7 @@ For each unowned Foreign Trade Route connecting to this city:
 
 ## Transmutation Circle
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Mine) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Tome of Transmutation](../tomes/tome-of-transmutation.md) (tier 3)
 
 - Once built, can replicate the effects and income of a Magic Material.
@@ -3132,7 +3132,7 @@ While this city shares a border with another Empire or Free City:
 
 ## Tunneling Megalith
 
-(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC PRIMALFURY; province/sector upgrade; category: Conduit) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Primal - Tunneling Spider](../tomes/primal-tunneling-spider.md) (tier 0)
 
 - +4 Knowledge per adjacent Mushroom Forest Province.
@@ -3147,7 +3147,7 @@ Annexed Provinces with a Tunneling Spider Den and Underground Provinces within a
 
 ## Underground Vault
 
-(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Mine) Requires: - Annexed Underground Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC GIANTKINGS; province/sector upgrade; category: Mine) Requires: Annexed Underground Land Province. City Tier II.
 - Unlocked by: [Tome of the Dungeon Depths](../tomes/tome-of-the-dungeon-depths.md) (tier 2)
 
 - +10 Gold
@@ -3271,7 +3271,7 @@ Support Structure
 
 ## Volcanologists' Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 4 Lava improvement provinces
+(cost 280 Gold 750 Production; DLC Base) Requires: 4 Lava improvement provinces
 - Built after: Obsidian Weaponsmith
 - Boost requirements: Build 4 Quarry
 
@@ -3282,7 +3282,7 @@ Per Lava province:
 
 ## War Forge
 
-(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Mine) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Warlord](../tomes/tome-of-the-warlord.md) (tier 3)
 
 - +20 Draft income.
@@ -3295,7 +3295,7 @@ Per Lava province:
 
 ## War Foundry
 
-(cost 170 Gold 450 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Dreadnought](../tomes/tome-of-the-dreadnought.md) (tier 3)
 
 - +20 Draft.
@@ -3316,7 +3316,7 @@ This structure can be built multiple times, its cost increasing each time.
 
 ## Warcamp
 
-(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Forester) Requires: Must be built on an annexed Province.  Requires City Tier II.
+(cost 60 Gold 130 Production; DLC RISEFROMRUIN; province/sector upgrade; category: Forester) Requires: Must be built on an annexed Province. Requires City Tier II.
 - Unlocked by: [Nomad - Conquerors](../tomes/nomad-conquerors.md) (tier 0)
 
 - +15 Draft.
@@ -3343,7 +3343,7 @@ Builds a Watch Tower in this outpost, granting the outpost +4 Vision Range and +
 
 ## Wildlife Sanctuary
 
-(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Forester) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC Base; province/sector upgrade; category: Forester) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Beasts](../tomes/tome-of-beasts.md) (tier 1)
 
 - +10 Food.
@@ -3441,7 +3441,7 @@ Grants Teleportation Circle Spell, allowing friendly Armies to be teleported bac
 
 (cost 170 Gold 450 Production; DLC Base)
 - Built after: Trade Quarters
-- Boost requirements: - Build 3 Mine; Build 2 Farm
+- Boost requirements: Build 3 Mine; Build 2 Farm
 
 For each owned Trade Route connecting this city to a Foreign City, the city gains:
 
@@ -3452,7 +3452,7 @@ Mutually exclusive with Food Importers.
 
 ## Wood Conjurer
 
-(cost 100 Gold 250 Production; DLC Base) Requires: - 2 Foresters
+(cost 100 Gold 250 Production; DLC Base) Requires: 2 Foresters
 - Boost requirements: Build 3 Forester
 
 - +10 Production income
@@ -3470,7 +3470,7 @@ Mutually exclusive with Food Importers.
 
 ## Woodworker
 
-(cost 100 Gold 250 Production; DLC Base) Requires: - 2 Foresters
+(cost 100 Gold 250 Production; DLC Base) Requires: 2 Foresters
 - Boost requirements: Build 3 Forester
 
 - +5 Food income
@@ -3478,7 +3478,7 @@ Mutually exclusive with Food Importers.
 
 ## Worker Construct Nexus
 
-(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: - Annexed Land Province.; City Tier II.
+(cost 100 Gold 250 Production; DLC EMPIRESANDASHES; province/sector upgrade; category: Quarry) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of the Construct](../tomes/tome-of-the-construct.md) (tier 2)
 
 - +10 Production.
@@ -3500,7 +3500,7 @@ Mutually exclusive with Food Importers.
 
 ## Workers' Guild
 
-(cost 280 Gold 750 Production; DLC Base) Requires: - 4 Quarries
+(cost 280 Gold 750 Production; DLC Base) Requires: 4 Quarries
 - Built after: Masonic Hall
 - Boost requirements: Build 4 Farm
 
@@ -3517,7 +3517,7 @@ Mutually exclusive with Food Importers.
 
 ## Wyvern Eyrie
 
-(cost 170 Gold 450 Production; DLC DRAGONLORDS; province/sector upgrade; category: Mine) Requires: - Annexed Land Province.; City Tier II.
+(cost 170 Gold 450 Production; DLC DRAGONLORDS; province/sector upgrade; category: Mine) Requires: Annexed Land Province. City Tier II.
 - Unlocked by: [Tome of Dragons](../tomes/tome-of-dragons.md) (tier 3)
 
 - +10 Gold.

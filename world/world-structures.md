@@ -95,7 +95,7 @@
 - Adds the Phoenix unit to the Rally of the Lieges.
 - Unit unlocks: [Phoenix](../units/phoenix.md)
 - Combat enchantment: Mass Spawning: A wave of 2 additional defending units will spawn in 2 Turns !
-- Combat enchantment: Draconic Catalyst: When a Red Dragon has Draconic Rage, all attacking units have a 90% chance to suffer Burning every turn.  When a Blue Dragon has Draconic Rage, all attacking units have a 60% chance to get Frozen every turn.
+- Combat enchantment: Draconic Catalyst: When a Red Dragon has Draconic Rage, all attacking units have a 90% chance to suffer Burning every turn. When a Blue Dragon has Draconic Rage, all attacking units have a 60% chance to get Frozen every turn.
 
 ## Lost Wizard Tower
 
@@ -240,7 +240,7 @@ A City with 3 Province adjacent to this Landmark gains:
 
 - Farms in the domain grant +2 Gold and +2 City Stability.
 - The Celestial Rain [Combat] Combat Enchantment in the domain.
-- Spell unlocks/rewards: Celestial Rain: Every 3 Turn: ; All units become Wet for 3 Turns; All Faithful, Zeal, and Celestial units have their negative status effects cleansed.
+- Spell unlocks/rewards: Celestial Rain: Every 3 Turn: All units become Wet for 3 Turns; All Faithful, Zeal, and Celestial units have their negative status effects cleansed.
 
 ## Grand Statuary
 
@@ -271,7 +271,7 @@ A City with 3 Province adjacent to this Landmark gain:
 - Tier 1 Unit have their recruitment cost reduced by 25% in the City.
 - If Soul are obtainable, unlocks recruitment of Tier 1 Skeleton units.
 - Unit unlocks: [Skeleton Mage](../units/skeleton-mage.md), [Skeleton Warrior](../units/skeleton-warrior.md), [Skeleton Militia](../units/skeleton-militia.md), [Skeleton Archer](../units/skeleton-archer.md)
-- Spell unlocks/rewards: Undying Battlefield: Every Turn, each corpse is resurrected as a random Skeleton unit with Berserk.  Skeleton units themselves are not resurrected by this effect, are Non-Vital, and die at the end of combat.
+- Spell unlocks/rewards: Undying Battlefield: Every Turn, each corpse is resurrected as a random Skeleton unit with Berserk. Skeleton units themselves are not resurrected by this effect, are Non-Vital, and die at the end of combat.
 
 ## Icebound Behemoth
 
@@ -421,7 +421,7 @@ A City with 3 Province adjacent to this Landmark gains:
 - Adds the Corrupt Soul unit to the Rally of the Lieges.
 - Unit unlocks: [Corrupt Soul](../units/corrupt-soul.md)
 - Combat enchantment: Haunted Coffins: Whenever a Sarcophacus obstacle is destroyed, it summons a Skeleton on the defender's side until the end of combat.
-- Combat enchantment: Undead Servants: Undead Servants fight to protect the Undead Queen!  All defending units resurrect 1 Turn after being killed for the first time.  Destroying the defending Hero instantly kills all enemies.
+- Combat enchantment: Undead Servants: Undead Servants fight to protect the Undead Queen! All defending units resurrect 1 Turn after being killed for the first time. Destroying the defending Hero instantly kills all enemies.
 
 ## Magma Forge
 

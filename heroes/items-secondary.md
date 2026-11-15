@@ -71,7 +71,7 @@
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
-- **Inspiring Presence**: While in combat, this and all other friendly units have a +25% modifier to positive Morale gain.  This effect doesn't stack.
+- **Inspiring Presence**: While in combat, this and all other friendly units have a +25% modifier to positive Morale gain. This effect doesn't stack.
 
 ## Captain's Shield
 
@@ -156,7 +156,7 @@
 (Tier I; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
-- **Intimidating Aura**: At the end of this unit's turn, adjacent enemy units have a base 90% chance of losing -5 Morale.  Doesn't work on units with this ability or Terrifying Aura.
+- **Intimidating Aura**: At the end of this unit's turn, adjacent enemy units have a base 90% chance of losing -5 Morale. Doesn't work on units with this ability or Terrifying Aura.
 
 ## Umbral Shield
 
@@ -207,7 +207,7 @@
 (Tier III; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
-- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale.  Doesn't work on units with this ability.
+- **Terrifying Aura**: At the end of this unit's turn, adjacent enemy units lose -5 Morale. Doesn't work on units with this ability.
 
 ## Gilded Shield
 
@@ -234,4 +234,4 @@
 (Tier IV; DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior)
 
 
-- **Shield of Artica**: Melee range attackers: ; Take 4 Frost Damage.; Have a base 30% chance of becoming Frozen.
+- **Shield of Artica**: Melee range attackers: Take 4 Frost Damage. Have a base 30% chance of becoming Frozen.

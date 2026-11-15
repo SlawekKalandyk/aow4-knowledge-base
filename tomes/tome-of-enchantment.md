@@ -31,4 +31,4 @@ Improve your units with [World Map] Unit Enchantments and specialize in Physical
   
   - +1 Resistance.
   - When entering Defense Mode, this unit and all adjacent allies receive +1 Resistance until the start of the next turn.
-- Runecarver's Camp (Initial City Upgrade): - +15 Draft.; +3 Mana per adjacent Quarry.; Unit deployment location.; Counts as a Quarry.
+- Runecarver's Camp (Initial City Upgrade): +15 Draft. +3 Mana per adjacent Quarry. Unit deployment location. Counts as a Quarry.

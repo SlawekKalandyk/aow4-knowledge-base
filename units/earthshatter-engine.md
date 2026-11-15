@@ -10,8 +10,8 @@ Slow but strong siege engine capable of destroying whole sections of walls withi
 
 ## Abilities
 
-- **Earth Tremor** (damage 20 Physical, accuracy Always Hits, range 2, single-use action): Enemy units in a 1-hex radius: ; Sustain damage; Lose their Defense Mode; Lose Retaliation Attack. Slowed: Inflicts Slowed for 2 Turns. Requires: Missile
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Earth Tremor** (damage 20 Physical, accuracy Always Hits, range 2, single-use action): Enemy units in a 1-hex radius: Sustain damage; Lose their Defense Mode; Lose Retaliation Attack. Slowed: Inflicts Slowed for 2 Turns. Requires: Missile
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -24,7 +24,7 @@ Slow but strong siege engine capable of destroying whole sections of walls withi
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Siegecraft**: Normally only accessible during Siege battles. Often required construction.
 
 ## Rank-up rewards

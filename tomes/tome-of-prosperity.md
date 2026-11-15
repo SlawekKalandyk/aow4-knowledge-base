@@ -30,4 +30,4 @@ Bring forth prosperity to your empire and grant your units healing Grace.
   - 2 Bolstered Defense for 3 Turns
   - 2 Bolstered Resistance for 3 Turns
 - [Summon Prosperity Dragon](../spells/summon-prosperity-dragon.md) ([World Map] Summon Spell): Summons a Prosperity Dragon, a Mythic Unit unit with strong protective and healing abilities.
-- Shrine of Prosperity (Initial City Upgrade): - +3 City Stability per adjacent Farm or Forester.; +7 Food per adjacent Farm or Forester.; 10% of Food income in the city is converted to Gold.; Allows the drafting of Blessed Dragon, Radiant Guardian, and Righteous Judge.; Counts as a Conduit.
+- Shrine of Prosperity (Initial City Upgrade): +3 City Stability per adjacent Farm or Forester. +7 Food per adjacent Farm or Forester. 10% of Food income in the city is converted to Gold. Allows the drafting of Blessed Dragon, Radiant Guardian, and Righteous Judge. Counts as a Conduit.

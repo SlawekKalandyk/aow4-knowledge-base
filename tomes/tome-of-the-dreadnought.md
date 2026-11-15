@@ -30,4 +30,4 @@ Call upon the power of mighty machines and obliterate your enemies with powerful
   - Become Marked.
   - Have a base 60% chance of becoming Immobilized.
 - [Ironclad](../units/ironclad.md) (Unit): An armored Mythic Unit with a powerful tri-barreled cannon able to load and fire specialized shells at significant range.
-- War Foundry (Initial City Upgrade): - +20 Draft.; +5 Draft per adjacent Quarry or Mine Province.; Construct Units produced in the owner city gain +2 Ranks.
+- War Foundry (Initial City Upgrade): +20 Draft. +5 Draft per adjacent Quarry or Mine Province. Construct Units produced in the owner city gain +2 Ranks.

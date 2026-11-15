@@ -34,4 +34,4 @@ Spread deserts, stalk and blind your enemies, and summon a Guardian of the Deser
 - Desert Farming (Tome Passive): Able to build Farms on Sand terrain.
   
   Farms on Sand terrain gain +5 Food if your race has Desert Adaptation.
-- Grand Bazaar (Initial City Upgrade): - +7 Gold income.; Per adjacent Province with Sand: ; +2 Gold.; +3 Food. ; Counts as a Mine.
+- Grand Bazaar (Initial City Upgrade): +7 Gold income. Per adjacent Province with Sand: +2 Gold. +3 Food. Counts as a Mine.

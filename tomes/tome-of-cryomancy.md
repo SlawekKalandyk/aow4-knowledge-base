@@ -31,4 +31,4 @@ Specialize in dealing Frost Damage and inflicting Chilled and Frozen.
   - A base 60% chance of inflicting Chilled.
   
   Effects are increased for Single Shot attacks.
-- School of Cryomancy (Initial City Upgrade): - +8 Knowledge.; +3 Mana per adjacent Snow or Ice Province.; Counts as a Research Post.
+- School of Cryomancy (Initial City Upgrade): +8 Knowledge. +3 Mana per adjacent Snow or Ice Province. Counts as a Research Post.

@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Magic Strike** (damage 15 Fire, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Burning: Base 60% chance of inflicting Burning for 3 Turns. Flanker: Unit deals +25% damage when Flanking. Requires: Magic, Base
-- **Kiss of Seduction** (accuracy Always Hits, range 1, single-use action): Target non-Hero enemy unit has a base 90% chance of becoming inflicted with Thrilling Domination. If unsuccessful, the target instead: ; Sustains 20 Fire Damage.; Gains 2 Burning for 3 Turns.  Enter Defense Mode. Doesn't trigger Retaliation Attacks. Cooldown: 2 Turns Requires: Debuff
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Kiss of Seduction** (accuracy Always Hits, range 1, single-use action): Target non-Hero enemy unit has a base 90% chance of becoming inflicted with Thrilling Domination. If unsuccessful, the target instead: Sustains 20 Fire Damage. Gains 2 Burning for 3 Turns. Enter Defense Mode. Doesn't trigger Retaliation Attacks. Cooldown: 2 Turns. Requires: Debuff
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -22,7 +22,7 @@
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
-- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: ; Melee Mage.
+- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: Melee Mage.
 
 ## Rank-up rewards
 

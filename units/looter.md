@@ -11,8 +11,8 @@
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
 - **Shoot Crossbow** (damage 22 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Catch!** (accuracy Always Hits, range 4, free action): Transfer a stack of Looted Power from this unit to the target friendly unit. Cooldown: 1 Turns Requires: Support
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Catch!** (accuracy Always Hits, range 4, free action): Transfer a stack of Looted Power from this unit to the target friendly unit. Cooldown: 1 Turns. Requires: Support
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -24,7 +24,7 @@
 
 - **Land Movement**: This unit can move over land hexes.
 - **Optional Cavalry**: This unit will become Cavalry if the race has a special mount trait.
-- **Skirmisher Unit**: Cheap and swift units that are useful at Flanking and targeting lone enemies. Skirmisher units gain: ; Swift.; Slippery.
+- **Skirmisher Unit**: Cheap and swift units that are useful at Flanking and targeting lone enemies. Skirmisher units gain: Swift. Slippery.
 
 ## Rank-up rewards
 

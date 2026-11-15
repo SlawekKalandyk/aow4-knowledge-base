@@ -8,7 +8,7 @@
 ## Effects
 
 - Cities gain +2 Gold, +2 Food, and +2 Draft for each Water province in their Domain.
-- Embarked units: ; Deal +20% damage.; Gain +40% Experience from combat.
+- Embarked units: Deal +20% damage. Gain +40% Experience from combat.
 
 ## Starting bonus
 

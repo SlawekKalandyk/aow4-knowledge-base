@@ -8,7 +8,7 @@
 
 ## Abilities
 
-- **Provide Sanctuary** (accuracy Always Hits, range 16, full action): Target friendly unit: ; Heals +15 Temporary Hit Points; Gains 1 Bolstered Resistance Requires: Support
+- **Provide Sanctuary** (accuracy Always Hits, range 16, full action): Target friendly unit: Heals +15 Temporary Hit Points; Gains 1 Bolstered Resistance. Requires: Support
 
 ## Passives
 
@@ -23,7 +23,7 @@
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
 - **Land Movement**: This unit can move over land hexes.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

@@ -26,4 +26,4 @@ This research is available to rulers with the High culture. They specialize in b
   - Pure Good: 25 City Stability in all Cities.
   - Neutral: 10 Food and 10 Production per City Stability level above Neutral in all Cities.
   - Pure Evil: Units start Combat in an Awakened state.
-- Sunshrine (Initial City Upgrade): - +10 Knowledge income.; +3 Knowledge per adjacent Research Post.; Friendly Units in this Domain are Encouraged.; Counts as a Research Post.
+- Sunshrine (Initial City Upgrade): +10 Knowledge income. +3 Knowledge per adjacent Research Post. Friendly Units in this Domain are Encouraged. Counts as a Research Post.

@@ -12,8 +12,8 @@ Summon a Wind Rager Unit, a fast and disruptive Fighter
 ## Abilities
 
 - **Magic Strike** (damage 14 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Frenzy: Gains a stack of Strengthened when landing a hit. Requires: Magic, Base
-- **Whirlwind** (damage 16 Physical, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent enemies and displaces them up to 2 hexes. Frenzy: Gains a stack of Strengthened when landing a hit. Cooldown: 1 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Whirlwind** (damage 16 Physical, accuracy Always Hits, range 0, single-use action): Deals damage to all adjacent enemies and displaces them up to 2 hexes. Frenzy: Gains a stack of Strengthened when landing a hit. Cooldown: 1 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -25,8 +25,8 @@ Summon a Wind Rager Unit, a fast and disruptive Fighter
 ## Unit type traits
 
 - **Elemental**: An Elemental unit with immunity to Bleeding.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
-- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: ; Melee Mage.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
+- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: Melee Mage.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 
 ## Rank-up rewards

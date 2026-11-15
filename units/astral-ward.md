@@ -9,7 +9,7 @@
 ## Abilities
 
 - **Warding Link** (accuracy Always Hits, range 4, single-use action): Damage sustained by the target friendly unit is transferred to this unit. Cooldown: 1 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -25,7 +25,7 @@
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
 - **Land Movement**: This unit can move over land hexes.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

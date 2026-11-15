@@ -28,4 +28,4 @@ Apply Ghostfire to your enemies and use it as a conduit to summon Accursed Wisps
   - Inflict Ghostfire on units that do not have it.
   - Inflict Damned
 - [Summon Accursed Lamenter](../spells/summon-accursed-lamenter.md) ([World Map] Summon Spell): Summon an Accursed Lamenter on to target hex.
-- Accursed Grave (Initial City Upgrade): - +15 Mana; Per adjacent owned Ocean province: ; +1 Knowledge.; +2 Gold. ; Fights on this city's domain add an Accursed Lamenter on your side.; Counts as a Conduit
+- Accursed Grave (Initial City Upgrade): +15 Mana; Per adjacent owned Ocean province: +1 Knowledge. +2 Gold. Fights on this city's domain add an Accursed Lamenter on your side. Counts as a Conduit

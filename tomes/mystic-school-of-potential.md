@@ -19,4 +19,4 @@ This research is available to rulers with the Mystic culture. They specialize in
 - [Ciphers of Dissonance](../spells/ciphers-of-dissonance.md) ([World Map] Unit Enchantment): Grants non-Mystic units:
   
   - Ciphers of Dissonance, which inflicts Dissonance on enemy units.
-- Spell Arcanist Library (Initial City Upgrade): - +10 Knowledge income.; +3 Knowledge per adjacent Conduit or Research Post.; Counts as a Research Post.
+- Spell Arcanist Library (Initial City Upgrade): +10 Knowledge income. +3 Knowledge per adjacent Conduit or Research Post. Counts as a Research Post.

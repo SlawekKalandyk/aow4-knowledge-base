@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Fire Bolts** (damage 14 Fire, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Burning: Base 30% chance of inflicting Burning for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Incinerate** (damage 25 Fire, accuracy Always Hits, range 4, single-use action): Deals damage in a 1-hex radius. Burning: Base 90% chance of inflicting Burning for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Magic
-- **Explosive Phase** (damage 5 Fire, accuracy Always Hits, range 4, leave-one action): Deals damage and leaves fiery terrain in a 1-hex radius around the unit. The unit then teleports to target hex. Burning: Base 30% chance of inflicting Burning for 3 Turns. Cooldown: 2 Turns Starts on cooldown: 1 Turns Requires: Magic, Movement, Teleport
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Incinerate** (damage 25 Fire, accuracy Always Hits, range 4, single-use action): Deals damage in a 1-hex radius. Burning: Base 90% chance of inflicting Burning for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Magic
+- **Explosive Phase** (damage 5 Fire, accuracy Always Hits, range 4, leave-one action): Deals damage and leaves fiery terrain in a 1-hex radius around the unit. The unit then teleports to target hex. Burning: Base 30% chance of inflicting Burning for 3 Turns. Cooldown: 2 Turns. Starts on cooldown: 1 Turns. Requires: Magic, Movement, Teleport
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,10 +23,10 @@
 
 ## Unit type traits
 
-- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. ; Their Accuracy is affected by Line of Sight.; Cannot use their main Magic attacks when Engaged in Melee.
+- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. Their Accuracy is affected by Line of Sight. Cannot use their main Magic attacks when Engaged in Melee.
 - **Elemental**: An Elemental unit with immunity to Bleeding.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 
 ## Rank-up rewards

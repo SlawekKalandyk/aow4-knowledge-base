@@ -5,42 +5,42 @@
 (type signature; DLC Base)
 
 
-- **Astral Dedication**: While army leader, all non-hero units in the army gain: ; Attacks ignore up to 2 Status Resistance, this effect stacks.
+- **Astral Dedication**: While army leader, all non-hero units in the army gain: Attacks ignore up to 2 Status Resistance, this effect stacks.
 
 ## Adept of Chaos
 
 (type signature; DLC Base)
 
 
-- **Chaos Dedication**: While army leader, all non-hero units in the army gain: ; +10% Critical Hit Chance, this effect stacks.
+- **Chaos Dedication**: While army leader, all non-hero units in the army gain: +10% Critical Hit Chance, this effect stacks.
 
 ## Adept of Materium
 
 (type signature; DLC Base)
 
 
-- **Materium Dedication**: While army leader, all non-hero units in the army gain: ; +1 Defense, this effect stacks.
+- **Materium Dedication**: While army leader, all non-hero units in the army gain: +1 Defense, this effect stacks.
 
 ## Adept of Nature
 
 (type signature; DLC Base)
 
 
-- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 Hit Points, this effect stacks.
+- **Nature Dedication**: While army leader, all non-hero units in the army gain: +10 Hit Points, this effect stacks.
 
 ## Adept of Order
 
 (type signature; DLC Base)
 
 
-- **Order Dedication**: While army leader, all non-hero units in the army gain: ; +1 Resistance, this effect stacks.
+- **Order Dedication**: While army leader, all non-hero units in the army gain: +1 Resistance, this effect stacks.
 
 ## Adept of Shadow
 
 (type signature; DLC Base)
 
 
-- **Shadow Dedication**: While army leader, all non-hero units in the army gain: ; +2 damage on Flanking attacks, this effect stacks.  Effects are increased for Single Shot attacks.
+- **Shadow Dedication**: While army leader, all non-hero units in the army gain: +2 damage on Flanking attacks, this effect stacks. Effects are increased for Single Shot attacks.
 
 ## Astral Aspect
 
@@ -71,14 +71,14 @@ This unit gains:
 (type signature; requires Tormenting Mist; DLC THRONESOFBLOOD)
 
 
-- **Aura of Torment**: At the end of the turn, adjacent enemies: ; Sustain 4 Frost Damage.; Lose 4 Morale.; Gain 1 Torment until the end of combat.
+- **Aura of Torment**: At the end of the turn, adjacent enemies: Sustain 4 Frost Damage. Lose 4 Morale. Gain 1 Torment until the end of combat.
 
 ## Blood Communion
 
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Blood Communion** (accuracy Always Hits, range 4, free action): Target friendly unit and the caster: ; Heal 30 Temporary Hit Points.; Have 3 negative status effects removed. Cooldown: 2 Turns Requires: Support
+- **Blood Communion** (accuracy Always Hits, range 4, free action): Target friendly unit and the caster: Heal 30 Temporary Hit Points. Have 3 negative status effects removed. Cooldown: 2 Turns. Requires: Support
 - **Increased Upkeep**: Upkeep increases by 20 Gold.
 
 ## Bloodblight
@@ -86,7 +86,7 @@ This unit gains:
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Bloodblight** (damage 25 Physical, accuracy Always Hits, range 4, single-use action): Target enemy unit and 2 others within 2 hexes: ; Sustain damage.; Gain 3 Blood Parasite for 3 Turns. Cooldown: 3 Turns Requires: Magic, Debuff
+- **Bloodblight** (damage 25 Physical, accuracy Always Hits, range 4, single-use action): Target enemy unit and 2 others within 2 hexes: Sustain damage. Gain 3 Blood Parasite for 3 Turns. Cooldown: 3 Turns. Requires: Magic, Debuff
 - **Increased Upkeep**: Upkeep increases by 20 Gold.
 
 ## Brawn Rune
@@ -165,7 +165,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Curse to Undeath** (damage 10 Frost, accuracy Always Hits, range 6, full action): Enemy units in a 2-hex radius: ; Sustain damage.; Gain 2 Status Vulnerability for 3 Turns.; Become Soulbound until end of combat. Cooldown: 3 Turns Requires: Magic, Debuff
+- **Curse to Undeath** (damage 10 Frost, accuracy Always Hits, range 6, full action): Enemy units in a 2-hex radius: Sustain damage. Gain 2 Status Vulnerability for 3 Turns. Become Soulbound until end of combat. Cooldown: 3 Turns. Requires: Magic, Debuff
 - **Soulbound Anguish**: At the start of the turn, enemy units with Soulbound sustain 8 Frost Damage.
 
 ## Damage Rune
@@ -187,7 +187,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Dark Sacrament** (damage 20 Blight, accuracy Always Hits, range 4, single-use action): Target corpse explodes and all enemy units in a 2-hex radius from it sustain damage. Diseased: Base 120% chance of inflicting Diseased for 3 Turns. Decaying: Base 120% chance of inflicting Decaying for 3 Turns. Cooldown: 1 Turns Requires: Magic, Debuff
+- **Dark Sacrament** (damage 20 Blight, accuracy Always Hits, range 4, single-use action): Target corpse explodes and all enemy units in a 2-hex radius from it sustain damage. Diseased: Base 120% chance of inflicting Diseased for 3 Turns. Decaying: Base 120% chance of inflicting Decaying for 3 Turns. Cooldown: 1 Turns. Requires: Magic, Debuff
 - **Undead Servants**: At the start of combat, conjure a Zombie.
 - **Increased Upkeep**: Upkeep increases by 10 Gold.
 
@@ -203,15 +203,15 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC GIANTKINGS)
 
 
-- **Disruption Rune**: - Base attacks have a base 60% chance of inflicting Disrupted for 2 Turns.; Attacks deal +30% damage to Magic Origin units.
+- **Disruption Rune**: Base attacks have a base 60% chance of inflicting Disrupted for 2 Turns. Attacks deal +30% damage to Magic Origin units.
 
 ## Dreadful
 
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Dread** (accuracy Always Hits, range 3, free action): Target enemy unit: ; Gains 3 Torment until the end of combat.; Gains Status Vulnerability for 3 Turns. Cooldown: 2 Turns Requires: Debuff, Single Shot
-- **Demoralizer**: This units attacks deal 4 Morale damage. Doubled against High morale targets.  Effects are increased for Single Shot attacks.
+- **Dread** (accuracy Always Hits, range 3, free action): Target enemy unit: Gains 3 Torment until the end of combat. Gains Status Vulnerability for 3 Turns. Cooldown: 2 Turns. Requires: Debuff, Single Shot
+- **Demoralizer**: This units attacks deal 4 Morale damage. Doubled against High morale targets. Effects are increased for Single Shot attacks.
 - **Increased Upkeep**: Upkeep increases by 10 Gold.
 
 ## Elder of Astral
@@ -301,7 +301,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Exsanguinate** (damage 40 Physical, accuracy Always Hits, range 6, full action): Target: ; Sustains damage which ignores 50% of Defense and Resistance.; Gains 3 Bleeding for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Magic, Debuff, Base, Single Shot
+- **Exsanguinate** (damage 40 Physical, accuracy Always Hits, range 6, full action): Target: Sustains damage which ignores 50% of Defense and Resistance. Gains 3 Bleeding for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Magic, Debuff, Base, Single Shot
 - **Increased Upkeep**: Upkeep increases by 20 Gold.
 
 ## Festering Spine
@@ -309,7 +309,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Festering Spine** (damage 40 Blight, accuracy 90%, range 4, single-use action): Target enemy unit: ; Sustains damage.; Gains 4 Poisoned for 3 Turns.; Gains 2 Decaying for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Missile, Magic, Debuff, Base
+- **Festering Spine** (damage 40 Blight, accuracy 90%, range 4, single-use action): Target enemy unit: Sustains damage. Gains 4 Poisoned for 3 Turns. Gains 2 Decaying for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Missile, Magic, Debuff, Base
 - **Increased Upkeep**: Upkeep increases by 20 Gold.
 
 ## Fleshsculptor
@@ -337,105 +337,105 @@ Increases unit upkeep by 10 Mana.
 (type signature; DLC ELDRITCHREALMS)
 
 
-- **Forgotten Tome of Arcfire**: At the start of combat, gain one of these abilities: ; Arcfire Typhoon; Blazing Chain Lightning; Arcfire Weapons  Every 4 Turns lose the ability and regain another from the list, potentially the same.
+- **Forgotten Tome of Arcfire**: At the start of combat, gain one of these abilities: Arcfire Typhoon; Blazing Chain Lightning; Arcfire Weapons. Every 4 Turns lose the ability and regain another from the list, potentially the same.
 
 ## Forgotten Tome of Blessings
 
 (type signature; DLC ELDRITCHREALMS)
 
 
-- **Forgotten Tome of Blessings**: At the start of combat, gain one of these abilities: ; Renew; Blessed Champion; Blessed Judgment  Every 4 Turns lose the ability and regain another from the list, potentially the same.
+- **Forgotten Tome of Blessings**: At the start of combat, gain one of these abilities: Renew; Blessed Champion; Blessed Judgment. Every 4 Turns lose the ability and regain another from the list, potentially the same.
 
 ## Forgotten Tome of Curses
 
 (type signature; DLC ELDRITCHREALMS)
 
 
-- **Forgotten Tome of Curses**: At the start of combat, gain one of these abilities: ; Frost Hex; Fire Hex; Necro Hex  Every 4 Turns lose the ability and regain another from the list, potentially the same.
+- **Forgotten Tome of Curses**: At the start of combat, gain one of these abilities: Frost Hex; Fire Hex; Necro Hex. Every 4 Turns lose the ability and regain another from the list, potentially the same.
 
 ## Forgotten Tome of Pestilence
 
 (type signature; DLC ELDRITCHREALMS)
 
 
-- **Forgotten Tome of Pestilence**: At the start of combat, gain one of these abilities: ; Rot Away; Mass Plague; Debilitation  Every 4 Turns lose the ability and regain another from the list, potentially the same.
+- **Forgotten Tome of Pestilence**: At the start of combat, gain one of these abilities: Rot Away; Mass Plague; Debilitation. Every 4 Turns lose the ability and regain another from the list, potentially the same.
 
 ## Forgotten Tome of Sorcery
 
 (type signature; DLC ELDRITCHREALMS)
 
 
-- **Forgotten Tome of Sorcery**: At the start of combat, gain one of these abilities: ; Cosmic Barrage; Astral Storm; Astral Rift  Every 4 Turns lose the ability and regain another from the list, potentially the same.
+- **Forgotten Tome of Sorcery**: At the start of combat, gain one of these abilities: Cosmic Barrage; Astral Storm; Astral Rift. Every 4 Turns lose the ability and regain another from the list, potentially the same.
 
 ## Fury Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Fury Rune**: Unit: ; Has Very Fast Movement; Gains a stack of Strengthened and Fortune for 3 Turns when it uses an attack ability.
+- **Fury Rune**: Unit: Has Very Fast Movement; Gains a stack of Strengthened and Fortune for 3 Turns when it uses an attack ability.
 
 ## Grand Brawn Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Brawn Rune**: While army leader, all non-hero units in the army gain: ; +15% damage on base attacks.; A base 90% chance of applying Bleeding for 3 Turns on base attacks, Effects are increased for Single Shot attacks.
+- **Grand Brawn Rune**: While army leader, all non-hero units in the army gain: +15% damage on base attacks. A base 90% chance of applying Bleeding for 3 Turns on base attacks, Effects are increased for Single Shot attacks.
 
 ## Grand Cascading Rune (Frost Damage)
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: ; Killing a unit deals 10 Frost Damage to up to 2 other enemy units within 2 hexes.
+- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: Killing a unit deals 10 Frost Damage to up to 2 other enemy units within 2 hexes.
 
 ## Grand Cascading Rune (Fire Damage)
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: ; Killing a unit deals 10 Fire Damage to up to 2 other enemy units within 2 hexes.
+- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: Killing a unit deals 10 Fire Damage to up to 2 other enemy units within 2 hexes.
 
 ## Grand Cascading Rune (Physical Damage)
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: ; Killing a unit deals 10 Physical Damage to up to 2 other enemy units within 2 hexes.
+- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: Killing a unit deals 10 Physical Damage to up to 2 other enemy units within 2 hexes.
 
 ## Grand Cascading Rune (Lightning Damage)
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: ; Killing a unit deals 10 Lightning Damage to up to 2 other enemy units within 2 hexes.
+- **Grand Cascading Rune**: While army leader, all non-hero units in the army gain: Killing a unit deals 10 Lightning Damage to up to 2 other enemy units within 2 hexes.
 
 ## Grand Disruption Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Disruption Rune**: While army leader, all non-hero units in the army gain: ; Base attacks have a base 60% chance of inflicting Disrupted for 2 Turns, Effects are increased for Single Shot attacks..; Attacks deal +20% damage to Magic Origin units.
+- **Grand Disruption Rune**: While army leader, all non-hero units in the army gain: Base attacks have a base 60% chance of inflicting Disrupted for 2 Turns, Effects are increased for Single Shot attacks.. Attacks deal +20% damage to Magic Origin units.
 
 ## Grand Fury Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Fury Rune**: While army leader, all non-hero units in the army: ; Gain a stack of Strengthened and Fortune for 3 Turns when it uses an attack ability.
+- **Grand Fury Rune**: While army leader, all non-hero units in the army: Gain a stack of Strengthened and Fortune for 3 Turns when it uses an attack ability.
 
 ## Grand Life Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Life Rune**: While army leader, all non-hero units in the army gain: ; Natural Regeneration
+- **Grand Life Rune**: While army leader, all non-hero units in the army gain: Natural Regeneration
 
 ## Grand Safeguard Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Grand Safeguard Rune**: While army leader, all non-hero units in the army gain: ; When this unit goes below 60% of its maximum hit points: ; Gain 2 stack of Bolstered Defense for 3 Turns.; Gain 2 stack of Bolstered Resistance for 3 Turns.; Gain 5 Temporary Hit Points per stack of Bolstered Defense and Bolstered Resistance.
+- **Grand Safeguard Rune**: While army leader, all non-hero units in the army gain: When this unit goes below 60% of its maximum hit points: Gain 2 stack of Bolstered Defense for 3 Turns. Gain 2 stack of Bolstered Resistance for 3 Turns. Gain 5 Temporary Hit Points per stack of Bolstered Defense and Bolstered Resistance.
 
 ## Gravemarch
 
@@ -450,7 +450,7 @@ Increases unit upkeep by 10 Mana.
 (type signature; DLC GIANTKINGS)
 
 
-- **Guard Rune**: Unit has: ; +1 Defense; +1 Resistance
+- **Guard Rune**: Unit has: +1 Defense; +1 Resistance
 
 ## Havoc Caster
 
@@ -475,49 +475,49 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC Base)
 
 
-- **Astral Dedication**: While army leader, all non-hero units in the army gain: ; Attacks ignore up to 2 Status Resistance, this effect stacks.
+- **Astral Dedication**: While army leader, all non-hero units in the army gain: Attacks ignore up to 2 Status Resistance, this effect stacks.
 
 ## Initiate of Chaos
 
 (type signature; DLC Base)
 
 
-- **Chaos Dedication**: While army leader, all non-hero units in the army gain: ; +10% Critical Hit Chance, this effect stacks.
+- **Chaos Dedication**: While army leader, all non-hero units in the army gain: +10% Critical Hit Chance, this effect stacks.
 
 ## Initiate of Materium
 
 (type signature; DLC Base)
 
 
-- **Materium Dedication**: While army leader, all non-hero units in the army gain: ; +1 Defense, this effect stacks.
+- **Materium Dedication**: While army leader, all non-hero units in the army gain: +1 Defense, this effect stacks.
 
 ## Initiate of Nature
 
 (type signature; DLC Base)
 
 
-- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 Hit Points, this effect stacks.
+- **Nature Dedication**: While army leader, all non-hero units in the army gain: +10 Hit Points, this effect stacks.
 
 ## Initiate of Order
 
 (type signature; DLC Base)
 
 
-- **Order Dedication**: While army leader, all non-hero units in the army gain: ; +1 Resistance, this effect stacks.
+- **Order Dedication**: While army leader, all non-hero units in the army gain: +1 Resistance, this effect stacks.
 
 ## Initiate of Shadow
 
 (type signature; DLC Base)
 
 
-- **Shadow Dedication**: While army leader, all non-hero units in the army gain: ; +2 damage on Flanking attacks, this effect stacks.  Effects are increased for Single Shot attacks.
+- **Shadow Dedication**: While army leader, all non-hero units in the army gain: +2 damage on Flanking attacks, this effect stacks. Effects are increased for Single Shot attacks.
 
 ## Life Rune
 
 (type signature; DLC GIANTKINGS)
 
 
-- **Undying**: When killed, this unit will revive with 50% of its total Hit Points: ; After 2 Combat Turns.; If side is victorious in battle.  Can only be triggered once per battle.
+- **Undying**: When killed, this unit will revive with 50% of its total Hit Points: After 2 Combat Turns. If side is victorious in battle. Can only be triggered once per battle.
 
 ## Madcaster
 
@@ -535,49 +535,49 @@ Increases unit upkeep by 10 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Marrow Drinker**: - Attacks inflict Bleeding for 3 Turns, increased for Single Shots.; When an enemy suffers damage from Bleeding, gain 2 Temporary Hit Points.
+- **Marrow Drinker**: Attacks inflict Bleeding for 3 Turns, increased for Single Shots. When an enemy suffers damage from Bleeding, gain 2 Temporary Hit Points.
 
 ## Master of Astral
 
 (type signature; DLC Base)
 
 
-- **Astral Dedication**: While army leader, all non-hero units in the army gain: ; Attacks ignore up to 2 Status Resistance, this effect stacks.
+- **Astral Dedication**: While army leader, all non-hero units in the army gain: Attacks ignore up to 2 Status Resistance, this effect stacks.
 
 ## Master of Chaos
 
 (type signature; DLC Base)
 
 
-- **Chaos Dedication**: While army leader, all non-hero units in the army gain: ; +10% Critical Hit Chance, this effect stacks.
+- **Chaos Dedication**: While army leader, all non-hero units in the army gain: +10% Critical Hit Chance, this effect stacks.
 
 ## Master of Materium
 
 (type signature; DLC Base)
 
 
-- **Materium Dedication**: While army leader, all non-hero units in the army gain: ; +1 Defense, this effect stacks.
+- **Materium Dedication**: While army leader, all non-hero units in the army gain: +1 Defense, this effect stacks.
 
 ## Master of Nature
 
 (type signature; DLC Base)
 
 
-- **Nature Dedication**: While army leader, all non-hero units in the army gain: ; +10 Hit Points, this effect stacks.
+- **Nature Dedication**: While army leader, all non-hero units in the army gain: +10 Hit Points, this effect stacks.
 
 ## Master of Order
 
 (type signature; DLC Base)
 
 
-- **Order Dedication**: While army leader, all non-hero units in the army gain: ; +1 Resistance, this effect stacks.
+- **Order Dedication**: While army leader, all non-hero units in the army gain: +1 Resistance, this effect stacks.
 
 ## Master of Shadow
 
 (type signature; DLC Base)
 
 
-- **Shadow Dedication**: While army leader, all non-hero units in the army gain: ; +2 damage on Flanking attacks, this effect stacks.  Effects are increased for Single Shot attacks.
+- **Shadow Dedication**: While army leader, all non-hero units in the army gain: +2 damage on Flanking attacks, this effect stacks. Effects are increased for Single Shot attacks.
 
 ## Materium Aspect
 
@@ -658,14 +658,14 @@ This unit gains:
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Nightlord**: - Unit is immune to Blind.; While in Sunless, Underground, or Gloom this unit has: ; +20% damage.; Natural Regeneration.
+- **Nightlord**: Unit is immune to Blind. While in Sunless, Underground, or Gloom this unit has: +20% damage. Natural Regeneration.
 
 ## Nightsworn
 
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Bat Swarm** (damage 8 Physical, accuracy Always Hits, range 0, free action): Adjacent enemy units: ; Sustain damage.; Have a base 90% chance of becoming Blind for 1 Turn. Cooldown: 2 Turns Requires: Debuff, Melee
+- **Bat Swarm** (damage 8 Physical, accuracy Always Hits, range 0, free action): Adjacent enemy units: Sustain damage. Have a base 90% chance of becoming Blind for 1 Turn. Cooldown: 2 Turns. Requires: Debuff, Melee
 - **Night Creature**: At the start of combat, conjure a Doom Bat.
 - **Increased Upkeep**: Upkeep increases by 10 Gold.
 
@@ -697,42 +697,42 @@ This unit gains:
 (type signature; DLC Base)
 
 
-- **Paragon of Astral**: While army leader, all non-hero units in the army gain: ; Magic and Missile attacks gain +1 Range.
+- **Paragon of Astral**: While army leader, all non-hero units in the army gain: Magic and Missile attacks gain +1 Range.
 
 ## Paragon of Chaos
 
 (type signature; DLC Base)
 
 
-- **Paragon of Chaos**: While army leader, all non-hero units in the army gain: ; Hastened and Strengthened at the start of combat.
+- **Paragon of Chaos**: While army leader, all non-hero units in the army gain: Hastened and Strengthened at the start of combat.
 
 ## Paragon of Materium
 
 (type signature; DLC Base)
 
 
-- **Paragon of Materium**: While army leader, all non-hero units in the army gain: ; +1 Retaliation Attack
+- **Paragon of Materium**: While army leader, all non-hero units in the army gain: +1 Retaliation Attack
 
 ## Paragon of Nature
 
 (type signature; DLC Base)
 
 
-- **Paragon of Nature**: While army leader, all non-hero units in the army gain: ; Natural Regeneration
+- **Paragon of Nature**: While army leader, all non-hero units in the army gain: Natural Regeneration
 
 ## Paragon of Order
 
 (type signature; DLC Base)
 
 
-- **Paragon of Order**: While army leader, all non-hero units in the army gain: ; Resurgence
+- **Paragon of Order**: While army leader, all non-hero units in the army gain: Resurgence
 
 ## Paragon of Shadow
 
 (type signature; DLC Base)
 
 
-- **Paragon of Shadow**: While army leader, this unit and all units in the army gain: ; Universal Camouflage; Slippery; Fleeting
+- **Paragon of Shadow**: While army leader, this unit and all units in the army gain: Universal Camouflage; Slippery; Fleeting
 
 ## Parasitic Communion
 
@@ -745,7 +745,7 @@ Blood Communion now has a base 120% chance of inflicting Blood Parasite for 3 Tu
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Profane Body Mastery**: Unit has: ; Very Fast Movement; +15% Evasion; +20 Hit Points
+- **Profane Body Mastery**: Unit has: Very Fast Movement; +15% Evasion; +20 Hit Points
 
 ## Puppeteer
 
@@ -761,7 +761,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Reaper**: On kill: ; Active cooldowns are reduced by 1 Turn.; Gain +10 Hit Points for the fight.  Triggers once per turn.
+- **Reaper**: On kill: Active cooldowns are reduced by 1 Turn. Gain +10 Hit Points for the fight. Triggers once per turn.
 
 ## Reflecting Rune
 
@@ -783,7 +783,7 @@ Increases unit upkeep by 20 Mana.
 (type signature; DLC GIANTKINGS)
 
 
-- **Safeguard Rune**: When this unit goes below 60% of its maximum hit points: ; Gain 3 stack of Bolstered Defense for 3 Turns.; Gain 3 stack of Bolstered Resistance for 3 Turns.; Gain 5 Temporary Hit Points per stack of Bolstered Defense and Bolstered Resistance.
+- **Safeguard Rune**: When this unit goes below 60% of its maximum hit points: Gain 3 stack of Bolstered Defense for 3 Turns. Gain 3 stack of Bolstered Resistance for 3 Turns. Gain 5 Temporary Hit Points per stack of Bolstered Defense and Bolstered Resistance.
 
 ## Shadow Aspect
 
@@ -821,15 +821,15 @@ Bloodblight now spreads to 4 enemy units within 3 hexes.
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Supernatural Speed** (accuracy Always Hits, range 3, free action): Move to target hex. Cooldown: 1 Turns Requires: Movement, Teleport
-- **Exceptional Speed**: This unit and all Turned Vampires under it have Very Fast Movement when not mounted.  If the Elder Vampire has Profane Body Mastery, it gains +20% Critical Hit chance instead, even when mounted.
+- **Supernatural Speed** (accuracy Always Hits, range 3, free action): Move to target hex. Cooldown: 1 Turns. Requires: Movement, Teleport
+- **Exceptional Speed**: This unit and all Turned Vampires under it have Very Fast Movement when not mounted. If the Elder Vampire has Profane Body Mastery, it gains +20% Critical Hit chance instead, even when mounted.
 
 ## Tormenting Mist
 
 (type signature; DLC THRONESOFBLOOD)
 
 
-- **Tormenting Mist** (damage 20 Frost, accuracy Always Hits, range 0, single-use action): Enemy units within a 2-hex radius: ; Sustain damage.; Lose 10 Morale.; Gain 4 stacks of Torment until end of combat.  This unit then enters Defense Mode and gains 2 Evasion for 3 Turns. Cooldown: 3 Turns Requires: Debuff, Magic
+- **Tormenting Mist** (damage 20 Frost, accuracy Always Hits, range 0, single-use action): Enemy units within a 2-hex radius: Sustain damage. Lose 10 Morale. Gain 4 stacks of Torment until end of combat. This unit then enters Defense Mode and gains 2 Evasion for 3 Turns. Cooldown: 3 Turns. Requires: Debuff, Magic
 - **Increased Upkeep**: Upkeep increases by 20 Gold.
 
 ## Vampiric Rage

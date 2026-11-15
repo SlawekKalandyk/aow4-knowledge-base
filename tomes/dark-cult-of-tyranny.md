@@ -19,4 +19,4 @@ This research is available to Rulers with the Dark culture.
 - [Mark of Tyranny](../spells/mark-of-tyranny.md) ([World Map] Unit Enchantment): Grants non-Dark units:
   
   - Cult of Tyranny
-- Dark Forge (Initial City Upgrade): - +10 Gold.; +5 Production per adjacent Quarry, Mine, or Forester.; Counts as a Mine.
+- Dark Forge (Initial City Upgrade): +10 Gold. +5 Production per adjacent Quarry, Mine, or Forester. Counts as a Mine.

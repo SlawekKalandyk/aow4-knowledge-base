@@ -8,8 +8,8 @@
 
 ## Abilities
 
-- **Ballista** (damage 30 Physical, accuracy 90%, range 3-12, full action): Deals damage to a target over a long range. Ignores line of sight penalties. Cooldown: 1 Turns Starts on cooldown Requires: Missile, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Ballista** (damage 30 Physical, accuracy 90%, range 3-12, full action): Deals damage to a target over a long range. Ignores line of sight penalties. Cooldown: 1 Turns. Starts on cooldown. Requires: Missile, Base, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,7 +21,7 @@
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Siegecraft**: Normally only accessible during Siege battles. Often required construction.
 
 ## Rank-up rewards

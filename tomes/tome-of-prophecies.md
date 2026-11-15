@@ -32,4 +32,4 @@ Prevent enemy attacks and foresee the downfall of your enemies.
   - All friendly units gain Precognition.
   - All friendly units gain +20% damage for the turn.
 - [Oracle](../units/oracle.md) (Unit): A Support Unit that can foresee the future and use that knowledge to strengthen and protect other units.
-- Temple of the Prophet (Initial City Upgrade): - +15 Mana.; +5 Knowledge per adjacent Conduit.; Counts as a Conduit.
+- Temple of the Prophet (Initial City Upgrade): +15 Mana. +5 Knowledge per adjacent Conduit. Counts as a Conduit.

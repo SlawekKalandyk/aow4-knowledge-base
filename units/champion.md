@@ -9,14 +9,14 @@
 
 ## Abilities
 
-- **Storm Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Sundered Defense: Base 90% chance of inflicting 2 Sundered Defense for 3 Turns. Enter Stormstance: Gain Stormstance Requires: Melee, Base, Single Shot, Storm Strike
-- **Wind Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Knockback Combo: Third attack in a turn pushes the target back 1 hex. Enter Windstance: Gain Windstance Requires: Melee, Base, Wind Strike
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Storm Strike** (damage 24 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Sundered Defense: Base 90% chance of inflicting 2 Sundered Defense for 3 Turns. Enter Stormstance: Gain Stormstance. Requires: Melee, Base, Single Shot, Storm Strike
+- **Wind Strike** (damage 16 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Knockback Combo: Third attack in a turn pushes the target back 1 hex. Enter Windstance: Gain Windstance. Requires: Melee, Base, Wind Strike
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
 - **Empowering Momentum**: After moving at least 3 hexes, gain Momentum until the end of the Turn.
-- **War Stances**: This unit has two stances, the active stance depends on the last one used during its turn: ; Storm Strike grants the defensive Stormstance.; Wind Strikes grants the mobile Windstance.; Swapping from one stance to another grants Building Momentum.
+- **War Stances**: This unit has two stances, the active stance depends on the last one used during its turn: Storm Strike grants the defensive Stormstance. Wind Strikes grants the mobile Windstance. Swapping from one stance to another grants Building Momentum.
 
 ## Unit type traits
 

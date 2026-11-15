@@ -8,7 +8,7 @@
 
 ## Abilities
 
-- **Spawn Splitterling** (accuracy Always Hits, range 1, full action): Conjure a Splitterling adjacent to this unit. Cooldown: 1 Turns Requires: Summoning
+- **Spawn Splitterling** (accuracy Always Hits, range 1, full action): Conjure a Splitterling adjacent to this unit. Cooldown: 1 Turns. Requires: Summoning
 - **Skip Unit**: Skip this unit for the rest of the turn.
 
 ## Passives
@@ -23,9 +23,9 @@
 ## Unit type traits
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
-- **Tower**: A tower unit, which: ; Leaves no corpse when killed.; Is Immobilized.; Is immune to morale changes.; Immune to Flanking.
+- **Tower**: A tower unit, which: Leaves no corpse when killed. Is Immobilized. Is immune to morale changes. Immune to Flanking.
 
 ## Rank-up rewards
 

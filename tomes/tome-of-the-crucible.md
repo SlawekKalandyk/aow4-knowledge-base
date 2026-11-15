@@ -44,4 +44,4 @@ Bury your enemies in lava and shape the land using the destructive forces of bot
   - Enemy Units in the province sustain 20 Fire Damage.
   - The province gains Ashlands.
   - The province loses River, Grassland, Swamp, Snow, Ice, Sand, Cavern Floor, and Gloom.
-- Great Foundry (Initial City Upgrade): - +10 Gold.; Per adjacent Mine: ; +5 Draft.; +3 Gold. ; Counts as a Mine.; Allows for the drafting of Magma Spirit.
+- Great Foundry (Initial City Upgrade): +10 Gold. Per adjacent Mine: +5 Draft. +3 Gold. Counts as a Mine. Allows for the drafting of Magma Spirit.

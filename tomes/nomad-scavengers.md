@@ -18,4 +18,4 @@ This research is available to Rulers with the Nomad culture. They specialize in 
 - [Scavenger's Bags](../spells/scavengers-bags.md) ([World Map] Unit Enchantment): Grant non-Culture units:
   
   - Scavenger
-- Scavenging Camp (Initial City Upgrade): - +10 Gold.; +10 Gold for this and each adjacent province containing a Resource Node.; Counts as a Mine.
+- Scavenging Camp (Initial City Upgrade): +10 Gold. +10 Gold for this and each adjacent province containing a Resource Node. Counts as a Mine.

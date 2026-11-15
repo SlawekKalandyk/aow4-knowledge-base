@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 10 Physical 4 Frost, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Drink!** (accuracy Always Hits, range 0, single-use action): Unit gains: ; 2 Strengthened; Frigid Belch ability. Cooldown: 3 Turns
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Drink!** (accuracy Always Hits, range 0, single-use action): Unit gains: 2 Strengthened; Frigid Belch ability. Cooldown: 3 Turns
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -21,7 +21,7 @@
 
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 
 ## Rank-up rewards
 

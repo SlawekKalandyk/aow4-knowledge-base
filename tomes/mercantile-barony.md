@@ -20,4 +20,4 @@ This research is available to Rulers of the Mercantile Barony subculture.
   
   - Bounty Hunter
   - Support units gain Assign Bounty instead.
-- Trade District (Initial City Upgrade): - +10 Gold  For each Trade Route connecting to or from this city, the city gains: ; +10 Gold
+- Trade District (Initial City Upgrade): +10 Gold. For each Trade Route connecting to or from this city, the city gains: +10 Gold

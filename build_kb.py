@@ -137,9 +137,32 @@ def clean(s):
     return s.strip()
 
 
+def flatten(text):
+    """Join already-cleaned lines into one: list items with '; ', other lines as sentences ('. ' added when a line
+    has no end punctuation); after ':' or an end mark just a space ("Razing a City: Takes -2 Turns. Gives 30 Gold")."""
+    out = ""
+    for line in text.split("\n"):
+        line = line.strip()
+        item = line.startswith("- ")
+        line = line[2:].strip() if item else line
+        if not line.strip(".,;: "):  # empty, or a stray full stop left after a closed list
+            continue
+        if not out:
+            out = line
+        elif re.search(r"[.!?:;]$", out):
+            out += " " + line
+        else:
+            out += ("; " if item else ". ") + line
+    return out
+
+
+def join_items(items):
+    """One-line list of already-flat entries, joined like flatten() joins list items."""
+    return flatten("\n".join(f"- {x}" for x in items if x))
+
+
 def one_line(s, n=None):
-    s = clean(s).replace("\n- ", "; ").replace("\n", " ")
-    s = s.replace("|", "/")
+    s = flatten(clean(s)).replace("|", "/")
     return s if n is None or len(s) <= n else s[: n - 1].rstrip() + "…"
 
 
@@ -529,7 +552,7 @@ def ability_line(slug_):
     req = names(a.get("requisites"))
     if req:
         body.append("Requires: " + ", ".join(req))
-    text = " ".join(one_line(b) for b in body if b)
+    text = flatten("\n".join(one_line(b) for b in body if b))  # parts as sentences: "1 Turns. Requires: Melee"
     return f"- {head}: {text}" if text else f"- {head}"
 
 
@@ -606,8 +629,8 @@ def vision_line(s):
     aff = fmt_affinity(affinity_tags(s.get("affinity")))
     objective = loc.get(s.get("objective", ""), {}).get("objective_1", "")
     rewards = [one_line(v) for r in s.get("rewards", []) for k, v in loc.get(r, {}).items() if k not in ("id", "DLC")]
-    return (f"- **{clean(s['name'])}** ({aff + ', ' if aff else ''}DLC {dlc(s)}): objective: {one_line(objective) or '?'}"
-            + (f"; rewards: {' '.join(rewards)}" if rewards else ""))
+    return (f"- **{clean(s['name'])}** ({aff + ', ' if aff else ''}DLC {dlc(s)}): "
+            + join_items([f"objective: {one_line(objective) or '?'}", rewards and f"rewards: {flatten(chr(10).join(rewards))}"]))
 
 
 def build_traits():
@@ -623,7 +646,7 @@ def build_traits():
             effects = names(t.get("effect_descriptions"))
             aff = trait_affinity(t.get("affinities"))
             rows.append([f"[{name}]({fname}){evil}", t.get("point_cost", ""), t.get("group_name", ""), aff, dlc(t),
-                         "; ".join(effects)])
+                         join_items(effects)])
             lines = [f"# {name}{evil}", "", f"- Type: {typ} trait", f"- Point cost: {t.get('point_cost', '')}"]
             if t.get("group_name"):
                 lines.append(f"- Group: {t['group_name']}")
@@ -637,7 +660,7 @@ def build_traits():
                 lines.append(f"- Not available to cultures: {', '.join(culture_incompatible[name])}")
             trig = destiny_triggers.get(t.get("id"))
             if trig:
-                lines.append("- Earned when: " + "; ".join(one_line(e.get("entry")) for e in trig.get("trigger", [])))
+                lines.append("- Earned when: " + join_items(one_line(e.get("entry")) for e in trig.get("trigger", [])))
             granted = origin_spells.get(name) or origin_spells.get(t.get("id"))
             if granted:
                 lines.append("- Grants spells: " + ", ".join(spell_link(s["id"], "../../") for s in granted.get("spell", [])))
@@ -1019,7 +1042,7 @@ def build_heroes():
             if a.get("reward_renown"):
                 rew.append(f"+{a['reward_renown']} Renown")
             rep = ", repeatable" if a.get("repeatable") else ""
-            lines.append(f"- {a.get('type', '')} ambition{rep}: {one_line(a.get('screen_description'))} -> {'; '.join(rew)}")
+            lines.append(f"- {a.get('type', '')} ambition{rep}: {one_line(a.get('screen_description'))} -> {join_items(rew)}")
         lines.append("")
     write(KB / "heroes" / "destinies.md", "\n".join(lines))
     idx.append("- [Hero destinies](destinies.md)")

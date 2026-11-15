@@ -26,4 +26,4 @@ Inflict your enemies with Negative Status Effects and mitigate them on your own 
 - [Mysterious Tonic](../spells/mysterious-tonic.md) ([World Map] Unit Enchantment): Grants enchanted units:
   
   - Distribute Tonic, granting Positive Status Effects while removing a negative one.
-- Alchemist's Lab (Initial City Upgrade): - +10 Knowledge.; +3 Knowledge per adjacent unique Province Improvement.; Counts as a Research Post.
+- Alchemist's Lab (Initial City Upgrade): +10 Knowledge. +3 Knowledge per adjacent unique Province Improvement. Counts as a Research Post.

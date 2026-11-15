@@ -13,21 +13,21 @@ Compatible weapons:
 (type normal; requires Draining Magic; DLC Base)
 
 
-- **Awaken Corrupted Soul** (accuracy Always Hits, range 4, single-use action): Summon a Tier 3 Corrupt Soul next to a target enemy with Low Morale or worse. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns Requires: Summoning
+- **Awaken Corrupted Soul** (accuracy Always Hits, range 4, single-use action): Summon a Tier 3 Corrupt Soul next to a target enemy with Low Morale or worse. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns. Requires: Summoning
 
 ## Bend Broken Will
 
 (type normal; requires Willbreaker; DLC Base)
 
 
-- **Bend Broken Will** (accuracy Always Hits, range 3, free action): Target enemy unit with Low Morale or worse: ; Base 120% chance of becoming Dominated for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns Requires: Debuff
+- **Bend Broken Will** (accuracy Always Hits, range 3, free action): Target enemy unit with Low Morale or worse: Base 120% chance of becoming Dominated for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns. Requires: Debuff
 
 ## Blood Pact
 
 (type normal; can't be taken with Hex Pact; DLC Base)
 
 
-- **Blood Pact** (accuracy Always Hits, range 4, free action): Link with the target friendly unit; while active, target gains: ; Any damage dealt to the caster is reduced by 50% and dealt to the target as well. The caster gains: ; +20% damage.; Ignore 2 Status Resistance. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
+- **Blood Pact** (accuracy Always Hits, range 4, free action): Link with the target friendly unit; while active, target gains: Any damage dealt to the caster is reduced by 50% and dealt to the target as well. The caster gains: +20% damage. Ignore 2 Status Resistance. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
 
 ## Bone Wyvern Keeper
 
@@ -48,7 +48,7 @@ This effect also counts for status effects inflicted by the same attack.
 (type normal; requires any of Unstable Summons, Graceful Servants, Infested Summons; DLC Base)
 
 
-- **Claim Soul** (damage 30 Blight, accuracy Always Hits, range 3, single-use action): Deals damage to target unit, ignoring Resistance. On target killed:: - Heal caster for 20 Temporary Hit Point.; Target non-hero unit is immediately revived as a Wightborn on the caster's side until the end of combat.; Caster Refreshes all ability cooldowns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Magic, Single Shot, Can't be refreshed
+- **Claim Soul** (damage 30 Blight, accuracy Always Hits, range 3, single-use action): Deals damage to target unit, ignoring Resistance. On target killed:: Heal caster for 20 Temporary Hit Point. Target non-hero unit is immediately revived as a Wightborn on the caster's side until the end of combat. Caster Refreshes all ability cooldowns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Magic, Single Shot, Can't be refreshed
 
 ## Culling Magic
 
@@ -65,7 +65,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Hexseeking Bolts, Withering Magic; can't be taken with Siphon Blessing; DLC Base)
 
 
-- **Curse** (accuracy Always Hits, range 6, single-use action): Target enemy units in a 1-hex radius suffer: ; 10 Blight Damage. Decaying: Inflicts 2 stacks of Decaying for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Debuff, Magic
+- **Curse** (accuracy Always Hits, range 6, single-use action): Target enemy units in a 1-hex radius suffer: 10 Blight Damage. Decaying: Inflicts 2 stacks of Decaying for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Debuff, Magic
 
 ## Dark Ritual
 
@@ -99,7 +99,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires Hex of Broken Spirit; DLC Base)
 
 
-- **Morale Drain**: - Repeating attacks steal 3 Morale per hit.; Single attacks steal 6 Morale.
+- **Morale Drain**: Repeating attacks steal 3 Morale per hit. Single attacks steal 6 Morale.
 
 ## Empowered Pacts
 
@@ -129,7 +129,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Draining Magic, Fate Magic; DLC Base)
 
 
-- **Feed on Despair**: Gain: ; Cruel; When any enemy unit Fumbles, this unit gains +5 Max Hit Point until the end of combat.
+- **Feed on Despair**: Gain: Cruel; When any enemy unit Fumbles, this unit gains +5 Max Hit Point until the end of combat.
 
 ## Graceful Servants
 
@@ -143,7 +143,7 @@ Effects are increased for Single Shot attacks.
 (type normal; can't be taken with Blood Pact; DLC Base)
 
 
-- **Hex Pact** (accuracy Always Hits, range 8, free action): Link to target enemy unit, each turn the target: ; Suffers 1 Misfortune; Suffers 1 Sundered Resistance; Suffers 1 Sundered Defense Cooldown: 2 Turns Requires: Magic
+- **Hex Pact** (accuracy Always Hits, range 8, free action): Link to target enemy unit, each turn the target: Suffers 1 Misfortune; Suffers 1 Sundered Resistance; Suffers 1 Sundered Defense. Cooldown: 2 Turns. Requires: Magic
 
 ## Hex of Broken Spirit
 
@@ -167,7 +167,7 @@ Attacks and debuff abilities against the target of Hex Pact:
 (type normal; requires any of Disenchanting Magic, Empowered Pacts, Ritualized Focus; DLC Base)
 
 
-- **Infectious Affliction** (accuracy Always Hits, range 5, single-use action): Target enemy unit and all connected units: ; Gain Afflicted for 3 Turns.; Gain Diseased for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Debuff
+- **Infectious Affliction** (accuracy Always Hits, range 5, single-use action): Target enemy unit and all connected units: Gain Afflicted for 3 Turns. Gain Diseased for 3 Turns. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Requires: Debuff
 
 ## Infested Summons
 
@@ -194,7 +194,7 @@ Blood Pact gains:
 (type normal; requires any of Bone Wyvern Keeper, Undead Retinue; can't be taken with Dark Ritual; DLC Base)
 
 
-- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: ; Friendly Undead corpse is revived with 60% of its total Hit Points.; Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support, Summoning
+- **Raise Undead** (accuracy Always Hits, range 4, single-use action): Target: Friendly Undead corpse is revived with 60% of its total Hit Points. Non-Undead corpse is raised as a Zombie. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support, Summoning
 
 ## Reclaiming Attacks
 
@@ -225,7 +225,7 @@ Effects are increased for Single Shot attacks.
 (type normal; requires any of Withering Magic, Pact of Eternal Servitude; can't be taken with Curse; DLC Base)
 
 
-- **Siphon Blessing** (accuracy Always Hits, range 3, leave-one action): Steal all Positive Status Effects from the target unit. Cooldown: 3 Turns Requires: Debuff
+- **Siphon Blessing** (accuracy Always Hits, range 3, leave-one action): Steal all Positive Status Effects from the target unit. Cooldown: 3 Turns. Requires: Debuff
 
 ## Sundering Magic
 
@@ -242,7 +242,7 @@ Effects are increased for Single Shot attacks.
 (type normal; DLC Base)
 
 
-- **Transfer Life** (accuracy Always Hits, range 4, free action): Target friendly unit gains +10 Temporary Hit Point and Strengthened. This ability cooldown refreshes when: ; Units summoned by the caster die.; This unit kills an enemy. Can only be used once per battle. Requires: Support
+- **Transfer Life** (accuracy Always Hits, range 4, free action): Target friendly unit gains +10 Temporary Hit Point and Strengthened. This ability cooldown refreshes when: Units summoned by the caster die. This unit kills an enemy. Can only be used once per battle. Requires: Support
 
 ## Tuned Magic
 
@@ -268,7 +268,7 @@ Summoned units gain Decaying Dissolution.
 (type normal; requires Culling Magic; DLC Base)
 
 
-- **Warseeker**: When this unit kills an enemy: ; Gains Warseeker for 2 Turns.; This effect stacks up to 3 times.
+- **Warseeker**: When this unit kills an enemy: Gains Warseeker for 2 Turns. This effect stacks up to 3 times.
 
 ## Weakening Magic
 

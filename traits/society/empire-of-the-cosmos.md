@@ -7,9 +7,9 @@
 
 ## Effects
 
-- Having 1 of each Affinity grants: ; +20 Mana; Tier III tomes have no affinity requirements.
-- Having 2 of each Affinity grants: ; +20 Knowledge; Tier IV tomes have no affinity requirements.
-- Having 3 of each Affinity grants: ; +20 Imperium; Tier V tomes have no affinity requirements.
+- Having 1 of each Affinity grants: +20 Mana; Tier III tomes have no affinity requirements.
+- Having 2 of each Affinity grants: +20 Knowledge; Tier IV tomes have no affinity requirements.
+- Having 3 of each Affinity grants: +20 Imperium; Tier V tomes have no affinity requirements.
 
 ## Starting bonus
 

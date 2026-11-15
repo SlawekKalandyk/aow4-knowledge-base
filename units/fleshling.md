@@ -9,12 +9,12 @@
 
 ## Abilities
 
-- **Flesh Explosion** (damage 20 Physical, accuracy Always Hits, range 0, single-use action): This unit explodes. Adjacent enemy units: ; Sustain damage.; For 3 Turns gain: ; 2 stacks of Bleeding.; Status Vulnerability. Requires: Melee
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Flesh Explosion** (damage 20 Physical, accuracy Always Hits, range 0, single-use action): This unit explodes. Adjacent enemy units: Sustain damage. For 3 Turns gain: 2 stacks of Bleeding. Status Vulnerability. Requires: Melee
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
-- **Curse Eater**: At the start of each turn: ; Unit loses one random Negative Status Effect and heals 10 Temporary Hit Points from it.  Disabled if the unit is Burning.
+- **Curse Eater**: At the start of each turn: Unit loses one random Negative Status Effect and heals 10 Temporary Hit Points from it. Disabled if the unit is Burning.
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Umbral Malady Immunity**: This unit is immune to Umbral Malady.
 
@@ -23,7 +23,7 @@
 - **Fighter Unit**: An outright melee unit with no obvious specialization or counters.
 - **Land Movement**: This unit can move over land hexes.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
-- **Umbral Demon**: An Umbral Demon unit with: ; -2 Fire Protection; -2 Spirit Protection; Curse Eater; Immunity to Umbral Malady
+- **Umbral Demon**: An Umbral Demon unit with: -2 Fire Protection; -2 Spirit Protection; Curse Eater; Immunity to Umbral Malady
 
 ## Rank-up rewards
 

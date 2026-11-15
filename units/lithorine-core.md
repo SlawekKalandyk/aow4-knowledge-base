@@ -11,8 +11,8 @@
 ## Abilities
 
 - **Crystal Blast** (damage 7 Physical 7 Lightning, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Volatile Charge: Base 90% chance of inflicting Volatile Charge for 2 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Core Link** (accuracy Always Hits, range 4, single-use action): Link to target friendly unit. While linked, all damage that unit takes is transferred to this unit with a 20% reduction. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Core Link** (accuracy Always Hits, range 4, single-use action): Link to target friendly unit. While linked, all damage that unit takes is transferred to this unit with a 20% reduction. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 
@@ -22,7 +22,7 @@
 ## Unit type traits
 
 - **Elemental**: An Elemental unit with immunity to Bleeding.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Support Unit**: A defensive specialist that supports friendly units from afar and protects them from magical attacks. A Support unit has Defense Mode: Warding.
 

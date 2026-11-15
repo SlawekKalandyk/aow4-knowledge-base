@@ -44,4 +44,4 @@ These boons can be purchased from an Umbral Dwelling by reaching an Eldritch Pac
   - Gain Gloom
   - Lose Chasm, River, Sand, Snow, Ice, Ashlands, Swamp, Cavern Floor, and Dungeon.
   - Enemy Units suffer -1 Frost Protection and -1 Blight Protection for 2 Turn.
-- Altar of Marching Gloom (Initial City Upgrade): - +10 Mana income.; Every Turn, 1 Province within a radius equal to the City Tier: ; Gains Gloom.; Loses Chasm, River, Swamp, Sand, Snow, Ice, and Ashlands. ; Counts as a Conduit.
+- Altar of Marching Gloom (Initial City Upgrade): +10 Mana income. Every Turn, 1 Province within a radius equal to the City Tier: Gains Gloom. Loses Chasm, River, Swamp, Sand, Snow, Ice, and Ashlands. Counts as a Conduit.

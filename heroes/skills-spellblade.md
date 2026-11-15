@@ -17,7 +17,7 @@ Compatible weapons:
 (type normal; requires Melee Mage; DLC Base)
 
 
-- **Adaptive Armor**: Once per Turn, when this unit is damaged by Magic attacks or spells it gains: ; Bolstered Resistance; Status Protection
+- **Adaptive Armor**: Once per Turn, when this unit is damaged by Magic attacks or spells it gains: Bolstered Resistance; Status Protection
 
 ## Aethermancy
 
@@ -39,7 +39,7 @@ All attacks:
 (type normal; requires Melee Mage; DLC Base)
 
 
-- **Arcfire Burst** (damage 15 Lightning 15 Fire, accuracy Always Hits, range 0, full action): All enemies within 2 hexes of you take: ; 15 Fire Damage; 15 Lightning Damage  Enter defense mode. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Magic
+- **Arcfire Burst** (damage 15 Lightning 15 Fire, accuracy Always Hits, range 0, full action): All enemies within 2 hexes of you take: 15 Fire Damage; 15 Lightning Damage. Enter defense mode. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Magic
 
 ## Cascading Evocation
 
@@ -98,7 +98,7 @@ Melee attacks and Magic Strikes now do more damage as the target loses health, u
 (type normal; can't be taken with Lightning Evoker; DLC Base)
 
 
-- **Fire Evocation** (damage 12 Fire, accuracy Always Hits, range 4, single-use action): Deals damage in a 1-hex radius. Burning: Base 90% chance of inflicting Burning for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Single Shot
+- **Fire Evocation** (damage 12 Fire, accuracy Always Hits, range 4, single-use action): Deals damage in a 1-hex radius. Burning: Base 90% chance of inflicting Burning for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Single Shot
 
 ## Flanking Skirmisher
 
@@ -144,7 +144,7 @@ When this unit kills another, it gains 3 Fortune.
 (type normal; can't be taken with Fire Evoker; DLC Base)
 
 
-- **Lightning Evocation** (damage 15 Lightning, accuracy Always Hits, range 4, single-use action): Deals damage to target enemy unit and 2 others within 3 hexes. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Magic
+- **Lightning Evocation** (damage 15 Lightning, accuracy Always Hits, range 4, single-use action): Deals damage to target enemy unit and 2 others within 3 hexes. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Magic
 
 ## Melee Mage
 
@@ -180,7 +180,7 @@ All attacks:
 (type normal; requires Aethermancy; DLC Base)
 
 
-- **Quick Phase** (accuracy Always Hits, range 3, free action): Makes the caster teleport to target hex. Cooldown: 2 Turns Requires: Teleport, Movement
+- **Quick Phase** (accuracy Always Hits, range 3, free action): Makes the caster teleport to target hex. Cooldown: 2 Turns. Requires: Teleport, Movement
 
 ## Resistance
 
@@ -264,7 +264,7 @@ Modify and enhance Lightning Evocation:
 (type normal; requires any of Arcfire Burst, Spellblade Expertise; DLC Base)
 
 
-- **Weaver** (accuracy Always Hits, range 0, single-use action): - Refresh all your ability cooldowns and once-per-combat abilities.; Enter Defense Mode. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns Requires: Can't be refreshed
+- **Weaver** (accuracy Always Hits, range 0, single-use action): Refresh all your ability cooldowns and once-per-combat abilities. Enter Defense Mode. Cannot be used when within an enemy Zone of Control. Can only be used once per battle. Starts on cooldown: 1 Turns. Requires: Can't be refreshed
 
 ## Wildfire Strikes
 

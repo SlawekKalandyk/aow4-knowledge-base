@@ -17,4 +17,4 @@ This research is available to Rulers of the Mercantile Cartel subculture.
 - [Signia of the Cartel](../spells/signia-of-the-cartel.md) ([World Map] Unit Enchantment): Grants non-Mercantile units:
   
   - Observant
-- Privateers Camp (Initial City Upgrade): - +15 Gold.; +10 City Stability for 10 Turns after Raiding a Supply Route.; +5 City Stability for 10 Turns after Pillaging a province.; Counts as a Mine.
+- Privateers Camp (Initial City Upgrade): +15 Gold. +10 City Stability for 10 Turns after Raiding a Supply Route. +5 City Stability for 10 Turns after Pillaging a province. Counts as a Mine.

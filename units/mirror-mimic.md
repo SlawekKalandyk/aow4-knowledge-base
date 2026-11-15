@@ -9,8 +9,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 11 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
-- **Mimic** (accuracy Always Hits, range 6, free action): Transform into target enemy non-Hero unit: ; Status effects are copied.; Enchantments are copied.; Hit Points are copied if higher than the unit's.; Becomes stronger when transforming into lower tier units.; Becomes weaker when transforming into higher tier units.
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Mimic** (accuracy Always Hits, range 6, free action): Transform into target enemy non-Hero unit: Status effects are copied. Enchantments are copied. Hit Points are copied if higher than the unit's. Becomes stronger when transforming into lower tier units. Becomes weaker when transforming into higher tier units.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 

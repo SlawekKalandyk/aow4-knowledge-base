@@ -19,4 +19,4 @@ This research is available to rulers with the Reaver culture. They use Magelock 
   
   - 2 Marked
   - Immobilized
-- Imperial Warfactory (Initial City Upgrade): - +10 Production.; 10 Draft per adjacent Quarry, Forester, or Mine.; Counts as a Quarry.
+- Imperial Warfactory (Initial City Upgrade): +10 Production. 10 Draft per adjacent Quarry, Forester, or Mine. Counts as a Quarry.

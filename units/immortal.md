@@ -9,8 +9,8 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 18 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Exploit Vulnerability: Base 90% chance of:; Inflicting Status Vulnerability for 3 Turns.; Healing self for 10 Temporary Hit Points. Requires: Melee, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 18 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Exploit Vulnerability: Base 90% chance of: Inflicting Status Vulnerability for 3 Turns. Healing self for 10 Temporary Hit Points. Requires: Melee, Base, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 

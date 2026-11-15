@@ -10,13 +10,13 @@
 ## Abilities
 
 - **Purging Blast** (damage 14 Spirit, accuracy 90%, range 4, single-use action): Target unit sustains damage and has 1 Positive Status Effect removed. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Vow of Healing** (accuracy Always Hits, range 4, full action): Friendly units in a 1-hex radius heal for 25 Temporary Hit Points. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
-- **Vow of Purification** (accuracy Always Hits, range 4, single-use action): Target friendly unit: ; Has their Negative Status Effects removed.; Gains 3 Status Protection for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Vow of Healing** (accuracy Always Hits, range 4, full action): Friendly units in a 1-hex radius heal for 25 Temporary Hit Points. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
+- **Vow of Purification** (accuracy Always Hits, range 4, single-use action): Target friendly unit: Has their Negative Status Effects removed. Gains 3 Status Protection for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 
-- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: ; Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage  Effects are increased for Single Shot attacks.
+- **Nobility**: Unit's non-flanking attacks deal extra damage based on the culture's Devotion: Paragon: +5 Spirit Damage; Devotee: +4 Spirit Damage; Adherent: +3 Spirit Damage; Neutral: +2 Spirit Damage; Oathbreaker: -20% damage. Effects are increased for Single Shot attacks.
 
 ## Unit type traits
 

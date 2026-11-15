@@ -12,7 +12,7 @@
 
 - **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Poisoned: Base 60% chance of inflicting Poisoned for 3 Turns. Requires: Melee, Base
 - **Poison Needle** (damage 16 Physical, accuracy 90%, range 4, single-use action): Deals damage to target unit. Poisoned: Base 90% chance of inflicting Poisoned for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -25,8 +25,8 @@
 - **Forest Camouflage**: This unit cannot be detected when standing on Forest hexes.
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
-- **Plant**: A Plant unit with: ; +4 Lightning Protection; -4 Fire Protection; Forest Walk; +20% healing received in combat.
-- **Skirmisher Unit**: Cheap and swift units that are useful at Flanking and targeting lone enemies. Skirmisher units gain: ; Swift.; Slippery.
+- **Plant**: A Plant unit with: +4 Lightning Protection; -4 Fire Protection; Forest Walk; +20% healing received in combat.
+- **Skirmisher Unit**: Cheap and swift units that are useful at Flanking and targeting lone enemies. Skirmisher units gain: Swift. Slippery.
 
 ## Rank-up rewards
 

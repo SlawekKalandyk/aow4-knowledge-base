@@ -10,9 +10,9 @@
 
 ## Abilities
 
-- **Smiting Prayer Blast** (damage 17 Fire 17 Spirit, accuracy Always Hits, range 6, full action): Single magical attack at target unit. Smiting Prayer: For each friendly Faithful unit in battle (up to 10), this attack gains:; +2 Spirit Damage; +2 Fire Damage. Breaching: Ignore 50% of the target's Resistance. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
+- **Smiting Prayer Blast** (damage 17 Fire 17 Spirit, accuracy Always Hits, range 6, full action): Single magical attack at target unit. Smiting Prayer: For each friendly Faithful unit in battle (up to 10), this attack gains: +2 Spirit Damage; +2 Fire Damage. Breaching: Ignore 50% of the target's Resistance. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
 - **Divine Vengeance** (damage 22 Spirit, accuracy Always Hits, range 0, single-use action): Enemy units within a 2-hex radius sustain damage. Blind: Inflict Blind for 1 Turn. Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,14 +23,14 @@
 - **Heartless**: The unit has a -50% modifier to Morale changes
 - **Inspiring Killer**: This unit grants double the morale bonus to itself and its allies when killing an enemy.
 - **Reinforced**: Unit has +3 Defense against Missile attacks.
-- **Zeal**: - Attacks gain +2 Spirit Damage.; Deal +10% damage against Condemned units.  Effects are increased for Single Shot attacks.
+- **Zeal**: Attacks gain +2 Spirit Damage. Deal +10% damage against Condemned units. Effects are increased for Single Shot attacks.
 
 ## Unit type traits
 
-- **Celestial**: Celestial unit with: ; +2 Spirit Protection; -4 Blight Protection.; -4 Frost Protection; Inspiring Killer; Control Loss Immunity
-- **Construct**: A construct unit with: ; Reinforced; -4 Lightning Protection; 2 Spirit Protection.; Heartless; Control Loss Immunity; Immunity to: ; Bleeding; Diseased; Distracted; Poisoned
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Celestial**: Celestial unit with: +2 Spirit Protection; -4 Blight Protection. -4 Frost Protection; Inspiring Killer; Control Loss Immunity
+- **Construct**: A construct unit with: Reinforced; -4 Lightning Protection; 2 Spirit Protection. Heartless; Control Loss Immunity; Immunity to: Bleeding; Diseased; Distracted; Poisoned
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 
 ## Rank-up rewards

@@ -8,8 +8,8 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 14 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Bleeding: Inflicts Bleeding for 3 Turns. Marked: Inflict Marked for 3 Turns. Requires: Melee, Base, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 14 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Bleeding: Inflicts Bleeding for 3 Turns. Marked: Inflict Marked for 3 Turns. Requires: Melee, Base, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -18,7 +18,7 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Land Movement**: This unit can move over land hexes.
 - **Shock Unit**: An offensive unit specialized in disrupting the enemy line. A Shock Unit has a Charge attack, which counters Shield Units, but can be countered by Polearm Units.
 

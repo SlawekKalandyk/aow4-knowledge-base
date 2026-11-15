@@ -21,4 +21,4 @@ Heal and support your units through the power of the Faithful.
   - Mending Touch, a healing ability for use in battle.
 - [Summon Lesser Light Spirit](../spells/summon-lesser-light-spirit.md) ([World Map] Summon Spell): Summons a Lesser Light Spirit Support Unit.
 - [Wrath of the Faithful](../spells/wrath-of-the-faithful.md) (Combat Spell): Target enemy unit sustains 10 Spirit Damage plus 5 Spirit Damage per each friendly Faithful unit in battle (up to 8).
-- Abbey (Initial City Upgrade): - +10 Knowledge; +3 Knowledge per adjacent Farm.; Grants Status Protection at the start of the next Combat to all friendly Units on this hex. 3 Turn cooldown.; Counts as a Research Post.
+- Abbey (Initial City Upgrade): +10 Knowledge; +3 Knowledge per adjacent Farm. Grants Status Protection at the start of the next Combat to all friendly Units on this hex. 3 Turn cooldown. Counts as a Research Post.

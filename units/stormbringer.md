@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Storm Strikes** (damage 16 Lightning, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Deal 4 Lightning Damage to up to 2 other enemy units within 2 hexes. Electrified: Base 90% chance of inflicting Electrified for 3 Turns. Requires: Magic, Base
-- **Throw Storm Trident** (damage 24 Lightning, accuracy Always Hits, range 3, single-use action): Deal damage to enemies in a 3-hex line. Electrified: Inflicts Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic, Base
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Throw Storm Trident** (damage 24 Lightning, accuracy Always Hits, range 3, single-use action): Deal damage to enemies in a 3-hex line. Electrified: Inflicts Electrified for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic, Base
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -20,7 +20,7 @@
 ## Unit type traits
 
 - **Land Movement**: This unit can move over land hexes.
-- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: ; Melee Mage.
+- **Magic Fighter Unit**: A melee attacker that uses Magic Strikes to target enemies with low Resistance. Magic Fighters have: Melee Mage.
 
 ## Rank-up rewards
 

@@ -16,4 +16,4 @@ This research is available to rulers with the Feudal culture. They specialize in
   
   - Defensive Masters
   - Charge Resistance
-- Farmstead (Initial City Upgrade): - +15 Food income.; +5 Food per adjacent Farm.; Counts as a Farm.
+- Farmstead (Initial City Upgrade): +15 Food income. +5 Food per adjacent Farm. Counts as a Farm.

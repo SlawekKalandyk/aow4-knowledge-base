@@ -31,4 +31,4 @@ Create a lush green paradise for your people. Focus on economy, healing, and buf
   - Lose Chasm, Swamp, Sand, Snow, Ice, Ashlands, and Gloom.
   - Provinces within the domain with either Grasslands, Forests, Fungus Fields, or Mushroom Forest features gain: +5 Food, +5 City Stability
 - [Nature's Bounty](../spells/natures-bounty.md) ([World Map] Friendly Army Spell): All friendly units in the target Province gain +15 max Hit Points and regenerate 15 Hit Points in neutral and friendly domain for the next 2 World Map Turns.
-- Garden of Bliss (Initial City Upgrade): - +15 City Stability.; +7 Food per adjacent Grasslands Province.; Convert 10% of Food income into Mana.; Counts as a Farm.
+- Garden of Bliss (Initial City Upgrade): +15 City Stability. +7 Food per adjacent Grasslands Province. Convert 10% of Food income into Mana. Counts as a Farm.

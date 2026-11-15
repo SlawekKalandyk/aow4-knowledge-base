@@ -9,10 +9,10 @@
 
 ## Abilities
 
-- **Heavy Charge Strike** (damage 17 Physical 17 Lightning, accuracy 100%, range 1, single-use action): A Heavy Charge attack: ; Gains 30% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack.; Heavy Charges ignore Charge Resistance. Requires: Melee, Base, Single Shot
-- **Lightning Strike** (damage 25 Lightning, accuracy Always Hits, range 4, single-use action): Deals damage to target and up to 2 other units within 4 hexes. Electrified: Inflicts 3 Electrified for 3 Turns. Cooldown: 1 Turns Requires: Magic
-- **Tempestuous Smash** (damage 16 Physical 16 Lightning, accuracy 100%, range 1, full action): Deals damage to target unit and enemy units in a 3-hex line behind it. Cooldown: 2 Turns Requires: Melee, Giant Smash, Single Shot
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Heavy Charge Strike** (damage 17 Physical 17 Lightning, accuracy 100%, range 1, single-use action): A Heavy Charge attack: Gains 30% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Heavy Charges ignore Charge Resistance. Requires: Melee, Base, Single Shot
+- **Lightning Strike** (damage 25 Lightning, accuracy Always Hits, range 4, single-use action): Deals damage to target and up to 2 other units within 4 hexes. Electrified: Inflicts 3 Electrified for 3 Turns. Cooldown: 1 Turns. Requires: Magic
+- **Tempestuous Smash** (damage 16 Physical 16 Lightning, accuracy 100%, range 1, full action): Deals damage to target unit and enemy units in a 3-hex line behind it. Cooldown: 2 Turns. Requires: Melee, Giant Smash, Single Shot
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -25,9 +25,9 @@
 
 ## Unit type traits
 
-- **Amphibious**: This unit: ; Can enter water hexes without movement penalties or becoming Embarked.; Has faster movement over Rivers and Swamps.
+- **Amphibious**: This unit: Can enter water hexes without movement penalties or becoming Embarked. Has faster movement over Rivers and Swamps.
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Lava Walk**: Allows the unit to traverse lava at a Movement Cost of 6.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

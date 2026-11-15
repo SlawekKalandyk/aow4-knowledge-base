@@ -27,4 +27,4 @@ Conquer the world with powerful warriors and infernal allies.
   - Infernal Might when it attacks.
 - [Summon War Golem](../spells/summon-war-golem.md) ([World Map] Summon Spell): Summon a War Golem, an infernal siege weapon that specializes in destroying enemy fortifications.
 - [Warlord](../units/warlord.md) (Unit): A powerful Mythic Unit, a master of melee combat that commands others in combat.
-- War Forge (Initial City Upgrade): - +20 Draft income.; Per available Ore type Magic Material available to your empire gain: ; +5 Gold.; +10 Draft ; Counts as a Mine.
+- War Forge (Initial City Upgrade): +20 Draft income. Per available Ore type Magic Material available to your empire gain: +5 Gold. +10 Draft; Counts as a Mine.

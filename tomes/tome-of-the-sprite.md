@@ -24,4 +24,4 @@ Use the powers of small Fey to support your units and befuddle your enemies.
   - When at neutral morale, gain +2 Status Resistance.
   - When at high morale, gain +4 Status Resistance.
 - [Summon Sprite](../spells/summon-sprite.md) ([World Map] Summon Spell): Summon a Morning Sprite Support Unit or an Evening Sprite Battle Mage Unit.
-- Fey Woods (Initial City Upgrade): - +10 Food.; +5 Draft.; +2 Mana per adjacent Forester.; Counts as a Forester.
+- Fey Woods (Initial City Upgrade): +10 Food. +5 Draft. +2 Mana per adjacent Forester. Counts as a Forester.

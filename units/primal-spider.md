@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Melee Strike** (damage 14 Blight, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Poisoned: Base 60% chance of inflicting Poisoned for 3 Turns. Life Steal: Attacks heal 5 Temporary Hit Points. Requires: Melee, Base
-- **Poison Webs** (damage 14 Blight, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: ; Sustain damage.; Become Slowed for 1 Turn. Poisoned: Base 90% chance of inflicting Poisoned for 3 Turns. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Life Steal: Attacks heal 10 Temporary Hit Points. Cooldown: 3 Turns Requires: Missile
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Poison Webs** (damage 14 Blight, accuracy 100%, range 1, single-use action): Enemy units in a 2-hex cone: Sustain damage. Become Slowed for 1 Turn. Poisoned: Base 90% chance of inflicting Poisoned for 3 Turns. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Life Steal: Attacks heal 10 Temporary Hit Points. Cooldown: 3 Turns. Requires: Missile
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -26,14 +26,14 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Cave Walk**: Moving through Cavern Floors costs 5 Move Points instead of 6. Moving through Fungus Fields costs 5 Move Points instead of 6. Moving through Mushroom Forests costs 6 Move Points instead of 8.
-- **Ethereal**: An Ethereal unit with: ; +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: ; Bleeding; Diseased; Immobilized; Poisoned
+- **Ethereal**: An Ethereal unit with: +2 Physical Protection; -4 Spirit Protection; Pass Through; Immunity to: Bleeding; Diseased; Immobilized; Poisoned
 - **Forest Walk**: Moving through Forests costs 6 Move Points instead of 8.
 - **Land Movement**: This unit can move over land hexes.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
-- **Spider**: A spider unit with: ; Swift; Forest Walk; Cave Walk; Immunity to: ; Slowed; Immobilized
+- **Spider**: A spider unit with: Swift; Forest Walk; Cave Walk; Immunity to: Slowed; Immobilized
 
 ## Rank-up rewards
 

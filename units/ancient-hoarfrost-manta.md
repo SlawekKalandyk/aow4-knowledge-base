@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Ice Blast** (damage 50 Frost, accuracy 90%, range 6, single-use action): Single magical attack at target unit. Chilled: Inflicts 2 stacks of Chilled for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Freezing Ray** (damage 61 Frost, accuracy Always Hits, range 6, full action): Target enemy unit: ; Sustains damage.; Has a base 120% chance of becoming Frozen for 1 Turn. If resisted, instead inflict 3 Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Debuff, Magic, Single Shot
-- **Sleet Storm** (damage 28 Frost, accuracy Always Hits, range 6, full action): Deal damage to enemy units in a 2-hex radius. Chilled: Base 120% chance of inflicting Chilled for 3 Turns. Wet: Inflicts Wet Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Debuff, Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Freezing Ray** (damage 61 Frost, accuracy Always Hits, range 6, full action): Target enemy unit: Sustains damage. Has a base 120% chance of becoming Frozen for 1 Turn. If resisted, instead inflict 3 Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Debuff, Magic, Single Shot
+- **Sleet Storm** (damage 28 Frost, accuracy Always Hits, range 6, full action): Deal damage to enemy units in a 2-hex radius. Chilled: Base 120% chance of inflicting Chilled for 3 Turns. Wet: Inflicts Wet. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Debuff, Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -27,10 +27,10 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Elemental**: An Elemental unit with immunity to Bleeding.
-- **Floating**: This unit is Floating: ; Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8.; Requires Seafaring to traverse the water.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Floating**: This unit is Floating: Moves through any type of terrain at a movement cost of 6, apart from Mountains, which cost 8. Requires Seafaring to traverse the water.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Mythic Unit**: A powerful unit that doesn't conform to a particular fighting style. All mythic units have Control Loss Immunity.
 

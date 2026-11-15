@@ -8,9 +8,9 @@
 
 ## Abilities
 
-- **Charge Strike** (damage 27 Physical, accuracy 100%, range 1, single-use action): A Charge attack: ; Gains 20% damage per hex traveled, up to 3 hexes.; Cancels Defense Mode.; Removes Retaliation Attack. Swallow Whole: Base 60% chance of Swallowing a non-hero unit. Requires: Melee, Base, Single Shot
-- **Earth Tremor** (damage 30 Physical, accuracy Always Hits, range 0, full action): Enemy units in a 2-hex radius sustain damage.  Deals double damage to obstacles. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 2 Turns Requires: Melee
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Charge Strike** (damage 27 Physical, accuracy 100%, range 1, single-use action): A Charge attack: Gains 20% damage per hex traveled, up to 3 hexes. Cancels Defense Mode. Removes Retaliation Attack. Swallow Whole: Base 60% chance of Swallowing a non-hero unit. Requires: Melee, Base, Single Shot
+- **Earth Tremor** (damage 30 Physical, accuracy Always Hits, range 0, full action): Enemy units in a 2-hex radius sustain damage. Deals double damage to obstacles. Immobilized: Base 60% chance of inflicting Immobilized for 1 Turn. Cooldown: 2 Turns. Requires: Melee
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -23,10 +23,10 @@
 
 ## Unit type traits
 
-- **Animal**: An Animal unit.  Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
+- **Animal**: An Animal unit. Animals that belong to Players and Free Cities gain Combat Trained, making them more effective in battle.
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Shock Unit**: An offensive unit specialized in disrupting the enemy line. A Shock Unit has a Charge attack, which counters Shield Units, but can be countered by Polearm Units.
 
 ## Rank-up rewards

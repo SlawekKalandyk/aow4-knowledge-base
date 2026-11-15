@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Mystic Blast** (damage 12 Lightning 12 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Marked: Base 90% chance of inflicting Marked for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Healing Portent** (accuracy Always Hits, range 4, single-use action): Friendly units in a 1-hex radius: ; Heal 40 Temporary Hit Points.; Gain Precognition. Cooldown: 2 Turns Requires: Support
-- **Striking Portent** (accuracy Always Hits, range 4, single-use action): Friendly units in a 1-hex radius: ; Gain True Strike for 1 Turn.; Gain 2 Fortune for 3 Turns. Cooldown: 1 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Healing Portent** (accuracy Always Hits, range 4, single-use action): Friendly units in a 1-hex radius: Heal 40 Temporary Hit Points. Gain Precognition. Cooldown: 2 Turns. Requires: Support
+- **Striking Portent** (accuracy Always Hits, range 4, single-use action): Friendly units in a 1-hex radius: Gain True Strike for 1 Turn. Gain 2 Fortune for 3 Turns. Cooldown: 1 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 

@@ -24,4 +24,4 @@ Walk beside the Animals of nature. Specialize in summoning and buffing Animals a
   
   - Becomes Distracted.
   - Suffers 3 Sundered Defense.
-- Wildlife Sanctuary (Initial City Upgrade): - +10 Food.; +5 Draft per adjacent Province with Forest.; Unlocks the production of various Animal Units.; Counts as a Forester.
+- Wildlife Sanctuary (Initial City Upgrade): +10 Food. +5 Draft per adjacent Province with Forest. Unlocks the production of various Animal Units. Counts as a Forester.

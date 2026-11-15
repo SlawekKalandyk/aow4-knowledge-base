@@ -8,7 +8,7 @@
 
 ## Abilities
 
-- **Bombard** (damage 30 Physical, accuracy 90%, range 3-12, full action): Deals damage in a 1-hex radius. Sundered Defense: Inflict Sundered Defense for 3 Turns. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Starts on cooldown Requires: Missile, Base
+- **Bombard** (damage 30 Physical, accuracy 90%, range 3-12, full action): Deals damage in a 1-hex radius. Sundered Defense: Inflict Sundered Defense for 3 Turns. Ignores line of sight penalties. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Starts on cooldown. Requires: Missile, Base
 
 ## Passives
 
@@ -20,7 +20,7 @@
 
 - **Cannot be Displaced**: This unit is immune to effects that would forcefully and physically move it.
 - **Land Movement**: This unit can move over land hexes.
-- **Large Target**: A large unit that: ; Is 20% easier to hit with Missile and Magic attacks.; Has Demolisher.
+- **Large Target**: A large unit that: Is 20% easier to hit with Missile and Magic attacks. Has Demolisher.
 - **Siegecraft**: Normally only accessible during Siege battles. Often required construction.
 
 ## Rank-up rewards

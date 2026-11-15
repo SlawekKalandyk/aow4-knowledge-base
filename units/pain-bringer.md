@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Draining Strike** (damage 20 Physical, accuracy 100%, range 1, repeating action): Strike target unit and gain Temporary Hit Points equal to 50% the damage dealt. Flanker: Unit deals +25% damage when Flanking. Requires: Melee, Base
-- **Tormenting Lash** (damage 20 Physical 20 Frost, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Flanker: Unit deals +25% damage when Flanking. Torment: Inflicts 4 Torment until the end of combat. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Missile, Base, Single Shot, Debuff
-- **Shadow Step** (accuracy Always Hits, range 2, free action): Teleport to target hex. Cooldown: 0 Turns Requires: Movement, Teleport
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Tormenting Lash** (damage 20 Physical 20 Frost, accuracy 90%, range 3, single-use action): Deal damage to target enemy. Flanker: Unit deals +25% damage when Flanking. Torment: Inflicts 4 Torment until the end of combat. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Missile, Base, Single Shot, Debuff
+- **Shadow Step** (accuracy Always Hits, range 2, free action): Teleport to target hex. Cooldown: 0 Turns. Requires: Movement, Teleport
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 

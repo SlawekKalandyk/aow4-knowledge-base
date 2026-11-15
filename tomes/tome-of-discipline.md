@@ -27,4 +27,4 @@ Channel your inner strength to empower your attacks and cleanse your body.
   - Heals 15 Temporary Hit Points.
   - Has 3 Negative Status Effect dispelled.
 - [Monk](../units/monk.md) (Unit): Mobile Magic Fighter Unit that can use devastating combo attacks and heal itself.
-- Monastery (Initial City Upgrade): - 10 City Stability.; 10 Draft; Per adjacent Farm: ; 2 City Stability; 3 Draft ; Counts as a Conduit
+- Monastery (Initial City Upgrade): 10 City Stability. 10 Draft; Per adjacent Farm: 2 City Stability; 3 Draft; Counts as a Conduit

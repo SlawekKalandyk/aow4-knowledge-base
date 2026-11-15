@@ -28,4 +28,4 @@ This research is available to rulers with the Reaver culture. They use Magelock 
   
   - Suffer 10 Physical Damage.
   - Have a 90% chance of inflicting Sundered Defense for 3 Turn
-- Reaver Manufactorum (Initial City Upgrade): - +10 Gold.; +5 Gold income per Vassal.; Counts as a Mine.
+- Reaver Manufactorum (Initial City Upgrade): +10 Gold. +5 Gold income per Vassal. Counts as a Mine.

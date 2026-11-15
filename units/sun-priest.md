@@ -10,9 +10,9 @@
 ## Abilities
 
 - **Spirit Blast** (damage 16 Spirit, accuracy 90%, range 4, single-use action): Single magical attack at target unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Base, Magic, Single Shot
-- **Twin Awakening** (accuracy Always Hits, range 4, free action): Target friendly unit and another non-Awakened unit within 2 hexes become Awakened for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Support
-- **Mending Awakening** (accuracy Always Hits, range 4, single-use action): Target friendly unit: ; Heals +30 Temporary Hit Points.; Becomes Awakened for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns Requires: Support
-- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: ; Extends its Zone of Control to all adjacent hexes.; +2 Defense.; +2 Resistance.; Immune to Flanking.; All adjacent friendly units gain +3 Resistance and +3 Status Resistance
+- **Twin Awakening** (accuracy Always Hits, range 4, free action): Target friendly unit and another non-Awakened unit within 2 hexes become Awakened for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Support
+- **Mending Awakening** (accuracy Always Hits, range 4, single-use action): Target friendly unit: Heals +30 Temporary Hit Points. Becomes Awakened for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 2 Turns. Requires: Support
+- **Defense Mode: Warding**: Ends its turn and goes into a defensive mode: Extends its Zone of Control to all adjacent hexes. +2 Defense. +2 Resistance. Immune to Flanking. All adjacent friendly units gain +3 Resistance and +3 Status Resistance
 
 ## Passives
 

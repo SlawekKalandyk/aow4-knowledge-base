@@ -31,4 +31,4 @@ Grants excellent and cheap attack spells to any aspiring wizard.
   
   - Sustain 15 Lightning Damage.
   - Have a 60% chance of becoming Electrified.
-- Channeling Tower (Initial City Upgrade): - +10 Mana.; +3 Mana per adjacent Conduit.; Counts as a Conduit.
+- Channeling Tower (Initial City Upgrade): +10 Mana. +3 Mana per adjacent Conduit. Counts as a Conduit.

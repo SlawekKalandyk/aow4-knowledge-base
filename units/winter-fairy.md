@@ -10,8 +10,8 @@
 ## Abilities
 
 - **Frost Bolts** (damage 14 Frost, accuracy 90%, range 4, repeating action): Unleashes a magical bolt at target enemy. Chilled: Base 60% chance of inflicting Chilled for 3 Turns. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Magic, Base
-- **Hindering Blizzard** (damage 24 Frost, accuracy Always Hits, range 6, full action): Units in a 1-hex radius sustain damage. Slowed: Base 60% chance of inflicting Slowed for 2 Turns. Chilled: Base 60% chance of inflicting Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns Requires: Magic
-- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: ; Extends its Zone of Control to all adjacent hexes.; Gains +2 Defense.; Gains +2 Resistance.; Becomes immune to Flanking.
+- **Hindering Blizzard** (damage 24 Frost, accuracy Always Hits, range 6, full action): Units in a 1-hex radius sustain damage. Slowed: Base 60% chance of inflicting Slowed for 2 Turns. Chilled: Base 60% chance of inflicting Chilled for 3 Turns. Cannot be used when within an enemy Zone of Control. Cooldown: 1 Turns. Requires: Magic
+- **Defense Mode**: This unit ends its turn and goes into a defensive mode. The unit: Extends its Zone of Control to all adjacent hexes. Gains +2 Defense. Gains +2 Resistance. Becomes immune to Flanking.
 
 ## Passives
 
@@ -19,9 +19,9 @@
 
 ## Unit type traits
 
-- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. ; Their Accuracy is affected by Line of Sight.; Cannot use their main Magic attacks when Engaged in Melee.
-- **Fey**: A Fey unit with: ; +4 Spirit Protection; -4 Blight Protection; Fey Guile; The ability to ignore: ; Vision penalties from Misty.; Accuracy penalties from Clinging Mist.
-- **Flying**: This unit is Flying: ; It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
+- **Battle Mage Unit**: Magic users who specialize in ranged offense and weakening enemies. Their Accuracy is affected by Line of Sight. Cannot use their main Magic attacks when Engaged in Melee.
+- **Fey**: A Fey unit with: +4 Spirit Protection; -4 Blight Protection; Fey Guile; The ability to ignore: Vision penalties from Misty. Accuracy penalties from Clinging Mist.
+- **Flying**: This unit is Flying: It has +2 Vision Range; Can move in any terrain at a movement cost of 6; Requires Seafaring to traverse Water hexes; Can safely move past most other units and obstacles in combat.
 - **Magic Origin**: This unit was summoned or comes from another dimension and requires mana upkeep.
 - **Tiny**: Unit is very small, making it 20% harder to hit by Missile and ranged Magic attacks.
 

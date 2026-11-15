@@ -7,7 +7,7 @@
 
 ## Effects
 
-- Every 10th Turn: ; Your Units gain Aligned Stars.; Non-Hero Units drafted, raised, or summoned during a 10th Turn permanently gain Born Under the Stars.; City Structures and Special Province Improvements completed during a 10th Turn grant 100 Knowledge.
+- Every 10th Turn: Your Units gain Aligned Stars. Non-Hero Units drafted, raised, or summoned during a 10th Turn permanently gain Born Under the Stars. City Structures and Special Province Improvements completed during a 10th Turn grant 100 Knowledge.
 
 ## Description
 

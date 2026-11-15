@@ -21,14 +21,14 @@ Reduce the cooldown of your Blood Drain ability by 1 Turn.
 (type normal; requires any of Draining Bite, Siphon Blood; DLC THRONESOFBLOOD)
 
 
-- **Drain Familiar** (damage 25 Physical, accuracy Always Hits, range 1, free action): Deal unblockable damage to target friendly unit. Then the caster: ; Heals for 25 Temporary Hit Points.; Gains 2 Strengthened for 3 Turns. Cooldown: 1 Turns
+- **Drain Familiar** (damage 25 Physical, accuracy Always Hits, range 1, free action): Deal unblockable damage to target friendly unit. Then the caster: Heals for 25 Temporary Hit Points. Gains 2 Strengthened for 3 Turns. Cooldown: 1 Turns
 
 ## Draining Bite
 
 (type normal; can't be taken with Siphon Blood; DLC THRONESOFBLOOD)
 
 
-- **Draining Bite** (damage 28 Physical, accuracy 100%, range 1, leave-one action): Deal damage to target unit. Blood Drain: Heal for 50% of damage dealt if target isn't immune to Bleeding. Signature Power: +10% damage per Signature Skill learned. Cooldown: 3 Turns Requires: Melee, Blood Drain, Single Shot
+- **Draining Bite** (damage 28 Physical, accuracy 100%, range 1, leave-one action): Deal damage to target unit. Blood Drain: Heal for 50% of damage dealt if target isn't immune to Bleeding. Signature Power: +10% damage per Signature Skill learned. Cooldown: 3 Turns. Requires: Melee, Blood Drain, Single Shot
 
 ## Draining Charm
 
@@ -78,7 +78,7 @@ Your Blood Drain ability:
 (type normal; can't be taken with Draining Bite; DLC THRONESOFBLOOD)
 
 
-- **Siphon Blood** (damage 18 Physical, accuracy Always Hits, range 3, leave-one action): Deal damage to target unit. Blood Drain: Heal for 50% of damage dealt if target isn't immune to Bleeding. Signature Power: +10% damage per Signature Skill learned. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns Requires: Blood Drain, Magic, Missile, Single Shot
+- **Siphon Blood** (damage 18 Physical, accuracy Always Hits, range 3, leave-one action): Deal damage to target unit. Blood Drain: Heal for 50% of damage dealt if target isn't immune to Bleeding. Signature Power: +10% damage per Signature Skill learned. Cannot be used when within an enemy Zone of Control. Cooldown: 3 Turns. Requires: Blood Drain, Magic, Missile, Single Shot
 
 ## Staggering Bite
 

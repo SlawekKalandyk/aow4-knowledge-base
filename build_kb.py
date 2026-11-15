@@ -464,6 +464,15 @@ def build_tomes():
 
 # ---------------------------------------------------------------- traits
 
+def vision_line(s):
+    """An Archon Prophecy vision: a sub-option of a Vision society trait (its `requirement`)."""
+    aff = fmt_affinity(affinity_tags(s.get("affinity")))
+    objective = loc.get(s.get("objective", ""), {}).get("objective_1", "")
+    rewards = [one_line(v) for r in s.get("rewards", []) for k, v in loc.get(r, {}).items() if k not in ("id", "DLC")]
+    return (f"- **{clean(s['name'])}** ({aff + ', ' if aff else ''}DLC {dlc(s)}): objective: {one_line(objective) or '?'}"
+            + (f"; rewards: {' '.join(rewards)}" if rewards else ""))
+
+
 def build_traits():
     by_type = defaultdict(list)
     for t in traits:
@@ -501,6 +510,9 @@ def build_traits():
             sb = names(t.get("starting_bonuses"))
             if sb:
                 lines += ["", "## Starting bonus", ""] + [f"- {b}" for b in sb]
+            visions = [vision_line(s) for s in faction if s["type"] == "SubSociety" and s.get("requirement") == name]
+            if visions:
+                lines += ["", "## Visions (Archon Prophecy)", ""] + visions
             desc = [clean(t.get(k)) for k in ("screen_description", "lore_description", "biography_description")]
             desc = [d for i, d in enumerate(desc) if d and d not in desc[:i]]
             if desc:
@@ -658,13 +670,6 @@ def build_rulers():
         aff = fmt_affinity(affinity_tags(s.get("affinity")))
         lines.append(f"- **{s['name']}** ({s.get('requirement', '')}{', ' + aff if aff else ''}, DLC {dlc(s)}): "
                      + one_line(" ".join(loc_text(s.get("extraLookup"), "description"))))
-    lines += ["", "## Archon Prophecy visions (sub-societies)", ""]
-    for s in (x for x in faction if x["type"] == "SubSociety"):
-        aff = fmt_affinity(affinity_tags(s.get("affinity")))
-        objective = loc.get(s.get("objective", ""), {}).get("objective_1", "")
-        rewards = [one_line(v) for r in s.get("rewards", []) for k, v in loc.get(r, {}).items() if k not in ("id", "DLC")]
-        lines.append(f"- **{clean(s['name'])}** ({s.get('requirement', '')}{', ' + aff if aff else ''}, DLC {dlc(s)}): "
-                     f"objective: {one_line(objective) or '?'}" + (f"; rewards: {' '.join(rewards)}" if rewards else ""))
     write(KB / "rulers.md", "\n".join(lines))
 
 

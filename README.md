@@ -9,12 +9,12 @@ It is generated from [aow4db](https://github.com/MinionsArt/aow4db), a community
 | Folder | What's in it |
 |---|---|
 | [`tomes/`](tomes/_index.md) | 123 tomes: tier, affinity, DLC and everything each one unlocks (linked). Tier 0 holds culture/subculture tomes and pacts |
-| [`traits/`](traits/) | Faction traits: 55 society, 79 form and 9 destiny traits, with cost, affinity, effects and starting bonus |
+| [`traits/`](traits/) | Faction traits: 55 society, 79 form and 9 destiny traits, with cost, affinity, effects and starting bonus; Vision traits include their Archon Prophecy visions |
 | [`units/`](units/_index.md) | 413 units: stats, cost, abilities, passives, rank-up rewards and where they come from |
 | [`spells/`](spells/_index.md) | 579 spells: type, cost, upkeep, unlocking tome and full text |
 | [`cultures/`](cultures/_index.md) | 12 cultures and 29 subcultures: description, starting affinity, culture tomes and units |
 | [`races.md`](races.md) | The 24 race appearances |
-| [`rulers.md`](rulers.md) | Ruler origins, dragon/giant/vampire subtypes, Archon Prophecy visions |
+| [`rulers.md`](rulers.md) | Ruler origins, dragon/giant/vampire subtypes |
 | [`world/`](world/_index.md) | Relics, free city factions, ancient wonders and landmarks, cosmic happenings |
 | [`heroes/`](heroes/_index.md) | Hero skill trees, hero items by slot, destinies |
 | [`empire/`](empire/_index.md) | Empire skills, governors, city structures, siege projects, item forge |

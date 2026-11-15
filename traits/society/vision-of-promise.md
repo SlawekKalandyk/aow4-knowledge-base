@@ -10,6 +10,12 @@
 - Gain a powerful Throne City upon completion.
 - +1 Affinity based on the chosen interpretation.
 
+## Visions (Archon Prophecy)
+
+- **Visions of Promise: Order** (Order 1, DLC ARCHONPROPHECY): objective: 0/1 Your Prophesied Land conquered; rewards: You gain ? City Cap. The Shrine of Fulfilled Promise is built in your Throne City, granting a +?% bonus to all resources.
+- **Visions of Promise: Nature** (Nature 1, DLC ARCHONPROPHECY): objective: 0/1 City Raised at the Ruins; rewards: You gain ? City Cap. The Shrine of Fulfilled Promise is built in your Throne City, granting a +?% bonus to all resources.
+- **Visions of Promise: Materium** (Materium 1, DLC ARCHONPROPHECY): objective: Capital Improved to Tier IV.; rewards: You gain ? City Cap. The Shrine of Fulfilled Promise is built in your Throne City, granting a +?% bonus to all resources. An Earth titan unit is summoned next to one of the owner's units at the start of Combat. Titan Guardian
+
 ## Description
 
 Prophecy will bring them to a new home.

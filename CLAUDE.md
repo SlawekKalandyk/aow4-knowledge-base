@@ -15,12 +15,12 @@ Data is current as of the commit in `SOURCE.md` (all DLCs up to then).
 | Path | Contents |
 |---|---|
 | `tomes/` | 123 tomes; each file lists the units, spells, passives and upgrades it unlocks, linked. Tier 0 = culture/subculture tomes (`dark-cult-of-tyranny.md`), pacts and special research |
-| `traits/society/`, `traits/form/`, `traits/destiny/` | Faction traits: point cost, affinity, effects, starting bonus, incompatibilities. Evil-act traits are marked |
+| `traits/society/`, `traits/form/`, `traits/destiny/` | Faction traits: point cost, affinity, effects, starting bonus, incompatibilities. Evil-act traits are marked. The Vision society traits list their Archon Prophecy visions |
 | `units/` | Stats, cost, abilities with damage/range, passives, rank-up rewards, and the tome or culture that unlocks the unit |
 | `spells/` | Type, cost, upkeep, unlocking tome, targets, full text |
 | `cultures/` | One file per culture: description, starting affinity per subculture, culture/subculture tomes and units. The index table has every culture + subculture's starting affinity |
 | `races.md` | The 24 race appearances with descriptions (cosmetic; gameplay comes from form traits) |
-| `rulers.md` | Ruler origins (Champion, Wizard King, Eldritch Sovereign, …), dragon/giant/vampire subtypes, Archon Prophecy visions |
+| `rulers.md` | Ruler origins (Champion, Wizard King, Eldritch Sovereign, …), dragon/giant/vampire subtypes |
 | `world/` | Relics, free city factions (what absorbing one gives), ancient wonders/landmarks/magic materials, cosmic happenings |
 | `heroes/` | Hero skill trees, hero items by slot, destinies |
 | `empire/` | Empire skills, governors, city structures, siege projects, item forge |

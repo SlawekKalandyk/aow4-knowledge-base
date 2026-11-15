@@ -21,7 +21,7 @@ Data is current as of the commit in `SOURCE.md` (all DLCs up to then).
 | `cultures/` | One file per culture: description, starting affinity per subculture, culture/subculture tomes, units, buildings and society traits it can't take. The index table has every culture + subculture's starting affinity |
 | `races.md` | The 24 race appearances with descriptions (cosmetic; gameplay comes from form traits) |
 | `rulers.md` | Ruler origins (Champion, Wizard King, Eldritch Sovereign, …), dragon/giant/vampire subtypes |
-| `world/` | Relics, free city factions (what absorbing one gives), ancient wonders/landmarks/magic materials, cosmic happenings |
+| `world/` | Relics, free city factions (what absorbing one gives), ancient wonders/landmarks/magic materials, cosmic happenings, realm traits (`realm-traits.md`; from localization text only: no field says which ones custom realm setup offers or their category) |
 | `heroes/` | Hero skill trees (one file per class, with the class description), ruler signature skills, hero items by slot, destinies |
 | `empire/` | Empire skills, governors, city structures, siege projects, item forge |
 | `glossary.md` | In-game concept tooltips (mechanics, terms) |

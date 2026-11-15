@@ -15,7 +15,7 @@ It is generated from [aow4db](https://github.com/MinionsArt/aow4db), a community
 | [`cultures/`](cultures/_index.md) | 12 cultures and 29 subcultures: description, starting affinity, culture tomes, units, buildings and society traits it can't take |
 | [`races.md`](races.md) | The 24 race appearances |
 | [`rulers.md`](rulers.md) | Ruler origins, dragon/giant/vampire subtypes |
-| [`world/`](world/_index.md) | Relics, free city factions, ancient wonders and landmarks, cosmic happenings |
+| [`world/`](world/_index.md) | Relics, free city factions, ancient wonders and landmarks, cosmic happenings, realm traits |
 | [`heroes/`](heroes/_index.md) | Hero skill trees (one file per class, with the class description), ruler signature skills, hero items by slot, destinies |
 | [`empire/`](empire/_index.md) | Empire skills, governors, city structures, siege projects, item forge |
 | [`glossary.md`](glossary.md) | In-game concept tooltips |

@@ -106,7 +106,7 @@ Unlocks the spell: Fanfare of mercy.
 
 DLC: SILVERSEAS
 
-- Trade Route between your > and Outpost grant +3 Imperium.
+- Trade Route between your City and Outpost grant +3 Imperium.
 - When obtaining this Artifact for the first time, you unlock 2 random high Tier Empire Skill.
 
 ## Lithorine Globe
@@ -145,7 +145,7 @@ DLC: GIANTKINGS
 DLC: GIANTKINGS
 
 - Adds 4 Recruitment Point and the Fire Giant unit to the Rally of the Lieges.
-- All non-hero > and Demigiants you control gain Tsr ms relic unit prop.
+- All non-hero Giant and Demigiants you control gain Tsr ms relic unit prop.
 Blessing of Flame
 Unit has:
 
@@ -160,7 +160,7 @@ Unit has:
 DLC: GIANTKINGS
 
 - Adds 4 Recruitment Point and the Rock giant unit to the Rally of the Lieges.
-- All non-hero > and Demigiants you control gain Tsr hoe relic unit prop.
+- All non-hero Giant and Demigiants you control gain Tsr hoe relic unit prop.
 Blessing of Rock
 Unit has:
 
@@ -175,7 +175,7 @@ Unit has:
 DLC: GIANTKINGS
 
 - Adds 4 Recruitment Point and the Storm giant unit to the Rally of the Lieges.
-- All non-hero > and Demigiants you control gain Tsr csp relic unit prop.
+- All non-hero Giant and Demigiants you control gain Tsr csp relic unit prop.
 Blessing of Storms
 Unit has:
 

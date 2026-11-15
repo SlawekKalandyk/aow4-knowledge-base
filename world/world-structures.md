@@ -207,8 +207,8 @@ Province adjacent to this Landmark gain:
 
 A City with 3 Province adjacent to this Landmark gain:
 
-- Unlocks recruitment of > and >.
-- Friendly Unit in the domain regenerate +25 > every Turn.
+- Unlocks recruitment of Lesser tide spirit and Tide spirit.
+- Friendly Unit in the domain regenerate +25 Hit Point every Turn.
 - Unit unlocks: [Lesser Tide Spirit](../units/lesser-tide-spirit.md), [Tide Spirit](../units/tide-spirit.md)
 
 ## Chained Demon
@@ -263,7 +263,7 @@ A City with 3 Province adjacent to this Landmark gain:
 Province adjacent to this Landmark gain:
 
 - +10 Draft.
-- If Soul are obtainable, this province grants +2 >.
+- If Soul are obtainable, this province grants +2 Soul.
 - The Undying Battlefield [Combat] Combat Enchantment
 
 A City with 3 Province adjacent to this Landmark gain:
@@ -301,7 +301,7 @@ Province adjacent to this Landmark gain:
 A City with 3 Province adjacent to this Landmark gains:
 
 - Unlocks recruitment of Lithorine Unit.
-- +10 > and +10 >.
+- +10 World Map Casting Point and +10 Combat Casting Point.
 - Unit unlocks: [Lithorine Core](../units/lithorine-core.md), [Lithorine Needler](../units/lithorine-needler.md), [Lithorine Shardlancer](../units/lithorine-shardlancer.md), [Lithorine Gemcaster](../units/lithorine-gemcaster.md), [Lithorine Simulacrum](../units/lithorine-simulacrum.md)
 - Spell unlocks/rewards: Elemental Attunement: All Elemental Unit gain Elemental attunement unitprop until the end of combat.
 
@@ -379,7 +379,7 @@ Province adjacent to this Landmark gain:
 
 - +10 Mana.
 - The Combatproperty Volcanic Eruption [Combat] Combat Enchantment.
-- > in the Province gain Volcanic heat unit property.
+- Unit in the Province gain Volcanic heat unit property.
 
 A City with 3 Province adjacent to this Landmark gains:
 

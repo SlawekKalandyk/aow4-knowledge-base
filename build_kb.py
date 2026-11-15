@@ -102,7 +102,9 @@ def clean(s):
     s = re.sub(rf"(?<![\w.])({SPACED_KEY}(?: {_SPACED_CHAR}){{4,}})(?![\w])", spaced_key_name, s)  # unwrapped, 8+ letters
     s = re.sub(r"<span[^>]*>|</span>", "", s)
     # Localization markup (all.json): [hyperlink,GLOBAL.X]Text[/hyperlink], [spellref,...]Text[/spellref]
-    s = re.sub(r"\[(\w+),[^\]]*\](.*?)\[/\1\]", r"\2", s)
+    s = re.sub(r"\[(\w+)[,.][^\]]*\](.*?)\[/\1\]", r"\2", s)  # a few use '.': [hyperlink.X.Y]<<Routed>>
+    # Grammar templates: <<m:City>> (m: plural, c:, ...), <<m{GLOBAL...}>>, <<mUnit>> -> the noun; prefix dropped
+    s = re.sub(r"<<(?:[A-Za-z]{1,3}:|m(?=[{A-Z]))?([^<>]+)>>", r"\1", s)
     # Named references like {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} -> "Condemned"
     s = re.sub(r"\{(GLOBAL\.[\w.]*?(\w+))\.Hyperlink\}", ref_name, s)
     # Unresolved runtime values such as {SUNDERED_RESISTANCE>ResolvedStrength} or {EventCity}
@@ -917,7 +919,75 @@ def build_world():
     write(KB / "world" / "cosmic-happenings.md", "\n".join(lines))
     write(KB / "world" / "_index.md", "# World\n\n- [Relics](relics.md)\n- [Free city factions](free-cities.md)\n"
           "- [World structures: ancient wonders, landmarks, magic materials](world-structures.md)\n"
-          "- [Cosmic happenings](cosmic-happenings.md)")
+          "- [Cosmic happenings](cosmic-happenings.md)\n- [Realm traits](realm-traits.md)")
+
+
+# Realm traits exist only as localization (all.json). A trait is a top-level id; ids below it ("...@UNIT_PROP")
+# hold its sub-effects, leaders and races.
+REALM_TRAIT_ID = re.compile(r"(?:META_EMPIRE@TRAIT_|REALM_TRAITS?[@_])[^@]+$")
+REALM_TRAIT_UI = "REALM_TRAIT@"  # REALM_TRAIT@CATEGORY, @WARNING, ...: setup-screen strings, not traits
+REALM_TRAIT_INTERNAL = re.compile(r"DO NOT SHIP|NON-FUNCTIONAL|\bHIDE\b|Test Trait|\{STR_")
+# The data splits a few traits: the name sits on one id, the text on a near-identical one.
+REALM_TRAIT_TEXT_OF = {"META_EMPIRE@TRAIT_DEMONIC_REALM": "META_EMPIRE@TRAIT_DEMONIC_REALMS",
+                       "META_EMPIRE@TRAIT_REGENERATING_INFESTATION": "META_EMPIRE@TRAIT_REGENERATING_INFESTATIONS",
+                       "DLC@SECRETSOFTHEARCHMAGES@META_EMPIRE@TRAIT_SHROUDED_REGIONS":
+                           "DLC@SECRETSOFTHEARCHMAGES@META_EMPIRE@TRAIT_SHROUDED_REIONS"}
+REALM_TRAIT_MAIN_TEXT = ("description", "desscription", "trait_description", "desc")  # "desscription": data typo
+
+
+def realm_trait_texts(rec):
+    """Main text, then the other text fields ("Combat property: ...", "Objective 1: ...")."""
+    main = [clean(rec[k]) for k in REALM_TRAIT_MAIN_TEXT if rec.get(k)]
+    extra = [f"{k.replace('description', '').replace('_', ' ').strip().capitalize()}: {one_line(v)}"
+             for k, v in rec.items() if isinstance(v, str) and k not in REALM_TRAIT_MAIN_TEXT and v.strip()
+             and "desc" in k and k != "modifier_description"]  # objective_*: victory-screen labels
+    return main, extra
+
+
+def build_realm_traits():
+    traits = {}  # heading -> {"ids", "dlc", "main", "extra"}
+    for tid, rec in loc.items():
+        if not REALM_TRAIT_ID.search(tid) or tid.startswith(REALM_TRAIT_UI):
+            continue
+        rec = {**rec, **{k: v for k, v in loc.get(REALM_TRAIT_TEXT_OF.get(tid, ""), {}).items() if k != "id"}}
+        if tid in REALM_TRAIT_TEXT_OF.values():
+            continue  # merged into its text id above
+        main, extra = realm_trait_texts(rec)
+        for sid, sub in loc.items():  # sub-effects with their own text
+            if sid.startswith(tid + "@"):
+                sm, se = realm_trait_texts(sub)
+                label = clean(sub.get("name") or sub.get("property_name") or sid.rsplit("@", 1)[1].replace("_", " ").capitalize())
+                extra += [f"{label}: {flatten(t)}" for t in sm] + [f"{label}: {t}" for t in se]
+        if REALM_TRAIT_INTERNAL.search(rec.get("name") or ""):
+            continue
+        name = clean(rec.get("name"))
+        if not name:
+            if not main:
+                continue  # a sub-effect or label string, not a trait
+            name = tid.rsplit("TRAIT_", 1)[1].replace("_", " ").title() + " (name from its ID)"
+        t = traits.setdefault(name, {"ids": [], "dlc": set(), "main": [], "extra": []})
+        t["ids"].append(tid)
+        t["dlc"].add(dlc(rec))
+        t["main"] = unique(t["main"] + main)
+        t["extra"] = unique(t["extra"] + extra)
+
+    lines = ["# Realm traits", "",
+             "Traits a realm can have (realm setup, story realms and campaigns), from the game's localization text. "
+             "The data has no field saying which ones custom realm setup offers, or which category (clime, geography, "
+             "inhabitants, presence, misc) each belongs to. \"Story realm / campaign\" = the trait's ID says so. "
+             "Entries the data marks as internal (DO NOT SHIP, HIDE, NON-FUNCTIONAL, test) are left out.", ""]
+    for name in sorted(traits, key=str.lower):
+        t = traits[name]
+        meta = [f"DLC: {', '.join(sorted(t['dlc']))}"]
+        if any(re.search(r"STORY_REALM|CAMPAIGN", i) for i in t["ids"]):
+            meta.append("Story realm / campaign")
+        lines += [f"## {name}", "", " | ".join(meta), ""]
+        lines += [m + "\n" for m in t["main"]]
+        lines += [f"- {e}" for e in t["extra"]]
+        if not t["main"] and not t["extra"]:
+            lines.append("No description in the data.")
+        lines.append("")
+    write(KB / "world" / "realm-traits.md", "\n".join(lines))
 
 
 # ---------------------------------------------------------------- spells
@@ -1206,6 +1276,7 @@ if __name__ == "__main__":
     build_races()
     build_rulers()
     build_world()
+    build_realm_traits()
     build_spells()
     build_heroes()
     build_empire()

@@ -1,0 +1,40 @@
+name: Regenerate from aow4db
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily, 04:17 UTC
+  workflow_dispatch:
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    container: python:3.14   # has git; build_kb.py needs only the standard library
+    steps:
+      - name: Clone knowledge base
+        env:
+          TOKEN: ${{ secrets.GITEA_TOKEN }}
+        run: |
+          host="${GITHUB_SERVER_URL#https://}"
+          git clone --depth 1 "https://oauth2:${TOKEN}@${host}/${GITHUB_REPOSITORY}.git" kb
+
+      - name: Fetch aow4db (only the paths build_kb.py reads)
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/MinionsArt/aow4db.git aow4db
+          git -C aow4db sparse-checkout set --no-cone /Data/EN/ /Data/GEN/ /HTML/CityTrees.html
+
+      - name: Build
+        run: python kb/build_kb.py
+
+      - name: Commit if anything changed
+        working-directory: kb
+        run: |
+          git push --dry-run origin HEAD:main   # fail early if the token can't push
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Knowledge base already up to date."
+            exit 0
+          fi
+          rev="$(git -C ../aow4db log -1 --format='%h %cd' --date=short)"
+          git -c user.name="aow4db sync" -c user.email="actions@noreply.local" \
+            commit -m "Regenerate from aow4db ${rev}"
+          git push origin HEAD:main

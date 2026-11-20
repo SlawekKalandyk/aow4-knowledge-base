@@ -9,8 +9,8 @@ Exploit spatial magic to its full potential. Strategically reposition your units
 
 ## Unlocks
 
-- Astral Trade Relay (City Structure): - +15 Gold income.
-  - +4 Gold income for each Astral Trade Relay built in your empire.
+- Astral Trade Relay (City Structure): - +10 Gold income.
+  - +5 Gold income for each Astral Trade Relay built in your empire.
 - [Phasing Enchantment](../spells/phasing-enchantment.md) ([World Map] Unit Enchantment): Grants enchanted units:
   
   - The Charged Phase ability, which allows them to teleport in battle.

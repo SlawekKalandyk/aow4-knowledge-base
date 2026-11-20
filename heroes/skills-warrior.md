@@ -2,6 +2,8 @@
 
 A Hero Class that specializes in charge attacks, dealing damage, and gaining strength through fighting.
 
+A Hero Class that specializes in charge attacks, dealing damage, and gaining strength through fighting.
+
 Compatible weapons:
 
 - Great Weapon

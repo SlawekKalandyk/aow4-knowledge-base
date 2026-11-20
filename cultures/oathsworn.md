@@ -21,10 +21,10 @@ Culture buildings (aow4db site's hand-made culture map, not game data; details i
 
 Your people follow a path of Strife, seeking to forge their strength in the fires of war:
 
-- Gain grievances against Ruler with an overall better ranking.
-- Razing City and Pillaging Province takes -1 Turn.
-- Razing City and Pillaging Province yields Imperium.
-- Culture units have Warriors soul.
+- Gain grievances against Rulers with an overall better ranking.
+- Razing Cities and Pillaging Provinces takes -1 Turn.
+- Razing Cities and Pillaging Provinces yields Imperium.
+- Culture units have Warrior's Soul.
 - Become stronger as you gain Devotion to the Oath of Strife.
 
 ## Subculture: Oath of Righteousness
@@ -49,7 +49,7 @@ Your people follow a path of Righteousness, working to be a positive force for g
 
 Your people follow a path of Harmony, seeking cooperation and to clear the world of threats:
 
-- Gain +100 relations with Free City and Ruler.
-- When vassalizing a conquered city, they start at Vassalage phase instead of at Tributary.
+- Gain +100 relations with Free Cities and Rulers.
+- When vassalizing a conquered city, they start at Vassalage phase instead of at ?.
 - Culture units have Harmonize.
 - Become stronger as you gain Devotion to the Oath of Harmony.

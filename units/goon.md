@@ -1,7 +1,7 @@
 # Goon
 
 - Tier: 1
-- HP 60 | Defense 1 | Resistance 0 | Status resistance 0
+- HP 60 | Defense 2 | Resistance 0 | Status resistance 0
 - Movement 40 | Combat speed 4
 - Cost: 80 Draft 60 Gold | Upkeep: 8 Gold
 - DLC: SILVERSEAS

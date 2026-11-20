@@ -9,7 +9,7 @@
 ## Effects
 
 - Pronouncements cost -50% less
-- Trade with Free Cities costs you -100% resources. (Cost increases from other sources still apply!)
+- Trade options with Free Cities to increase income from Trade Routes no longer cost resources.
 
 ## Starting bonus
 

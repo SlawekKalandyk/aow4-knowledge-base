@@ -6,7 +6,7 @@
 They believe one can only feel truly alive in the heat of battle and tend not to be hindered by ethical concerns.
 
 - Has higher Food and Draft income.
-- Units have Primal mark, dealing extra damage on a Critical Hit Chance.
+- Units have Savage Strike, dealing extra damage on a Critical Hit.
 - Ritual of Alacrity
 
 A people who thrive on war and aggression. They value strength and prefer to charge head-on into bloody battles.

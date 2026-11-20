@@ -115,16 +115,16 @@
 | [Condemn Army](condemn-army.md) | [World Map] Enemy Army Spell | 80 Mana |  | Tome of Supremacy | Base |
 | [Condemnation](condemnation.md) | [Combat] Damage/Debuff Spell | 5 Mana |  | Tome of Zeal | Base |
 | [Conjure Abjurer Pylon](conjure-abjurer-pylon.md) | [Combat] Combat Summon Spell | 15 Mana |  | Tome of Abjuration | SECRETSOFTHEARCHMAGES |
-| [Conjure Adventurer Captain](conjure-adventurer-captain.md) | [Combat] Combat Summon Spell | 100 Mana |  |  | SILVERSEAS |
+| [Conjure Adventurer Captain](conjure-adventurer-captain.md) | [Combat] Combat Summon Spell | 200 Mana |  |  | SILVERSEAS |
 | [Conjure Amplification Pylon](conjure-amplification-pylon.md) | [Combat] Combat Summon Spell | 45 Mana |  | Tome of Amplification | Base |
 | [Conjure Astral Keeper](conjure-astral-keeper.md) | [Combat] Combat Summon Spell | 20 Mana |  | Tome of Summoning | Base |
 | [Conjure Astral Ward](conjure-astral-ward.md) | [Combat] Combat Summon Spell | 30 Mana |  | Mystic - School of Summoning | Base |
-| [Conjure Demonic Captain](conjure-demonic-captain.md) | [Combat] Combat Summon Spell | 100 Mana |  |  | SILVERSEAS |
+| [Conjure Demonic Captain](conjure-demonic-captain.md) | [Combat] Combat Summon Spell | 200 Mana |  |  | SILVERSEAS |
 | [Conjure Divine Beacon](conjure-divine-beacon.md) | [Combat] Combat Summon Spell | 30 Mana |  | Tome of the Beacon | Base |
 | [Conjure Elemental](conjure-elemental.md) | [Combat] Combat Summon Spell | 20 Mana |  |  | ARCHONPROPHECY |
-| [Conjure Family Captain](conjure-family-captain.md) | [Combat] Combat Summon Spell | 100 Mana |  |  | SILVERSEAS |
-| [Conjure Gold-Cursed Captain](conjure-gold-cursed-captain.md) | [Combat] Combat Summon Spell | 100 Mana |  |  | SILVERSEAS |
-| [Conjure Maniac-Hunter Captain](conjure-maniac-hunter-captain.md) | [Combat] Combat Summon Spell | 100 Mana |  |  | SILVERSEAS |
+| [Conjure Family Captain](conjure-family-captain.md) | [Combat] Combat Summon Spell | 200 Mana |  |  | SILVERSEAS |
+| [Conjure Gold-Cursed Captain](conjure-gold-cursed-captain.md) | [Combat] Combat Summon Spell | 200 Mana |  |  | SILVERSEAS |
+| [Conjure Maniac-Hunter Captain](conjure-maniac-hunter-captain.md) | [Combat] Combat Summon Spell | 200 Mana |  |  | SILVERSEAS |
 | [Conjure Orb of Desire](conjure-orb-of-desire.md) | [Combat] Combat Summon Spell | 30 Mana |  | Tome of Burning Passion | SECRETSOFTHEARCHMAGES |
 | [Conjure Pirate Cannon Tower](conjure-pirate-cannon-tower.md) | [Combat] Combat Summon Spell | 45 Mana |  | Pirate Bond | SILVERSEAS |
 | [Conjure Primal Crocodile](conjure-primal-crocodile.md) | [Combat] Combat Summon Spell | 45 Mana |  | Primal - Mire Crocodile | PRIMALFURY |
@@ -134,7 +134,7 @@
 | [Conjure Primal Serpent](conjure-primal-serpent.md) | [Combat] Combat Summon Spell | 45 Mana |  | Primal - Dune Serpent | PRIMALFURY |
 | [Conjure Primal Spider](conjure-primal-spider.md) | [Combat] Combat Summon Spell | 45 Mana |  | Primal - Tunneling Spider | PRIMALFURY |
 | [Conjure Primal Wolf](conjure-primal-wolf.md) | [Combat] Combat Summon Spell | 45 Mana |  | Primal - Sylvan Wolf | PRIMALFURY |
-| [Conjure Protector Captain](conjure-protector-captain.md) | [Combat] Combat Summon Spell | 100 Mana |  |  | SILVERSEAS |
+| [Conjure Protector Captain](conjure-protector-captain.md) | [Combat] Combat Summon Spell | 200 Mana |  |  | SILVERSEAS |
 | [Conjure Spellward](conjure-spellward.md) | [World Map] World Spell | 200 Mana |  | Tome of Severing | EMPIRESANDASHES |
 | [Conjure Summoning Rift](conjure-summoning-rift.md) | [World Map] World Spell | 60 Mana |  | Mystic - School of Summoning | Base |
 | [Conjure Tentacle](conjure-tentacle.md) | [Combat] Combat Summon Spell | 30 Mana |  | Tome of the Tentacle | ELDRITCHREALMS |

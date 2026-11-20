@@ -22,7 +22,7 @@ Culture buildings (aow4db site's hand-made culture map, not game data; details i
 
 Your people are loyal to the absolute rule of their Monarch, gaining power from the presence of their ruler:
 
-- The Ruler gains Feudal monarchs dominion.
+- The Ruler gains Monarch's Dominion.
 - Units gain For the Monarch.
 - Certain units can promote into higher Tier units on attaining Legendary Rank.
 
@@ -36,6 +36,6 @@ Your people are loyal to the absolute rule of their Monarch, gaining power from 
 
 Your cities form powerful Houses, able to field efficient armies when led by their Liege Lords:
 
-- Each city has a Feudal House led by its governor, who becomes the House's Liege lord.
+- Each city has a Feudal House led by its governor, who becomes the House's Liege Lord.
 - Units produced in Feudal cities become part of that city's Feudal House, gaining Experience as their Liege Lord gains Renown.
 - Certain units can promote into higher Tier units on attaining Legendary Rank.

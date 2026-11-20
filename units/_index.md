@@ -37,7 +37,7 @@ Source lists the tomes and cultures that unlock a unit; blank = racial, summoned
 | [Frenzied Fish Swarm](frenzied-fish-swarm.md) | 1 | 70 | 0 | 0 | 80 Draft 60 Gold |  | SILVERSEAS |
 | [Giant Beetle](giant-beetle.md) | 1 | 60 | 2 | 0 | 80 Draft 60 Gold |  | ELDRITCHREALMS |
 | [Gluttonous Imp](gluttonous-imp.md) | 1 | 65 | 2 | 2 | 80 Draft 60 Gold |  | SECRETSOFTHEARCHMAGES |
-| [Goon](goon.md) | 1 | 60 | 1 | 0 | 80 Draft 60 Gold | Culture: Mercantile / Cartel | SILVERSEAS |
+| [Goon](goon.md) | 1 | 60 | 2 | 0 | 80 Draft 60 Gold | Culture: Mercantile / Cartel | SILVERSEAS |
 | [Goretusk Piglet](goretusk-piglet.md) | 1 | 65 | 1 | 0 | 80 Draft 60 Gold |  | Base |
 | [Grimbeak Crow](grimbeak-crow.md) | 1 | 60 | 0 | 0 | 120 Draft 100 Gold |  | Base |
 | [Harrier](harrier.md) | 1 | 60 | 2 | 0 | 80 Draft 60 Gold | Culture: Reaver / Imperial | EMPIRESANDASHES |

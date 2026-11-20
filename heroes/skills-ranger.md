@@ -2,6 +2,8 @@
 
 A Hero Class that specializes in ranged damage, skirmishing, and disrupting enemies.
 
+A Hero Class that specializes in ranged damage, skirmishing, and disrupting enemies.
+
 Compatible weapons:
 
 - Ranged Weapon

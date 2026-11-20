@@ -23,7 +23,6 @@
 - **Demolisher**: This unit's attacks damage Fortified obstacles.
 - **Heartless**: The unit has a -50% modifier to Morale changes
 - **High Maintenance**: Base Unit Upkeep increased by 50%
-- **Limited Maneuverability**: This unit is harder to turn during combat meaning: Each turn made during movement costs 1 point. Rotating the unit on the spot reduces move points to 0. The unit cannot make Opportunity Attacks or Retaliation Attack to hexes behind it.
 - **Reinforced**: Unit has +3 Defense against Missile attacks.
 - **Siege Breaker**: When part of a besieging army, this unit contributes +1 Fortification Damage.
 - **Unstoppable Juggernaut**: This unit can crush non-Fortified obstacles without slowing.

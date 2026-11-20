@@ -24,7 +24,7 @@ Your people are familiar with death, sacrifice is the norm and a tool for their 
 
 - Units get power when friendly or hostile units are slain through Power from Death.
 - Heroes in your Crypt can be turned into Embalmed Sacrifices.
-- Use Embalmed Sacrifices to build powerful City Structures or cast Morbid sacrifice.
+- Use Embalmed Sacrifices to build powerful City Structures or cast Morbid Sacrifice.
 
 ## Subculture: Cult of Tyranny
 
@@ -36,8 +36,8 @@ Your people are familiar with death, sacrifice is the norm and a tool for their 
 
 Your people value strength, tyranny is a virtue and privilege for those who prove their might:
 
-- Units weaken enemy Status Resistance through Aura of tyranny and Exploit vulnerability.
-- Capture heroes to control Free City through Hostage Diplomacy.
-- -1 Whispering Stones.
+- Units weaken enemy Status Resistance through Aura of Tyranny and Exploit Vulnerability.
+- Capture heroes to control Free Cities through Hostage Diplomacy.
+- -1 Whispering Stone.
 - Gain City Stability when executing heroes in your Prison.
 - Unique City structures provide greatly increased Gold at the cost of City Stability.

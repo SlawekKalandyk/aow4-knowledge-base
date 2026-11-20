@@ -1,6 +1,8 @@
 # Hero skills: Death Knight
 
-A Hero Class that specializes in high damage Melee attacks, backed up by Debuff and summoned Undead units.
+A Hero Class that specializes in high damage Melee attacks, backed up by Debuffs and summoned Undead units.
+
+A Hero Class that specializes in high damage Melee attacks, backed up by Debuffs and summoned Undead units.
 
 Compatible weapons:
 

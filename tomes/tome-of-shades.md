@@ -18,7 +18,7 @@ Strike from the shadows, blind your foes and find their weak points to deliver t
   - It becomes Obscured for 1 Turn.
   - Adjacent enemies have a base 90% chance of becoming Blind for 1 Turn.
 - Shade Network (City Structure): - +10 Knowledge income.
-  - +10 Knowledge for each non-owned city that shares a border with this City.
+  - +5 Knowledge for Trade Routes originating from this city.
 - [Rending Shadows](../spells/rending-shadows.md) ([Combat] Damage/Debuff Spell): Enemy units in a 1-hex radius:
   
   - Sustain 16 Physical Damage.

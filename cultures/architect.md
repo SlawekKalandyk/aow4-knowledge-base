@@ -6,8 +6,8 @@
 They commit themselves to build their own wonders, aspiring to serve a greater purpose.
 
 - Has higher Production income.
-- Collect Wonderstone to build impressive Monument to the Affinity.
-- Monument grant Affinity incarnate unit property to Architect Units.
+- Collect Wonderstone to build impressive Monuments to the Affinities.
+- Monuments grant Affinity Incarnate to Architect Units.
 - Architect culture units deal damage matching the Empire's dominant Affinity.
 
 A people dedicated to the creation of something greater than themselves, building Monuments to their chosen Affinities.

@@ -2,6 +2,8 @@
 
 A Hero Class that specializes in defending its allies, survivability, and retaliation.
 
+A Hero Class that specializes in defending its allies, survivability, and retaliation.
+
 Compatible weapons:
 
 - One Handed Weapon

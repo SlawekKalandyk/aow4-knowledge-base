@@ -39,5 +39,5 @@ To your people, survival is an eternal conflict, one they excel at:
 
 Survival is measured in what can be scavenged from the ruined world, your people know this well:
 
-- Use Wonder Scavenging to extract unique Essence from Ancient Wonder, further empowering your cities as they collect Essence.
+- Use Wonder Scavenging to extract unique Essences from Ancient Wonders, further empowering your cities as they collect Essence.
 - In combat, pickup loot from defeated units to heal and gain Looted Power.

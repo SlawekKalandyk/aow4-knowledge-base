@@ -26,12 +26,12 @@ Your people worship the Mire Crocodile, bestowing benefits to your culture:
 
 - +3 Food
 
-- Access to the Primal - Mire Crocodile summon
+- Access to the Primal Crocodile summon
 - Units have:
 
-- Disease immunity
+- Status Effect Immunity: Diseased
 - Swamp Walk
-- Primal fury mod group crocodile
+- Mire Crocodile's Boon
 
 ## Subculture: Storm Crow
 
@@ -46,13 +46,13 @@ Your people worship the Storm Crow, bestowing benefits to your culture:
 - Start in the Grasslands.
 - Grassland provinces are Favored Terrain and gain:
 
-- +2 Mana
+- +2 Manas
 
-- Access to the Primal - Storm Crow summon.
+- Access to the Primal Crow summon.
 - Units have:
 
 - Grassland Walk
-- Primal fury mod group crow
+- Storm Crow's Boon
 
 ## Subculture: Glacial Mammoth
 
@@ -65,16 +65,16 @@ Your people worship the Storm Crow, bestowing benefits to your culture:
 Your people worship the Glacial Mammoth, bestowing benefits to your culture:
 
 - Start in the Arctic.
-- Able to build Farm on Snow terrain.
+- Able to build Farms on Snow terrain.
 - Snow provinces are Favored Terrain and gain:
 
 - +3 Production
 
-- Access to the Primal - Glacial Mammoth summon.
+- Access to the Primal Mammoth summon.
 - Units have:
 
 - Arctic Walk
-- Primal fury mod group mammoth
+- Glacial Mammoth's Boon
 
 ## Subculture: Dune Serpent
 
@@ -87,16 +87,16 @@ Your people worship the Glacial Mammoth, bestowing benefits to your culture:
 Your people worship the Dune Serpent, bestowing benefits to your culture:
 
 - Start in the Desert.
-- Able to build Farm on Sand terrain.
+- Able to build Farms on Sand terrain.
 - Sand provinces are Favored Terrain and gain:
 
 - +2 Gold
 
-- Access to the Primal - Dune Serpent summon
+- Access to the Primal Serpent summon
 - Units have:
 
 - Sand Walk
-- Primal fury mod group serpent
+- Dune Serpent's Boon
 
 ## Subculture: Ash Sabertooth
 
@@ -109,17 +109,17 @@ Your people worship the Dune Serpent, bestowing benefits to your culture:
 Your people worship the Ash Sabertooth, bestowing benefits to your culture:
 
 - Start in the Ashlands.
-- Able to build Farm on Ashlands terrain.
+- Able to build Farms on Ashlands terrain.
 - Cities ignore the City Stability penalty from Lava and Chasm terrain in their Domain.
 - Ashland provinces are Favored Terrain and gain:
 
 - +3 Gold
 
-- Access to the Primal - Ash Sabertooth summon.
+- Access to the Primal Sabertooth summon.
 - Units have:
 
 - Desolate Walk
-- Primal fury mod group sabertooth
+- Ash Sabertooth's Boon
 
 ## Subculture: Tunneling Spider
 
@@ -133,17 +133,17 @@ Your people worship the Tunneling Spider, bestowing benefits on your culture:
 
 - Start in the Underground and with Excavation.
 - Underground Cities gain +1 Province Annex Range.
-- Able to build Farm on Cavern terrain.
+- Able to build Farms on Cavern terrain.
 - Cities ignore the City Stability penalty from Lava and Chasm terrain in their Domain.
 - Mushroom Forest provinces are Favored Terrain and gain:
 
 - +2 Knowledge
 
-- Access to the Primal - Tunneling Spider summon
+- Access to the Primal Spider summon
 - Units have:
 
 - Cave Walk
-- Primal fury mod group spider
+- Tunneling Spider's Boon
 
 ## Subculture: Sylvan Wolf
 
@@ -160,8 +160,8 @@ Your people worship the Sylvan Wolf, bestowing benefits to your culture:
 
 - +3 Draft
 
-- Access to the Primal - Sylvan Wolf summon
+- Access to the Primal Wolf summon
 - Units have:
 
-- Expedited forest
-- Primal fury mod group wolf
+- Forest Walk
+- Sylvan Wolf's Boon

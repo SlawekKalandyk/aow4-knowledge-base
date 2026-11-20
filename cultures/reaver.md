@@ -19,9 +19,9 @@ Culture buildings (aow4db site's hand-made culture map, not game data; details i
 
 Your people believe that all nations are stronger together; through strength and diplomacy, all shall share in the prosperity of their Federation:
 
-- Gain Favors from defeating Marauder, destroying Infestation, and maintaining Supreme Vassalage with Free City. Use Favors to improve the Allegiance of your Vassals, rush War Coordination, trade with Free City, and recruit from Rally of the Lieges.
-- Units recruited from Rally of the Lieges gain Federate levy.
-- Your units gain Federate soldier.
+- Gain Favors from defeating Marauders, destroying Infestations, and maintaining Supreme Vassalage with Free Cities. Use Favors to improve the Allegiance of your Vassals, rush War Coordination, trade with Free Cities, and recruit from Rally of the Lieges.
+- Units recruited from Rally of the Lieges gain Federate Levy.
+- Your units gain Federate Soldier.
 
 ## Subculture: Imperial
 
@@ -33,7 +33,7 @@ Your people believe that all nations are stronger together; through strength and
 
 Your people know themselves to be the pinnacle of civilization, and thus all lesser domains are theirs to conquer:
 
-- Gain War Spoils from fighting, raiding, and conquering Free City and Empire.
-- Use War Spoils to empower your City.
+- Gain War Spoils from fighting, raiding, and conquering Free Cities and Empires.
+- Use War Spoils to empower your Cities.
 - No Imperium income penalties from War without War Justification.
-- Ranged units are specialized in focusing down targets Marked by Melee units through Opportunist ability modfier.
+- Ranged units are specialized in focusing down targets Marked by Melee units through Focused Aggression.

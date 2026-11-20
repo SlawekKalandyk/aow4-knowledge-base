@@ -84,6 +84,14 @@
 - **Magic Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
 - **Fire Breachgun** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone. Cooldown: 2 Turns. Requires: Magic, Base
 
+## Carbine
+
+(DLC SILVERSEAS; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
+
+
+- **Shoot Crossbow** (damage 30 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
+- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
+
 ## Cestus
 
 (DLC Base; classes: Battlesaint, Spellblade, Death Knight, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary, Mount)
@@ -885,10 +893,10 @@
 
 ## Breachgun and Axe
 
-(Tier I; DLC EMPIRESANDASHES; classes: Battlesaint, Spellblade, Death Knight, Ranger, Defender, Warrior; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
+(Tier I; DLC EMPIRESANDASHES; classes: Battlesaint, Warlock, Spellblade, Elementalist, Ritualist, Death Knight; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Melee Strike** (damage 12 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Melee, Base
+- **Magic Strike** (damage 10 Physical, accuracy 100%, range 1, repeating action): Strikes target enemy unit. Requires: Magic, Base
 - **Fire Breachgun** (damage 20 Physical, accuracy Always Hits, range 1, single-use action): Deal damage to all units in a 2-hex Cone. Cooldown: 2 Turns. Requires: Magic, Base
 
 ## Captain's Cutlass
@@ -903,8 +911,8 @@
 (Tier I; DLC SILVERSEAS; classes: Spellblade, Ranger; hero types: Champion, Wizard King, Elder Vampire Pureblood; disables slots: Secondary)
 
 
-- **Fire Heavy Magelock** (damage 38 Physical, accuracy 100%, range 5, full action): Fire Heavy Magelock at target enemy unit. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
-- **Snapshot Heavy Magelock** (damage 25 Physical, accuracy 80%, range 4, single-use action): Quickly fire Heavy Magelock at target enemy unit, with reduced accuracy and effectiveness. Piercing: Ignore 50% of the target's Defense. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
+- **Shoot Carbine** (damage 30 Physical, accuracy 90%, range 4, single-use action): Fires ranged projectiles at target enemy unit. Affected by Line of Sight rules. Cannot be used when within an enemy Zone of Control. Requires: Missile, Base, Single Shot
+- **Quick Stab** (damage 16 Physical, accuracy 100%, range 1, single-use action): Single Melee Strike. Requires: Melee, Single Shot
 
 ## Cestus
 

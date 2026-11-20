@@ -248,8 +248,8 @@ Astral Spells are 10% cheaper.
 (cost 170 Gold 450 Production; DLC Base)
 - Unlocked by: [Tome of Teleportation](../tomes/tome-of-teleportation.md) (tier 3)
 
-- +15 Gold income.
-- +4 Gold income for each Astral Trade Relay built in your empire.
+- +10 Gold income.
+- +5 Gold income for each Astral Trade Relay built in your empire.
 
 ## Ballista Towers
 
@@ -2282,7 +2282,7 @@ Grants 2 Striders on the defender's side when fighting a defensive Siege.
 - Unlocked by: [Tome of Shades](../tomes/tome-of-shades.md) (tier 2)
 
 - +10 Knowledge income.
-- +10 Knowledge for each non-owned city that shares a border with this City.
+- +5 Knowledge for Trade Routes originating from this city.
 
 ## Shadow Amplifier Lens
 

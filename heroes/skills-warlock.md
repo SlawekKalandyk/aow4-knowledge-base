@@ -2,6 +2,8 @@
 
 Warlocks are debuff and undeath experts, using powerful debuffs and empowering undead summons they raise during battle.
 
+Warlocks are debuff and undeath experts, using powerful debuffs and empowering undead summons they raise during battle.
+
 Compatible weapons:
 
 - Magic Orb Weapon

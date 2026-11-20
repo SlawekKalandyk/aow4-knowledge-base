@@ -2,6 +2,8 @@
 
 Battlesaints gain Fervor through particular actions that they spend for powerful support abilities or to empower themselves and smite their enemies.
 
+Battlesaints gain Fervor through particular actions that they spend for powerful support abilities or to empower themselves and smite their enemies.
+
 Compatible weapons:
 
 - Great Weapon

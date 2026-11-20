@@ -8,9 +8,9 @@ DLC: Base
 
 Claiming to be the chosen of the Archon, a prophet has united the houses of this realm under their banner.
 
-- The Archon Prophet Prophet leader starts with a large Throne City.
-- Prophet leader starts with all Free City as Vassal.
-- Whoever defeats Prophet leader is Victorious.
+- The Archon Prophet ? starts with a large Throne City.
+- ? starts with all Free Cities as Vassals.
+- Whoever defeats ? is Victorious.
 
 
 ## Arctic Blizzards
@@ -19,13 +19,13 @@ DLC: Base
 
 Freezing blizzards rage over this realm's arctic regions.
 
-- Arctic Province are affected by arctic blizzards.
-- All surface combat is affected by Combatproperty arctic blizzards.
-- Unit in these provinces suffer Arctic blizzards unit property.
+- Arctic Provinces are affected by arctic blizzards.
+- All surface combat is affected by Snow Storm.
+- Units in these provinces suffer Arctic Blizzards.
 
-- Combat property: At the end of the attacker's Turn: All non-Frostling transformation property group units suffer 6 Frost Damage. 90% base chance of all Wet units suffering Frozen.
-- Display: Units in this Province suffer: Arctic blizzards unit property; Combatproperty arctic blizzards in combat
-- Property: This unit is in an Arctic Blizzard and subject to the following: This Unit Cannot Regenerate. This Unit suffers -1 Vision Range. This Unit gains Universal camouflage.
+- Combat property: At the end of the attacker's Turn: All non-Frostling Transformation units suffer 6 Frost Damages. 90% base chance of all Wet units suffering Frozen.
+- Display: Units in this Province suffer: Arctic Blizzards; Snow Storm in combat
+- Property: This unit is in an Arctic Blizzard and subject to the following: This Unit Cannot Regenerate. This Unit suffers -1 Vision Range. This Unit gains Universal Camouflage.
 
 ## Artisan Kings
 
@@ -33,7 +33,7 @@ DLC: Base
 
 This realm is home to two powerful cities, each an empire in itself, lead by Artisan Kings.
 
-- The Artisan Kings Artisan kings industrious leader 1 and Artisan kings high leader 1 start with massive Throne City.
+- The Artisan Kings ? and ? start with massive Throne Cities.
 - Each Artisan King starts with a nearby Free City as a Vassal.
 
 
@@ -43,7 +43,7 @@ DLC: Base
 
 Astral sea creatures have been drawn to this realm's sources of mana and guard them jealously.
 
-- Mana Resource Node and Pickup are defended by Ethereal Astral Sea Monsters.
+- Mana Resource Nodes and Pickups are defended by Ethereal Astral Sea Monsters.
 
 
 ## Bannerlords
@@ -53,7 +53,7 @@ DLC: Base
 This world's Free Cities make powerful allies.
 
 - Rally of the Lieges occur +25% more often.
-- All Empire gain +5 Recruitment Point.
+- All Empires gain +5 Recruitment Points.
 
 
 ## Barren and Fractured
@@ -63,7 +63,7 @@ DLC: RISEFROMRUIN
 This realm bears scars of a magical calamity.
 
 - Handcrafted regions containing Sand and Astral Barrens are common.
-- Ruined Ancient Wonder such as the Withered Tree are more common.
+- Ruined Ancient Wonders such as the Withered Tree are more common.
 
 
 ## Barren Oceans
@@ -73,10 +73,10 @@ DLC: Base
 Contested landmasses separated by uninhabitable deserts where sandstorms rage.
 
 - This realm consists of several large landmasses separated by oceans of Uninhabitable Deserts.
-- Each Empire shares a landmass with one or two other Empire.
-- Uninhabitable Desert Province are affected by Sandstorms.
-- All surface combat in these Province are affected by Combatproperty sandstorm
-- Units in these Province suffer Sandstorms unit property
+- Each Empire shares a landmass with one or two other Empires.
+- Uninhabitable Desert Provinces are affected by Sandstorms.
+- All surface combat in these Provinces are affected by Blinding Sandstorm
+- Units in these Provinces suffer Blinding Sandstorm
 
 
 ## Barren Pangaea
@@ -86,7 +86,7 @@ DLC: Base
 This realm is dominated by a single, enormous connected landmass surrounded by uninhabitable Deserts on all sides.
 
 - This realm consists of a single massive landmass surrounded by uninhabitable Deserts.
-- Mountain/Stalagmites Province Feature are Rare.
+- Mountain/Stalagmites Province Features are Rare.
 - Each Empire shares a single landmass.
 
 
@@ -96,9 +96,9 @@ DLC: EMPIRESANDASHES
 
 The realm is home to many birds, civilized and wild.
 
-- Avian Free City are Common.
-- Great bird nest spawner are Common.
-- Bird Unit are Common.
+- Avian Free Cities are Common.
+- Great Bird Nests are Common.
+- Bird Units are Common.
 
 
 ## Blessed Fields
@@ -110,7 +110,7 @@ This realm features mostly rolling plains, some of which have been blessed by Ce
 - Ashlands are Absent.
 - Sand, Snow, and Ice are Rare.
 - Grassland are Common.
-- Blessed Handcrafted Region are Common.
+- Blessed Handcrafted Regions are Common.
 
 
 ## Blessed Regions
@@ -120,7 +120,7 @@ DLC: ARCHONPROPHECY
 The Archons of old have left their blessings in several locations on this realm's surface.
 
 - Several hand-crafted regions with Blessed can appear on the surface.
-- The Fountain of creation landmark can appear on the surface.
+- The Fountain of Creation can appear on the surface.
 
 
 ## Blocked Underground
@@ -145,10 +145,10 @@ DLC: SECRETSOFTHEARCHMAGES
 
 The peoples of this realm live in burrows dug beneath the hilly landscape.
 
-- Mountain Province Feature are Rare.
+- Mountain Province Features are Rare.
 - Hills are Common.
-- > only exist in the Underground.
-- All > and marauder races have animalistic forms.
+- Free Cities only exist in the Underground.
+- All Free Cities and marauder races have animalistic forms.
 
 
 ## Caldera
@@ -162,14 +162,14 @@ This realm is a caldera, with lava at the center of the map and mountains toward
 
 DLC: RISEFROMRUIN
 
-The Devouring Winds make casting World Map Spell dangerous, eventually culminating in a Cataclysm.
+The Devouring Winds make casting World Map Spells dangerous, eventually culminating in a Cataclysm.
 
-- Casting a World Map Spell adds its World Map Casting Point cost to the Cataclysm Meter.
-- When the Cataclysm meter is filled to 50% or more, Province become marked for the next Cataclysm.
+- Casting a World Map Spell adds its World Map Casting Points cost to the Cataclysm Meter.
+- When the Cataclysm meter is filled to 50% or more, Provinces become marked for the next Cataclysm.
 - When the Cataclysm Meter reaches the maximum. a Cataclysm is triggered.
 - The higher the Level of the Cataclysm Meter, the more Provinces will be marked and struck during a Cataclysm.
 - The Cataclysm Meter decreases by 10 per Turn.
-- For every Level of the Cataclysm Meter, all Spell have 10% chance of Backfiring.
+- For every Level of the Cataclysm Meter, all Spells have 10% chance of Backfiring.
 
 - On cataclysm: A Cataclysm has struck!
 - On invisible: Provinces that will be struck by the next Cataclysm have become hidden.
@@ -181,9 +181,9 @@ DLC: ARCHONPROPHECY
 
 Celestials are common on this realm, replacing all other infestations and Ancient Wonders.
 
-- Celestial Unit are Common.
-- Crusader Host Infestation are Common.
-- Constructed Ancient Wonder such as Ziggurats are Common.
+- Celestial Units are Common.
+- Crusader Host Infestations are Common.
+- Constructed Ancient Wonders such as Ziggurats are Common.
 
 
 ## Chaotic Influence
@@ -192,7 +192,7 @@ DLC: EMPIRESANDASHES
 
 Chaotic energies make emotions run high.
 
-- Each strategic Turn, all Ruler gain a stacking negative Empire Relation modifier with each other.
+- Each strategic Turn, all Rulers gain a stacking negative Empire Relation modifier with each other.
 
 
 ## City States
@@ -201,7 +201,7 @@ DLC: Base
 
 This realm features unusually powerful free cities, which have grown into city states of their own right with a pride to match.
 
-- Free City start with +5 Population.
+- Free Cities start with +5 Populations.
 - Whispering Stone Strength is reduced by -50%.
 
 
@@ -231,7 +231,7 @@ DLC: Base
 This realm is dominated by several large contested landmasses.
 
 - This realm consists of several large landmasses separated by oceans.
-- Each Empire shares a landmass with one or two other Empire.
+- Each Empire shares a landmass with one or two other Empires.
 
 
 ## Crystal Dwelling
@@ -247,7 +247,7 @@ DLC: Base
 
 Mana crystals grow more easily on this realm, making them unusually abundant.
 
-- Mana Resource Node, and Pickup are abundant.
+- Mana Resource Nodes, and Pickups are abundant.
 
 
 ## Curse of Undeath
@@ -256,19 +256,19 @@ DLC: Base
 
 The inhabitants of this realm are cursed with a restless death.
 
-- Marauder and Free City Unit gain Curse of undeath.
+- Marauder, Dwelling, and Free City Units gain Curse of Undeath.
 
-- Property: When this Unit dies, it is resurrected with 20% of its maximum ? after 1 Turn.
+- Property: When this Unit dies, it is resurrected with 20% of its maximum Hit Point after 1 Turn.
 
 ## Deathcasting
 
 DLC: Base
 
-Units grant their owner +10 Combat Casting Point on death.
+Units grant their owner +10 Combat Casting Points on death.
 
 The mortals of this realm are infused with its magic, releasing it on their deaths.
 
-- Unit grant their owner +10 Combat Casting Point on death.
+- Units grant their owner +10 Combat Casting Points on death.
 
 
 ## Demon Prince
@@ -277,10 +277,10 @@ DLC: Base
 
 This realm is dominated by a powerful Demonic Prince of Obbadoth and their minions.
 
-- The Demonic Prince Demonic prince leader starts with a large Throne City.
-- The Demonic Prince starts with 2 additional City.
-- The Demonic Prince's minions gain Demonkin and Supergrowth property group.
-- Whoever defeats Demonic prince leader is Victorious.
+- The Demonic Prince ? starts with a large Throne City.
+- The Demonic Prince starts with 2 additional Cities.
+- The Demonic Prince's minions gain Demonkin and Supergrowth.
+- Whoever defeats ? is Victorious.
 
 
 ## Demonic Realm
@@ -289,7 +289,7 @@ DLC: Base
 
 Infernal Fiends plague this realm.
 
-- Infernal Fiend Unit are Common.
+- Infernal Fiend Units are Common.
 
 
 ## Desert Realm
@@ -298,10 +298,10 @@ DLC: Base
 
 This World's climate is warm and dry, leaving little for flora to thrive on.
 
-- Desert Province are Common.
-- Arctic, Highlands, Temperate and Desolate Province are Absent.
-- Forest Province Feature are Rare.
-- Wetlands Province Feature are Absent.
+- Desert Provinces are Common.
+- Arctic, Highlands, Temperate and Desolate Provinces are Absent.
+- Forest Province Features are Rare.
+- Wetlands Province Features are Absent.
 
 
 ## Desert Regions
@@ -316,10 +316,10 @@ DLC: SECRETSOFTHEARCHMAGES
 
 This realm consists of a single, connected landmass, shaken by cataclysms.
 
-- Temperate Province are Rare.
-- Hostile climes such as Desolate Province are Common.
+- Temperate Provinces are Rare.
+- Hostile climes such as Desolate Provinces are Common.
 - Ruins and ruined wonders are Common.
-- > are Absent.
+- Free Cities are Absent.
 
 
 ## Dissonant Enchantments
@@ -328,7 +328,7 @@ DLC: Base
 
 This realm resists enchantment magic, requiring significantly more mana and effort to be cast and maintained than usual.
 
-- [World Map] Unit Enchantment cost +100% more to cast.
+- [World Map] Unit Enchantments cost +100% more to cast.
 - Unit Enchantment Upkeep is increased by +100%.
 
 
@@ -338,7 +338,7 @@ DLC: Base
 
 The people on this realm despise evil and will fight to prevent it from taking root.
 
-- All Empire gain Grievance against Empire with Evil Alignment.
+- All Empires gain Grievances against Empires with Evil Alignment.
 
 
 ## Distrusting Locals
@@ -365,9 +365,9 @@ DLC: Base
 
 This realm has a maddening influence, seeping into the minds of those that fight in its lands.
 
-- All Combat is affected by Domain of mayhem.
+- All Combat is affected by Domain of Mayhem.
 
-- Spell: Every 2 Turn all units have a base 30% of being inflicted with Berserk.
+- Spell: Every 2 Turns all units have a base 30% of being inflicted with Berserk.
 
 ## Domain of the Frost Queen
 
@@ -375,10 +375,10 @@ DLC: Base
 
 This realm is dominated by a powerful queen of frost and winter.
 
-- The Frost Queen Ice queen leader starts with a large Throne City.
-- The Frost Queen starts with 2 additional City.
-- The Frost Queen's minions gain Frostling transformation property group.
-- Whoever defeats Ice queen leader is Victorious.
+- The Frost Queen ? starts with a large Throne City.
+- The Frost Queen starts with 2 additional Cities.
+- The Frost Queen's minions gain Frostling Transformation.
+- Whoever defeats ? is Victorious.
 
 
 ## Dragon Territories
@@ -387,7 +387,7 @@ DLC: Base
 
 Dragons claim this realm as their hunting grounds, their lairs dominating much of the land, warding off any competition.
 
-- Followers of the Dragon Infestation are Common.
+- Dragon Infestations are Common.
 
 
 ## Druidic Alliance
@@ -396,8 +396,8 @@ DLC: Base
 
 This Realm has attracted the interest of two powerful Druids, seeking to guide its growth and protect it from meddlers.
 
-- The Druids Druid alliance leader 1 and Druid alliance leader 2 start with powerful Nature Skills.
-- Druid alliance leader 1 and Druid alliance leader 2 start in an Alliance.
+- The Druids ? and ? start with powerful Nature Skills.
+- ? and ? start in an Alliance.
 
 
 ## Echoes of The Fracturing
@@ -407,8 +407,8 @@ DLC: RISEFROMRUIN
 Long ago, this realm was home to some of the experiments of the Unmakers.
 
 - There are Fated Regions present on the map which offer quest chains exploring the present and past of the Fracturing.
-- Gain Artifact when completing Fated Regions, which grant control over the Cataclysm that ravages this realm. Obtaining three of them will lead to a Cataclysm Victory.
-- Fated Regions are affected by Warded by fate.
+- Gain Artifacts when completing Fated Regions, which grant control over the Cataclysm that ravages this realm. Obtaining three of them will lead to a Cataclysm Victory.
+- Fated Regions are affected by Ward of Fates.
 
 
 ## Endless Fields
@@ -417,10 +417,10 @@ DLC: Base
 
 This realm features mostly rolling green plains, where food is abundant.
 
-- Temperate Province are Common.
-- Desolate Province Feature are Absent.
-- Grassland Province Feature are Common.
-- Food Resource Node are Common.
+- Temperate Provinces are Common.
+- Desolate Province Features are Absent.
+- Grassland Province Features are Common.
+- Food Resource Nodes are Common.
 
 
 ## Eternal Battleground
@@ -429,8 +429,8 @@ DLC: Base
 
 A realm dominated by violence, where war is the only law.
 
-- All Ruler and Free City lords will declare War on each other when they first meet. It is not possible to negotiate Peace.
-- This does not affect City released as Vassals or remnant City of defeated Empire.
+- All Rulers and Free City lords will declare War on each other when they first meet. It is not possible to negotiate Peace.
+- This does not affect Cities released as Vassals or remnant Cities of defeated Empires.
 
 
 ## Expendable Legions
@@ -439,9 +439,9 @@ DLC: SECRETSOFTHEARCHMAGES
 
 Life is cheap in this realm, and with that comes a near limitless supply of recruits. However, elites and powerful monsters are in turn much harder to come by.
 
-- Tier 1 Units have their recruitment costs in City decreased by 50% in City.
+- Tier 1 Units have their recruitment costs in Cities decreased by 50% in Cities.
 - Tier 1 Units gain Expendable.
-- Tier 3 and higher Units have their recruitment costs in Cities increased by 50%.
+- Tier 3 and higher Units have their recruitment costs in Cities increased by 100%.
 
 
 ## Explorative Underground
@@ -473,8 +473,8 @@ This realm is young and little of it has yet formed from its volcanic crucible. 
 
 - The following Province Feature is common: Ashlands.
 - The following Province Features are absent: Grassland, Swamp, Sand, River, and Sunless.
-- Each Round, all unowned Province have a small chance of Terraforming into having different Province Features.
-- Free City are absent.
+- Each Round, all unowned Provinces have a small chance of Terraforming into having different Province Features.
+- Free Cities are absent.
 
 
 ## Fractured Infestations
@@ -483,8 +483,8 @@ DLC: RISEFROMRUIN
 
 The realm has various fractures from which mana-starved creatures emerge.
 
-- Fractured Infestation are common.
-- These Infestation spread Astral Barrens.
+- Fractured Infestations are common.
+- These Infestations spread Astral Barrens.
 
 
 ## Frostling Influence
@@ -493,9 +493,9 @@ DLC: Base
 
 Frostlings have long since found this world, and none are unaffected by their freezing influence.
 
-- Independent Units gain Frostling transformation property group.
-- Independent Units gain Frost blades property group.
-- Independent Units gain Frost arrows property group.
+- Independent Units gain Frostling Transformation.
+- Independent Units gain Frost Strikes.
+- Independent Units gain Frost Arrows.
 
 
 ## Frozen Realm
@@ -504,8 +504,8 @@ DLC: Base
 
 This World's climate is harsh and cold. Frozen plains take the place of lush grasslands.
 
-- Arctic and Highlands Province are Common.
-- Desert, Desolate, Temperate and Tropical Province are Absent.
+- Arctic and Highlands Provinces are Common.
+- Desert, Desolate, Temperate and Tropical Provinces are Absent.
 
 
 ## Gigantism
@@ -514,7 +514,7 @@ DLC: Base
 
 The beings of this realm are lower in number but especially large.
 
-- Racial Marauder Unit gain Supergrowth property group.
+- Racial Marauder Units gain Supergrowth.
 
 
 ## Great Lakes
@@ -528,9 +528,9 @@ This Map features several Large Bodies of Water.
 
 DLC: ELDRITCHREALMS | Story realm / campaign
 
-All Umbral Dwelling on this realm are following the commands of the Harbinger of Urrath:
+All Umbral Dwellings on this realm are following the commands of the Harbinger of Urrath:
 
-- The Harbinger of Urrath has Eldritch Pact with all Umbral Dwelling.
+- The Harbinger of Urrath has Eldritch Pacts with all Umbral Dwellings.
 - Enemies of the Harbinger cannot reach peaceful relations with an Umbral Dwelling.
 
 
@@ -540,7 +540,7 @@ DLC: Base
 
 In this realm, endless banks of fog obscure vision.
 
-- Vision Range of all Unit is reduced by -1.
+- Vision Range of all Units is reduced by -1.
 
 
 ## High Maintenance
@@ -559,7 +559,7 @@ DLC: Base
 
 This world features plenty of Highlands and Mountains.
 
-- Mountains and Highlands Province are Common.
+- Mountains and Highlands Provinces are Common.
 
 
 ## Hostile Houses
@@ -568,7 +568,7 @@ DLC: Base
 
 The houses of this realm are used to treachery and war, taking no chances with outsiders.
 
-- Empire suffer -10 Allegiance and -400 Relations with each Free City they meet.
+- Empires suffer -10 Allegiance and -400 Relations with each Free City they meet.
 
 
 ## Hostile Seas
@@ -577,13 +577,13 @@ DLC: Base
 
 Sea Storms are a permanent feature of this world's seas, making them exceptionally dangerous.
 
-- Surface water Province are affected by Sea Storms.
-- Combat in these Province is affected by Hostile oceans sea storm combat auto spell.
-- Unit in these provinces suffer Hostile oceans unit property.
+- Surface water Provinces are affected by Sea Storms.
+- Combat in these Provinces is affected by Sea Storm.
+- Units in these provinces suffer Hostile Seas.
 
-- Combat property: All units are permanently Wet; At the start of the Defender's turn, up to ? random units: Sustain ? Lightning Damage. Have a base ?% chance of suffering Electrified for ? Turn.
-- Display: Units in this Province suffer: Hostile oceans unit property; Hostile oceans sea storm combat auto spell in combat. Independent units are not affected.
-- Property: This unit is in a Sea Storm and subject to the following: This unit Cannot Regenerate. This unit suffers -? ? each Turn. This unit suffers ? Vision Range. This unit gains Universal camouflage.
+- Combat property: All units are permanently Wet; At the start of the Defender's turn, up to 3 random units: Sustain 10 Lightning Damage. Have a base 90% chance of suffering Electrified for 3 Turns.
+- Display: Units in this Provinces suffer: Hostile Seas; Sea Storm in combat. Independent units are not affected.
+- Property: This unit is in a Sea Storm and subject to the following: This unit Cannot Regenerate. This unit suffers -? Hit Points each Turn. This unit suffers -3 Vision Range. This unit gains Universal Camouflage.
 
 ## Immortal Spirits
 
@@ -591,7 +591,7 @@ DLC: Base
 
 This realm features many Ethereal spirits.
 
-- Ethereal Unit are Common.
+- Ethereal Units are Common.
 
 
 ## Immortals
@@ -600,10 +600,10 @@ DLC: Base
 
 This realm's magic wards off death, preventing true death for many.
 
-- All non-Ruler Unit gain Immortal.
+- All non-Ruler Units gain Immortal.
 - Routed units are never lost.
 
-- Property: When this unit's total ? reach 10% or lower, it is immediately Routed.
+- Property: When this unit's total Hit Points reach 10% or lower, it is immediately Routed.
 
 ## Iron Emperor
 
@@ -611,8 +611,8 @@ DLC: Base
 
 The Iron Emperor, Ydgaard, has chosen this realm to build a new empire.
 
-- The Iron Emperor Earth king leader starts with powerful Materium Skills.
-- Earth king leader starts with +1 additional City.
+- The Iron Emperor ? starts with powerful Materium Skills.
+- ? starts with +1 additional City.
 
 
 ## Islands
@@ -648,7 +648,7 @@ DLC: WAYSOFWAR
 
 Forces of calamity and prosperity occupy this land.
 
-- Accursed Fiend and Prosperity Unit are Common.
+- Accursed Fiend and Prosperity Units are Common.
 
 
 ## Lava Divide
@@ -666,7 +666,7 @@ DLC: SECRETSOFTHEARCHMAGES
 
 This realm is covered in lava and various small islands, but contains a vast underground to explore.
 
-- The following Province Feature are Abundant:
+- The following Province Features are Abundant:
 
 - Ashlands, Chasm, and Lava.
 
@@ -697,8 +697,8 @@ DLC: GIANTKINGS
 This realm was once part of the fabled Giant kingdom called Myrrida.
 
 - There are Fated Regions present on the map which offer quest chains exploring the present and past of Myrrida.
-- Gain Artifact when completing Fated Regions, which grant unique bonuses and can be collected to start impactful follow-up Happenings.
-- Fated Regions are affected by Warded by fate.
+- Gain Artifacts when completing Fated Regions, which grant unique bonuses and can be collected to start impactful follow-up Happenings.
+- Fated Regions are affected by Ward of Fates.
 - Only some of the Fated Regions available will be present, leaving more to be explored on another realm.
 
 
@@ -712,8 +712,8 @@ Dark Lady Melenis holds court on this realm, her assassins keeping the minor hou
 - Lich queen leader starts with some Free City as Vassal.
 - Whoever defeats Lich queen leader is Victorious.
 
-- Combat property: All non-zombie units summon a Decaying zombie under Melenis' control on death.
-- Property: When slain, this unit summons a Decaying zombie for Melenis' side.
+- Combat property: All non-zombie units summon a Decaying Zombie under Melenis' control on death.
+- Property: When slain, this unit summons a Decaying Zombie for Melenis' side.
 
 ## Lingering Creators
 
@@ -721,7 +721,7 @@ DLC: Base
 
 Giants and demigiants are prevalent on this realm.
 
-- Giant and ogre Unit are Common.
+- Giant and ogre Units are Common.
 
 
 ## Lost Jungle
@@ -730,9 +730,9 @@ DLC: EMPIRESANDASHES
 
 The realm is a lush jungle, surrounded by Astral Void.
 
-- Tropical Province and forest Province Feature are Common.
-- River Province Feature are Common.
-- Arctic, desert, and desolate Province are Rare.
+- Tropical Provinces and forest Province Features are Common.
+- River Province Features are Common.
+- Arctic, desert, and desolate Provinces are Rare.
 
 
 ## Low Population
@@ -741,7 +741,7 @@ DLC: Base
 
 This realm features less civilization than others.
 
-- Free City are Rare.
+- Free Cities are Rare.
 
 
 ## Magic Origins
@@ -750,7 +750,7 @@ DLC: Base
 
 Astral influence on this realm makes creatures of a magic origin unusually common.
 
-- Magic origin creatures are Common on this realm.
+- Magic Origins creatures are Common on this realm.
 
 
 ## Massive Underground
@@ -768,9 +768,9 @@ DLC: Base
 
 This world allows for the construction of immense megacities, yet traditional expansion is impossible.
 
-- Cannot absorb, migrate, or settle new City.
-- City can perform Province Annexation +5 Province further away.
-- City gain +3 Trade Route capacity.
+- Cannot absorb, migrate, or settle new Cities.
+- Cities can perform Province Annexation +5 Provinces further away.
+- Cities gain +3 Trade Route capacity.
 
 
 ## Megafauna
@@ -779,8 +779,8 @@ DLC: Base
 
 The beasts of this realm are especially large and ferocious.
 
-- Animal Unit are Common.
-- Marauder Animal Unit gain Empowered beasts property group.
+- Animal Units are Common.
+- Marauder Animal Units gain Empowered Beasts.
 
 
 ## Might Makes Right
@@ -789,8 +789,8 @@ DLC: Base
 
 The houses of this realm respect strength above all. They will grow more loyal to proven conquerors.
 
-- Conquering Free City grants +10 Allegiance with all other Free City.
-- Vassal gain +2 Allegiance Levels when first vassalized through conquest.
+- Conquering Free Cities grants +10 Allegiance with all other Free Cities.
+- Vassals gain +2 Allegiance Levels when first vassalized through conquest.
 - Whispering Stone Strength is reduced by -50%.
 
 
@@ -800,7 +800,7 @@ DLC: SECRETSOFTHEARCHMAGES
 
 The Mistwalkers have invaded this realm, setting up a permanent military presence.
 
-- Mistwalker Camp Infestation are Common.
+- Mistwalker Camp Infestations are Common.
 
 
 ## Motivated Truce
@@ -809,7 +809,7 @@ DLC: EMPIRESANDASHES
 
 Waging war is discouraged on this realm.
 
-- Grievance are less impactful.
+- Grievances are less impactful.
 
 
 ## Navigable Waters
@@ -827,7 +827,7 @@ DLC: Base
 
 This realm is young and unclaimed.
 
-- Free City are Absent.
+- Free Cities are Absent.
 
 
 ## No Respite
@@ -836,9 +836,9 @@ DLC: Base
 
 This realm actively interferes with natural healing.
 
-- Empire Unit suffer No respite property.
+- Empire Units suffer No Respite.
 
-- Property: This unit Regenerates -5 fewer ? per Turn outside Friendly Domain.
+- Property: This unit Regenerates -5 fewer Hit Points per Turn outside Friendly Domain.
 
 ## No Starting City
 
@@ -853,9 +853,9 @@ DLC: EMPIRESANDASHES | Story realm / campaign
 
 This realm consists of a central Oasis surrounded by deserts.
 
-- Desert Province are Common.
-- Arctic, Highlands, and Temperate Province are Absent.
-- Forest Province Feature and Wetlands Province Feature are Rare.
+- Desert Provinces are Common.
+- Arctic, Highlands, and Temperate Provinces are Absent.
+- Forest Province Features and Wetlands Province Features are Rare.
 
 
 ## Ocean Storms
@@ -875,9 +875,9 @@ DLC: Base
 
 A realm where plant life flourishes nearly everywhere.
 
-- Forest Province Feature are Common.
-- Desert and Arctic Province are Rare.
-- Desolate Province are Absent.
+- Forest Province Features are Common.
+- Desert and Arctic Provinces are Rare.
+- Desolate Provinces are Absent.
 
 
 ## Pangea
@@ -896,7 +896,7 @@ DLC: Base
 
 This realm features mostly benevolent spirits and creatures.
 
-- Followers of Fey, Plant and Animal Unit are Common.
+- Fey, Plant and Animal Units are Common.
 
 
 ## Pretender Kings
@@ -905,7 +905,7 @@ DLC: Base
 
 The kingdom that once dominated this realm has fallen, and 3 successors lay claim to the throne of this once prosperous kingdom.
 
-- The Pretender Kings Pretender kings feudal leader 1, Pretender kings feudal leader 2 and Pretender kings dark leader 1 start with +2 additional City.
+- The Pretender Kings ?, ? and ? start with +2 additional Cities.
 - Each Pretender King starts at War with the other Pretender Kings.
 - Whoever forms an alliance with or defeats each Pretender King is Victorious.
 
@@ -916,8 +916,8 @@ DLC: PRIMALFURY
 
 This Realm is the stage of a violent dispute between the Godir Serena and Nimue, whose primal followers fight a bloody conflict.
 
-- The Primal Godir Primal dispute leader 1 and Primal dispute leader 2 start with powerful Nature Skills.
-- Primal dispute leader 1 and Primal dispute leader 2 start at War.
+- The Primal Godir ? and ? start with powerful Nature Skills.
+- ? and ? start at War.
 - Whoever forms an alliance with or defeats each Primal Godir is Victorious.
 
 
@@ -936,7 +936,7 @@ DLC: Base
 
 Living flora sprawls all over this realm.
 
-- Plant Unit are Common.
+- Plant Units are Common.
 
 
 ## Rampant Undeath
@@ -945,7 +945,7 @@ DLC: Base
 
 The Undead plague this realm.
 
-- Undead Unit are Common.
+- Undead Units are Common.
 
 
 ## Regenerating Infestations
@@ -954,7 +954,7 @@ DLC: Base
 
 Beasts and monsters never cease nesting in this realm.
 
-- Infestation emerge in unoccupied Province every 10 Turn.
+- Infestations emerge in unoccupied Provinces every 10 Turns.
 
 
 ## Rings of Fate
@@ -970,8 +970,8 @@ DLC: RISEFROMRUIN
 
 The realm's natural resources are partially depleted.
 
-- Around half of the Resource Node present at the start are Ruined.
-- Resource Nodes in Province adjacent to City at the start will not be Ruined.
+- Around half of the Resource Nodes present at the start are Ruined.
+- Resource Nodes in Provinces adjacent to Cities at the start will not be Ruined.
 
 
 ## Ruined Realm
@@ -980,8 +980,8 @@ DLC: Base
 
 This realm has seen brutal conflict in the past.
 
-- Free City are Rare.
-- City Ruin are Common.
+- Free Cities are Rare.
+- City Ruins are Common.
 
 
 ## Ruins of Myrrida
@@ -999,7 +999,7 @@ DLC: Base
 
 Most of the valuable resources on the ocean and lakes in this realm have sunken far below and become unobtainable.
 
-- Reduced amount of Location and Pickup are present on the water on the Surface and in the Underground
+- Reduced amount of Locations and Pickups are present on the water on the Surface and in the Underground
 
 
 ## Scarred Divide
@@ -1017,8 +1017,8 @@ DLC: Base
 
 This realm's climate is marked by scorching heat.
 
-- Desolate Province are Common.
-- Arctic, Temperate and Highlands Province are Absent.
+- Desolate Provinces are Common.
+- Arctic, Temperate and Highlands Provinces are Absent.
 
 
 ## Seals Victory (Fast)
@@ -1046,7 +1046,7 @@ DLC: SECRETSOFTHEARCHMAGES
 Ancient gates are scattered throughout the realm. They lead to floating isles in a mysterious dimension where powerful Godir hid away their most prized secrets.
 
 - A new Shrouded map layer is added to the realm.
-- This layer contains Shrouded Isle and Breached Isle.
+- This layer contains Shrouded Isles and Breached Isles.
 - Various portals can be found on the Surface and Underground which lead to these Isles.
 
 
@@ -1065,7 +1065,7 @@ DLC: Base
 
 The wildlife on this realm is more dormant than usual.
 
-- The realm starts with a reduced amount of Infestation.
+- The realm starts with a reduced amount of Infestations.
 
 
 ## Subdued Umbral Abyss
@@ -1074,8 +1074,8 @@ DLC: ELDRITCHREALMS
 
 A lesser version of the Umbral Abyss:
 
-- No Umbral Dwelling present.
-- Reduced amount of Umbral islands with Infestation.
+- No Umbral Dwellings present.
+- Reduced amount of Umbral islands with Infestations.
 - Reduced amount of Umbral islands and Umbral Gates overall.
 
 
@@ -1085,7 +1085,7 @@ DLC: THRONESOFBLOOD
 
 This realm consists of a mountainous and sunless heartland that gets colder towards the edges.
 
-- The following Province Feature are Abundant:
+- The following Province Features are Abundant:
 
 - Sunless, Snow, and Ice.
 
@@ -1104,8 +1104,8 @@ DLC: Base
 
 This realm's upstarts all originate from the surface.
 
-- All Empire, even those with Underground Adaptation, start with their Throne City on the Surface.
-- Free City and Dwelling are unaffected.
+- All Empires, even those with Underground Adaptation, start with their Throne City on the Surface.
+- Free Cities and Dwellings are unaffected.
 
 
 ## Sworn Rivalry
@@ -1114,8 +1114,8 @@ DLC: WAYSOFWAR
 
 This Realm is the stage of a violent dispute between three Oathsworn Godir, who disagree on matters of doctrine.
 
-- The Oathsworn Godir Oathsworn dispute leader 1, Oathsworn dispute leader 2, and Oathsworn dispute leader 3 are present and start at a higher level.
-- Oathsworn dispute leader 1, Oathsworn dispute leader 2, and Oathsworn dispute leader 3 start at War.
+- The Oathsworn Godir ?, ?, and ? are present and start at a higher level.
+- ?, ?, and ? start at War.
 
 
 ## The Ashen War
@@ -1124,40 +1124,40 @@ DLC: DRAGONLORDS
 
 The Elder Dragons that guide this realm have descended into a brutal conflict now known as the Ashen War, each side seeking to guide the realm's growth as they believe is best.
 
-- The Dawnwardens Dawnwardens order leader, Dawnwardens nature leader, and Dawnwardens astral leader start in an Alliance and at war with each of the Reshapers.
-- The Reshapers Reshapers shadow leader, Reshapers materium leader, and Reshapers chaos leader start in an Alliance and at war with each of the Dawnwardens.
+- The Dawnwardens ?, ?, and ? start in an Alliance and at war with each of the Reshapers.
+- The Reshapers ?, ?, and ? start in an Alliance and at war with each of the Dawnwardens.
 - Each of the Elder Dragons is extremely powerful and has a powerful unique ability owing to their Affinity; they extend lesser versions of these abilities to their chosen Heroes.
 - Whoever forms an alliance with all Elder Dragons or forms an alliance with all members of either Alliance and defeats each member of the opposing alliance is Victorious.
 
-- Astral: Combat property: Boszorkan the Arcanist gains Arcanist mastery. Boszorkan's Hero gain Chosen boszorkan.
+- Astral: Combat property: Boszorkan the Arcanist gains The Arcanist's Mastery. Boszorkan's Heroes gain Chosen of Boszorkan.
 - Astral: Hero property: Allows this unit's side to cast an additional Spell this Turn.
-- Astral: Leader property: Allows this unit's side to cast an additional Spell this Turn. Add +20 Combat Casting Point to this combat.
-- Chaos: Combat property: Alipavar the Destroyer gains The destroyer property. Alipavar's Hero gain Chosen alipavar.
-- Chaos: Hero property: This unit gains: +20 maximum ? Extra Retaliation; Frenzy; Berserkers rage threshold event
-- Chaos: Leader property: This unit gains: +60 maximum ? Extra Retaliation; Frenzy; Berserkers rage threshold event; New life steal
-- Leader: Hero property: All friendly units gain Awakened for ? Turns.
-- Leader: Leader property: Friendly units gain: ? ? Regeneration
-- Materium: Combat property: Vox'Sebas the Forgefather gains Forgefather property. Vox'Sebas's Hero gain Voxsebas blessing ability.
-- Materium: Hero property: Target friendly unit: Heals +30 ?. Gains 1 Bolstered defense. Gains 1 Strengthened.
-- Materium: Hero property group: This unit gains Chosen of voxsebas ability
+- Astral: Leader property: Allows this unit's side to cast an additional Spell this Turn. Add +20 Combat Casting Points to this combat.
+- Chaos: Combat property: Alipavar the Destroyer gains Might of the Destroyer. Alipavar's Heroes gain Chosen of Allipavar.
+- Chaos: Hero property: This unit gains: +20 maximum Hit Points; +1 Retaliation Attack; Frenzy; Belt of the Berserker
+- Chaos: Leader property: This unit gains: +60 maximum Hit Points; +1 Retaliation Attack; Frenzy; Belt of the Berserker; Life Steal
+- Leader: Hero property: All friendly units gain Awakened for 3 Turns.
+- Leader: Leader property: Friendly units gain: 10 Temporary Hit Points; Regeneration
+- Materium: Combat property: Vox'Sebas the Forgefather gains The Forgefather. Vox'Sebas's Heroes gain Chosen of Vox'Sebas.
+- Materium: Hero property: Target friendly unit: Heals +30 Temporary Hit Points. Gains 1 Bolstered Defense. Gains 1 Strengthened.
+- Materium: Hero property group: This unit gains Forgefather's Gift
 - Materium: Leader ability: Summons a random Golem unit.
-- Materium: Leader property: This unit gains: Voxsebas creation ability; Chosen of voxsebas ability
-- Nature: Combat property: Sumuskira the Grovetender gains Grovetenders gift. Sumuskira's Hero gain Chosen sumuskira.
-- Nature: Hero property: Friendly units gain: +10 ? Regeneration
-- Nature: Leader property: Friendly units gain: 15 ? Regeneration; Dead friendly Animal and Plant are brought back to life with 20 of their total ?.
-- Order: Combat property: Soncevar the Radiant gains Radiant guidance. Soncevar's Hero gain Chosen soncevar.
+- Materium: Leader property: This unit gains: Forgefather's Creation; Forgefather's Gift
+- Nature: Combat property: Sumuskira the Grovetender gains The Grovetender's Gift. Sumuskira's Heroes gain Chosen of Sumuskira.
+- Nature: Hero property: Friendly units gain: +10 Temporary Hit Points; Regeneration
+- Nature: Leader property: Friendly units gain: 15 Temporary Hit Points; Regeneration; Dead friendly Animals and Plants are brought back to life with 20 of their total Hit Points.
+- Order: Combat property: Soncevar the Radiant gains The Radiant's Guidance. Soncevar's Heroes gain Chosen of Soncevar.
 - Order: Hero property: Grant all friendly units Awakened for 3 Turns.
 - Order: Leader property: Grant all Friendly units: Awakened for 3 Turns. Rally for 3 Turns.
-- Shadow: Combat property: Kralicavir the Collector gains Collectors gift. Kralicavir's Hero gain Chosen kralicavir.
-- Shadow: Hero property: This unit gains Kralicavir summon undead
+- Shadow: Combat property: Kralicavir the Collector gains The Collector. Kralicavir's Heroes gain Chosen of Kralicavir.
+- Shadow: Hero property: This unit gains Collector's gift
 - Shadow: Leader ability: Summons 3 random Tier I Undead units.
-- Shadow: Leader property: This unit gains: Attacks transform targets into Zombies until the end of battle on kill. Kralicavir summon undead.
+- Shadow: Leader property: This unit gains: Attacks transform targets into Zombies until the end of battle on kill. Collector's gift.
 
 ## The Devouring Winds
 
 DLC: RISEFROMRUIN
 
-- Property: The chance of Spell Backfiring has increased due to the Devouring Winds.
+- Property: The chance of Spells Backfiring has increased due to the Devouring Winds.
 
 ## The Librarian
 
@@ -1165,10 +1165,10 @@ DLC: Base
 
 An Astral ruler known only as "the Librarian" rules an empire on this realm.
 
-- The Librarian The librarian leader starts with powerful Astral Skills.
-- The librarian leader starts with +1 additional City.
-- The librarian leader gains accelerated Research.
-- Whoever defeats The librarian leader is Victorious.
+- The Librarian ? starts with powerful Astral Skills.
+- ? starts with +1 additional City.
+- ? gains accelerated Research.
+- Whoever defeats ? is Victorious.
 
 
 ## The Wizard King
@@ -1212,9 +1212,9 @@ DLC: Base
 
 The realm is a tropical paradise, with golden sands, rolling jungles, and the occasional swamp.
 
-- Tropical, swamp, and forest Province Feature are Common.
-- Arctic, desert, and desolate Province are Rare.
-- Blossom Orchard Resource Node and Prestigious Statue Pickup are Abundant.
+- Tropical, swamp, and forest Province Features are Common.
+- Arctic, desert, and desolate Provinces are Rare.
+- Blossom Orchard Resource Nodes and Prestigious Statue Pickups are Abundant.
 
 
 ## Umbral Abyss
@@ -1225,8 +1225,8 @@ The Umbral Abyss creeps over this realm, opening gates to an eldritch dimension 
 
 - An additional map layer called the Umbral Abyss is added, which can be reached through Umbral Gates.
 - Enter the Umbral Abyss for forbidden treasures—at a great risk!
-- Infestation and Dwelling from the Umbral Abyss will creep into the Surface and Underground, spreading Gloom.
-- Unit in Gloom Terrain will suffer from Umbral Malady.
+- Infestations and Dwellings from the Umbral Abyss will creep into the Surface and Underground, spreading Gloom.
+- Units in Gloom Terrain will suffer from Umbral Malady.
 
 
 ## Umbral Stronghold
@@ -1237,8 +1237,8 @@ An empowered version of the Umbral Abyss creeps over this realm, opening gates t
 
 - An additional map layer called the Umbral Abyss is added, which can be reached through Umbral Gates.
 - Enter the Umbral Abyss for forbidden treasures—at a great risk!
-- An increased amount of Infestation and Dwelling from the Umbral Abyss will creep into the Surface and Underground, spreading Gloom.
-- Unit in Gloom Terrain will suffer from Umbral Malady.
+- An increased amount of Infestations and Dwellings from the Umbral Abyss will creep into the Surface and Underground, spreading Gloom.
+- Units in Gloom Terrain will suffer from Umbral Malady.
 
 
 ## Unbound Tomes
@@ -1247,7 +1247,7 @@ DLC: Base
 
 The affinities blur and blend on this realm, allowing access to tomes otherwise restricted.
 
-- Tome have no Affinity requirements.
+- Tomes have no Affinity requirements.
 
 
 ## Underground Start
@@ -1294,8 +1294,8 @@ DLC: Base
 
 This realm is awash with Astral power, and spells flow freely without limit, though they require more mana to channel.
 
-- Can now cast multiple Combat Spell per Turn.
-- Combat Spell cost 200% more Mana to cast.
+- Can now cast multiple Combat Spells per Turn.
+- Combat Spells cost 200% more Mana to cast.
 
 
 ## Unstable Astral Flow
@@ -1304,7 +1304,7 @@ DLC: RISEFROMRUIN
 
 The Astral Flow through this realm is tumultuous.
 
-- All World Map Spell and Combat Spell have a base 20% chance to Backfiring
+- All World Map Spells and Combat Spells have a base 20% chance to Backfiring
 
 
 ## Untouched
@@ -1313,7 +1313,7 @@ DLC: Base
 
 This realm has had no meddling from outside creators.
 
-- No Handcrafted Region will be present in this realm's surface and underground.
+- No Handcrafted Regions will be present in this realm's surface and underground.
 - Does not affect Handcrafted Regions from other Realm Traits or Story Realms.
 
 
@@ -1323,7 +1323,7 @@ DLC: GIANTKINGS
 
 This realm has had no meddling from outside creators.
 
-- No Handcrafted Region will be present in this realm's surface and underground.
+- No Handcrafted Regions will be present in this realm's surface and underground.
 - Does not affect Handcrafted Regions from other Realm Traits or Story Realms.
 
 
@@ -1333,8 +1333,8 @@ DLC: ELDRITCHREALMS | Story realm / campaign
 
 The people on this realm have fallen under Urrath's influence:
 
-- Racial marauder units have the Gloomstrider transformation and Umbral flesh transformations.
-- All Free City have the Initiates of the Umbral Abyss or Masters of Corruption trait.
+- Racial marauder units have the Gloom Strider and Umbral Flesh transformations.
+- All Free Cities have the Initiates of the Umbral Abyss or Masters of Corruption trait.
 
 
 ## Void Divide
@@ -1380,12 +1380,12 @@ DLC: Base
 
 Volcanic activity rages beneath this realm's desolate regions.
 
-- All surface combat in desolate Province is affected by Combatproperty volcanic eruption.
-- Units in desolate Province suffer Volcanic heat unit property.
+- All surface combat in desolate Provinces is affected by Volcanic Eruptions.
+- Units in desolate Provinces suffer Volcanic Heat.
 
-- Combat property: Every 2 Turn, a marker is placed. Then, after 1 Turns the ground will erupt and units within 1 of the marker will suffer 10 Physical Damage and 10 Fire Damage. Random affected hexes will gain On Fire.
-- Display: Units in this Province suffer: Volcanic heat unit property; Combatproperty volcanic eruption in combat
-- Marker: When this expires, the ground will erupt and units within 1 will suffer 10 Physical Damage and 10 Fire Damage. The target hexes will gain On Fire.
+- Combat property: Every 2 Turns, a marker is placed. Then, after 1 Turns the ground will erupt and units within 1 of the marker will suffer 10 Physical Damages and 10 Fire Damages. Random affected hexes will gain On Fire.
+- Display: Units in this Province suffer: Volcanic Heat; Volcanic Eruptions in combat
+- Marker: When this expires, the ground will erupt and units within 1 will suffer 10 Physical Damages and 10 Fire Damages. The target hexes will gain On Fire.
 - Unit property: This unit is in a province affected by volcanic activity and subject to the following: This unit Cannot Regenerate. This unit suffers -3 Fire Protection, but gains +3 Frost Protection.
 
 ## Ward of the Archons
@@ -1394,10 +1394,10 @@ DLC: ARCHONPROPHECY
 
 A powerful spell woven by the Archons wards off death, preventing true death for Celestials.
 
-- All non-Ruler Celestial Unit gain Immortal archon ward.
+- All non-Ruler Celestial Units gain Immortal Ward.
 - Routed Celestial units are never lost.
 
-- Immortal Ward: When this unit's total ? reach 25% or lower, it is immediately Routed.
+- Immortal Ward: When this unit's total Hit Points reach 25% or lower, it is immediately Routed.
 
 ## Warden of Manuhari
 
@@ -1412,9 +1412,9 @@ DLC: SECRETSOFTHEARCHMAGES
 
 The seasons are unusually potent on this realm, causing constant change and turmoil.
 
-- Each season, a part of the land is terraformed into different climes and Province Feature.
+- Each season, a part of the land is terraformed into different climes and Province Features.
 - Each season, different weather effects are active.
-- All Unit become vulnerable to Blight, Fire, Lightning, or Frost Damage according to the season.
+- All Units become vulnerable to Blight, Fire, Lightning, or Frost Damage according to the season.
 
 - Warped Seasons: Autumn: Unit has: -2 Lightning Protection
 - Warped Seasons: Spring: Unit has: -2 Blight Protection
@@ -1436,9 +1436,9 @@ DLC: Base
 
 Wild animals are common on this realm, replacing all other infestations and Ancient Wonders.
 
-- Animal Unit are Common.
-- Animal Infestation are Common.
-- Constructed Ancient Wonder such as Ziggurats are Rare.
+- Animal Units are Common.
+- Animal Infestations are Common.
+- Constructed Ancient Wonders such as Ziggurats are Rare.
 
 
 ## Wondrous Past
@@ -1447,4 +1447,4 @@ DLC: Base
 
 Due to the rich past of this realm, there are many Ancient Wonders present.
 
-- Ancient Wonder are Common.
+- Ancient Wonders are Common.

@@ -2,6 +2,8 @@
 
 A Hero Class that uses both Melee and Magic attacks to deal magic damage from a distance and physical damage when the enemy gets close.
 
+A Hero Class that uses both Melee and Magic attacks to deal magic damage from a distance and physical damage when the enemy gets close.
+
 Compatible weapons:
 
 - Great Weapon

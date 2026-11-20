@@ -2,6 +2,8 @@
 
 A Hero Class that specializes in support through healing and buffs.
 
+A Hero Class that specializes in support through healing and buffs.
+
 Compatible weapons:
 
 - Magic Orb Weapon

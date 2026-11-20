@@ -6,7 +6,7 @@
 They have integrated magic into every level of their society, with mages on the top of their hierarchy.
 
 - Has higher Mana income.
-- Powerful interactions with Spell, depending on their subculture.
+- Powerful interactions with Spells, depending on their subculture.
 
 A culture of scholars, driven to study every corner of the Astral Sea. They prefer to find answers through research and arcane prowess.
 
@@ -25,7 +25,7 @@ Can't take society traits: Fabled Hunters
 
 Your people are versatile spellcasters, attuned to the arcane:
 
-- Units gain Attunement star blades property group.
+- Units gain Attunement: Star Blades.
 - Collect Astral Echoes through exploration and research.
 - Use Echo Casting to cast spells beyond normal limits.
 
@@ -40,7 +40,7 @@ Your people are versatile spellcasters, attuned to the arcane:
 
 Your people are experimental spellcasters, seeking knowledge in the arcane:
 
-- Combat Spell are always Overcharged the first time they are cast each combat.
+- Combat Spells are always Overcharged the first time they are cast each combat.
 - Use spells to exploit Arcane Inspiration and gain an economic edge.
 - This culture's units inflict Dissonance with their attacks.
 
@@ -55,7 +55,7 @@ Your people are experimental spellcasters, seeking knowledge in the arcane:
 
 Your people are powerful summoners, specializing in magical creatures:
 
-- Magic origin units gain Attunement: Astral Resonance.
+- Magic Origin units gain Attunement: Astral Resonance.
 - Collect Astral Echoes through exploration.
-- Use Echo Infusion to rank up your Magic origin units rapidly.
+- Use Echo Infusion to rank up your Magic Origin units rapidly.
 - This culture's units gain Astral Connection.

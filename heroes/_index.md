@@ -24,7 +24,7 @@
 - [Legs items](items-legs.md) (11 items)
 - [Miscellaneous items](items-miscellaneous.md) (42 items)
 - [Mount items](items-mount.md) (61 items)
-- [Primary items](items-primary.md) (342 items)
+- [Primary items](items-primary.md) (343 items)
 - [Ring items](items-ring.md) (24 items)
 - [Secondary items](items-secondary.md) (38 items)
 - [Torso items](items-torso.md) (15 items)

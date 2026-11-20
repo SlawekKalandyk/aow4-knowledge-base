@@ -4,8 +4,8 @@
 
 (Bronze Ancient Wonder; DLC Base; node: quarry +20 Production)
 
-- +2 Mana per Quarry in City Domain.
-- Adds the Stormscale serpent and Plague serpent units to the Rally of the Lieges.
+- +2 Manas per Quarry in City Domain.
+- Adds the Stormscale Serpent and Plague Serpent units to the Rally of the Lieges.
 - Unit unlocks: [Stormscale Serpent](../units/stormscale-serpent.md), [Plague Serpent](../units/plague-serpent.md)
 - Combat enchantment: Gorgon's Curse: At the start of battle, a unit is secretly chosen to be the target of the curse. This target will become Stunned in 2 Turns if it is still alive, and a new target will then be chosen.
 - Combat enchantment: Sprawling Spiderwebs: At the start of combat, several Slowing Spider Web obstacles are present.
@@ -15,16 +15,16 @@
 (Bronze Ancient Wonder; DLC RISEFROMRUIN; node: farm +15 Mana)
 
 - +1 City Stability per Province with Sand or Astral Barrens in the City Domain.
-- Adds the Grimbeak crow unit to the Rally of the Lieges.
-- Unlocks the Restore action which turns this Ancient Wonder into a Hidden wellspring.
+- Adds the Grimbeak Crow unit to the Rally of the Lieges.
+- Unlocks the Restore action which turns this Ancient Wonder into a Hidden Wellspring.
 - Unit unlocks: [Grimbeak Crow](../units/grimbeak-crow.md)
 
 ## Breached Arcanum
 
 (Bronze Ancient Wonder; DLC SECRETSOFTHEARCHMAGES; node: research_post +15 Knowledge)
 
-- Adds one or more unknown Unit to the Rally of the Lieges based on the Arcanum's surrounding environment.
-- Can be restored to a Shrouded arcanum.
+- Adds one or more unknown Units to the Rally of the Lieges based on the Arcanum's surrounding environment.
+- Can be restored to a Shrouded Arcanum.
 
 ## Castle Ruins
 
@@ -32,24 +32,24 @@
 
 - +2 Knowledge per Quarry in City Domain.
 - Can be set as a Unit deploy location.
-- Adds the Brewer ogre and Butcher ogre units to the Rally of the Lieges.
+- Adds the Brewer Ogre and Butcher Ogre units to the Rally of the Lieges.
 - Unit unlocks: [Brewer Ogre](../units/brewer-ogre.md), [Butcher Ogre](../units/butcher-ogre.md)
 
 ## Crimson Fane
 
 (Bronze Ancient Wonder; DLC THRONESOFBLOOD; node: research_post +10 Mana +10 Knowledge)
 
-- +2 Mana per Research Post in City Domain.
+- +2 Manas per Research Post in City Domain.
 - Adds the Shrieking Bat unit to the Rally of the Lieges.
-- If Thrall are available, the Thrall Sacrifice action on this structure becomes available to permanently gain +10 World Map Casting Point and +10 Combat Casting Point from this structure.
+- If Thralls are available, the Thrall Sacrifice action on this structure becomes available to permanently gain +10 World Map Casting Points and +10 Combat Casting Points from this structure.
 - Unit unlocks: [Shrieking Bat](../units/shrieking-bat.md)
 
 ## Crystal Forest
 
 (Bronze Ancient Wonder; DLC Base; node: conduit +20 Mana)
 
-- +2 Mana per Conduit in City Domain.
-- Adds the Astral keeper unit unit to the Rally of the Lieges.
+- +2 Manas per Conduit in City Domain.
+- Adds the Astral Keeper unit to the Rally of the Lieges.
 - Unit unlocks: [Astral Keeper](../units/astral-keeper.md)
 
 ## Hidden Wellspring
@@ -57,18 +57,18 @@
 (Bronze Ancient Wonder; DLC Base; node: farm +20 Food)
 
 - +2 City Stability per Farm and Forester in City Domain.
-- Friendly Unit in Domain are healed for 30 ? at the end of each strategic Turn.
-- Adds Spring fairy, Summer fairy, Autumn fairy, and Winter fairy to the Rally of the Lieges.
+- Friendly Units in Domain are healed for 30 Hit Points at the end of each strategic Turn.
+- Adds Spring Fairy, Summer Fairy, Autumn Fairy, and Winter Fairy to the Rally of the Lieges.
 - Unit unlocks: [Spring Fairy](../units/spring-fairy.md), [Summer Fairy](../units/summer-fairy.md), [Autumn Fairy](../units/autumn-fairy.md), [Winter Fairy](../units/winter-fairy.md)
 - Spell unlocks/rewards: [Misty Magic](../spells/misty-magic.md)
-- Combat enchantment: Avert Your Eyes!: All attacking units become Blinded but gain Immune to Seduced until the end of battle.
+- Combat enchantment: Avert Your Eyes!: All attacking units become Blind but gain Immune to Seduced until the end of battle.
 
 ## Uncharted Harbor
 
 (Bronze Ancient Wonder; DLC SILVERSEAS; node: research_post +25 Knowledge)
 
-- Friendly Embarked Unit in the Domain gain Familiar Waters.
-- Adds the Seamare Mount unit to the Rally of the Lieges.
+- Friendly Embarked Units in the Domain gain Familiar Waters.
+- Adds the Seamare unit to the Rally of the Lieges.
 - Unit unlocks: [Seamare](../units/seamare.md)
 
 ## Fractured Tower
@@ -83,15 +83,15 @@
 
 (Gold Ancient Wonder; DLC GIANTKINGS; node: mine +30 Gold)
 
-- All owned Province adjacent to this Ancient Wonder gain +2 Imperium additional income.
-- Adds the Rock giant and Storm giant to Rally of the Lieges.
+- All owned Provinces adjacent to this Ancient Wonder gain +2 Imperiums additional income.
+- Adds the Rock Giant and Storm Giant to Rally of the Lieges.
 - Unit unlocks: [Rock Giant](../units/rock-giant.md), [Storm Giant](../units/storm-giant.md)
 
 ## Golden Ziggurat
 
 (Gold Ancient Wonder; DLC Base; node: mine +30 Gold)
 
-- Magic origin Unit require -50% less Gold and Mana base Unit Upkeep in this City Domain.
+- Magic Origin Units require -50% less Gold and Mana base Unit Upkeep in this City Domain.
 - Adds the Phoenix unit to the Rally of the Lieges.
 - Unit unlocks: [Phoenix](../units/phoenix.md)
 - Combat enchantment: Mass Spawning: A wave of 2 additional defending units will spawn in 2 Turns !
@@ -102,7 +102,7 @@
 (Gold Ancient Wonder; DLC Base; node: conduit +15 Mana 15 Knowledge)
 
 - Unlock the Wizard's Bombardment Siege Project.
-- Adds the Bone dragon unit to the Rally of the Lieges.
+- Adds the Bone Dragon unit to the Rally of the Lieges.
 - Unit unlocks: [Bone Dragon](../units/bone-dragon.md)
 
 ## Pearltide Dome
@@ -134,142 +134,134 @@
 (Gold Ancient Wonder; DLC RISEFROMRUIN; node: forester +10 Food +10 Production)
 
 - +1 Food and +1 Production per Province with Sand or Astral Barrens in the City Domain.
-- Adds the Carrion bird unit to the Rally of the Lieges.
-- Unlocks the Restore action which turns this Ancient Wonder into a Dreamroot Oak.
+- Adds the Carrion Bird unit to the Rally of the Lieges.
+- Unlocks the Restore action which turns this Ancient Wonder into a World Tree.
 - Unit unlocks: [Carrion Bird](../units/carrion-bird.md)
 
 ## World Tree
 
 (Gold Ancient Wonder; DLC Base; node: forester +15 Food +15 Production)
 
-- +2 Mana and +2 Knowledge per Forester in City Domain.
-- Adds Entwined thrall unit, Entwined protector unit, and Entwined scourge unit to the Rally of the Lieges.
+- +2 Manas and +2 Knowledge per Forester in City Domain.
+- Adds Entwined Thrall, Entwined Protector, and Entwined Scourge to the Rally of the Lieges.
 - Unit unlocks: [Entwined Thrall](../units/entwined-thrall.md), [Entwined Protector](../units/entwined-protector.md), [Entwined Scourge](../units/entwined-scourge.md)
-- Combat enchantment: Nature Leeching: The defending Horned God is leeching power from the surrounding nature. Each Turn, all Flora Obstacle obstacles within a 2-hex range are consumed, healing the Horned God +10 HP and granting 1 Strengthened for 3 Turn.
+- Combat enchantment: Nature Leeching: The defending Horned God is leeching power from the surrounding nature. Each Turn, all Flora Obstacle obstacles within a 2-hex range are consumed, healing the Horned God +10 HP and granting 1 Strengthened for 3 Turns.
 
 ## Ancient Dragon Hoard
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +5 Gold
-- The Ancient Draconic Instinct [Combat] Combat Enchantment
+- The Ancient Draconic Frenzy [Combat] Combat Enchantment
+A City with 3 Provinces adjacent to this Landmark gain:
 
-A City with 3 Province adjacent to this Landmark gain:
-
-- Unlocks recruitment of tier 4 and 5 Followers of the Dragon Unit.
+- Unlocks recruitment of tier 4 and 5 Dragon Units.
 - Unit unlocks: [Bone Dragon](../units/bone-dragon.md), [Fire Dragon](../units/fire-dragon.md), [Frost Dragon](../units/frost-dragon.md), [Golden Dragon](../units/golden-dragon.md), [Obsidian Dragon](../units/obsidian-dragon.md), [Prosperity Dragon](../units/prosperity-dragon.md), [Calamity Dragon](../units/calamity-dragon.md)
-- Spell unlocks/rewards: Ancient Draconic Frenzy: All Followers of the Dragon Unit gain Frenzy until the end of combat.
+- Spell unlocks/rewards: Ancient Draconic Frenzy: All Dragon Units gain Frenzy until the end of combat.
 
 ## Armada's Fall
 
 (Landmark; DLC SILVERSEAS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +2 Gold, +2 Production, and +1 Soul income if available.
 - A Quarry or Mine can be constructed in this province.
-- Every 10 Turn, a random water Pickup spawns in this province if able.
+- Every 10 Turns, a random water Pickup spawns in this province if able.
 - The Rampant Debris [Combat] Combat Enchantment.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- Quarry in the Domain grant +5 Production income.
-- Mine in the Domain grant +5 Draft income.
+- Quarries in the Domain grant +5 Production income.
+- Mines in the Domain grant +5 Draft income.
 - Spell unlocks/rewards: rampant_debris
 
 ## Broken Wizard Throne
 
 (Landmark; DLC SECRETSOFTHEARCHMAGES)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +5 Knowledge.
 - A Research Post in the Province gains +10 Mana income.
 - The Elemental Defenses [Combat] Combat Enchantment.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- Enemy Spell have 33% chance of Backfiring within the domain.
-- The City's owner gains 15 World Map Casting Point and Combat Casting Point.
-- Unlocks the Broken wizard tower spell [World Map] City Spell.
+- Enemy Spells have 33% chance of Backfiring within the domain.
+- The City's owner gains 15 World Map Casting Points and Combat Casting Points.
+- Unlocks the Cosmic Inspiration [World Map] City Spell.
 - Spell unlocks/rewards: [Cosmic Inspiration](../spells/cosmic-inspiration.md)
 
 ## Cascade Falls
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +5 City Stability.
 - A Farm or Forester in this province grants +10 Food.
+A City with 3 Provinces adjacent to this Landmark gain:
 
-A City with 3 Province adjacent to this Landmark gain:
-
-- Unlocks recruitment of Lesser tide spirit and Tide spirit.
-- Friendly Unit in the domain regenerate +25 Hit Point every Turn.
+- Unlocks recruitment of Lesser Tide Spirit and Tide Spirit.
+- Friendly Units in the domain regenerate +25 m Hit Point every Turn.
 - Unit unlocks: [Lesser Tide Spirit](../units/lesser-tide-spirit.md), [Tide Spirit](../units/tide-spirit.md)
 
 ## Chained Demon
 
 (Landmark; DLC SECRETSOFTHEARCHMAGES)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
-- +5 Mana and +10 Draft.
+- +5 Manas and +10 Draft.
 - The Scorching Stench of Suffering [Combat] Combat Enchantment.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- +2 Mana and +5 Draft per Province with Chasm or Lava in the Domain.
-- The City's owner gains the Chained demon spell [Combat] Debuff Spell.
+- +2 Manas and +5 Draft per Province with Chasm or Lava in the Domain.
+- The City's owner gains the Brimstone Bind [Combat] Debuff Spell.
 - Spell unlocks/rewards: [Brimstone Bind](../spells/brimstone-bind.md)
 
 ## Fountain of Creation
 
 (Landmark; DLC ARCHONPROPHECY)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +5 Food.
-- A Farm in this province grants +5 Mana.
+- A Farm in this province grants +5 Manas.
 - The Celestial Rain [Combat] Combat Enchantment.
-
-A City with 3 Province adjacent to this Landmark gains:
+A City with 3 Provinces adjacent to this Landmark gains:
 
 - Farms in the domain grant +2 Gold and +2 City Stability.
 - The Celestial Rain [Combat] Combat Enchantment in the domain.
-- Spell unlocks/rewards: Celestial Rain: Every 3 Turn: All units become Wet for 3 Turns; All Faithful, Zeal, and Celestial units have their negative status effects cleansed.
+- Spell unlocks/rewards: Celestial Rain: Every 3 Turns: All units become Wet for 3 Turns; All Faithful, Zeal, and Celestial units have their negative status effects cleansed.
 
 ## Grand Statuary
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +10 City Stability.
-- A Research Post in this province grants +2 Imperium.
-
-A City with 3 Province adjacent to this Landmark gain:
+- A Research Post in this province grants +2 Imperiums.
+A City with 3 Provinces adjacent to this Landmark gain:
 
 - The Governor of the City gains 10 Renown every Turn.
-- Unit recruited in the City gain 1 starting Rank.
+- Units recruited in the City gain 1 starting Rank.
 
 ## Haunted Battlefield
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +10 Draft.
-- If Soul are obtainable, this province grants +2 Soul.
+- If Souls are obtainable, this province grants +2 Souls.
 - The Undying Battlefield [Combat] Combat Enchantment
+A City with 3 Provinces adjacent to this Landmark gain:
 
-A City with 3 Province adjacent to this Landmark gain:
-
-- Tier 1 Unit have their recruitment cost reduced by 25% in the City.
-- If Soul are obtainable, unlocks recruitment of Tier 1 Skeleton units.
+- Tier 1 Units have their recruitment cost reduced by 25% in the City.
+- If Souls are obtainable, unlocks recruitment of Tier 1 Skeleton units.
 - Unit unlocks: [Skeleton Mage](../units/skeleton-mage.md), [Skeleton Warrior](../units/skeleton-warrior.md), [Skeleton Militia](../units/skeleton-militia.md), [Skeleton Archer](../units/skeleton-archer.md)
 - Spell unlocks/rewards: Undying Battlefield: Every Turn, each corpse is resurrected as a random Skeleton unit with Berserk. Skeleton units themselves are not resurrected by this effect, are Non-Vital, and die at the end of combat.
 
@@ -277,13 +269,12 @@ A City with 3 Province adjacent to this Landmark gain:
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +5 Knowledge.
 - A Research Post in this province grants +10 Knowledge.
-- The Behemoths Dreadful Presence [Combat] Combat Enchantment
-
-A City with 3 Province adjacent to this Landmark gain:
+- The Behemoth's Dreadful Presence [Combat] Combat Enchantment
+A City with 3 Provinces adjacent to this Landmark gain:
 
 - Gain +10 Vision Range and +20 Sensing Range.
 - Spell unlocks/rewards: Behemoth's Dreadful Presence: Every Turn, every unit has a 90% of suffering Remorse.
@@ -292,61 +283,57 @@ A City with 3 Province adjacent to this Landmark gain:
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
-- +3 Mana and +3 Knowledge.
+- +3 Manas and +3 Knowledge.
 - Allows the construction of a Conduit.
 - The Elemental Attunement [Combat] Combat Enchantment.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- Unlocks recruitment of Lithorine Unit.
-- +10 World Map Casting Point and +10 Combat Casting Point.
+- Unlocks recruitment of Lithorine Units.
+- +10 World Map Casting Points and +10 Combat Casting Points.
 - Unit unlocks: [Lithorine Core](../units/lithorine-core.md), [Lithorine Needler](../units/lithorine-needler.md), [Lithorine Shardlancer](../units/lithorine-shardlancer.md), [Lithorine Gemcaster](../units/lithorine-gemcaster.md), [Lithorine Simulacrum](../units/lithorine-simulacrum.md)
-- Spell unlocks/rewards: Elemental Attunement: All Elemental Unit gain Elemental attunement unitprop until the end of combat.
+- Spell unlocks/rewards: Elemental Attunement: All Elemental Units gain Elemental Attunement until the end of combat.
 
 ## Mistflow Gardens
 
 (Landmark; DLC SECRETSOFTHEARCHMAGES)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
-- +5 Food and +3 Mana.
+- +5 Food and +3 Manas.
 - A Conduit in the Province grants +5 City Stability and +5 Food.
 - Misty.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- Allows recruitment of Tier I, II, and III Followers of Fey Unit.
+- Allows recruitment of Tier I, II, and III Fey Units.
 - Unit unlocks: [Evening Sprite](../units/evening-sprite.md), [Morning Sprite](../units/morning-sprite.md), [Mistling](../units/mistling.md), [Nymph](../units/nymph.md), [Spring Fairy](../units/spring-fairy.md), [Summer Fairy](../units/summer-fairy.md), [Autumn Fairy](../units/autumn-fairy.md), [Winter Fairy](../units/winter-fairy.md)
 
 ## Subterreanean Mines
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - A Quarry in this province grants +10 Production.
 - A Mine in this province grants +10 Gold.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- Gain +20 Binding Essence Binding Fragments and +5 Fragments Fragments additional income.
+- Gain +20 Binding Essence Binding Essence and +5 Fragments Fragments additional income.
 
 ## Tempestuous Vortex
 
 (Landmark; DLC SILVERSEAS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - Allows the construction of a Conduit in this province.
 - A Conduit in this province grants +5 Mana income.
 - The Vortex Storm [Combat] Combat Enchantment.
-- Unit starting their Turn in this Province gain Accelerated Movement for 3 Turn.
+- Units starting their Turn in this Province gain Accelerated Movement for 3 Turns.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- The ability to draft Lightning Rune Crab in the City for Mana.
+- The ability to draft Lightning Rune Crabs in the City for Mana.
 - Friendly Units starting their Turn in the Domain gain Accelerated Movement for 3 Turns.
 - Unit unlocks: [Lightning Rune Crab](../units/lightning-rune-crab.md)
 - Spell unlocks/rewards: vortex_storm
@@ -355,35 +342,33 @@ A City with 3 Province adjacent to this Landmark gains:
 
 (Landmark; DLC THRONESOFBLOOD)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
 - +5 Food.
-- +5 Mana.
+- +5 Manas.
 - A Farm in this province grants +5 Knowledge additional income.
-
-A City with 3 Province adjacent to this Landmark gains:
+A City with 3 Provinces adjacent to this Landmark gains:
 
 - The City terraforms 1 province on the surface within a 5 province radius of its Domain per Turn. The terraformed province:
 
 - Gains Sunless.
 - Loses Gloom.
 
-- The City's Empire gains the Parasiticinfection [Combat] Combat Enchantment when fighting in a province with Sunless.
+- The City's Empire gains the Parasitic Contamination [Combat] Combat Enchantment when fighting in a province with Sunless.
 - Spell unlocks/rewards: Parasitic Contamination: Every Turn, all enemy units with Bleeding have a 60% chance of suffering Blood Parasite.
 
 ## Volcano
 
 (Landmark; DLC GIANTKINGS)
 
-Province adjacent to this Landmark gain:
+Provinces adjacent to this Landmark gain:
 
-- +10 Mana.
-- The Combatproperty Volcanic Eruption [Combat] Combat Enchantment.
-- Unit in the Province gain Volcanic heat unit property.
+- +10 Manas.
+- The Volcanic Eruptions [Combat] Combat Enchantments.
+- mUnit in the Province gain Volcanic Heat.
+A City with 3 Provinces adjacent to this Landmark gains:
 
-A City with 3 Province adjacent to this Landmark gains:
-
-- Unlock recruitment of Infernal Fiend and Magma spirit Unit.
+- Unlock recruitment of Infernal Fiend and Magma Spirit Units.
 - Unit unlocks: [Magma Spirit](../units/magma-spirit.md), [Lesser Magma Spirit](../units/lesser-magma-spirit.md), [Inferno Hound](../units/inferno-hound.md), [Inferno Puppy](../units/inferno-puppy.md), [Gremlin](../units/gremlin.md), [Skald](../units/skald.md), [Nightmare](../units/nightmare.md), [Infernal Juggernaut](../units/infernal-juggernaut.md), [Chaos Eater](../units/chaos-eater.md)
 - Spell unlocks/rewards: [Call Volcanic Eruptions](../spells/call-volcanic-eruptions.md)
 
@@ -392,7 +377,7 @@ A City with 3 Province adjacent to this Landmark gains:
 (Silver Ancient Wonder; DLC ARCHONPROPHECY; node: research_post +25 Knowledge)
 
 - The City gains the ability to convert Production into Knowledge in the Structure Queue.
-- Adds the Lesser light spirit and Light spirit to the Rally of the Lieges.
+- Adds the Lesser Light Spirit and Light Spirit to the Rally of the Lieges.
 - Unit unlocks: [Lesser Light Spirit](../units/lesser-light-spirit.md), [Light Spirit](../units/light-spirit.md)
 
 ## Forsaken Temple
@@ -400,8 +385,8 @@ A City with 3 Province adjacent to this Landmark gains:
 (Silver Ancient Wonder; DLC RISEFROMRUIN; node: conduit +15 Mana)
 
 - +1 Production per Research Post in the City Domain.
-- Adds the Spirit hawk unit unit to the Rally of the Lieges.
-- Unlocks the Restore action which turns this Ancient Wonder into a Secret temple.
+- Adds the Spirit Hawk unit to the Rally of the Lieges.
+- Unlocks the Restore action which turns this Ancient Wonder into a Secret Temple.
 - Unit unlocks: [Spirit Hawk](../units/spirit-hawk.md)
 
 ## Lava Prison
@@ -417,7 +402,7 @@ A City with 3 Province adjacent to this Landmark gains:
 
 (Silver Ancient Wonder; DLC Base; node: research_post +25 Knowledge)
 
-- +2 Mana, +2 Knowledge, and +1 Soul (if obtainable) for each Hero in Crypt.
+- +2 Manas, +2 Knowledge, and +1 Soul (if obtainable) for each Hero in Crypt.
 - Adds the Corrupt Soul unit to the Rally of the Lieges.
 - Unit unlocks: [Corrupt Soul](../units/corrupt-soul.md)
 - Combat enchantment: Haunted Coffins: Whenever a Sarcophacus obstacle is destroyed, it summons a Skeleton on the defender's side until the end of combat.
@@ -430,7 +415,7 @@ A City with 3 Province adjacent to this Landmark gains:
 - Units cost -25% Gold to recruit.
 - Adds the Fire Giant unit to the Rally of the Lieges.
 - Unit unlocks: [Fire Giant](../units/fire-giant.md)
-- Combat enchantment: Magma Split: When a defending Magma spirit is killed, it spawns 1 Lesser magma spirit.
+- Combat enchantment: Magma Split: When a defending Magma Spirit is killed, it spawns 1 Lesser Magma Spirit.
 - Combat enchantment: Crashing Rubble: Every 2 Turns, a marker is placed. Then, after 1 Turn burning debris will crash down, and units within 1 of the marker will suffer 10 Physical and 10 Fire Damage. The target hexes will gain On Fire.
 
 ## Secret Temple
@@ -445,8 +430,8 @@ A City with 3 Province adjacent to this Landmark gains:
 
 (Silver Ancient Wonder; DLC SECRETSOFTHEARCHMAGES; node: research_post +25 Knowledge)
 
-- +5 World Map Casting Point
-- +5 Combat Casting Point
+- +5 World Map Casting Points
+- +5 Combat Casting Points
 
 ## Astral Rift
 
@@ -469,7 +454,7 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 Devotees and celestials gather to vanquish evil.
 If left unchecked, they will grow in strength, expand their territory, and send out invasion armies.
 
-This Infestation will be Neutral to those with Good 2 or better Alignment.
+This Infestation will be Neutral to those with Very Good or better Alignment.
 
 ## Derelict Workshop
 
@@ -489,7 +474,7 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 
 (Spawner; DLC RISEFROMRUIN)
 
-A temporary scar inhabited by Mana starved creatures which spreads Astral Barrens in its territory.
+A temporary scar inhabited by Mana Starved creatures which spreads Astral Barrens in its territory.
 
 If left unchecked, they will grow in strength, expand their territory, and send out invasion armies.
 
@@ -504,7 +489,7 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 
 (Spawner; DLC RISEFROMRUIN)
 
-A massive scar inhabited by Mana starved creatures.
+A massive scar inhabited by Mana Starved creatures.
 This infestation spreads Astral Barrens in its territory.
 If left unchecked, they will grow in strength, expand their territory, and send out invasion armies.
 
@@ -521,7 +506,7 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 
 A massive scar inhabited by the Great Worm and her progeny.
 This infestation spreads Astral Barrens in its territory.
-If left unchecked, they will grow in strength, expand their territory, and send out invasion armies. The territory of the Great Worm will suffer Tsr rfr gwl worm property.
+If left unchecked, they will grow in strength, expand their territory, and send out invasion armies. The territory of the Great Worm will suffer Gargantuan Tremors.
 
 ## Haunted Graveyard
 
@@ -577,7 +562,7 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 
 (Spawner; DLC ELDRITCHREALMS)
 
-A hive from which Umbral Demon emerge in their many unholy forms.
+A hive from which Umbral Demons emerge in their many unholy forms.
 If left unchecked, they will grow in strength, expand their territory, and send out invasion armies.
 
 ## Archon Blood
@@ -586,8 +571,8 @@ If left unchecked, they will grow in strength, expand their territory, and send 
 
 Unique global effect:
 
-- +15 Combat Casting Point.
-- Combat enchantment: Archon Martyrdom: When a defending unit dies, all adjacent hostile units suffer 15 Spirit Damage and have 90% base chance of suffering Condemned.
+- +15 Combat Casting Points.
+- Combat enchantment: Archon Martyrdom: When a defending unit dies, all adjacent hostile units suffer 15 Spirit Damages and have 90% base chance of suffering Condemned.
 
 ## Astral Dew
 
@@ -595,7 +580,7 @@ Unique global effect:
 
 Unique global effect:
 
-- +15 World Map Casting Point.
+- +15 World Map Casting Points.
 - Combat enchantment: Displaced Reality: Every 2 Turns, all units are teleported by 2 hexes.
 
 ## Tranquility Pool
@@ -604,8 +589,8 @@ Unique global effect:
 
 Unique global effect:
 
-- Researching Spell costs -10% less Knowledge.
-- Combat enchantment: Wave of Tranquility: Every 2 Turn, all Status Effects on all units are dispelled.
+- Researching Spells costs -10% less Knowledge.
+- Combat enchantment: Wave of Tranquility: Every 2 Turns, all Status Effects on all units are dispelled.
 
 ## Arcanium Ore
 
@@ -613,8 +598,8 @@ Unique global effect:
 
 Unique global effect:
 
-- Hurry Recruitment for Unit is 25% cheaper.
-- Combat enchantment: Arcanium Tremors: Every 2 Turns, all non-Floating movement and non-Flying movement attacking units suffer 20 Physical Damage.
+- Hurry Recruitment for Units is 25% cheaper.
+- Combat enchantment: Arcanium Tremors: Every 2 Turns, all non-Floating and non-Flying attacking units suffer 20 Physical Damages.
 
 ## Blood Glass
 
@@ -622,7 +607,7 @@ Unique global effect:
 
 Unique global effect:
 
-- Unit gain +5 ? regeneration per World Map Turn.
+- Units gain +5 Hit Point regeneration per World Map Turn.
 
 ## Fireforge Stone
 
@@ -630,7 +615,7 @@ Unique global effect:
 
 Unique global effect:
 
-- Unit cost 20% less Draft.
+- Units cost 20% less Draft.
 - Combat enchantment: Rampant Fire: Several areas and flammable obstacles are On Fire.
 
 ## Focus Crystals
@@ -639,8 +624,8 @@ Unique global effect:
 
 Unique global effect:
 
-- Unit gain +20% experience from combat.
-- Combat enchantment: Focused Gaze: Base Missile and Magic attacks of all defending units gain +? Range.
+- Units gain +20% experience from combat.
+- Combat enchantment: Focused Gaze: Base Missile and Magic attacks of all defending units gain +3 Range.
 
 ## Haste Berries
 
@@ -648,7 +633,7 @@ Unique global effect:
 
 Unique global effect:
 
-- Founding, migrating and absorbing City takes -2 turns.
+- Founding, migrating and absorbing Cities takes -2 turns.
 - Combat enchantment: Unnatural Speed: Defending Units have Hastened, Swift and Slippery until the end of combat.
 
 ## Pale Tidebloom
@@ -657,7 +642,7 @@ Unique global effect:
 
 Unique global effect:
 
-- Cost of Empire Skill is reduced by 10%.
+- Cost of Empire Skills is reduced by 10%.
 
 ## Rainbow Clover
 
@@ -665,8 +650,8 @@ Unique global effect:
 
 Unique global effect:
 
-- +100 relations with Free City and Ruler.
-- Combat enchantment: Oh So Lucky: Every 2 Turn, all defending units gain Rally and Fortune.
+- +100 relations with Free Cities and Rulers.
+- Combat enchantment: Oh So Lucky: Every 2 Turns, all defending units gain Rally and Fortune.
 
 ## Silvertongue Fruit
 
@@ -675,7 +660,7 @@ Unique global effect:
 Unique global effect:
 
 - Whispering Stones grant +1 Allegiance.
-- Combat enchantment: Distracting Whispers: Each 2 Turn, one of the attacking units has a 90% base chance of suffering Distracted until the end of combat.
+- Combat enchantment: Distracting Whispers: Each 2 Turns, one of the attacking units has a 90% base chance of suffering Distracted until the end of combat.
 
 ## Void Stones
 
@@ -683,7 +668,7 @@ Unique global effect:
 
 Unique global effect:
 
-- Gain +2 Allegiance with discovered Umbral Dwelling per Turn.
+- Gain +2 Allegiance with discovered Umbral Dwellings per Turn.
 - Allows the forging of misc items that grant immunity to Umbral Malady in the Item Forge.
 
 ## Other combat enchantments

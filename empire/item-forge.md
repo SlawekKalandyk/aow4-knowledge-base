@@ -29,6 +29,7 @@ Needs = magic materials required to unlock it. Fits = item types the upgrade can
 - **Bow** (Primary, DLC RISEFROMRUIN): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Bow** (Primary, DLC ARCHONPROPHECY): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Breachgun and Axe** (Primary, DLC EMPIRESANDASHES): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
+- **Carbine** (Primary, DLC SILVERSEAS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Cestus** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Crossbow** (Primary, DLC Base): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item.
 - **Dragon Claw** (Primary, DLC DRAGONLORDS): Can be infused with Damage, Ability, and Passive Infusions, which increase the offensive capabilities of the item. Can only be equipped by Dragon Lord Heroes.
